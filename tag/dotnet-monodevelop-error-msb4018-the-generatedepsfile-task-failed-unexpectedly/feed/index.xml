@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dotnet MonoDevelop Error MSB4018: The &quot;GenerateDepsFile&quot; task failed unexpectedly. &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/dotnet-monodevelop-error-msb4018-the-generatedepsfile-task-failed-unexpectedly/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 16 Jul 2019 13:55:59 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>dotnet MonoDevelop Error MSB4018: The &quot;GenerateDepsFile&quot; task failed unexpectedly. &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
+				<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.NET Core]]></category>
+		<category><![CDATA[.NET Core v2.2.105]]></category>
+		<category><![CDATA[dotnet MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
+		<category><![CDATA[dotnet MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
+		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
+		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
+				<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly. hatasının çözümü konusunda olacak. 1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi. 2-)Birinci adım olmazsa ; .NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için tıklayınız.) gerekmektedir....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtererem Ziyeretçiler,</p>
+
+
+
+<p>Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken <strong>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</strong> / <strong>MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly.</strong> hatasının çözümü konusunda olacak.</p>
+
+
+
+<span id="more-481"></span>
+
+
+
+<p>1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/jqnQZW.png" alt=""/></figure>
+
+
+
+<p>2-)Birinci adım olmazsa ;</p>
+
+
+
+<p>.NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için <a rel="noreferrer noopener" aria-label="tıklayınız (yeni sekmede açılır)" href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-2.2.105" target="_blank">tıklayınız</a>.) gerekmektedir.</p>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

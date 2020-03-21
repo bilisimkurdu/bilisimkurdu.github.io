@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PC &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/pc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 13 Feb 2020 08:54:02 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>PC &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Required Privilege Is Not Held By The Client Error</title>
+		<link>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/</link>
+				<comments>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/#respond</comments>
+				<pubDate>Thu, 13 Feb 2020 08:49:38 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[0x80070522]]></category>
+		<category><![CDATA[0x80070522 error]]></category>
+		<category><![CDATA[0x80070522 hatası]]></category>
+		<category><![CDATA[Gerekli Ayrıcalık İstemci Hatası Tarafından Tutulmuyor]]></category>
+		<category><![CDATA[Required Privilege Is Not Held By The Client Error]]></category>
+		<category><![CDATA[Windows 10 update 0x80070522 error]]></category>
+		<category><![CDATA[Windows 10 upgrade 0x80070522 error]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=694</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının çözümü ile ilgili olacak. Hatanın çözümü ile ilgili uygulanabilecek yöntemler; Local Securty Policies ayarları Windows +R tuşlarına basarak secpol.msc yazılır. Security Settings > Local Policies > Security Options aşamaları takip edilir. “User Account Control: Run...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221;  hatasının çözümü ile ilgili olacak.</p>
+
+
+
+<span id="more-694"></span>
+
+
+
+<p>Hatanın çözümü ile ilgili uygulanabilecek yöntemler;</p>
+
+
+
+<p><strong><em>Local Securty Policies ayarları</em></strong></p>
+
+
+
+<p>Windows +R tuşlarına basarak <strong>secpol.msc</strong> yazılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/03/secpol.msc-in-run.png" alt="Secpol to open Local Security Policy"/></figure>
+
+
+
+<p><strong>Security Settings > Local Policies > Security Options</strong> aşamaları takip edilir.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Navigate-to-Security-Options-in-secpol.png" alt="Navigate to Security Settings &gt; Local Policies &gt; Security Options in secpol.msc "/></figure>
+
+
+
+<p>“<strong>User Account Control: Run all administrators in Admin Approval Mode.</strong>“ ifadesini bulup çift tık ile durumunu <strong>disable</strong> hale getiriyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Find-User-Account-Control-Run-all-administrators-in-Admin-Approval-Mode.png" alt="Find User Account Control: Run all administrators in Admin Approval Mode in Security Options"/><figcaption><br></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Disable-The-Admin-Approval-Mode.jpg" alt="Disable The Admin Approval Mode"/></figure>
+
+
+
+<p>cmd açılarak <code>gpupdate /force</code> komutu girilir ve bilgisayar yeniden başlatılır.</p>
+
+
+
+<p><strong><em>Regedit ayarları</em></strong></p>
+
+
+
+<p>Windows+R tuşlarına basılarak regedit yazılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2016/06/Run-command-regedit.png" alt="Run command regedit"/><figcaption><br></figcaption></figure>
+
+
+
+<p><strong>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system</strong></p>
+
+
+
+<p><strong>HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\system</strong></p>
+
+
+
+<p>yolları takip edilerek her iki register anahtarlarına &#8220;<strong>EnableLUA</strong>&#8221; DWORD değerini bulup çift tıklatınca &#8220;Value data&#8221; kısmına &#8220;0&#8221; değeri girilir.</p>
+
+
+
+<p>Bilgisayar yeniden başlatılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Change-the-value-of-EnableLUA-to-0-in-order-to-disable-it.png" alt="Change the value of EnableLUA to 0 in order to disable it"/></figure>
+
+
+
+<p><strong>Local admistrator hesabı aktifleştirme</strong></p>
+
+
+
+<p>cmd yönetici olarak açılarak <code>net user administrator /active:yes</code> komutu girilir. Mevcut kullanıcıdan çıkış yapılarak Administrator hesabı üzerinden güncelleme işlemi yapılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/search-for-cmd.jpg" alt="Search for CMD"/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/run-as-administrator.jpg" alt="Run as Administrator"/><figcaption><br></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/command-prompt-enable.jpg" alt="Enable Command Prompt"/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/built-in-administrator-login.jpg" alt="Login built-in administrator account"/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Windows güncelleme hata kodları</title>
+		<link>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/</link>
+				<comments>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/#respond</comments>
+				<pubDate>Thu, 13 Feb 2020 08:10:28 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[0x80070002 0x20009]]></category>
+		<category><![CDATA[0x80070070 – 0x50011]]></category>
+		<category><![CDATA[0x80070070 – 0x50012]]></category>
+		<category><![CDATA[0x80070070 – 0x60000]]></category>
+		<category><![CDATA[0x800700B7 0x2000a]]></category>
+		<category><![CDATA[0x8007042B 0x4000D]]></category>
+		<category><![CDATA[0x80073712]]></category>
+		<category><![CDATA[0x800F0922]]></category>
+		<category><![CDATA[0x800F0923]]></category>
+		<category><![CDATA[0x80200056]]></category>
+		<category><![CDATA[0x80300024]]></category>
+		<category><![CDATA[0xC1900101 0x20017]]></category>
+		<category><![CDATA[0xC1900101 0x30017]]></category>
+		<category><![CDATA[0xC1900107]]></category>
+		<category><![CDATA[0xC1900200 – 0x20008]]></category>
+		<category><![CDATA[0xC1900202 – 0x20008]]></category>
+		<category><![CDATA[0xC1900208 – 0x4000C]]></category>
+		<category><![CDATA[0xc1900223]]></category>
+		<category><![CDATA[Hata: Güncelleştirmeler tamamlanamadı. Değişiklikler geri alınıyor. Bilgisayarınızı kapatmayın.]]></category>
+		<category><![CDATA[Hata: Windows Güncelleştirmeleri yapılandırılamadı. Değişiklikler geri alınıyor. Hata: Güncelleştirme bilgisayarınıza uygulanamaz.]]></category>
+		<category><![CDATA[Installation has failed]]></category>
+		<category><![CDATA[Installation has failed hatası]]></category>
+		<category><![CDATA[Windows update hatası]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem yolunu takip edilerek hata kodu tespit edilebilir. Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\Windows\Logs\MoSetup\BlueBox.log&#8221; dosyasını inceleyerek bulunabilir. Hata kodları ve açıklamaları aşağıdaki tablodadır. Hata Ne anlama gelir ve nasıl düzeltilir 0xc1900223 Bu, seçilen güncelleştirmeyi...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim.</p>
+
+
+
+<p>Windows güncellemelerinde güncelleme sırasında veya Event Viever -&gt; Sysytem yolunu takip edilerek hata kodu tespit edilebilir.</p>
+
+
+
+<span id="more-691"></span>
+
+
+
+<p>Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\<em>Windows</em>\Logs\MoSetup\<em>BlueBox</em>.log&#8221; dosyasını inceleyerek bulunabilir.</p>
+
+
+
+<p>Hata kodları ve açıklamaları aşağıdaki tablodadır.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><th>Hata</th><th>Ne anlama gelir ve nasıl düzeltilir</th></tr><tr><td>0xc1900223</td><td>Bu, seçilen güncelleştirmeyi indirirken ve yüklerken bir sorun olduğunu gösterir. Windows Update daha sonra yeniden deneyecektir ve şu anda yapmanız gereken hiçbir şey yoktur.</td></tr><tr><td>0xC1900208 – 0x4000C</td><td>Bu, bilgisayarınızda yüklü uyumsuz bir uygulamanın yükseltme işleminin tamamlanmasını engellediğini gösterebilir. Uyumlu olmayan tüm uygulamaların kaldırıldığından emin olun ve yükseltmeyi yeniden deneyin.</td></tr><tr><td>0xC1900107</td><td>Önceki bir yükleme girişiminden temizleme işlemi hala devam ediyor. Sistemin yeniden başlatılması gerekir. Cihazı yeniden başlatın ve kurulumu yeniden çalıştırın. Cihazın yeniden başlatılması sorunu çözmezse Disk Temizleme yardımcı programını kullanarak geçici dosyaları ve Sistem dosyalarını temizleyin. Daha fazla bilgi için bkz.&nbsp;<a href="https://support.microsoft.com/tr-tr/help/4026616">Windows 10&#8217;da disk temizleme</a>.</td></tr><tr><td>0x80073712&nbsp;</td><td>Windows Update&#8217;in ihtiyaç duyduğu bir dosya hasarlı veya eksiktir.&nbsp;Sistem dosyalarınızı onarmayı deneyin:&nbsp;<strong>Başlangıç</strong>&nbsp;&nbsp;düğmesini seçin ve görev çubuğundaki arama kutusuna&nbsp;<strong>komut istemi&nbsp;</strong>yazın. Sonuçlar listesinden,&nbsp;<strong>Komut İstemi</strong>&#8216;ni seçin. Görüntülenen pencereye&nbsp;<strong>DISM.exe /Online /Cleanup-image /Restorehealth</strong>&nbsp;yazın ve Enter tuşuna basın.&nbsp;</td></tr><tr><td>0xC1900200 – 0x200080xC1900202 – 0x20008</td><td>Bu, bilgisayarınızın Windows&nbsp;10&#8217;u indirme veya Windows&nbsp;10&#8217;a yükseltme için en düşük gereksinimleri karşılamadığını belirtebilir.&nbsp;<a href="https://www.microsoft.com/windows/windows-10-specifications">Windows 10 için minimum gereksinimler hakkında daha fazla bilgi edinin</a></td></tr><tr><td>0x800F0923</td><td>Bu, bilgisayarınızdaki bir sürücünün veya başka bir yazılımın Windows&nbsp;10 yükseltmesi ile uyumlu olmadığını gösterebilir.&nbsp;Bu sorunun nasıl giderileceği hakkında bilgi almak için&nbsp;<a href="http://go.microsoft.com/fwlink/p/?LinkId=530206" target="_blank" rel="noreferrer noopener">Microsoft desteği</a>&nbsp;ile iletişime geçin.</td></tr><tr><td>0x80200056&nbsp;</td><td>Bu, bilgisayarınızı yanlışlıkla yeniden başlattığınız veya bilgisayarınızdaki oturumunuzu kapattığınız için yükseltme işleminin kesildiği anlamına gelebilir. Yükseltmeyi yeniden deneyip bilgisayarınızın prize takılı olduğundan ve açık kaldığından emin olun.</td></tr><tr><td>0x800F0922</td><td>Bu hata, bilgisayarınızın Windows Update sunucularına bağlanamadığı anlamına gelebilir. Bir çalışma ağına bağlanmak için VPN bağlantısı kullanıyorsanız ağ bağlantısını kesin ve VPN yazılımını (varsa) kapatın. Ardından, yeniden yükseltmeyi deneyin.&nbsp;Bu hata, Sistem İçin Ayrılmış bölümde yeterli boş alan olmadığı anlamına da gelebilir. Sistem İçin Ayrılmış bölümün boyutunu artırmak için üçüncü taraf bir yazılım kullanarak bu sorunu giderebilirsiniz.</td></tr><tr><td>Hata: Güncelleştirmeler tamamlanamadı. Değişiklikler geri alınıyor. Bilgisayarınızı kapatmayın.&nbsp;Hata: Windows Güncelleştirmeleri yapılandırılamadı. Değişiklikler geri alınıyor.</td><td>Bu hatalar, bir Windows güncelleştirmesi başarısız olduğunda görüntülenebilen genel hatalardır. Bu sorunu en iyi şekilde nasıl gidereceğinizi araştırmak için özel hata kodunu belirlemeniz gerekir.&nbsp;Güncelleştirme geçmişinizi görüntüleyerek başarısız güncelleştirmenin hata kodunu bulabilirsiniz. Yüklenmeyen güncelleştirmeyi arayın, hata kodunu not edin ve ardından&nbsp;<a href="http://go.microsoft.com/fwlink/p/?LinkId=530206" target="_blank" rel="noreferrer noopener">Microsoft desteği</a>&nbsp;ile iletişime geçin.&nbsp;Windows&nbsp;8.1’de güncelleştirme geçmişinizi görüntülemek için:Windows Update&#8217;i açmak için ekranın sağ kenarından içeri doğru çekin (fare kullanıyorsanız, ekranın sağ alt köşesine gidin ve fare işaretçisini yukarı doğru götürün),&nbsp;<strong>Ayarlar</strong>&nbsp;&nbsp;&gt;&nbsp;<strong>Bilgisayar ayarlarını değiştir</strong>&nbsp;&gt;&nbsp;<strong>Güncelleştirme ve kurtarma&nbsp;</strong>&gt;&nbsp;<strong>Güncelleştirme geçmişinizi görüntüleyin</strong>&#8216;i seçin.Windows&nbsp;7’de güncelleştirme geçmişinizi görüntülemek için:Başlat&nbsp;<img src="https://msegceporticoprodassets.blob.core.windows.net/asset-blobs/14032_en-us_1" alt="Start button icon">&nbsp;düğmesini seçin. Arama kutusuna&nbsp;<strong>Update</strong>&nbsp;yazın ve ardından arama sonuçları listesinde&nbsp;<strong>Windows Update</strong>&gt;&nbsp;<strong>Güncelleştirme geçmişini görüntüle</strong>&nbsp;seçeneğini belirleyin.</td></tr><tr><td>Hata: Güncelleştirme bilgisayarınıza uygulanamaz.</td><td>Bu hata, gerekli olan güncelleştirmelerin bilgisayarınızda yüklü olmadığı anlamına gelebilir.Yükseltmeyi denemeden önce tüm önemli güncelleştirmelerin bilgisayarınızda yüklü olduğundan emin olun.</td></tr><tr><td>0x80070070 – 0x500110x80070070 – 0x500120x80070070 – 0x60000</td><td>Bu, bilgisayarınızda yükseltmeyi yüklemek için yeterli alan olmadığını gösterebilir.Sürücüde biraz alan boşaltıp yeniden deneyin.&nbsp;<a href="https://support.microsoft.com/tr-tr/help/17421">Sürücüde alan boşaltma hakkında ipuçları alın</a></td></tr><tr><td>0x80300024</td><td>Belirtilen disk işlemi; hedef disk, bölüm veya birim tarafından desteklenmiyor.&nbsp;Makinenizin Windows 10&#8217;u yüklemek için&nbsp;<a href="http://go.microsoft.com/fwlink/?LinkID=627550">minimum gereksinimleri</a>&nbsp;karşıladığından emin olun.</td></tr><tr><td>0x80070002 0x20009</td><td>Sistem belirtilen dosyayı bulamıyor.&nbsp;Windows 10&#8217;u yüklemediğiniz bir diskiniz veya diskleriniz varsa bu diskleri kaldırın.&nbsp;</td></tr><tr><td>0xC1900101 0x200170xC1900101 0x30017</td><td>Bir sürücü soruna neden oldu.Tüm 3. taraf virüsten koruma veya casus yazılımdan koruma programlarını devre dışı bırakın ya da kaldırın. Fare, klavye ve ekran dışında sisteme bağlı olan tüm çevre birimi cihazlarının bağlantısını kesin.Güncelleştirilen cihaz sürücülerini edinmek için donanım satıcınız ile iletişime geçin.</td></tr><tr><td>0x8007042B 0x4000D</td><td>Windows Kurulumu, arka planda çalıştırılan başka bir işlem nedeniyle aniden sonlandırıldı.&nbsp;Windows&#8217;u normal bir başlangıç ile başlattığınızda bazı uygulamalar ve hizmetler otomatik olarak başlatılır ve arka planda çalışmaya devam eder. Bu programlar; temel sistem işlemlerini, virüsten koruma yazılımlarını, sistem yardımcı program uygulamalarını ve önceden yüklenmiş diğer yazılımları içerir. Bu uygulamalar ve hizmetler, Windows 10&#8217;u en son sürümüne yükseltmeyi denediğinizde engellemeye neden olabilir.&nbsp;Bir arka plan programının yükseltmeyi engelleyip engellemediğini belirlemenize yardımcı olmak için &#8220;temiz önyükleme&#8221; gerekebilir. Bkz.&nbsp;<a href="https://support.microsoft.com/tr-tr/help/929135">Windows’ta temiz bir önyükleme yapma</a>.​&nbsp;</td></tr><tr><td>0x800700B7 0x2000a</td><td>Windows Kurulumu, arka planda çalıştırılan başka bir işlem nedeniyle aniden sonlandırıldı.Herhangi bir virüsten koruma veya casus yazılımdan koruma yazılımını kaldırın ya da yeniden güncelleştirin. &nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Temel ve dinamik diskler arasındaki farklar.</title>
+		<link>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/</link>
+				<comments>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/#respond</comments>
+				<pubDate>Wed, 15 Jan 2020 11:03:43 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Basic]]></category>
+		<category><![CDATA[Basic Disk]]></category>
+		<category><![CDATA[Basit Disk]]></category>
+		<category><![CDATA[Basit Disk Ile Dinamik Disk Farkları]]></category>
+		<category><![CDATA[Dinamik]]></category>
+		<category><![CDATA[Dinamik Disk]]></category>
+		<category><![CDATA[Disk]]></category>
+		<category><![CDATA[Dynamic]]></category>
+		<category><![CDATA[Dynamic Disk]]></category>
+		<category><![CDATA[Temel]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=686</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle yapılacak işlem (bölüm oluşturma,kapasite arttırımı,bölümleme,hacim işlemleri gibi) önemli farklar oluşturabilmektedir. İşte bu iki disk türü arasındaki farklar. Özellik Temel disk Dinamik disk Bölümleri ve birimleri izleme Bir bölüm tablosu kullanır Gizli bir mantıksal disk yöneticisi...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak.</p>
+
+
+
+<p>Dİsklerin dinamikliği veya temel birimde oluşu diskle yapılacak işlem (bölüm oluşturma,kapasite arttırımı,bölümleme,hacim işlemleri gibi) önemli farklar oluşturabilmektedir.</p>
+
+
+
+<span id="more-686"></span>
+
+
+
+<p><strong>İşte bu iki disk türü arasındaki farklar.</strong></p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Özellik</strong></td><td><strong>Temel disk</strong></td><td><strong>Dinamik disk</strong></td></tr><tr><td>Bölümleri ve birimleri izleme</td><td>Bir bölüm tablosu kullanır</td><td>Gizli bir mantıksal disk yöneticisi (LDM) veya sanal disk hizmeti (VDS) kullanır</td></tr><tr><td>Desteklenen işletim sistemleri</td><td>MS-DOS ,Windows 95/98, Windows 8</td><td>Windows 2000, XP, 2003, 2008, 2011, 2012, Vista, Windows 7, Windows 8 ve Windows 10</td></tr><tr><td>Birimlerin kapasitesinin artırılması</td><td>Hayır. Bir bölüm oluşturulduktan sonra, kapasitesini doğrudan değiştiremezsiniz. Bunu yapmak için üçüncü taraf araçlara ihtiyacınız var.</td><td>Evet. Yeniden başlatmadan bölümlerin kapasitesini artırabilirsiniz. Hiçbir zaman veri kaybı olmaz.</td></tr><tr><td>Disk space</td><td>Maksimum kapasite 2 TB ile sınırlıdır.</td><td>Bölümler 2 TB’tan büyük olabilir.</td></tr><tr><td>Bölüm sayısı</td><td>MBR bölüm stili kullanıyorsanız, en fazla dört bölüm kullanıyorsanız. Dördü de birincil bölüm olabilir veya üç birincil bölüm ve bir genişletilmiş bölüm olabilir. Genişletilmiş bölüm mantıksal sürücüler içerebilir. GPT stili kullanıyorsanız, maksimum 128 bölüm oluşturulabilir.</td><td>Sınırsız sayıda bölüm.</td></tr><tr><td>Hacim türleri</td><td>Yalnızca birincil veya mantıksal bölümlere izin verir.</td><td>Basit, yayılmış, çizgili, yansıtılmış ve RAID-5 birimlerine izin verir.</td></tr><tr><td>Çevirilebilirlik</td><td>Temel diskler veri kaybı olmadan dinamik disklere dönüştürülebilir</td><td>Dinamik diski temel diske dönüştürmek için dinamik diskteki tüm birimler silinmelidir. Veri kaybını önlemenin tek yolu üçüncü taraf araçlarını kullanmaktır.</td></tr></tbody></table></figure>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Kali Linux şifre sıfırlama</title>
+		<link>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/</link>
+				<comments>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/#respond</comments>
+				<pubDate>Tue, 17 Dec 2019 14:06:07 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Kali Linux şifre kurtarma]]></category>
+		<category><![CDATA[Kali Linux şifre resetleme]]></category>
+		<category><![CDATA[Kali Linux şifresini unuttum]]></category>
+		<category><![CDATA[kubuntu password reset]]></category>
+		<category><![CDATA[kubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[linux şifre sıfırlama]]></category>
+		<category><![CDATA[lubuntu password reset]]></category>
+		<category><![CDATA[pardus şifre sıfırlama]]></category>
+		<category><![CDATA[ubuntu password reset]]></category>
+		<category><![CDATA[ubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[xubuntu password reset]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=666</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır. Kali linux yazan seçeneğe gelir F10 tuşuna basılır. GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221; kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın. &#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak.</p>
+
+
+
+<span id="more-666"></span>
+
+
+
+<ul><li>Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır.</li></ul>
+
+
+
+<ul><li>Kali linux yazan seçeneğe gelir F10 tuşuna basılır.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/02-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+
+
+
+<ul><li>GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221;  kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/03-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+
+
+
+<ul><li>&#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna &#8220;init=/bin/bash&#8221; ifadesi eklenir.</li></ul>
+
+
+
+<ul><li>Karşınıza çıkan shell ekranında &#8220;passwd&#8221; komutu yazılır.Yeni şifrenizi giriniz. Doğrulamak için tekrar root şifresini girin. ENTER tuşuna basın ve şifre sıfırlamanın başarılı olduğunu onaylayın.</li></ul>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ubuntu şifresi sıfırlama</title>
+		<link>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/</link>
+				<comments>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/#respond</comments>
+				<pubDate>Tue, 17 Dec 2019 13:53:02 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[kubuntu password reset]]></category>
+		<category><![CDATA[kubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[linux şifre sıfırlama]]></category>
+		<category><![CDATA[lubuntu password reset]]></category>
+		<category><![CDATA[pardus şifre sıfırlama]]></category>
+		<category><![CDATA[ubuntu password reset]]></category>
+		<category><![CDATA[ubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[xubuntu password reset]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=663</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız. Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz. Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz. Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız. Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>   Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak.</p>
+
+
+
+<span id="more-663"></span>
+
+
+
+<ul><li>Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın.</li></ul>
+
+
+
+<ul><li>Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız.</li></ul>
+
+
+
+<ul><li>Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://wpcdn.cazda.com/wp-content/uploads/2016/10/Grub2.02_DualBoot-820x440.jpg" alt=""/></figure>
+
+
+
+<ul><li>Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://clouding.io/kb/wp-content/uploads/2018/11/ubuntu_recoverymode_1.png" alt=""/></figure>
+
+
+
+<ul><li>Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız.</li></ul>
+
+
+
+<pre class="crayon-plain-tag">mount -o remount,rw /
+passwd &amp;lt;kullaniciadi&gt;</pre>
+
+
+
+<ul><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Debian tabanlı işletim sistemlerinde depolarda bulunmayan paketleri yüklemek</title>
+		<link>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/</link>
+				<comments>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/#respond</comments>
+				<pubDate>Thu, 28 Nov 2019 12:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[debian not package repository]]></category>
+		<category><![CDATA[debian paket]]></category>
+		<category><![CDATA[debian paket yüklenmiyor]]></category>
+		<category><![CDATA[not package repository]]></category>
+		<category><![CDATA[pardus depolarında paket yok]]></category>
+		<category><![CDATA[pardus paket]]></category>
+		<category><![CDATA[pardus paket yüklenmiyor]]></category>
+		<category><![CDATA[ubuntu not package repository]]></category>
+		<category><![CDATA[ubuntu paket]]></category>
+		<category><![CDATA[ubuntu paket yüklenmiyor]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=654</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir? /etc/apt/sources.list dosyasını root hakları ile açıp aşağıdaki satırı ekleyiniz. Sonra aşağıdaki komutları giriniz. Eğer deb uzantılı dosyaları yüklerken almışsanız. komutların girilmesi yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak.</p>
+
+
+
+<span id="more-654"></span>
+
+
+
+<p>Eksik paketler nasıl yüklenir?</p>
+
+
+
+<p>/etc/apt/sources.list dosyasını root hakları ile açıp aşağıdaki satırı ekleyiniz.</p>
+
+
+
+<pre class="crayon-plain-tag">deb http://debian.opennms.org/ stable main</pre>
+
+
+
+<p>Sonra aşağıdaki komutları giriniz.</p>
+
+
+
+<pre class="crayon-plain-tag">sudo wget -O - http://debian.opennms.org/OPENNMS-GPG-KEY | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install paketAdi</pre>
+
+
+
+<p>Eğer deb uzantılı dosyaları yüklerken almışsanız.</p>
+
+
+
+<pre class="crayon-plain-tag">cd dosyaDizini
+sudo apt-get install gdebi
+sudo gdebi paketAdi.deb</pre>
+
+
+
+<p>komutların girilmesi yeterlidir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</title>
+		<link>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/</link>
+				<comments>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/#respond</comments>
+				<pubDate>Thu, 28 Nov 2019 12:24:05 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[does not boot from GRUB boot loader]]></category>
+		<category><![CDATA[grub error]]></category>
+		<category><![CDATA[grub hatası]]></category>
+		<category><![CDATA[GRUB önyükleyiciden önyükleme yapmıyor]]></category>
+		<category><![CDATA[grub rescue]]></category>
+		<category><![CDATA[grub rescue error]]></category>
+		<category><![CDATA[grub rescue hatası]]></category>
+		<category><![CDATA[pardus grub hatası]]></category>
+		<category><![CDATA[pardus grub rescue hatası]]></category>
+		<category><![CDATA[Windows 10 does not boot from GRUB boot loader]]></category>
+		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
+				<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue) Senaryomuz şu şekilde; Bilgisayara hem Linux tabanlı işletim sistemlerinden biri hem de Windows işletim sistemlerinden biri kurulmuş olsun. Belli bir süre sonra (güncelleme,sistem yapılandırma,arıza) gibi nedenlerle işletim sistemlerinden biri açılırken &#8220;grub rescue&#8221; hatası versin. Çözüm...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba muhterem ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)</p>
+
+
+
+<p>Senaryomuz şu şekilde;</p>
+
+
+
+<p>Bilgisayara hem Linux tabanlı işletim sistemlerinden biri hem de Windows işletim sistemlerinden biri kurulmuş olsun. Belli bir süre sonra (güncelleme,sistem yapılandırma,arıza) gibi nedenlerle işletim sistemlerinden biri açılırken &#8220;grub rescue&#8221; hatası versin.</p>
+
+
+
+<span id="more-650"></span>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://www.easytechstutorials.com/wp-content/uploads/2019/05/grub1.png" alt=""/></figure>
+
+
+
+<p>Çözüm önerileri şunlardır;</p>
+
+
+
+<p>1)Windows&#8217;u açılmasını sağlayıp <a rel="noreferrer noopener" aria-label="Rufus (yeni sekmede açılır)" href="https://rufus.ie/" target="_blank">Rufus</a> yazılımı aracılığı ile <a rel="noreferrer noopener" aria-label="Boot Repair (yeni sekmede açılır)" href="https://sourceforge.net/projects/boot-repair-cd/files/" target="_blank">Boot Repair</a> iso dosyasıyla bootable diski hazırlamak.</p>
+
+
+
+<p>Grub hatasında Windows&#8217;un açılmasını sağlamak amacıyla Windows kurulum cd&#8217;si\diski -&gt; Kurtarma Seçenekleri -&gt; Komut istemi yolunu takip ederek aşağıdaki komutlar girilir.</p>
+
+
+
+<pre class="crayon-plain-tag">bootrec.exe /fixmbr
+bootrec.exe /fixboot  
+bootrec.exe /rebuildbcd</pre>
+
+
+
+<p>2)<a rel="noreferrer noopener" aria-label=" (yeni sekmede açılır)" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank">Android cihaz</a> ile  <a rel="noreferrer noopener" href="https://sourceforge.net/projects/boot-repair-cd/files/" target="_blank">Boot Repair</a> iso dosyasıyla bootable diski hazırlamak.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Konuyla ilişkin yazımız:</p><p><a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank" rel="noreferrer noopener" aria-label="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/ (yeni sekmede açılır)">https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</a></p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Android cihazlarda Bootable USB oluşturma</title>
+		<link>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</link>
+				<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
+				<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[android cihazlarda bootable usb oluşturma]]></category>
+		<category><![CDATA[android device creating bootable usb]]></category>
+		<category><![CDATA[android rufus]]></category>
+		<category><![CDATA[cep telefonu bootable usb]]></category>
+		<category><![CDATA[cep telefonu bootable usb yapma]]></category>
+		<category><![CDATA[mobil phone device creating bootable usb]]></category>
+		<category><![CDATA[rufus apk]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle gereksinimlerin bulunması gerekmektedir; Android Cihazınızın OTG desteği olması En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek OTG kablo Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır veya indirilir. Eğer işletim sistemi...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var.</p>
+
+
+
+<span id="more-646"></span>
+
+
+
+<p>Öncelikle gereksinimlerin bulunması gerekmektedir;</p>
+
+
+
+<ul><li>Android Cihazınızın OTG desteği olması</li><li>En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek</li><li>OTG kablo</li></ul>
+
+
+
+<p>Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır  veya indirilir.</p>
+
+
+
+<p>Eğer işletim sistemi linux tabanlı ise <a rel="noreferrer noopener" aria-label="EtchDroid (yeni sekmede açılır)" href="https://play.google.com/store/apps/details?id=eu.depau.etchdroid" target="_blank">EtchDroid</a> uygulamasını indirmeniz gerekmektedir.</p>
+
+
+
+<p>EtchDroid ile nasıl bootable USB oluşturulacağını anlatan video:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer Windows ise <a rel="noreferrer noopener" aria-label="ISO 2 USB (yeni sekmede açılır)" href="https://play.google.com/store/apps/details?id=com.mixapplications.iso2usb" target="_blank">ISO 2 USB</a> ile nasıl bootable USB oluşturulacağını anlatan video:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer ISO 2 USB ile olmazsa Windows 10 için nasıl bootable USB oluşturulacağını anlatan video:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="748" height="421" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/#respond</comments>
+				<pubDate>Thu, 07 Nov 2019 12:33:24 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.]]></category>
+		<category><![CDATA[Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
+		<category><![CDATA[MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=628</guid>
+				<description><![CDATA[Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; &#8220;Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtrerem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda bir hatanın çözümü hakkında olacak.</p>
+
+
+
+<p>MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken </p>
+
+
+
+<p>&#8220;Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221;</p>
+
+
+
+<span id="more-628"></span>
+
+
+
+<p>&#8220;Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.&#8221;</p>
+
+
+
+<p>hatasının çözümü;</p>
+
+
+
+<p>&#8220;Çözüm : NuGet -> Sağ tık -> Geri Yükle&#8221; yöntemleri uygulanarak çözülebilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>deb paketi yüklenirken &#8220;paketi işlenirken sorun yaşandı (&#8211;install)&#8221;</title>
+		<link>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/</link>
+				<comments>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/#respond</comments>
+				<pubDate>Mon, 07 Oct 2019 13:39:20 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[paketi işlenirken sorun yaşandı (--install):]]></category>
+		<category><![CDATA[paketi işlenirken sorun yaşandı (--install): çözümü]]></category>
+		<category><![CDATA[problem while processing package (--install):]]></category>
+		<category><![CDATA[problem while processing package (--install): fix]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=583</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken sorun yaşandı (&#8211;install): hatası bağımlılık gerektiren paketlerin bilgisayarda yüklü bulunmamasından kaynaklanmaktadır. Sorunun çözümü için aşağıdaki komutlar sırasıyla girilir: Akabinden .deb paketi tekrardan yüklenir.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>.deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim.</p>
+
+
+
+<span id="more-583"></span>
+
+
+
+<p> <strong>paketi işlenirken sorun yaşandı (&#8211;install):</strong> hatası bağımlılık gerektiren paketlerin bilgisayarda yüklü bulunmamasından kaynaklanmaktadır.</p>
+
+
+
+<p>Sorunun çözümü için aşağıdaki komutlar sırasıyla girilir:</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get update -y
+sudo apt-get upgrade -y
+sudo apt --fix-broken install</pre>
+
+
+
+<p>Akabinden .deb paketi tekrardan yüklenir.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
+		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
+				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Android Studio HAXM This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[Android studio This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[haxm This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology çözümü]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım.</p>
+
+
+
+<p>This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır;</p>
+
+
+
+<span id="more-578"></span>
+
+
+
+<p><strong>Eğer BIOS üzerinden VT-x ayarı enable ise;</strong></p>
+
+
+
+<p>1)Hyper-V yüklü ise disable ediniz.</p>
+
+
+
+<p>Hyper-V disable etmek için;</p>
+
+
+
+<p>Control Panel-&gt;<em>&nbsp;Program and Feature</em> -&gt;T<em>urn Window Features on and off</em> -&gt;Hyper-V işaretliyse kaldırılıp Bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>2)Windows 10 kullanıyorsanız;</p>
+
+
+
+<p>Windows Defender settings &gt; Device security &gt; Core isolation details &gt; Memory integrity &gt; Off&nbsp;konumuna getirilerek bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>3)CMD yönetici olarak çalıştırarak aşağıdaki komut girilerek bilgisayar yeniden başlatılır.</p>
+
+
+<p>bcdedit /set hypervisorlaunchtype off</p>
+
+
+
+<p>4)</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=53337">https://www.microsoft.com/en-us/download/details.aspx?id=53337</a> adresinden Device Guard and Credential Guard&nbsp;tool indirilir ve CMD administrator olarak çalıştıralak toolun bulunduğu klasöre işaret edilerek (cd komutuyla) aşağıdaki komut girilir.</p>
+
+
+<p>DG_Readiness_Tool_v3.6.ps1 -disable</p>
+
+
+
+<p>5) BIOS&#8217;a girilerek VT-x disable moduna alındıktan sonra bilgisayar yeniden başlatılarak BIOS&#8217;a girilerek VT-x modu enable moduna getirilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>sudo dolphin:Executing Dolphin as root is not possible.</title>
+		<link>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/</link>
+				<comments>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/#respond</comments>
+				<pubDate>Wed, 07 Aug 2019 10:46:53 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Executing Dolphin as root is not possible.]]></category>
+		<category><![CDATA[Executing Dolphin as root is not possible. bypass]]></category>
+		<category><![CDATA[KDE Executing Dolphin as root is not possible.]]></category>
+		<category><![CDATA[Kubuntu Executing Dolphin as root is not possible.]]></category>
+		<category><![CDATA[sudo dolphin sudo dolphin:Executing Dolphin as root is not possible.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=492</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu hata KDE framework 5.34 sürümünde yapılan güncellemeden ötürü kaynaklanmaktadır. Problemin çözümü nautilus dosya yöneticisinin yüklenip sudo komutu ile çalıştırılması ile çözülür. Nautilus yüklemek için; Nautilus&#8217;u sudo olarak çalıştırmak için; komutlarını terminal üzerinden yürütebilirirsiniz. Eğer bu...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda <code>sudo dolphin</code> komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak.</p>
+
+
+
+<span id="more-492"></span>
+
+
+
+<p>Bu hata KDE framework 5.34 sürümünde yapılan güncellemeden ötürü kaynaklanmaktadır.</p>
+
+
+
+<p>Problemin çözümü nautilus dosya yöneticisinin yüklenip sudo komutu ile çalıştırılması ile çözülür.</p>
+
+
+
+<p>Nautilus yüklemek için;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install nautilus</pre>
+
+
+
+<p>Nautilus&#8217;u sudo olarak çalıştırmak için;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo nautilus</pre>
+
+
+
+<p>komutlarını terminal üzerinden yürütebilirirsiniz.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ubuntu systemd-udevd yoğun CPU kullanımı</title>
+		<link>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/</link>
+				<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
+				<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[ubuntu high cpu usage]]></category>
+		<category><![CDATA[ubuntu high cpu used]]></category>
+		<category><![CDATA[Ubuntu systemd-udevd high cpu usage]]></category>
+		<category><![CDATA[Ubuntu systemd-udevd high cpu used]]></category>
+		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
+				<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu ve türevlerinde (Kubuntu,Xubuntu,Ubuntu Studio&#8230;) 18.04 sürümlerinde yaşanan Wifi sürücülerin ve Bluetooth sürücülerin birbirleriyle çakışmasından kaynaklanmaktadır. Sorunun çözümü BIOS ayarlarında Bluetooth devredışı bırakılması olup geçici bir çözümdür. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına...]]></description>
+								<content:encoded><![CDATA[
+<p>Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak.</p>
+
+
+
+<span id="more-489"></span>
+
+
+
+<p>Bu sorun Ubuntu ve türevlerinde (Kubuntu,Xubuntu,Ubuntu Studio&#8230;) 18.04 sürümlerinde yaşanan Wifi sürücülerin ve Bluetooth sürücülerin birbirleriyle çakışmasından kaynaklanmaktadır.</p>
+
+
+
+<p>Sorunun çözümü BIOS ayarlarında Bluetooth devredışı bırakılması olup geçici bir çözümdür.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Linux Unity yükleme</title>
+		<link>https://bilisimkurdu.github.io/linux-unity-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
+				<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[debian install unity]]></category>
+		<category><![CDATA[Debian Unity yükleme]]></category>
+		<category><![CDATA[Debian Unity yükleme 2019]]></category>
+		<category><![CDATA[Linux install Unity]]></category>
+		<category><![CDATA[Linux İnstall Unity 2019]]></category>
+		<category><![CDATA[Linux Unity yükleme]]></category>
+		<category><![CDATA[Linux Unity yükleme 2019]]></category>
+		<category><![CDATA[opensuse install Unity]]></category>
+		<category><![CDATA[Suse install Unity]]></category>
+		<category><![CDATA[Ubuntu install Unity]]></category>
+		<category><![CDATA[Ubuntu Unity yükleme]]></category>
+		<category><![CDATA[Ubuntu Unity yükleme 2019]]></category>
+		<category><![CDATA[Unity Hub]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır. Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim.</p>
+
+
+
+<span id="more-485"></span>
+
+
+
+<p><a href="https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/">https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/</a> adresinden Linux için Unity Hub indirilir.</p>
+
+
+
+<p>UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır.</p>
+
+
+
+<pre class="wp-block-code"><code>chmod +x UnityHubSetup.AppImage
+./UnityHubSetup.AppImage</code></pre>
+
+
+
+<p>Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/gPqB8O.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
+				<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.NET Core]]></category>
+		<category><![CDATA[.NET Core v2.2.105]]></category>
+		<category><![CDATA[dotnet MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
+		<category><![CDATA[dotnet MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
+		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
+		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
+				<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly. hatasının çözümü konusunda olacak. 1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi. 2-)Birinci adım olmazsa ; .NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için tıklayınız.) gerekmektedir....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtererem Ziyeretçiler,</p>
+
+
+
+<p>Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken <strong>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</strong> / <strong>MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly.</strong> hatasının çözümü konusunda olacak.</p>
+
+
+
+<span id="more-481"></span>
+
+
+
+<p>1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/jqnQZW.png" alt=""/></figure>
+
+
+
+<p>2-)Birinci adım olmazsa ;</p>
+
+
+
+<p>.NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için <a rel="noreferrer noopener" aria-label="tıklayınız (yeni sekmede açılır)" href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-2.2.105" target="_blank">tıklayınız</a>.) gerekmektedir.</p>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
+				<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[ASP.NET web sunucusu başlatılamıyor ve Mono ortamı değiştirilemiyor]]></category>
+		<category><![CDATA[MonoDevelop]]></category>
+		<category><![CDATA[monodevelop asp.net]]></category>
+		<category><![CDATA[monodevelop asp.net server not starting]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
+				<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open Suse tabanlı sistemlerde Fedora (Sunucuya kuruyorsanız) Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merthaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim.</p>
+
+
+
+<p>Eğer bilgisayarlarınızda MonoDevelop kuruluysa;</p>
+
+
+
+<span id="more-476"></span>
+
+
+
+<p>Debian/Ubuntu tabanlı sistemlerde</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install xsp4</code></pre>
+
+
+
+<p>Open Suse tabanlı sistemlerde</p>
+
+
+
+<pre class="wp-block-code"><code>sudo zypper install xsp4</code></pre>
+
+
+
+<p>Fedora (Sunucuya kuruyorsanız)</p>
+
+
+
+<pre class="wp-block-code"><code>su -c "yum install xsp4"</code></pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
+				<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[asp.net]]></category>
+		<category><![CDATA[ASP.NET MVC]]></category>
+		<category><![CDATA[ASP.NET MVC Core]]></category>
+		<category><![CDATA[linux asp.net mvc core install]]></category>
+		<category><![CDATA[linux net core install]]></category>
+		<category><![CDATA[MonoDevelop]]></category>
+		<category><![CDATA[monodevelop asp.net]]></category>
+		<category><![CDATA[monodevelop asp.net core]]></category>
+		<category><![CDATA[monodevelop asp.net mvc]]></category>
+		<category><![CDATA[monodevelop net core]]></category>
+		<category><![CDATA[monodevelop net core problem]]></category>
+		<category><![CDATA[mvc]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim. Problemin çözümü olarak https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız. Eğer yukarıdaki gibi .NET...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu.</p>
+
+
+
+<p>Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim.</p>
+
+
+
+<span id="more-473"></span>
+
+
+
+<p>Problemin çözümü olarak <a href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current">https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current</a> adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/od3VkQ.png" alt=""/></figure>
+
+
+
+<p>Eğer yukarıdaki gibi .NET Core görünmüşse başarıyla yüklenmiştir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Microsoft Free eBook Giveaway</title>
+		<link>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/</link>
+				<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft free e-book]]></category>
+		<category><![CDATA[microsoft free ebook]]></category>
+		<category><![CDATA[microsoft virtual academy]]></category>
+		<category><![CDATA[mva]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz. https://yadi.sk/d/WgEStyM6iSdkvA (Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.) İyi Akşamlar.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>30 Nisan&#8217;da <a rel="noreferrer noopener" aria-label="Microsoft MVA (yeni sekmede açılır)" href="https://mva.microsoft.com/" target="_blank">Microsoft MVA</a> programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır.</p>
+
+
+
+<span id="more-460"></span>
+
+
+
+<p>Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz.</p>
+
+
+
+<p><a href="https://yadi.sk/d/WgEStyM6iSdkvA">https://yadi.sk/d/WgEStyM6iSdkvA</a></p>
+
+
+
+<p>(Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.)</p>
+
+
+
+<p>İyi Akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Windows 10 1803 dil paketleri</title>
+		<link>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/</link>
+				<comments>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/#respond</comments>
+				<pubDate>Wed, 13 Mar 2019 18:38:42 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[dil]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 dil değiştirme]]></category>
+		<category><![CDATA[windows 10 dil paketi]]></category>
+		<category><![CDATA[windows 10 display language pack]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=435</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım. Öncelikle linkleri verelim; Language Locale 32-bit Architecture 64-bit Architecture South African af-ZA Download Language Pack Download Language Pack Amharic am-ET Download Language Pack Download Language Pack Arabic ar-SA Download Language Pack Download Language Pack Assamese – India as-IN Download Language...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım.</p>
+
+
+
+<span id="more-435"></span>
+
+
+
+<p>Öncelikle linkleri verelim;</p>
+
+
+
+<table class="wp-block-table"><tbody><tr><td><strong>Language</strong></td><td><strong>Locale</strong></td><td><strong>32-bit Architecture</strong></td><td><strong>64-bit Architecture</strong></td></tr><tr><td>South African</td><td>af-ZA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9444f64b5b01249b3a9e535621e9b610c8501ec1.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_775622a599d189a12fc844a0d8ce1c9d0b2f4d9e.cab">Download Language Pack</a></td></tr><tr><td>Amharic</td><td>am-ET</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_af9e577ef53fac788d2f40d1e26dc12cbd15ddf6.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_98fef765317b6cc8ab7971eb2c66c335274b545e.cab">Download Language Pack</a></td></tr><tr><td>Arabic</td><td>ar-SA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_305741e4cf1046e4ce3758e2662dbbae21f20d4a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e4be3d223d2f45d4e7671cec24c227a71976eead.cab">Download Language Pack</a></td></tr><tr><td>Assamese – India</td><td>as-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_942e39bde250ae9592fc8fc19f874e873053249b.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_8e3ec95512764b1c4bca71601fd9dc3f4492bcc1.cab">Download Language Pack</a></td></tr><tr></tr><tr><td>Latin – Azerbaijan</td><td>az-Latn-AZ</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_510102e7e4e352e112aec9c3a6e5694644532822.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_000cea9cd98ae35ab803b580207bdb82133739de.cab">Download Language Pack</a></td></tr><tr><td>Belarusian</td><td>be-BY</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_740dd0721ec0a11dff48fe0877207808527d5c79.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_bcff97e1999172a8439cc3dcdd7741f371a377b7.cab">Download Language Pack</a></td></tr><tr><td>Bulgarian</td><td>bg-BG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d2c55296b678e49ac096a043e923e38ed49e7b1e.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_acfd3a38205175b86cfe0064ba67cac565a9d347.cab">Download Language Pack</a></td></tr><tr><td>Bengali – Bangladesh</td><td>bn-BD</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_0e21a8a75727c41d8e173e171a554fb4cfaab661.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_e42e55c1e8426379e2766def39e3573274e877ab.cab">Download Language Pack</a></td></tr><tr><td>Bengali – India</td><td>bn-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9208df13be510a438cd9ebd403ddcddd63c3192b.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_86e9e59eaff94f5016596541d26348417f7ea55a.cab">Download Language Pack</a></td></tr><tr><td>Bosnian</td><td>bs-Latn-BA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_31f9805775bb5676d12702f39dcac09a8a0e2e0a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e3a9df461b63b1046427ff9254d2fb9909674571.cab">Download Language Pack</a></td></tr><tr><td>Catalan – Spain</td><td>ca-ES</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_dc2a19fff838ad09b0bedd5e2ae1a13c03d7e570.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_897417daf0bdce79215fdac39e4efe97124bea47.cab">Download Language Pack</a></td></tr><tr><td>Valencian</td><td>ca-ES-valencia</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d00954dfe16dc550a9d81a04f7dd7455bab439e2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bb8791a22895bf24dfed8db964b12df4710ba445.cab">Download Language Pack</a></td></tr><tr><td>Czech</td><td>cs-CZ</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6017991ca537ed9e6fd37323840020c5e63c8976.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_15555f6def6e37a35f3db297a3be185fdd0221b8.cab">Download Language Pack</a></td></tr><tr><td>Welsh – UK</td><td>cy-GB</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_811ca4df6a6403358b1f7bbaf07e9df7b3fd4c93.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_2b2fe45d38601f85175288330b51a100ee9f0fef.cab">Download Language Pack</a></td></tr><tr><td>Danish</td><td>da-DK</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d1b5ce87b66850f02cfb8963f9fd1bc0377f7ca7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d7a3893732174e747866a8868f6d585ac6ba0a47.cab">Download Language Pack</a></td></tr><tr><td>German</td><td>de-DE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b4da93dc0c3398dfddbce04f958f7964ff94ac94.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b9d99293f4c6164ac9e8ce2275ddd405c693cfe6.cab">Download Language Pack</a></td></tr><tr><td>Greek</td><td>el-GR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_55f681a758391535cfe89b881e52823636df161c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_122a7600d96ef8e414c6e795d5659c81c6c62da7.cab">Download Language Pack</a></td></tr><tr><td>English – UK</td><td>en-GB</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e1ce5ca2bad64e478bebae268c92e8f5b08bf958.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_8f81e0c700ad3a0e74f0b6725a55614f27f16fba.cab">Download Language Pack</a></td></tr><tr><td>English – USA</td><td>en-US</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c1c8dd139fb523fe9b97e23b100381c63d1d054c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0592f4ca7e1ed46dc37ac096a6dc3338d651342e.cab">Download Language Pack</a></td></tr><tr><td>Spanish</td><td>es-ES</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_2ee794da68363a424108f8001ff9760f8a52d947.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_ca040a3000b4e9c43d1ac88480a53ab7073417a4.cab">Download Language Pack</a></td></tr><tr><td>Spanish – Mexico</td><td>es-MX</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d025993881d6be6c85eecd5928c7b2ba7b5ef3b2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c427cf0284b2fc7818a1f89df4eff912917d6c86.cab">Download Language Pack</a></td></tr><tr><td>Estonian</td><td>et-EE</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_cf9b555a1575da571f301194d5c9d82af792d6de.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_54675cfe00dbb3d9a59420e4818dedabd29952ba.cab">Download Language Pack</a></td></tr><tr><td>Basque</td><td>eu-ES</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_3288667dd2c85c8b8983ae37b466bb80ea87bb2a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_2090480ef0bd8cf27a170519a71d0bad21bf1aaa.cab">Download Language Pack</a></td></tr><tr><td>Persian – Iran</td><td>fa-IR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6070ada27fcd2ca04ed6d85ca5a0d014c88a6fbb.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b3970d79417ab89b9bebe0feadde1fedb36e138d.cab">Download Language Pack</a></td></tr><tr><td>Finnish</td><td>fi-FI</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_f54b2789fd61a4987c7aa5a9c3b3d1111ed87efd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a0b941f51eb330f0a7f98e7153f39aed304d203a.cab">Download Language Pack</a></td></tr><tr><td>Filipino</td><td>fil-PH</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a85f2fd22d50685e67625f0b16587e78c33bee3d.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_578fa54a03cfbabeb7f63a60926f7cf28cb6be21.cab">Download Language Pack</a></td></tr><tr><td>French – Canada</td><td>fr-CA</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7d25604f443995598ced22302e3dcf68a497b29c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_fc01872ba8ba1a65ac5d67bad4940e7a4514ed72.cab">Download Language Pack</a></td></tr><tr><td>French – France</td><td>fr-FR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_06b0005fa5cefec79e7844e863b30f56312549cb.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1cd675db0963458669a37ec7eda8247b547f2088.cab">Download Language Pack</a></td></tr><tr><td>Irish</td><td>ga-IE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e128417fa3054c6d7618f48a912feee405162751.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_31b80ad2646e4d6d899f2ab6b791390963f441c1.cab">Download Language Pack</a></td></tr><tr><td>Scottish Gaelic – UK</td><td>gd-GB</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_770fcaf3b3e6127fcd7540126b3c6866f3b37162.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_2261b0f3a7814559bf3b18a5b8e70d7a959e3713.cab">Download Language Pack</a></td></tr><tr><td>Galician – Spain</td><td>gl-ES</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_938b1fa98d49d8f0edcda302386ea808230e78d5.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_372ed6be5fabcca053b59ccfabd7f158e8a04e8c.cab">Download Language Pack</a></td></tr><tr><td>Gujarati – Indian</td><td>gu-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_13b34059fed116f596b3bf8ab92ee2f1ac6afde8.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_57b9d12ee5138952a2251884c08b2c3b0348a4b0.cab">Download Language Pack</a></td></tr><tr><td>Latin – Nigeria</td><td>ha-Latn-NG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_427339aef7cfc3172daf2a73cd5bb2a0ac974424.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_6f115adc684fb5b2cd71f3f76dbb4be8eead23ac.cab">Download Language Pack</a></td></tr><tr><td>Hebrew</td><td>he-IL</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_acc56f07e9f64ef9578b105f352555d2d8906d83.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_540c0386e48cf67edf8e065920aea8c8165919f5.cab">Download Language Pack</a></td></tr><tr><td>Hindi – India</td><td>hi-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0fc0adf71efed454eb6ff680f3a43bdc30522665.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c416aa5f5cafc43c0ae1461b2fcd3fe2d7c103f2.cab">Download Language Pack</a></td></tr><tr><td>Croatian</td><td>hr-HR</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_39417ef8e67977558158596ab54963a9c099580c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_fb4415862c8bc0a631d9cee4801505892d9f1ae0.cab">Download Language Pack</a></td></tr><tr><td>Hungarian</td><td>hu-HU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6e3ac69c8c093325ab7d8393abc571db45e42dab.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f5e576709b46682d827626045448eff2dff8d67d.cab">Download Language Pack</a></td></tr><tr><td>Armenian</td><td>hy-AM</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d990908cea7e005f4622afafd22beba5ecb63a27.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_859b4e8609310973577a0af7cf95da300a7691c3.cab">Download Language Pack</a></td></tr><tr><td>Indonesian</td><td>id-ID</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1672c4554e0f505cebe4b3894dc535a06fa016e2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0d84b5067992656ca28b7f02da7f288fe2705ec7.cab">Download Language Pack</a></td></tr><tr><td>Nigeria</td><td>ig-NG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c0e115f3ba37b4777052f11be91461d69582008f.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e44d8ea5b7039512324d4d9034c6c8c686149047.cab">Download Language Pack</a></td></tr><tr><td>Icelandic</td><td>is-IS</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9d9541ff306133d8ea15b74e3f7a1374ee9f4669.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c04c2d60a1a98750d4c82a4be907f1fe660bc80a.cab">Download Language Pack</a></td></tr><tr><td>Italian</td><td>it-IT</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1cde666541c7857fef375eb91983e27cc798d185.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bff05a801d8e1b943520762860dfb4bc44016cde.cab">Download Language Pack</a></td></tr><tr><td>Japanese</td><td>ja-JP</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_dd454d41f7cb6dbca4bc4a4497fd6d0bf9e9bb26.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_bac048dbf02b9166cfc0fd1a926c241e64955d6f.cab">Download Language Pack</a></td></tr><tr><td>Georgian</td><td>ka-GE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1b705346619344cd89c2e0bea699b1cbdf7de0e7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_447f84f9816c63bf63a2aafc4aee688704573278.cab">Download Language Pack</a></td></tr><tr><td>Kazakh</td><td>kk-KZ</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_77a312f365d0e3133d47822e9a3a784f2a81bec3.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_543a6f260a5fe0c5b150260ff903135cf65e3dd0.cab">Download Language Pack</a></td></tr><tr><td>Khmer</td><td>km-KH</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_679375e535da4305d5578b9cc8344e22244e2231.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f7fdca7de0cc579cff6f14b661bc9fdd4b7baa36.cab">Download Language Pack</a></td></tr><tr><td>Kannada – India</td><td>kn-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_83220828578bc33587c5fe42eabf8abb0f08e1d4.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_ecedb677780f08ade27e5dd430a9f6878271a2bc.cab">Download Language Pack</a></td></tr><tr><td>Konkani – India</td><td>kok-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_415826cbbf3ab74155922af1d525bff2894b90e7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0142f245ad1007e88d0a171da422c16b6c04fad9.cab">Download Language Pack</a></td></tr><tr><td>Korean</td><td>ko–KR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_cd25db187ebb4a7648e7da0beb71e539116855a4.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_af771c527072e54b016226e57710df5ffb74387d.cab">Download Language Pack</a></td></tr><tr><td>Kirghiz</td><td>ky-KG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_4411235d84acd80526bf1f1de588ad977f6497b7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_ec5d122ceaed86750fe66bb4fa546e13a4d18ed6.cab">Download Language Pack</a></td></tr><tr><td>Luxembourgish</td><td>lb-LU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d280d16b883d6923b06ac47c00d7e5d52543a60d.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6223a8ab3e503cefd766c1699a06e80ee6d63af3.cab">Download Language Pack</a></td></tr><tr><td>Lothian</td><td>lo-LA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_81312a54b5048ae5e53e9a6fce6b11d80a8250e3.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e301585eefc5efd7ecf8e70c02329bb019882226.cab">Download Language Pack</a></td></tr><tr><td>Lithuanian</td><td>lt-LT</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c7d872d45495ed9aa208fc35e12488de3f39f8f2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c7154849642cbe6667604b3b5d1e71001b4863ef.cab">Download Language Pack</a></td></tr><tr><td>Latvian</td><td>lv-LV</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_34b4428738441b2e21bb3f103ee1177b0ce1c6bf.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c4db110d9800e5b564afccbe12e23ca0cb91bc0d.cab">Download Language Pack</a></td></tr><tr><td>Maori</td><td>mi-NZ</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a43c8f51266daa070a9aa8239076adfee0ef2a81.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_101911e1c873a255503e9fc32c8c61448fabdae4.cab">Download Language Pack</a></td></tr><tr><td>Macedonian</td><td>mk-MK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_151078fea9514d31463616235ad421c78c4f7be6.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_cd807d8522e14072a2bf978e2426ed6d5cb882a8.cab">Download Language Pack</a></td></tr><tr><td>Malayalam – India</td><td>ml-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9bad4ae8a71b03aff02711de2d62a229999d3498.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1931b48328039cca8e9d7b168335e65e54911be5.cab">Download Language Pack</a></td></tr><tr><td>Mongolian</td><td>mn-MN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_387d06fcbaf556257398f4cc65150570af9030bd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_dcf6f80f4e2908587016ebbb666f820cbd546348.cab">Download Language Pack</a></td></tr><tr><td>Marathi – INDIA</td><td>mr-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_a621d064988601828019a767c60dc4c5bfce2b22.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7377b500f1e04555d881a29d4494428fea8e748b.cab">Download Language Pack</a></td></tr><tr><td>Malay</td><td>ms-MY</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_3b715078d9b69fd3214f8d4765aa7bfbb5abf0d5.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b1c0fa5e29265d7ff722409929c96f1219f35f12.cab">Download Language Pack</a></td></tr><tr><td>Maltese</td><td>mt-MT</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_7068203b8d161c2940b613cbdf8252943e1ffacd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_39d8874811dae6de941fb9ad908075fc8f369fce.cab">Download Language Pack</a></td></tr><tr><td>Norwegian</td><td>nb-NO</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bc7085682148eed0490a66596da9542d5b9ad2c0.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d5a2020454be5a297bf514a17d327735305e47f6.cab">Download Language Pack</a></td></tr><tr><td>Nepali</td><td>ne-NP</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_2f88f049fdfba3ed777be21f003d1bdc676a0d12.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1e781a696249ffba7b113ab0beda6a06cbe9c4d6.cab">Download Language Pack</a></td></tr><tr><td>Dutch</td><td>nl-NL</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_adf2ab8d83e8d4ced1a18b1d37f8b40192d449cc.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_47f30be61e5d21caaf02f4314ebf4fef9eb3eb4a.cab">Download Language Pack</a></td></tr><tr><td>Norwegian</td><td>nn-NO</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a66e74cd799125cc1b839f62b851ca92514f0495.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b1648b083ee19cd70445786f79a91793d48f05c0.cab">Download Language Pack</a></td></tr><tr><td>Oriya – INDIA</td><td>or-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9799c26a508022de2979c4ffb093cf99012e4331.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7610d09d90d9d24ed72fe2710a4b2ce416d15543.cab">Download Language Pack</a></td></tr><tr><td>Punjabi (Arabic, Pakistan)</td><td>pa-Arab-PK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_f3ab15dfb9a0d8ad585f5a1aa3d12c29e48fc26c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bcccd736403ac27ea96473bfcd05db75ce3b5771.cab">Download Language Pack</a></td></tr><tr><td>Polish</td><td>pl-PL</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_80646ad82c74458ff33f4ccc46d0b49f212f1f7d.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f654f258127c74bf09f73c3b23ad0c5b90e52b8f.cab">Download Language Pack</a></td></tr><tr><td>Portuguese – Brazil</td><td>pt-BR</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d88a963afb2d6297a016769aeda2ff5d4f84a1e7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7548f00ae60159cca5d31f32ab846fc4ab6e0614.cab">Download Language Pack</a></td></tr><tr><td>Portuguese</td><td>pt-PT</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b8f6716cab3053104d2c55a665bef7d2f486fd94.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_683c4a14678e8f87ca1e69e5b44460008b4812f4.cab">Download Language Pack</a></td></tr><tr><td>Romanian</td><td>ro-RO</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_531b9fac73c2f0d6477147ccb96c12b7a86aaa82.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_3eba76dff55f9a4d44b4e98d9e4447c855a1298b.cab">Download Language Pack</a></td></tr><tr><td>Russian</td><td>ru-RU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_04d00baf2bc5ccda9fa6a29177d9ae1b6eeaa911.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_cf71ede41aaa2413c84e153ffdc9a3374977e36e.cab">Download Language Pack</a></td></tr><tr><td>Sindhi – Pakistan</td><td>sd-Arab-PK</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_bad4cf8302642968d7bd41830e431b877591df4a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_7e095867f56df6e707ba1b69002cdd9b0cd6a8ce.cab">Download Language Pack</a></td></tr><tr><td>Sinhala</td><td>si-LK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_610a9b9875075fffd0fa139017ef10ea52215304.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_adf3e58e75d8e1079700507f2c0a6f086699294a.cab">Download Language Pack</a></td></tr><tr><td>Slovak</td><td>sk-SK</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c543f81859df9db173e237eef579fd7ecff34972.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f775a6c466052b27ebf927ed4b2d99009c3755ca.cab">Download Language Pack</a></td></tr><tr><td>Slovenian</td><td>sl-SI</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_9f4cb0944f50a19104b08687ba5a37924e5cb3f0.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_963b9a6bb01d01abbe7953078cf6f76a582b7254.cab">Download Language Pack</a></td></tr><tr><td>Albanian</td><td>sq-AL</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b5c312a6bd93fd61b3aca115353f28a36f4da65b.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_510bc33d4e97b3626db991f69f5c4ef6189efec0.cab">Download Language Pack</a></td></tr><tr><td>Swedish</td><td>sv-SE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c26c405fb0cf9c075008a4ce816913e295d8a961.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_334ddfc1870ca0cefae07f3755a19929b729e962.cab">Download Language Pack</a></td></tr><tr><td>Swahili</td><td>sw-KE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_fd5c53dd7736e3851a660754b7df9fa992daec62.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d459e8153210a79ecd4be98f9245141e427cd586.cab">Download Language Pack</a></td></tr><tr><td>Tamil – India</td><td>ta-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_fe2460ed33061f71916061b9972f9bc4a0f85129.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_27f7e79e919ec723dd343c83926252e78b479665.cab">Download Language Pack</a></td></tr><tr><td>Telugu – India</td><td>te-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1ba639a3b65b6aace1c370c7a53bfd61e993499a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b71822f670889d1fac37a3059216f145fe3920b8.cab">Download Language Pack</a></td></tr><tr><td>Thai</td><td>th-TH</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d3d854de69d352463a10687f7e5426a9b0dd7287.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1c904bc9c897431e7960d9e213e33ed326004b92.cab">Download Language Pack</a></td></tr><tr><td>Turkish</td><td>tr-TR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_3516450cbc78410433ceaa9359de87444cde5597.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d30cc42c675228e09e8dec1c0d1f337f3879a0fb.cab">Download Language Pack</a></td></tr><tr><td>Tatar – Russia</td><td>tt-RU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_3c327bcbb78ae0aeb7cca65eccfc173f333a48e9.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_301955b0ba0b24a594cf9b44514e578312e28cfe.cab">Download Language Pack</a></td></tr><tr><td>Uighur</td><td>ug-CN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_57bba1b61a490ca580f3d747fc05bdcab99081bd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_9dda38a09ba9f25edcd0ac059b06a58939e829b6.cab">Download Language Pack</a></td></tr><tr><td>Ukrainian</td><td>uk-UA</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0a1dc6ae6bae5f55629387bd5dc0351c7d716f62.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_2a9586c1afe1e9d0f220d6765456d37b68b88845.cab">Download Language Pack</a></td></tr><tr><td>Urdu – Pakistan</td><td>ur-PK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b15ce3ded1e4e90f913d02a1f1c28b2e3a41f569.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_f825b6e914b8b0acd3670be5caaa3ce02cd08146.cab">Download Language Pack</a></td></tr><tr><td>Vietnamese</td><td>vi-VN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1acc1a4c1621c1440efd219545e40dca8dfa94c7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_a3f54bd9007a07993e2891805694866cef975e31.cab">Download Language Pack</a></td></tr></tbody></table>
+
+
+
+<p> Dil paketini indirdim nasıl yükleyeceğim?</p>
+
+
+
+<p>Windows(Başlat) ve R tuşlarına basarak karşımıza çıkacak Çalıştır penceresine &#8220;lpksetup&#8221; yazıyoruz.</p>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
+
+
+
+<p>Karşımıza çıkacak pencere üzerinden &#8220;Install diplay languages&#8221; seçeneğini seçiyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i1.wp.com/www.itechtics.com/wp-content/uploads/2017/10/1-Install-language-pack-in-Windows-10-version-1709.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
+
+
+
+<p> İndirdiğimiz .cab uzantılı dosyamızıın çıkartıtığımız klasörü &#8220;Browse&#8221; butonuna tıklayarak gösterip &#8220;Next&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i2.wp.com/www.itechtics.com/wp-content/uploads/2017/10/2-Select-display-language-to-install.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
+
+
+
+<p>Yaklaşık 10-20 dk bekledikten sonra paketi yüklemiş oluruz.</p>
+
+
+
+<p>Ee şimdi nasıl aktifleştirebilirim?</p>
+
+
+
+<p>Setttings -&gt; Time &amp; Languages yolunu takip eidyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://media.chip.com.tr/images/temp/user/aa97f139396743b51c9944cf7740a8c2.jpg" alt=""/></figure>
+
+
+
+<p>Hangi dilin paketi yüklendiyse o dili seçip &#8220;Set as default&#8221; butonuna tıkladıktan sonra bir defa restart atmanız gerekmektedir.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/xLanguage-pack-with-additional-options-in-Windows-10-650x452.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.hc7o8pIL75.png" alt=""/></figure>
+
+
+
+<p>Eğer farklı kullanıcılar için;</p>
+
+
+
+<p>Control Panel -&gt; Region -&gt;   &#8220;Administrative&#8221; sekmesi &#8220;Copy settings&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Control-Panel-and-Region-in-Windows-10-650x467.png" alt=""/><figcaption><br><br></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Copy-settings-to-other-screens-in-Windows-10.png" alt=""/><figcaption><br><br></figcaption></figure>
+
+
+
+<p>&#8220;Welcome screen and system accounts&#8221; ve  &#8220;New user accounts&#8221; seçeneklerini işaretleyerek &#8220;OK&#8221; butonuna tıklayıp bilgisayarımızı restart atıyoruz. </p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Change-language-to-different-screens.png" alt=""/></figure>
+
+
+
+<p>Teşekkkürler;</p>
+
+
+
+<p>(Resim ve linkler için)</p>
+
+
+
+<p><a href="https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/">https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/</a></p>
+
+
+
+<p>
+
+(Bilgisayarımda Windows 10 olmadığı için resimlerden faydalandım.)
+
+</p>
+
+
+
+<p><a href="https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/">https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>&#8220;Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi.&#8221;</title>
+		<link>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/</link>
+				<comments>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/#respond</comments>
+				<pubDate>Fri, 01 Mar 2019 16:54:34 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[güç ayarları değişmiyor]]></category>
+		<category><![CDATA[Güç Planı Bilgileriniz Kullanılamıyor]]></category>
+		<category><![CDATA[Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi]]></category>
+		<category><![CDATA[güç seçenekleri değişmiyor]]></category>
+		<category><![CDATA[güç seçenekleri gri.]]></category>
+		<category><![CDATA[güç seçenekleri pasif]]></category>
+		<category><![CDATA[Your Power Plan Information isn't available]]></category>
+		<category><![CDATA[Your Power Plan Information isn't available access denied]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=420</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna değineceğim. Bu hatayla ilişkin harici olarak kullandığınız güç planlama programı varsa kaldırıp bilgisayarı restart attıktan sonra CMD&#8217;yi yönetici olarak çalıştırarak aşağıdaki komutu girmeniz yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi.  hatasının çözümü konusuna değineceğim.</p>
+
+
+
+<span id="more-420"></span>
+
+
+
+<p>Bu hatayla ilişkin harici olarak kullandığınız güç planlama programı varsa kaldırıp bilgisayarı restart attıktan sonra CMD&#8217;yi yönetici olarak çalıştırarak aşağıdaki komutu girmeniz yeterlidir.</p>
+
+
+
+<pre class="crayon-plain-tag">powercfg -RestoreDefaultSchemes</pre>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.<br></p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>VMware Workstation Linux virtual machine not working sharing folder</title>
+		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
+				<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
+				<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vmware klasör paylaşım çalışmıyor]]></category>
+		<category><![CDATA[vmware linux klasör paylaşım çalışmıyor]]></category>
+		<category><![CDATA[VMware Linux virtual machine not working sharing folder]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
+				<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması. VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz; https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html Aşağıdaki komutları...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhabalar Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım.</p>
+
+
+
+<span id="more-417"></span>
+
+
+
+<p>Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım.</p>
+
+
+
+<ul><li>open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p>VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz;</p><p><a href="https://www.vmware.com/support/ws5/doc/ws_newguest_tools_linux.html">https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html</a></p></blockquote>
+
+
+
+<ul><li>Aşağıdaki komutları sırasıyla giriniz ve /mnt/hgfs klasörünü kontrol edebilirsiniz.</li></ul>
+
+
+
+<pre class="crayon-plain-tag">//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
+sudo vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+sudo .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0
+//fedora tabanlı işletim sistemlerinde
+su -c &quot;vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other&quot;
+su -c &quot;.host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0&quot;
+//Suse tabanlı işletim sistemlerinde
+su vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Linux tabanlı işletim sistemlerinde VMware tool yükleme</title>
+		<link>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/#respond</comments>
+				<pubDate>Mon, 25 Feb 2019 09:03:29 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[debian]]></category>
+		<category><![CDATA[fedora]]></category>
+		<category><![CDATA[istemci]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[open Suse]]></category>
+		<category><![CDATA[sunucu]]></category>
+		<category><![CDATA[Suse]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[vmware tool yükleme]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=394</guid>
+				<description><![CDATA[Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir. Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi) İstemciler; Sunucu; Fedora tabanlı işletim sistemleri İstemci; Sunucu; Open Suse tabanlı işletim sistemleri için; İstemci; Sunucu; Eğer bu yazıyla ilişkin...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtarem ziyaretçilerimiz,</p>
+
+
+
+<p>   Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım.</p>
+
+
+
+<p>Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir.</p>
+
+
+
+<span id="more-394"></span>
+
+
+
+<p>Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi)</p>
+
+
+
+<p>İstemciler;<br></p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools</pre>
+
+
+
+<p>Fedora tabanlı işletim sistemleri <br></p>
+
+
+
+<p>İstemci;</p>
+
+
+
+<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools open-vm-tools-desktop&quot;</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools&quot;</pre>
+
+
+
+<p>Open Suse tabanlı işletim sistemleri için;</p>
+
+
+
+<p>İstemci;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo zypper install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo zypper install open-vm-tools</pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ubuntu&#8217;ya VMware tool yükleme</title>
+		<link>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/#respond</comments>
+				<pubDate>Sat, 23 Feb 2019 16:19:41 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[kubuntu]]></category>
+		<category><![CDATA[sanal makine]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[vmware tool yükleme]]></category>
+		<category><![CDATA[xubuntu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=386</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut işletim sistemi üzerinden kullanılan ikincil işletim sistemidir. Eğer Ubuntu\Kubuntu\Xubuntu\Ubuntu Studio\&#8230; güncel (&#62;14) yüklendiyse terminale aşağıdaki komut girilip restart atılır. Eğer Ubuntu&#8217;nun eski sürümü yüklüyse terminale aşağıdaki komutlar girilir. (&#60;=13); Lucid sürümü ise: sudo apt-add-repository 'deb...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım.</p>
+
+
+
+<p>Wmare Tool VMware sanal makine yazılımıdır.</p>
+
+
+
+<p>Sanal Makine; mevcut işletim sistemi üzerinden kullanılan ikincil işletim sistemidir.</p>
+
+
+
+<span id="more-386"></span>
+
+
+
+<p>Eğer Ubuntu\Kubuntu\Xubuntu\Ubuntu Studio\&#8230; güncel (&gt;14) yüklendiyse terminale aşağıdaki komut girilip restart atılır.</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Eğer Ubuntu&#8217;nun eski sürümü yüklüyse terminale aşağıdaki komutlar girilir. (&lt;=13);</p>
+
+
+
+<p>Lucid sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/lucid main'</code> <br>
+Natty sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/natty main'</code> <br>
+Oneiric sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/oneiric main'</code> <br>
+Precise sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/precise main'</code> <br>
+komutunu yazdıktan sonra;</p>
+
+
+
+<p><code>sudo wget http://packages.vmware.com/tools/keys/VMWARE-PACKAGING-GPG-RSA-KEY.pub -q -O- | \    sudo apt-key add -</code></p>
+
+
+
+<p><code>sudo apt-get update </code></p>
+
+
+
+<p><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></p>
+
+
+
+<p>sırasıyla yazılarak yüklenir ve restart atılır.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.<br></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>BlueStacks 4 Motor başlatılamadı hatası</title>
+		<link>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/</link>
+				<comments>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/#respond</comments>
+				<pubDate>Wed, 28 Nov 2018 20:30:36 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=377</guid>
+				<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı: Hata Tipi : AppCrash Dosya Adı : HD-Player.exe CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..bcdedit /set {current} nx AlwaysOff BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim- Settings -> Engiene sekmesinde resimdeki gibi ayarlıyoruz. Verdiğim önerileri uygulamanız...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem ziyaretçiler,</p>
+
+
+
+<p>Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “<em>Motor başlatılamadı hatası”nı </em>çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-377"></span>
+
+
+
+<p>Uygulama Hata ayrıntısı:</p>
+
+
+
+<p>Hata Tipi : AppCrash</p>
+
+
+
+<p>Dosya Adı : HD-Player.exe<br></p>
+
+
+
+<ol><li>CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..<br><strong><em>bcdedit /set {current} nx AlwaysOff</em></strong></li><li>BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.<br><a href="https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-">https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim-</a></li><li>Settings -> Engiene sekmesinde resimdeki gibi ayarlıyoruz.<br><br></li></ol>
+
+
+
+<p>Verdiğim önerileri uygulamanız halinde sorununuz tümüyle çözülecektir.</p>
+
+
+
+<p>İyi Akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Windows 10 Cortana devre dışı bırakma</title>
+		<link>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/</link>
+				<comments>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/#respond</comments>
+				<pubDate>Tue, 20 Nov 2018 20:29:01 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=374</guid>
+				<description><![CDATA[Merhaba Muhterem ziyaretçilerimiz,Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup işlevi yerine getirebilmesi için verilerinizi toparlayıp analiz edilmektedir. Cortana’yi disable ederek gizliliğinizi bir nebzede koruyabilirsiniz. Windows 10 Pro ve Enterpise Başlat -&#62;&#160;gpedit.msc &#160;Computer Configuration &#62; Administrative Templates &#62; Windows Components &#62; Search yolunu takip ederek&#160;...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem ziyaretçilerimiz,<br>Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup işlevi yerine getirebilmesi için verilerinizi toparlayıp analiz edilmektedir.</p>
+
+
+
+<span id="more-374"></span>
+
+
+
+<p>Cortana’yi disable ederek gizliliğinizi bir nebzede koruyabilirsiniz.</p>
+
+
+
+<p>Windows 10 Pro ve Enterpise</p>
+
+
+
+<ol><li><strong>Başlat -&gt;&nbsp;</strong><strong>gpedit.msc</strong></li><li>&nbsp;<strong>Computer Configuration &gt; Administrative Templates &gt; Windows Components &gt; Search yolunu takip ederek&nbsp;</strong></li><li><strong>Allow Cortana&nbsp;</strong>ayarını bulup çift tıklatınız<strong>&nbsp;disable&nbsp;</strong>ederek bilgisayarınız restart ediniz.</li></ol>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://betanews.com/wp-content/uploads/2016/07/GPE.jpg" alt="GPE" class="wp-image-341112"/></figure></div>
+
+
+
+<p>Windows 10 Home</p>
+
+
+
+<p><strong>Başlat -&gt; Regedit -&gt; HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search</strong>yolunu takip ediniz.</p>
+
+
+
+<p>Windows klasörünün üzerine sağtık ile tıklayarak “<strong>New-&gt;Key”</strong>&nbsp;yolunu takip ederek “<strong>Windows Search</strong>” değerini veriniz.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTYvMDkvc2NyZWVuc2hvdC0oMTA0KV82MzguNzYwODA2OTE2NDM0MDMucG5n" alt="screenshot (104) 638.76080691643403" class="wp-image-298234"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTYvMDkvc2NyZWVuc2hvdC0oMTA1KV82NzUyODEuMjUucG5n" alt="screenshot (105) 675281.25" class="wp-image-298236"/></figure></div>
+
+
+
+<p><strong>Windows Search</strong>&nbsp;klasörün üzerine sağtık ile&nbsp;<strong>“DWORD (32-bit) Value”</strong>&nbsp;ekliyoruz.</p>
+
+
+
+<p>4.&nbsp;<strong>DWORD&nbsp;&nbsp;</strong>değeri&nbsp;<strong>“AllowCortana”&nbsp;</strong>değeri&nbsp;<strong>“0”&nbsp;</strong>olmalıdır. En sonunda bilgisayarı restart ediyoruz.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTYvMDkvc2NyZWVuc2hvdC0oMTA2KV82NzUxNTQuMjg1NzE0Mjg1NzEucG5n" alt="screenshot (106) 675154.28571428571" class="wp-image-298238"/></figure></div>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Windows 10 version 1803 varsayılan klavye dil ayarları</title>
+		<link>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/</link>
+				<comments>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/#respond</comments>
+				<pubDate>Tue, 23 Oct 2018 07:34:31 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[1803]]></category>
+		<category><![CDATA[dil]]></category>
+		<category><![CDATA[dil paketi]]></category>
+		<category><![CDATA[keyboad settings]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[klavye]]></category>
+		<category><![CDATA[klavye ayarları]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[language pack]]></category>
+		<category><![CDATA[pack]]></category>
+		<category><![CDATA[paketi]]></category>
+		<category><![CDATA[settings]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 1803]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=365</guid>
+				<description><![CDATA[Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.]]></description>
+								<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
+<span id="more-365"></span></p>
+<p>Ayarlar -&gt; Dil ve Bölgeler -&gt; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.</p>
+<p><img src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
+<img src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
+<img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Microsoft&#8217;tan güncelleme müjdesi</title>
+		<link>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/</link>
+				<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
+				<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[açık]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[güncelleme]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[işlemci]]></category>
+		<category><![CDATA[Meltdown]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft güncelleme]]></category>
+		<category><![CDATA[Spectre]]></category>
+		<category><![CDATA[Spectre ve Meltdown açık yamaları]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[yamaları]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
+				<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi....]]></description>
+								<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
+<span id="more-362"></span><br />
+Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
+<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Riot Games&#8217;ten Türkiye&#8217;ye yatırım</title>
+		<link>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/</link>
+				<comments>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/#respond</comments>
+				<pubDate>Fri, 14 Jul 2017 08:35:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[kurdu]]></category>
+		<category><![CDATA[oyun]]></category>
+		<category><![CDATA[riot]]></category>
+		<category><![CDATA[riot games]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=188</guid>
+				<description><![CDATA[Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu. Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends...]]></description>
+								<content:encoded><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu.</p>
+<p><img class="alignnone size-full wp-image-194" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir.png" alt="" width="255" height="198" /></p>
+<p>Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends oyuncusuna çok daha hızlı ve kaliteli hizmet sunacağını açıkladı.</p>
+<p>League of Legends Türkiye Sunucusunun devreye girmesiyle Türkiye’deki League of Legends oyuncularının mevcut bağlantı hızlarına bağlı olarak yaşadıkları gecikme sürelerinin (ping) daha da azalmasının hedeflendiği bildirildi.</p>
+<p>&#8220;BU YATIRIM TÜRKİYE&#8217;DEKİ OYUNCULARIMIZA OLAN İNANCIN GÖSTERGESİDİR&#8221;</p>
+<p>Riot Games Türkiye Ülke Müdürü Bora Koçyiğit, yapılan bu yatırımın Türkiye&#8217;de milyonlarca oyuncu için 5 yıldır değer üretmeye devam eden ve kendi sektöründe dev bir ekosistemin şekillenmesine yol açan şirketin, Türkiye&#8217;ye yatırım yapma konusundaki kararlılığına işaret ettiğini söyledi.Riot Games Türkiye olarak SunucununTürkiye&#8217;ye getirilmesi yönünde büyük çaba harcadıklarını belirten Koçyiğit, “Birçok yabancı şirketin Türkiye’deki yatırımlarını gözden geçirdiği bir dönemde yaptığımız bu yatırım, Türkiye’ye ve Türkiye’deki oyuncularımıza olan inancımızın ve verdiğimiz değerin göstergesidir” dedi.</p>
+<p>&#8220;5 YILDA DEV BİR EKOSİSTEMİN OLUŞUMUNA ÖNCÜLÜK ETTİK&#8221;</p>
+<p>Bu yıl Türkiye’deki 5&#8217;inci yılını dolduran Riot Games Türkiye’nin önemli başarılara imza attığını aktaran Koçyiğit, uluslararası bir oyun yayıncısı olan Riot Games’in Türkiye’de yarattığı doğrudan istihdamın yanı sıra, fırsatlarla dolu dev bir ekosistemin gelişimine de katkıda bulunduğuna dikkat çekti. Türkiye&#8217;de oyunculara ve espor ekosistemine, bugüne kadar hiçbir oyun şirketinin yapmadığı kadar büyük yatırım yaptıklarını ifade eden Koçyiğit, şunları söyledi:</p>
+<p>“Geçtiğimiz 5 yılda oyunumuzu Türkiye için yerelleştirirken,ülkenin önde gelen seslendirme sanatçılarıyla ve stüdyolarıyla çalıştık. Oyuncuları bir araya getiren büyük çaplı organizasyonlar düzenledik. Esporu Türkiye&#8217;de kurumsal, organize ve profesyonel bir spor dalı haline getirdik. Esporda bizi dünya arenasında temsil eden, bayrağımızı dalgalandıran şampiyonların yetişmesine aracı olduk. Türkiye’de hizmete giren yeni sunucumuz,tüm oyuncularımızın faydalanabileceği yepyeni bir otoyol, bir olimpiyat stadı anlamına geliyor. Bu yatırımın oyuncularımıza daha iyi hizmet sunmanın yanı sıra, Türkiye’nin espordaki rekabet gücünü arttıracağına inanıyorum. Bu yeni yatırım sürecimizin başından sonuna kadar bize destek veren Türkiye Cumhuriyeti Başbakanlık Yatırım ve Destek Ajansı’na teşekkür ediyorum.”</p>
+<p>&#8220;GELİŞTİRİLEN ÖZEL İŞLEMCİLER DÜNYADA İLK KEZ TÜRKİYE’DE KULLANILACAK&#8221;</p>
+<p>League of Legends Sunucularında hizmet vermek üzere özel olarak geliştirilen işlemcilerinin dünyada ilk kez Türkiye&#8217;deki sunucuda kullanılacağını ifade eden Koçyiğit, &#8220;Türkiye’deki ekibin gelişimini yakından takip ettiği yeni işlemciler, League of Legends sunucularının ihtiyaçlarına uygun iyileştirmeler içeriyor. Bu sayede oyunculara daha az sayıda sunucuyla çok daha iyi hizmet vermek mümkün hale geliyor. Bu durum sunucuların enerji ve bakım giderlerinde de önemli oranda tasarruf sağlıyor&#8221; şeklinde konuştu.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>PARDUS 17 ÖN İNCELEME</title>
+		<link>https://bilisimkurdu.github.io/pardus-17-on-inceleme/</link>
+				<comments>https://bilisimkurdu.github.io/pardus-17-on-inceleme/#respond</comments>
+				<pubDate>Mon, 10 Jul 2017 11:55:34 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[bloglama]]></category>
+		<category><![CDATA[bloglandırma]]></category>
+		<category><![CDATA[hoşgeldiniz]]></category>
+		<category><![CDATA[kurt]]></category>
+		<category><![CDATA[pardus]]></category>
+		<category><![CDATA[pardus microsoft sql server kurulumu]]></category>
+		<category><![CDATA[pardus mssql]]></category>
+		<category><![CDATA[pardus mssql kurulum]]></category>
+		<category><![CDATA[pardus mssql kurulumu]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[sql]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=178</guid>
+				<description><![CDATA[Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım. Pardus kurulduktan sonra açılış aşırı hızlıydı ve sistem yükü çok az bir değerdeydi yani eski 64 bit makineniz varsa kurup...]]></description>
+								<content:encoded><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım.</p>
+<p>Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim.</p>
+<p>Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım.</p>
+<p>Pardus kurulduktan sonra açılış aşırı hızlıydı ve sistem yükü çok az bir değerdeydi yani eski 64 bit makineniz varsa kurup kullanmanızı öneririm.</p>
+<p>Pardus XFCE 4.12 masaüstü arayüzü, linux sürüm 4.9, Libreoffice 5.2 ve daha nice güncel sürümleri ile karşımıza çıkıyor.</p>
+<p>Pardus 5&#8217;e kıyaslanırsa adeta diriliş yapmış Pardus 5&#8217;te Mozilla açıkkken 1.1GB ram kaplarken Pardus 17 de ise 600 ile 700MB ram kaplamakta ve işlemci aktif yüzdesi 10&#8217;u pek geçmiyor.</p>
+<p>Bu yazılımların yanı sıra <strong>tlp</strong> gibi yazılımların Pardus’a entegrasyonu sayesinde dizüstü bilgisayarlarda güç yönetiminin <strong>pil ömrü</strong> üzerindeki etkisini görebileceksiniz.</p>
+<p><a href="http://www.pardus.org.tr/pardus17-surum-notlari/" target="_blank" rel="noopener">Pardus 17 sürüm notları</a></p>
+<p><a href="http://depo.pardus.org.tr/pub/ISO/RC-Pardus17/Pardus-17.0-amd64.iso" target="_blank" rel="noopener">Pardus 17</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/pardus-17-on-inceleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Apple yeni garanti problemi</title>
+		<link>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/</link>
+				<comments>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/#respond</comments>
+				<pubDate>Thu, 08 Jun 2017 09:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[apple garanti problemi]]></category>
+		<category><![CDATA[Avustralya]]></category>
+		<category><![CDATA[Avustralya Rekabet ve Tüketici Komisyonu]]></category>
+		<category><![CDATA[bilgisayar]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[dışı]]></category>
+		<category><![CDATA[garanti]]></category>
+		<category><![CDATA[garanti dışı]]></category>
+		<category><![CDATA[hak]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Komisyonu]]></category>
+		<category><![CDATA[macintosh]]></category>
+		<category><![CDATA[problem]]></category>
+		<category><![CDATA[Rekabet]]></category>
+		<category><![CDATA[tamir]]></category>
+		<category><![CDATA[Tüketici]]></category>
+		<category><![CDATA[ücretsiz]]></category>
+		<category><![CDATA[ücretsiz tamir hakkı]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=163</guid>
+				<description><![CDATA[Apple, müşterilerinin kendi cihazlarını onarma hakkına sahip olmasından gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı. Dava, Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu) tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları...]]></description>
+								<content:encoded><![CDATA[<p>Apple, müşterilerinin <strong>kendi cihazlarını onarma hakkına sahip olmasından </strong>gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı.</p>
+<p>Dava, <strong>Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu)</strong> tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları durumunda ücretsiz onarım ve değişim hakkını kaybedeceklerini söylüyor. Avustralya kanununa göre, ürün &#8220;kusurlu veya kabul edilemez bir kalitede&#8221; ise, tüketiciler ücretsiz onarım ve değişim hakkına sahipler.</p>
+<p>Davalar şimdilik devam etse de bizim ülkemizde kanı teknik servis harici onarımın garanti dışı olacağına yönelik.</p>
+<p>Hayırlısı.</p>
+<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</title>
+		<link>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/</link>
+				<comments>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/#respond</comments>
+				<pubDate>Tue, 02 May 2017 10:32:42 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[hata]]></category>
+		<category><![CDATA[kurulum]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[linux microsoft sql server]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft sql server]]></category>
+		<category><![CDATA[microsoft sql server linux kurulumu]]></category>
+		<category><![CDATA[mssql]]></category>
+		<category><![CDATA[pardus]]></category>
+		<category><![CDATA[pardus microsoft sql server kurulumu]]></category>
+		<category><![CDATA[pardus mssql]]></category>
+		<category><![CDATA[pardus mssql kurulum]]></category>
+		<category><![CDATA[pardus mssql kurulumu]]></category>
+		<category><![CDATA[path]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[sql]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
+				<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle sudo apt-get install curl ile curl paketini yüklüyoruz. curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz. sudo apt-get update sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz. sudo /opt/mssql/bin/sqlservr-setup...]]></description>
+								<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+<p>Öncelikle</p>
+<p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
+<p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
+<p>sudo apt-get update</p>
+<p>sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz.</p>
+<p>sudo /opt/mssql/bin/sqlservr-setup  komutuyla yapılandırıyoruz.</p>
+<p>Lisans anlaşmalarını kabul edip gerekli ayarları yaptıktan sonra</p>
+<p>sudo echo &#8216;export PATH=&#8221;$PATH:/opt/mssql-tools/bin&#8221;&#8216; &gt;&gt; ~/.bash_profile</p>
+<p>sudo echo &#8216;export PATH=&#8221;$PATH:/opt/mssql-tools/bin&#8221;&#8216; &gt;&gt; ~/.bashrc<br />
+source ~/.bashrc</p>
+<p>komutlarını yazdıktan sonra</p>
+<p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
+<p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
+<p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>PARDUS&#8217;A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</title>
+		<link>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/</link>
+				<comments>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/#respond</comments>
+				<pubDate>Thu, 27 Apr 2017 12:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[kurulum]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[linux microsoft sql server]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft sql server]]></category>
+		<category><![CDATA[microsoft sql server linux kurulumu]]></category>
+		<category><![CDATA[mssql]]></category>
+		<category><![CDATA[pardus]]></category>
+		<category><![CDATA[pardus microsoft sql server kurulumu]]></category>
+		<category><![CDATA[pardus mssql]]></category>
+		<category><![CDATA[pardus mssql kurulum]]></category>
+		<category><![CDATA[pardus mssql kurulumu]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[sql]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=120</guid>
+				<description><![CDATA[Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu adımları uygulamaya başladım. 1) Public repo keyini import ediyoruz. sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add -“ 2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz. sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main...]]></description>
+								<content:encoded><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım.</p>
+<p>Şu adımları uygulamaya başladım.</p>
+<p><strong>1) Public repo keyini import ediyoruz.</strong></p>
+<p><em>sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -“</em></p>
+<p><strong>2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz.</strong></p>
+<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p><pre class="crayon-plain-tag">sudo sh -c &quot;echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &amp;gt;&amp;gt; /etc/apt/sources.list.d/sql-server.list&quot;</pre><p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p><pre class="crayon-plain-tag">sudo apt-get update</pre><p></p><pre class="crayon-plain-tag">sudo apt-get install mssql-server mssql-tools -y</pre><p>Kurulum adımlarını tamamladıktan sonra</p><pre class="crayon-plain-tag">sqlcmd -S localhost -U SA -P Parola</pre><p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
+Sonra <strong>mssql-tools</strong> paketi eksik olduğunu gördüm ve kurmaya başladım. <strong>Synaptic Paket Yöneticisinden mssql-tools</strong> paketini yüklemeye çalıştığımda aşağıdaki hatayı aldım.</p>
+<blockquote><p>mssql-tools:<br />
+Bağımlılıklar: libc6 (&gt;=2.21) fakat 2.19-18+deb8u7 kurulacak<br />
+Bağımlılıklar: libstdc++6 (&gt;=5.2) fakat 4.9.2-10 kurulacak<br />
+Bağımlılıklar: msodbcsql fakat kurulmayacak<br />
+Bağımlılıklar: msodbcsql fakat kurulmayacak,</p></blockquote>
+<p>Hatayı araştırdığımda Pardus paketlerinde hata aldığım paketler güncel olmadığını anladım ve Ubuntu paket adreslerini alıp <strong>source.list</strong> dosyasına yapıştırdım. (Pardus depo adreslerine dokunmadan.) sonra terminale<strong>sudo apt-get update</strong> yazdım.<br />
+Terminale sudo apt-get install mssql-tools yazdım ve gerekli sorularara &#8220;yes&#8221; ile cevap verdim.<br />
+Güncellemeye başlayınca Pardus&#8217;taki mevcut paketleri kaldırmaya başlamış ve yeniden başlatmayı sistem talep ettiğimde sistemi yeniden başlattığımda Pardus sistemden göçmüştü.<br />
+Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
+<p>Belki de Pardus depolarında güncel paketler olsaydı kararlı bir şekilde Mssql Server&#8217;ı Pardus&#8217;a kurmuş olurdum.</p>
+<p>İyi Çalışmalar ve İyi Günler dilerim.</p>
+<p>Kaynakça :</p>
+<blockquote class="wp-embedded-content" data-secret="rVwnrRPsiU"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
+<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=rVwnrRPsiU" data-secret="rVwnrRPsiU" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>http://www.4s.com.tr/8523-2/</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>DDR4 Ram ve Faydaları</title>
+		<link>https://bilisimkurdu.github.io/ddr4-ram-faydalari/</link>
+				<comments>https://bilisimkurdu.github.io/ddr4-ram-faydalari/#respond</comments>
+				<pubDate>Mon, 27 Feb 2017 15:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Eren]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[bilgisayar]]></category>
+		<category><![CDATA[ddr4]]></category>
+		<category><![CDATA[fark]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[oyuncu]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[ram]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=113</guid>
+				<description><![CDATA[&#160; DDR4 RAM nedir? DDR4 SDRAM &#8220;Çift veri hızlı, 4. Nesil senkronize ve dinamik Ram&#8221; olarak geçiyor. Gerilimi azaltılmış, artan transfer oranları ve yüksek hızı ile çok daha verimli bir hal almıştır. En son Ram’ler yani DDR3’ler 2007 yılında çıktı ama geliştiriciler 2005 yılında DDR4 üzerinde çalışmalara başlamıştı. Samsung 2011 yılında ilk DDR4 belleğini imal etti...]]></description>
+								<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><b>DDR4 RAM nedir?</b></p>
+<p>DDR4 SDRAM &#8220;Çift veri hızlı, 4. Nesil senkronize ve dinamik Ram&#8221; olarak geçiyor. Gerilimi azaltılmış, artan transfer oranları ve yüksek hızı ile çok daha verimli bir hal almıştır. En son Ram’ler yani DDR3’ler 2007 yılında çıktı ama geliştiriciler 2005 yılında DDR4 üzerinde çalışmalara başlamıştı. Samsung 2011 yılında ilk DDR4 belleğini imal etti ve bu teknoloji bilgisayar dünyasındaki en büyük gelişmelerden biridir.</p>
+<p>&nbsp;</p>
+<p><b>DDR4’ün faydaları nelerdir?</b></p>
+<p>DDR4 yongaları 2133MT/s (saniyede milyon transfer) ve 4266MT/s arasında transfer hızına sahip. Karşılaştırma olarak DDR3 teknolojisi 800-2133MT/s’ye sahip. Hal böyle olunca çok daha güçlü bilgisayarlar ve işlemciler gerekecektir DDR4 için. Bu yeni bellek aynı zamanda 1,2 Volt daha az güç kullanır. Bu düşük güç tüketimi telefon ve tabletler gibi taşınabilir cihazlarda daha iyi pil ömrüne olanak sağlayacaktır.</p>
+<p>Büyük teknoloji üreticileri kendi kullandıkları ürünlerde DDR4 yongalarını kullanmaya başladı. AMD bunlardan biridir. Ayrıca Intel yakın zamanda satışa çıkaracağı bir bilgisayarda DDR4 kullandığını duyurdu. Tüketiciler arasında henüz bu teknolojinin ne olduğu tam olarak kavranmamış olabilir ama kullanmaya başladıktan sonra sağladığı performansın büyük ölçüde farklı olduğunu görecekler.</p>
+<p><b>DDR2 – DDR3 – DDR4 arasındaki farklar nelerdir?</b></p>
+<p>Harici bilgisayar donanım bileşenlerini daha güçlü yapmak herkesin isteği. DDR4 ise tam da bunun için üretilmiş bir RAM.</p>
+<p>Hız ve Volt kullanımları:</p>
+<p><b>**DDR2</b>: 400-1066 MT/s hızına sahip ve 1.8 Volt kullanıyor.</p>
+<p><b>**DDR3</b>: 800-2133 MT/s hızına sahip ve 1.5 Volt kullanıyor.</p>
+<p><b>**DDR4</b>: 2133-4266 MT/s hızına sahip ve 1.05 Volt kullanıyor.</p>
+<p>Yani bu demek oluyor ki diğer Ramlere göre DDR4 Ramler daha hızlı olup daha az güç tüketecek .</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ddr4-ram-faydalari/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>BEDAVA WİNDOWS 10 İÇİN SON ŞANS</title>
+		<link>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/</link>
+				<comments>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/#respond</comments>
+				<pubDate>Fri, 20 Jan 2017 13:59:01 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[enterprise e3]]></category>
+		<category><![CDATA[enterprise e5]]></category>
+		<category><![CDATA[işletme]]></category>
+		<category><![CDATA[kurumsal]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[ücretsiz]]></category>
+		<category><![CDATA[ücretsiz geçiş]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 enterprise]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=87</guid>
+				<description><![CDATA[29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak. Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli Windows 10 Enterprise E3 ve E5 (Secure Procuctive sürümleri) hali...]]></description>
+								<content:encoded><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak.</p>
+<p><span id="more-87"></span></p>
+<p>Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli <strong>Windows 10 Enterprise E3</strong> ve E5 (Secure Procuctive sürümleri) hali hazırda Windows 7 – Windows 8.1 kurumsal kullanıcılara ücretsiz olarak gelecek.</p>
+<p>Yani işletmeler kurumsal Win 7,8.1 enterprise e3 ve e5 sürümlerini Windows 10 gerekli sürümlerini ücretsiz olarak indirip kurabilir.</p>
+<p>Bu sürümler özellikle kurumsal işletmeler için oldukça yüklü meblağlara güncelleniyordu. Üstelik ücretsiz güncelleme olanağı kurumsal işletim sistemleri içinde sağlanmamıştı. <strong>Microsoft</strong> bu noktada daha önce ücretsiz yükseltme olanağı tanımadığı kurumsal yapıların da gönlünü alıyor. Microsoft daha önce Windows 7 Kurumsal ve Windows 8/8.1 Kurumsal için Windows 10’a ücretsiz yükseltme imkanının bulunmayacağını dile getirmişti.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>.NET FRAMWORK YÜKLEME</title>
+		<link>https://bilisimkurdu.github.io/ne-framwork-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/ne-framwork-yukleme/#respond</comments>
+				<pubDate>Sat, 03 Dec 2016 07:41:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[.net]]></category>
+		<category><![CDATA[.net framwork yükleme]]></category>
+		<category><![CDATA[framwork]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=57</guid>
+				<description><![CDATA[.net framwork yükleme aşağıdaki videodadır. Eğer anlaşılmayan mesele olursa yorum atmayı unutmayınız.]]></description>
+								<content:encoded><![CDATA[<p>.net framwork yükleme aşağıdaki videodadır.</p>
+<p>Eğer anlaşılmayan mesele olursa yorum atmayı unutmayınız.<br />
+<iframe src="https://www.youtube.com/embed/5-teZ5hYmuc" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ne-framwork-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>0xC1900107 &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/0xc1900107/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 13 Feb 2020 08:54:02 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>0xC1900107 &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows güncelleme hata kodları</title>
+		<link>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/</link>
+				<comments>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/#respond</comments>
+				<pubDate>Thu, 13 Feb 2020 08:10:28 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[0x80070002 0x20009]]></category>
+		<category><![CDATA[0x80070070 – 0x50011]]></category>
+		<category><![CDATA[0x80070070 – 0x50012]]></category>
+		<category><![CDATA[0x80070070 – 0x60000]]></category>
+		<category><![CDATA[0x800700B7 0x2000a]]></category>
+		<category><![CDATA[0x8007042B 0x4000D]]></category>
+		<category><![CDATA[0x80073712]]></category>
+		<category><![CDATA[0x800F0922]]></category>
+		<category><![CDATA[0x800F0923]]></category>
+		<category><![CDATA[0x80200056]]></category>
+		<category><![CDATA[0x80300024]]></category>
+		<category><![CDATA[0xC1900101 0x20017]]></category>
+		<category><![CDATA[0xC1900101 0x30017]]></category>
+		<category><![CDATA[0xC1900107]]></category>
+		<category><![CDATA[0xC1900200 – 0x20008]]></category>
+		<category><![CDATA[0xC1900202 – 0x20008]]></category>
+		<category><![CDATA[0xC1900208 – 0x4000C]]></category>
+		<category><![CDATA[0xc1900223]]></category>
+		<category><![CDATA[Hata: Güncelleştirmeler tamamlanamadı. Değişiklikler geri alınıyor. Bilgisayarınızı kapatmayın.]]></category>
+		<category><![CDATA[Hata: Windows Güncelleştirmeleri yapılandırılamadı. Değişiklikler geri alınıyor. Hata: Güncelleştirme bilgisayarınıza uygulanamaz.]]></category>
+		<category><![CDATA[Installation has failed]]></category>
+		<category><![CDATA[Installation has failed hatası]]></category>
+		<category><![CDATA[Windows update hatası]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem yolunu takip edilerek hata kodu tespit edilebilir. Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\Windows\Logs\MoSetup\BlueBox.log&#8221; dosyasını inceleyerek bulunabilir. Hata kodları ve açıklamaları aşağıdaki tablodadır. Hata Ne anlama gelir ve nasıl düzeltilir 0xc1900223 Bu, seçilen güncelleştirmeyi...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim.</p>
+
+
+
+<p>Windows güncellemelerinde güncelleme sırasında veya Event Viever -&gt; Sysytem yolunu takip edilerek hata kodu tespit edilebilir.</p>
+
+
+
+<span id="more-691"></span>
+
+
+
+<p>Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\<em>Windows</em>\Logs\MoSetup\<em>BlueBox</em>.log&#8221; dosyasını inceleyerek bulunabilir.</p>
+
+
+
+<p>Hata kodları ve açıklamaları aşağıdaki tablodadır.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><th>Hata</th><th>Ne anlama gelir ve nasıl düzeltilir</th></tr><tr><td>0xc1900223</td><td>Bu, seçilen güncelleştirmeyi indirirken ve yüklerken bir sorun olduğunu gösterir. Windows Update daha sonra yeniden deneyecektir ve şu anda yapmanız gereken hiçbir şey yoktur.</td></tr><tr><td>0xC1900208 – 0x4000C</td><td>Bu, bilgisayarınızda yüklü uyumsuz bir uygulamanın yükseltme işleminin tamamlanmasını engellediğini gösterebilir. Uyumlu olmayan tüm uygulamaların kaldırıldığından emin olun ve yükseltmeyi yeniden deneyin.</td></tr><tr><td>0xC1900107</td><td>Önceki bir yükleme girişiminden temizleme işlemi hala devam ediyor. Sistemin yeniden başlatılması gerekir. Cihazı yeniden başlatın ve kurulumu yeniden çalıştırın. Cihazın yeniden başlatılması sorunu çözmezse Disk Temizleme yardımcı programını kullanarak geçici dosyaları ve Sistem dosyalarını temizleyin. Daha fazla bilgi için bkz.&nbsp;<a href="https://support.microsoft.com/tr-tr/help/4026616">Windows 10&#8217;da disk temizleme</a>.</td></tr><tr><td>0x80073712&nbsp;</td><td>Windows Update&#8217;in ihtiyaç duyduğu bir dosya hasarlı veya eksiktir.&nbsp;Sistem dosyalarınızı onarmayı deneyin:&nbsp;<strong>Başlangıç</strong>&nbsp;&nbsp;düğmesini seçin ve görev çubuğundaki arama kutusuna&nbsp;<strong>komut istemi&nbsp;</strong>yazın. Sonuçlar listesinden,&nbsp;<strong>Komut İstemi</strong>&#8216;ni seçin. Görüntülenen pencereye&nbsp;<strong>DISM.exe /Online /Cleanup-image /Restorehealth</strong>&nbsp;yazın ve Enter tuşuna basın.&nbsp;</td></tr><tr><td>0xC1900200 – 0x200080xC1900202 – 0x20008</td><td>Bu, bilgisayarınızın Windows&nbsp;10&#8217;u indirme veya Windows&nbsp;10&#8217;a yükseltme için en düşük gereksinimleri karşılamadığını belirtebilir.&nbsp;<a href="https://www.microsoft.com/windows/windows-10-specifications">Windows 10 için minimum gereksinimler hakkında daha fazla bilgi edinin</a></td></tr><tr><td>0x800F0923</td><td>Bu, bilgisayarınızdaki bir sürücünün veya başka bir yazılımın Windows&nbsp;10 yükseltmesi ile uyumlu olmadığını gösterebilir.&nbsp;Bu sorunun nasıl giderileceği hakkında bilgi almak için&nbsp;<a href="http://go.microsoft.com/fwlink/p/?LinkId=530206" target="_blank" rel="noreferrer noopener">Microsoft desteği</a>&nbsp;ile iletişime geçin.</td></tr><tr><td>0x80200056&nbsp;</td><td>Bu, bilgisayarınızı yanlışlıkla yeniden başlattığınız veya bilgisayarınızdaki oturumunuzu kapattığınız için yükseltme işleminin kesildiği anlamına gelebilir. Yükseltmeyi yeniden deneyip bilgisayarınızın prize takılı olduğundan ve açık kaldığından emin olun.</td></tr><tr><td>0x800F0922</td><td>Bu hata, bilgisayarınızın Windows Update sunucularına bağlanamadığı anlamına gelebilir. Bir çalışma ağına bağlanmak için VPN bağlantısı kullanıyorsanız ağ bağlantısını kesin ve VPN yazılımını (varsa) kapatın. Ardından, yeniden yükseltmeyi deneyin.&nbsp;Bu hata, Sistem İçin Ayrılmış bölümde yeterli boş alan olmadığı anlamına da gelebilir. Sistem İçin Ayrılmış bölümün boyutunu artırmak için üçüncü taraf bir yazılım kullanarak bu sorunu giderebilirsiniz.</td></tr><tr><td>Hata: Güncelleştirmeler tamamlanamadı. Değişiklikler geri alınıyor. Bilgisayarınızı kapatmayın.&nbsp;Hata: Windows Güncelleştirmeleri yapılandırılamadı. Değişiklikler geri alınıyor.</td><td>Bu hatalar, bir Windows güncelleştirmesi başarısız olduğunda görüntülenebilen genel hatalardır. Bu sorunu en iyi şekilde nasıl gidereceğinizi araştırmak için özel hata kodunu belirlemeniz gerekir.&nbsp;Güncelleştirme geçmişinizi görüntüleyerek başarısız güncelleştirmenin hata kodunu bulabilirsiniz. Yüklenmeyen güncelleştirmeyi arayın, hata kodunu not edin ve ardından&nbsp;<a href="http://go.microsoft.com/fwlink/p/?LinkId=530206" target="_blank" rel="noreferrer noopener">Microsoft desteği</a>&nbsp;ile iletişime geçin.&nbsp;Windows&nbsp;8.1’de güncelleştirme geçmişinizi görüntülemek için:Windows Update&#8217;i açmak için ekranın sağ kenarından içeri doğru çekin (fare kullanıyorsanız, ekranın sağ alt köşesine gidin ve fare işaretçisini yukarı doğru götürün),&nbsp;<strong>Ayarlar</strong>&nbsp;&nbsp;&gt;&nbsp;<strong>Bilgisayar ayarlarını değiştir</strong>&nbsp;&gt;&nbsp;<strong>Güncelleştirme ve kurtarma&nbsp;</strong>&gt;&nbsp;<strong>Güncelleştirme geçmişinizi görüntüleyin</strong>&#8216;i seçin.Windows&nbsp;7’de güncelleştirme geçmişinizi görüntülemek için:Başlat&nbsp;<img src="https://msegceporticoprodassets.blob.core.windows.net/asset-blobs/14032_en-us_1" alt="Start button icon">&nbsp;düğmesini seçin. Arama kutusuna&nbsp;<strong>Update</strong>&nbsp;yazın ve ardından arama sonuçları listesinde&nbsp;<strong>Windows Update</strong>&gt;&nbsp;<strong>Güncelleştirme geçmişini görüntüle</strong>&nbsp;seçeneğini belirleyin.</td></tr><tr><td>Hata: Güncelleştirme bilgisayarınıza uygulanamaz.</td><td>Bu hata, gerekli olan güncelleştirmelerin bilgisayarınızda yüklü olmadığı anlamına gelebilir.Yükseltmeyi denemeden önce tüm önemli güncelleştirmelerin bilgisayarınızda yüklü olduğundan emin olun.</td></tr><tr><td>0x80070070 – 0x500110x80070070 – 0x500120x80070070 – 0x60000</td><td>Bu, bilgisayarınızda yükseltmeyi yüklemek için yeterli alan olmadığını gösterebilir.Sürücüde biraz alan boşaltıp yeniden deneyin.&nbsp;<a href="https://support.microsoft.com/tr-tr/help/17421">Sürücüde alan boşaltma hakkında ipuçları alın</a></td></tr><tr><td>0x80300024</td><td>Belirtilen disk işlemi; hedef disk, bölüm veya birim tarafından desteklenmiyor.&nbsp;Makinenizin Windows 10&#8217;u yüklemek için&nbsp;<a href="http://go.microsoft.com/fwlink/?LinkID=627550">minimum gereksinimleri</a>&nbsp;karşıladığından emin olun.</td></tr><tr><td>0x80070002 0x20009</td><td>Sistem belirtilen dosyayı bulamıyor.&nbsp;Windows 10&#8217;u yüklemediğiniz bir diskiniz veya diskleriniz varsa bu diskleri kaldırın.&nbsp;</td></tr><tr><td>0xC1900101 0x200170xC1900101 0x30017</td><td>Bir sürücü soruna neden oldu.Tüm 3. taraf virüsten koruma veya casus yazılımdan koruma programlarını devre dışı bırakın ya da kaldırın. Fare, klavye ve ekran dışında sisteme bağlı olan tüm çevre birimi cihazlarının bağlantısını kesin.Güncelleştirilen cihaz sürücülerini edinmek için donanım satıcınız ile iletişime geçin.</td></tr><tr><td>0x8007042B 0x4000D</td><td>Windows Kurulumu, arka planda çalıştırılan başka bir işlem nedeniyle aniden sonlandırıldı.&nbsp;Windows&#8217;u normal bir başlangıç ile başlattığınızda bazı uygulamalar ve hizmetler otomatik olarak başlatılır ve arka planda çalışmaya devam eder. Bu programlar; temel sistem işlemlerini, virüsten koruma yazılımlarını, sistem yardımcı program uygulamalarını ve önceden yüklenmiş diğer yazılımları içerir. Bu uygulamalar ve hizmetler, Windows 10&#8217;u en son sürümüne yükseltmeyi denediğinizde engellemeye neden olabilir.&nbsp;Bir arka plan programının yükseltmeyi engelleyip engellemediğini belirlemenize yardımcı olmak için &#8220;temiz önyükleme&#8221; gerekebilir. Bkz.&nbsp;<a href="https://support.microsoft.com/tr-tr/help/929135">Windows’ta temiz bir önyükleme yapma</a>.​&nbsp;</td></tr><tr><td>0x800700B7 0x2000a</td><td>Windows Kurulumu, arka planda çalıştırılan başka bir işlem nedeniyle aniden sonlandırıldı.Herhangi bir virüsten koruma veya casus yazılımdan koruma yazılımını kaldırın ya da yeniden güncelleştirin. &nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programlama &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/programlama/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 18 Feb 2020 08:39:54 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Programlama &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required</title>
+		<link>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/</link>
+				<comments>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/#respond</comments>
+				<pubDate>Tue, 18 Feb 2020 08:39:53 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for .Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[xamarin.android]]></category>
+		<category><![CDATA[Xamarin.Android The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[xamarin.forms]]></category>
+		<category><![CDATA[Xamarin.Forms The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=703</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim. &#8220;The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for App1.Android.&#8221; Hatada anlaşılacağı gibi android sürümü (4.4 = KitKat) Xamarin.Forms ve Xamarin.Android projesi için uygun değil....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim.</p>
+
+
+
+<span id="more-703"></span>
+
+
+
+<p>&#8220;The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for App1.Android.&#8221;</p>
+
+
+
+<p>Hatada anlaşılacağı gibi android sürümü (4.4 = KitKat) Xamarin.Forms ve Xamarin.Android projesi için uygun değil.</p>
+
+
+
+<p>Hatanın çözümü olarak ProjeAdi.Android -&gt; Properties -&gt; Android Manifest yoluna ulaşarak resimde belirtildiği üzere ayarlamamız gerekmektedir.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/NGVRa5.jpg" alt=""/><figcaption>Minimum Android Version :Android 5.0<br>Target Android Version :Android 9.0</figcaption></figure>
+
+
+
+<p>Eğer eski Android sürürümüne yönelik uygulama geliştirmek isterseniz Xamarin Studio&#8217;yu aşağıdaki adresten indirebilirsiniz.</p>
+
+
+
+<p><a href="https://kubadownload.com/app/xamarin-studio-download">https://kubadownload.com/app/xamarin-studio-download</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Xampp Xdebug yükleme</title>
+		<link>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/#respond</comments>
+				<pubDate>Thu, 13 Feb 2020 08:52:02 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[lampp install xdebug linux]]></category>
+		<category><![CDATA[lampp xdebug yükleme]]></category>
+		<category><![CDATA[linux lampp xdegug yükleme]]></category>
+		<category><![CDATA[linux xampp xdegug yükleme]]></category>
+		<category><![CDATA[pardus lampp xdegug yükleme]]></category>
+		<category><![CDATA[pardus xampp xdegug yükleme]]></category>
+		<category><![CDATA[windows xampp xdegug yükleme]]></category>
+		<category><![CDATA[xampp]]></category>
+		<category><![CDATA[xampp install xdebug linux]]></category>
+		<category><![CDATA[xampp install xdebug windows]]></category>
+		<category><![CDATA[xampp xdebug yükleme]]></category>
+		<category><![CDATA[xdebug]]></category>
+		<category><![CDATA[yükleme]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=698</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği üzere PHP kodlarını Debug (Ayrıştırma) işlevini görmekte. Geçelim Xdebug yüklemeye: Windows için; Xdebug dll dosyasını indirdikten sonra dosyanın ismi &#8220;debug.dll&#8221; olarak değiştirilir. Xdebug Windows dll dosyasını https://xdebug.org/download adresinden indirebilirsiniz debug.dll dosyasını &#8220;C:\xampp\php\ext&#8221; dizinine yapıştırılır. &#8220;C:\xampp\php\&#8221;...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak.</p>
+
+
+
+<p>Xdebug eklentisi bilindiği üzere PHP kodlarını Debug (Ayrıştırma) işlevini görmekte.</p>
+
+
+
+<span id="more-698"></span>
+
+
+
+<p>Geçelim Xdebug yüklemeye:</p>
+
+
+
+<p>Windows için;</p>
+
+
+
+<p>Xdebug dll dosyasını indirdikten sonra dosyanın ismi &#8220;debug.dll&#8221; olarak değiştirilir.</p>
+
+
+
+<p>Xdebug Windows dll dosyasını <a href="https://xdebug.org/download" target="_blank" rel="noreferrer noopener" aria-label="https://xdebug.org/download (yeni sekmede açılır)">https://xdebug.org/download</a> adresinden indirebilirsiniz</p>
+
+
+
+<p>debug.dll dosyasını &#8220;<em>C:\xampp\php\ext</em>&#8221; dizinine yapıştırılır.</p>
+
+
+
+<p>&#8220;<em><em>C:\xampp\php\</em></em>&#8221; dizininde <em><em>php.ini</em></em> dosyasını açıp (notepad veya herhangi bir metin editöründe) aşağıdaki veriler eklenir ve dosya kaydedilir;</p>
+
+
+
+<pre class="crayon-plain-tag">zend_extension = c:\xampp\php\ext\xdebug.dll
+xdebug.remote_enable = 1
+xdebug.remote_handler = dbgp
+xdebug.remote_host = localhost
+xdebug.remote_autostart = 1
+xdebug.remote_port = 9000
+xdebug.show_local_vars = 1</pre>
+
+
+
+<p>Linux için &#8220;terminal&#8221; açılarak(Debian tabanlı) <code>sudo -i</code> veya (Opensuse,Centos gibi) <code>su</code> ifadesi girilir.Root şifresini girdikten sonra aşağıdaki komutlar sırasıyla yazılır;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install autoconf automake libtool m4
+export LANG=&quot;C&quot;
+/opt/lampp/bin/pecl update-channels
+/opt/lampp/bin/pecl install Xdebug</pre>
+
+
+
+<p>&#8220;/opt/lampp/etc/&#8221; dizininde <em><em>php.ini</em></em> dosyasını açıp (gedit veya herhangi bir metin editöründe) aşağıdaki veriler eklenir ve dosya kaydedilir;</p>
+
+
+
+<pre class="crayon-plain-tag">&amp;#91;Xdebug]
+zend_extension=/opt/lampp/lib/php/extensions/xdegugDosyasininOlduguKlasor/xdebug.so
+xdebug.idekey = netbeans-xdebug
+xdebug.profiler_append = 0
+xdebug.profiler_enable = 0
+xdebug.profiler_enable_trigger = 0
+xdebug.profiler_output_name = cachegrind.out.%t-%s
+xdebug.remote_enable = 1
+xdebug.remote_autostart = 0
+xdebug.remote_connect_back = 0
+xdebug.remote_host = 127.0.0.1
+xdebug.remote_port = 9000
+xdebug.remote_handler = dbgp
+xdebug.remote_mode = req
+xdebug.show_local_vars = 9</pre>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Gboard durduruldu</title>
+		<link>https://bilisimkurdu.github.io/gboard-durduruldu/</link>
+				<comments>https://bilisimkurdu.github.io/gboard-durduruldu/#respond</comments>
+				<pubDate>Thu, 19 Dec 2019 09:51:50 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[gboard]]></category>
+		<category><![CDATA[gboard durduruldu]]></category>
+		<category><![CDATA[gboard durduruldu 2019]]></category>
+		<category><![CDATA[gboard durduruldu hatası]]></category>
+		<category><![CDATA[gboard durduruldu hatası 2019]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor 2019]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor hatası]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor hatası 2019]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=670</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak. Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya &#8220;Gboard always stopped&#8221; hatası alınıyorsa; Ayarlar->Uygulamalar->Gboard->(Android 5.0&#8217;dan sonra Depolama->Verileri Temizle)Verileri Temizle aşmaları takip edilerek sorun çözülmüş olur. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>    Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak.</p>
+
+
+
+<p>Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya &#8220;Gboard always stopped&#8221;  hatası alınıyorsa;</p>
+
+
+
+<span id="more-670"></span>
+
+
+
+<p>Ayarlar->Uygulamalar->Gboard->(Android 5.0&#8217;dan sonra Depolama->Verileri Temizle)Verileri Temizle aşmaları takip edilerek sorun çözülmüş olur.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/gboard-durduruldu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/#respond</comments>
+				<pubDate>Thu, 07 Nov 2019 12:33:24 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.]]></category>
+		<category><![CDATA[Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
+		<category><![CDATA[MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=628</guid>
+				<description><![CDATA[Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; &#8220;Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtrerem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda bir hatanın çözümü hakkında olacak.</p>
+
+
+
+<p>MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken </p>
+
+
+
+<p>&#8220;Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221;</p>
+
+
+
+<span id="more-628"></span>
+
+
+
+<p>&#8220;Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.&#8221;</p>
+
+
+
+<p>hatasının çözümü;</p>
+
+
+
+<p>&#8220;Çözüm : NuGet -> Sağ tık -> Geri Yükle&#8221; yöntemleri uygulanarak çözülebilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
+		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
+				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Android Studio HAXM This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[Android studio This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[haxm This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology çözümü]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım.</p>
+
+
+
+<p>This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır;</p>
+
+
+
+<span id="more-578"></span>
+
+
+
+<p><strong>Eğer BIOS üzerinden VT-x ayarı enable ise;</strong></p>
+
+
+
+<p>1)Hyper-V yüklü ise disable ediniz.</p>
+
+
+
+<p>Hyper-V disable etmek için;</p>
+
+
+
+<p>Control Panel-&gt;<em>&nbsp;Program and Feature</em> -&gt;T<em>urn Window Features on and off</em> -&gt;Hyper-V işaretliyse kaldırılıp Bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>2)Windows 10 kullanıyorsanız;</p>
+
+
+
+<p>Windows Defender settings &gt; Device security &gt; Core isolation details &gt; Memory integrity &gt; Off&nbsp;konumuna getirilerek bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>3)CMD yönetici olarak çalıştırarak aşağıdaki komut girilerek bilgisayar yeniden başlatılır.</p>
+
+
+<p>bcdedit /set hypervisorlaunchtype off</p>
+
+
+
+<p>4)</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=53337">https://www.microsoft.com/en-us/download/details.aspx?id=53337</a> adresinden Device Guard and Credential Guard&nbsp;tool indirilir ve CMD administrator olarak çalıştıralak toolun bulunduğu klasöre işaret edilerek (cd komutuyla) aşağıdaki komut girilir.</p>
+
+
+<p>DG_Readiness_Tool_v3.6.ps1 -disable</p>
+
+
+
+<p>5) BIOS&#8217;a girilerek VT-x disable moduna alındıktan sonra bilgisayar yeniden başlatılarak BIOS&#8217;a girilerek VT-x modu enable moduna getirilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Linux Unity yükleme</title>
+		<link>https://bilisimkurdu.github.io/linux-unity-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
+				<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[debian install unity]]></category>
+		<category><![CDATA[Debian Unity yükleme]]></category>
+		<category><![CDATA[Debian Unity yükleme 2019]]></category>
+		<category><![CDATA[Linux install Unity]]></category>
+		<category><![CDATA[Linux İnstall Unity 2019]]></category>
+		<category><![CDATA[Linux Unity yükleme]]></category>
+		<category><![CDATA[Linux Unity yükleme 2019]]></category>
+		<category><![CDATA[opensuse install Unity]]></category>
+		<category><![CDATA[Suse install Unity]]></category>
+		<category><![CDATA[Ubuntu install Unity]]></category>
+		<category><![CDATA[Ubuntu Unity yükleme]]></category>
+		<category><![CDATA[Ubuntu Unity yükleme 2019]]></category>
+		<category><![CDATA[Unity Hub]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır. Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim.</p>
+
+
+
+<span id="more-485"></span>
+
+
+
+<p><a href="https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/">https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/</a> adresinden Linux için Unity Hub indirilir.</p>
+
+
+
+<p>UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır.</p>
+
+
+
+<pre class="wp-block-code"><code>chmod +x UnityHubSetup.AppImage
+./UnityHubSetup.AppImage</code></pre>
+
+
+
+<p>Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/gPqB8O.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
+				<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.NET Core]]></category>
+		<category><![CDATA[.NET Core v2.2.105]]></category>
+		<category><![CDATA[dotnet MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
+		<category><![CDATA[dotnet MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
+		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
+		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
+				<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly. hatasının çözümü konusunda olacak. 1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi. 2-)Birinci adım olmazsa ; .NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için tıklayınız.) gerekmektedir....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtererem Ziyeretçiler,</p>
+
+
+
+<p>Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken <strong>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</strong> / <strong>MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly.</strong> hatasının çözümü konusunda olacak.</p>
+
+
+
+<span id="more-481"></span>
+
+
+
+<p>1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/jqnQZW.png" alt=""/></figure>
+
+
+
+<p>2-)Birinci adım olmazsa ;</p>
+
+
+
+<p>.NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için <a rel="noreferrer noopener" aria-label="tıklayınız (yeni sekmede açılır)" href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-2.2.105" target="_blank">tıklayınız</a>.) gerekmektedir.</p>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
+				<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[ASP.NET web sunucusu başlatılamıyor ve Mono ortamı değiştirilemiyor]]></category>
+		<category><![CDATA[MonoDevelop]]></category>
+		<category><![CDATA[monodevelop asp.net]]></category>
+		<category><![CDATA[monodevelop asp.net server not starting]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
+				<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open Suse tabanlı sistemlerde Fedora (Sunucuya kuruyorsanız) Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merthaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim.</p>
+
+
+
+<p>Eğer bilgisayarlarınızda MonoDevelop kuruluysa;</p>
+
+
+
+<span id="more-476"></span>
+
+
+
+<p>Debian/Ubuntu tabanlı sistemlerde</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install xsp4</code></pre>
+
+
+
+<p>Open Suse tabanlı sistemlerde</p>
+
+
+
+<pre class="wp-block-code"><code>sudo zypper install xsp4</code></pre>
+
+
+
+<p>Fedora (Sunucuya kuruyorsanız)</p>
+
+
+
+<pre class="wp-block-code"><code>su -c "yum install xsp4"</code></pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
+				<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[asp.net]]></category>
+		<category><![CDATA[ASP.NET MVC]]></category>
+		<category><![CDATA[ASP.NET MVC Core]]></category>
+		<category><![CDATA[linux asp.net mvc core install]]></category>
+		<category><![CDATA[linux net core install]]></category>
+		<category><![CDATA[MonoDevelop]]></category>
+		<category><![CDATA[monodevelop asp.net]]></category>
+		<category><![CDATA[monodevelop asp.net core]]></category>
+		<category><![CDATA[monodevelop asp.net mvc]]></category>
+		<category><![CDATA[monodevelop net core]]></category>
+		<category><![CDATA[monodevelop net core problem]]></category>
+		<category><![CDATA[mvc]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim. Problemin çözümü olarak https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız. Eğer yukarıdaki gibi .NET...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu.</p>
+
+
+
+<p>Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim.</p>
+
+
+
+<span id="more-473"></span>
+
+
+
+<p>Problemin çözümü olarak <a href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current">https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current</a> adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/od3VkQ.png" alt=""/></figure>
+
+
+
+<p>Eğer yukarıdaki gibi .NET Core görünmüşse başarıyla yüklenmiştir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Cannot save&#8217;&#8230;Models\Model1.edmx&#8217;: Could not load file or assembly &#8230;</title>
+		<link>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/</link>
+				<comments>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/#respond</comments>
+				<pubDate>Fri, 03 May 2019 18:38:21 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[Cannot load Model.edmx]]></category>
+		<category><![CDATA[Cannot load model.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot load Model1.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot save Model1.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot save'...Models\Model1.edmx': Could not load file or assembly...]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[provider]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız; ComponentModelCache temizliği Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz. Visual Studio 2017 için;...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak.</p>
+
+
+
+<p>Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız;</p>
+
+
+
+<span id="more-464"></span>
+
+
+
+<p><em><strong>ComponentModelCache temizliği</strong></em></p>
+
+
+
+<p>Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz.</p>
+
+
+
+<p>Visual Studio 2017 için;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\15.0\ComponentModelCache</code></pre>
+
+
+
+<p>Visual Studio 2015 için;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p> Visual Studio 2013 için; </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p>Visual Studio 2012 için;  </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\11.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\11.0\ComponentModelCache</code></pre>
+
+
+
+<p> Visual Studio 2010 için;   </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p>Veya otomatik temizlemek isterseniz aşağıdaki adresten Visual Studio eklentisini indirip kurabilirsiniz.</p>
+
+
+
+<p><a href="https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache">https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache</a></p>
+
+
+
+<p><em><strong>EntitiyFramework oluşturulurken faydanılan Data Provider (Connector) onarımı veya tekrardan kurulumu</strong></em></p>
+
+
+
+<p>Misal olarak MySQL provider <a rel="noreferrer noopener" aria-label="MySQL .net Provider (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/connector/net/" target="_blank">MySQL .net Provider</a> ve <a rel="noreferrer noopener" aria-label="MySQL for Visual Studio (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/windows/visualstudio/" target="_blank">MySQL for Visual Studio</a></p>
+
+
+
+<p>Bir Misal daha verirsek <a rel="noreferrer noopener" aria-label="Oracle ODP.NET (yeni sekmede açılır)" href="https://www.oracle.com/technetwork/topics/dotnet/index-085163.html" target="_blank">Oracle ODP.NET</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Microsoft Free eBook Giveaway</title>
+		<link>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/</link>
+				<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft free e-book]]></category>
+		<category><![CDATA[microsoft free ebook]]></category>
+		<category><![CDATA[microsoft virtual academy]]></category>
+		<category><![CDATA[mva]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz. https://yadi.sk/d/WgEStyM6iSdkvA (Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.) İyi Akşamlar.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>30 Nisan&#8217;da <a rel="noreferrer noopener" aria-label="Microsoft MVA (yeni sekmede açılır)" href="https://mva.microsoft.com/" target="_blank">Microsoft MVA</a> programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır.</p>
+
+
+
+<span id="more-460"></span>
+
+
+
+<p>Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz.</p>
+
+
+
+<p><a href="https://yadi.sk/d/WgEStyM6iSdkvA">https://yadi.sk/d/WgEStyM6iSdkvA</a></p>
+
+
+
+<p>(Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.)</p>
+
+
+
+<p>İyi Akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>C# RSS Reader UTF-8 problemi</title>
+		<link>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/</link>
+				<comments>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/#respond</comments>
+				<pubDate>Mon, 08 Apr 2019 20:09:41 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[C# RSS Reader UTF-8 problem]]></category>
+		<category><![CDATA[C# RSS Reader UTF-8 problemi]]></category>
+		<category><![CDATA[C# RSS UTF-8 problem]]></category>
+		<category><![CDATA[C# RSS UTF-8 problemi]]></category>
+		<category><![CDATA[cs]]></category>
+		<category><![CDATA[csharp]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[RSS Reader UTF-8 problem]]></category>
+		<category><![CDATA[utf-8]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=454</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki gibi veya benzer bir kodlarla alıyorsanız; Aşağıdaki gibi düzenlemeniz gerekmektedir. Açıklarsak,WebClient türünde webClient nesnesini oluşturarak using deyimi içinde utf-8 uyumlu olacak şekilde parse ettik. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak.</p>
+
+
+
+<span id="more-454"></span>
+
+
+
+<p>Eğer RSS dosyasını aşağıdaki gibi veya benzer bir kodlarla alıyorsanız;</p>
+
+
+
+<pre class="crayon-plain-tag">WebClient wclient = new WebClient();  
+            string RSSData=wclient.DownloadString(RSSURL);  
+            XDocument xml = XDocument.Parse(RSSData);  
+            var RSSFeedData = (from x in xml.Descendants(&quot;item&quot;)  
+                             select new RSSFeed  
+                             {  
+                                 Title = ((string)x.Element(&quot;title&quot;)),  
+                                 Link = ((string)x.Element(&quot;link&quot;)),  
+                                 Description = ((string)x.Element(&quot;description&quot;)),  
+                                 PubDate = ((string)x.Element(&quot;pubDate&quot;))  
+                             });</pre>
+
+
+
+<p>Aşağıdaki gibi düzenlemeniz gerekmektedir.</p>
+
+
+
+<pre class="crayon-plain-tag">WebClient wclient = new WebClient();
+            string RSSData = &quot;&quot;;
+
+            using (WebClient webClient = new WebClient())
+            {
+                webClient.Encoding = Encoding.UTF8;
+                RSSData = webClient.DownloadString(RSSURL);
+            }
+
+            XDocument xml = XDocument.Parse(RSSData);
+            xml.Declaration.Encoding = &quot;utf-8&quot;;
+            var RSSFeedData = (from x in xml.Descendants(&quot;item&quot;)
+                               select new RSSHaber
+                               {
+                                   Title = ((string)x.Element(&quot;title&quot;)),
+                                   Link = ((string)x.Element(&quot;link&quot;)),
+                                   Description = ((string)x.Element(&quot;description&quot;)),
+                                   PubDate = ((string)x.Element(&quot;pubDate&quot;)),
+
+
+                               }
+
+                               );</pre>
+
+
+
+<p>Açıklarsak,WebClient türünde webClient nesnesini oluşturarak using deyimi içinde utf-8 uyumlu olacak şekilde parse ettik.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MySQL for Visual Studio guid error</title>
+		<link>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/</link>
+				<comments>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 20:19:35 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.NET connector and getting the error “Guid should contain 32 digits and 4 dashes]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes çözümü]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes error]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes hatası]]></category>
+		<category><![CDATA[MySQL for Visual Studio guid error]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
+				<description><![CDATA[Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü : Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. &#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir. &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Dostlar,</p>
+
+
+
+<p>Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım.</p>
+
+
+
+<span id="more-451"></span>
+
+
+
+<p>Hata iletisi:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/RrzLVn.jpg" alt=""/></figure>
+
+
+
+<p>Çözümü :</p>
+
+
+
+<ul><li>Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. </li><li>&#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir.</li><li> &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır.</li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/ZXBrLk.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/k9d3Ly.jpg" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The devenv /updateconfiguration command may have failed</title>
+		<link>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/</link>
+				<comments>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 19:52:25 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed error]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed hatası]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed error]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed hatası]]></category>
+		<category><![CDATA[The devenv /update configuration command may have failed]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm yöntemi: C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ &#60;instance_id&#62; \privateregistry.bin dosyası silinir. Program tekrardan kurma\kaldırma işlemi gerçekleşir. Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde &#8220;privateregistry.bin&#8221; dosyası silinir. Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım.</p>
+
+
+
+<span id="more-445"></span>
+
+
+
+<p>Hata iletisi :</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/LlzJ5b.png" alt=""/></figure>
+
+
+
+<p>İlk Çözüm yöntemi:</p>
+
+
+
+<p>C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ <br><strong>&lt;instance_id&gt;</strong> \privateregistry.bin dosyası silinir.</p>
+
+
+
+<p>Program tekrardan kurma\kaldırma işlemi gerçekleşir.</p>
+
+
+
+<p>Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde  <br>&#8220;<strong>privateregistry.bin</strong>&#8221; dosyası silinir.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
+
+
+
+<p>İkinci Çözüm yöntemi;</p>
+
+
+
+<p>(Eğer birden fazla Visual Studio kurulmuşsa önerilir.)</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
+
+
+
+<p>regedit.exe -&gt; HKEY_LOCAL_MACHINE -&gt; SOFTWARE -&gt; Microsoft -&gt; Windows -&gt; Currentversion -&gt; App Paths -&gt; devenv.exe-&gt; (Default) değerlerin kullandığınız Visual Studio versiyonuzun devenv.exe dosyası olduğundan emin olunuz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/dvd6mL.jpg" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.<br></p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Entity Framework&#8217;ü MYSQL&#8217;de kullanmak</title>
+		<link>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/</link>
+				<comments>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 19:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[ado.net mysql]]></category>
+		<category><![CDATA[ado.net mysql bağlantı]]></category>
+		<category><![CDATA[ado.net mysql bağlantısı]]></category>
+		<category><![CDATA[ado.net mysql connect]]></category>
+		<category><![CDATA[c# mysql]]></category>
+		<category><![CDATA[c# mysql bağlantı]]></category>
+		<category><![CDATA[c# mysql connect]]></category>
+		<category><![CDATA[Entity Framework]]></category>
+		<category><![CDATA[entity framework mysql]]></category>
+		<category><![CDATA[entity framework mysql bağlantı]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=442</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir. MYSQL for Visual Studio (MSI Installer): https://dev.mysql.com/downloads/windows/visualstudio/ MYSQL Connector/NET : https://dev.mysql.com/downloads/connector/net/8.0.html adreslerinden temin edebilirsiniz. MYSQL for Visual Studio kurarken &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun. The devenv /updateconfiguration...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım.</p>
+
+
+
+<p>Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir.</p>
+
+
+
+<span id="more-442"></span>
+
+
+
+<p>MYSQL for Visual Studio (MSI Installer): <a rel="noreferrer noopener" aria-label="https://dev.mysql.com/downloads/windows/visualstudio/ (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/windows/visualstudio/" target="_blank">https://dev.mysql.com/downloads/windows/visualstudio/</a></p>
+
+
+
+<p>MYSQL Connector/NET  : <a href="https://dev.mysql.com/downloads/connector/net/8.0.html" target="_blank" rel="noreferrer noopener" aria-label="https://dev.mysql.com/downloads/connector/net/8.0.html (yeni sekmede açılır)">https://dev.mysql.com/downloads/connector/net/8.0.html</a></p>
+
+
+
+<p>adreslerinden temin edebilirsiniz.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>MYSQL for Visual Studio kurarken  &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun.</p><p><a rel="noreferrer noopener" aria-label="The devenv /usipdate configuration command may have failed
+ (yeni sekmede açılır)" href="http://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a><br></p></blockquote>
+
+
+
+<p>Peki programı yükledim nasıl kullanacağım?</p>
+
+
+
+<p>Visual Studio&#8217;yu açıp projemizi oluşturduktan sonra;</p>
+
+
+
+<p>Sağ tık -&gt; Add Item -&gt; Data -&gt; ADO.NET Data Model</p>
+
+
+
+<figure class="wp-block-image"><img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/entity-framework-in-mvc-part-one/Images/image010.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/entity-framework-in-mvc-part-one/Images/image010.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/BaQVZD.jpg" alt=""/></figure>
+
+
+
+<p>&#8220;Data Source&#8221; seçeneğinde &#8220;MySQL Database&#8221; seçilip &#8220;OK&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/ZXBrLk.jpg" alt=""/></figure>
+
+
+
+<p>Gerekli bilgileri girildikten sonra &#8220;OK&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/oXWLA7.jpg" alt=""/></figure>
+
+
+
+<p>Akabinde &#8220;Next&#8221; butonuna tıklandıktan sonra ADO.NET penceresi kendiliğinden kapanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/8avGZV.jpg" alt=""/></figure>
+
+
+
+<p>Solution Explorer sekmesinde beyaz karenin içinde bulunan simgeye tıklandıktan sonra karşımıza çıkan pencerelerden çıkan seçeneklere dokunmadan &#8220;Next&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/nQ6vAR.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/v620gp.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/16W9YG.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/LlzJpb.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/r5kqg1.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/7anOoa.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/qdkg4Q.jpg" alt=""/></figure>
+
+
+
+<p>&#8220;Finish&#8221; butonuna tıkladıktan sonra biraz beklenir ve eklediğimiz mevcut database bağlantısının modeli oluşturulur.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/MVGz62.jpg" alt=""/></figure>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>C# Entity Framework üzerinden &#8220;Select&#8221; ve &#8220;Like&#8221; deyimleri</title>
+		<link>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</link>
+				<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
+				<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[C# Entity Framework like]]></category>
+		<category><![CDATA[C# Entity Framework like query]]></category>
+		<category><![CDATA[C# Entity Framework like sorguları]]></category>
+		<category><![CDATA[C# Entity Framework select]]></category>
+		<category><![CDATA[C# Entity Framework select query]]></category>
+		<category><![CDATA[C# Entity Framework select sorguları]]></category>
+		<category><![CDATA[Entity Framework]]></category>
+		<category><![CDATA[like]]></category>
+		<category><![CDATA[select]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim. Şimdi başlayalım; Where SQL dilinde &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk; Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; s parametrasiyle studentName değeri &#8220;Bill&#8221; değerini...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım.</p>
+
+
+
+<p>Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim.</p>
+
+
+
+<span id="more-438"></span>
+
+
+
+<p>Şimdi başlayalım;</p>
+
+
+
+<p><strong>Where</strong></p>
+
+
+
+<p>SQL dilinde  &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk;</p>
+
+
+
+<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</pre>
+
+
+
+<p>Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak;</p>
+
+
+
+<p><strong>s</strong> parametrasiyle studentName değeri &#8220;Bill&#8221; değerini içeren ögeleri listeledik.</p>
+
+
+
+<pre class="crayon-plain-tag">//Entity Framework 
+//SchoolDBEntities tanımladığımızı varsayıyoruz.
+using (var context = new SchoolDBEntities())
+{
+    var query = context.Students
+                       .where(s =&gt; s.StudentName == &quot;Bill&quot;)
+                       .FirstOrDefault&amp;lt;Student&gt;();
+}</pre>
+
+
+
+<p><strong>Like</strong></p>
+
+
+
+<p> SQL dilinde  &#8220;Like&#8221; ifadesini aşağıdaki gibi kullanıyorduk; </p>
+
+
+
+<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE 
+satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
+
+
+
+<p> Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; </p>
+
+
+
+<p><code>person</code> değişkenini <code>context.People</code> içine alınıp <code>where person.FirstName.Like("Col%")</code>deyiminden sonra seçilmekte.</p>
+
+
+
+<pre class="crayon-plain-tag">var query =
+    from person in context.People
+    where person.FirstName.Like(&quot;Col%&quot;)
+    select person;</pre>
+
+
+
+<p>Bu yazımla birlikte C# Entity Framework temel sorguları anlatmış oldum.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at &#8230; hatasının çözümü</title>
+		<link>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/</link>
+				<comments>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/#respond</comments>
+				<pubDate>Mon, 04 Mar 2019 18:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[ASP.NET CORE]]></category>
+		<category><![CDATA[ASP.NET MVC]]></category>
+		<category><![CDATA[ASP.NET MVC Core]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at 'C:\Program Files\dotnet\sdk\' will be displayed.]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+		<category><![CDATA[Visual Studio 2017]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=424</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak. Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel olarak güncelllenmesinden sonra yaşanabilmekte olup hata aşağıdaki resimdedir. x86 :32bit işletim sistemleri x64 :64bit işletim sistemleri Ufak bir hatırlatma 🙂 Bu hatayı ASP:NET Core yükseltmesini hem x86 hem de x64&#8217;e yapmışsınızdır çözümü olarak (İşletim sisteminiz...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak.</p>
+
+
+
+<p>Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel olarak güncelllenmesinden sonra yaşanabilmekte olup hata aşağıdaki resimdedir.</p>
+
+
+
+<span id="more-424"></span>
+
+
+
+<figure class="wp-block-image"><img src="https://docs.microsoft.com/tr-tr/aspnet/core/test/troubleshoot/_static/multiplelocations.png?view=aspnetcore-2.2" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p>x86 :32bit işletim sistemleri</p><p>x64 :64bit işletim sistemleri</p><cite>Ufak bir hatırlatma <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></cite></blockquote>
+
+
+
+<p>Bu hatayı ASP:NET Core yükseltmesini hem x86 hem de x64&#8217;e yapmışsınızdır çözümü olarak (İşletim sisteminiz x64 kullanıyorsanız) ASP.NET Core x86 güncellemesini kaldırmanız gerekir. (İşletim sisteminiz x86 ise x64 yükleyemezsiniz.)</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.<br></p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Genel Programlama Mantığı &#8211; 3</title>
+		<link>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/</link>
+				<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/#respond</comments>
+				<pubDate>Sun, 10 Dec 2017 10:12:17 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[algoritma]]></category>
+		<category><![CDATA[aşama]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[csharp]]></category>
+		<category><![CDATA[döngü]]></category>
+		<category><![CDATA[döngüler]]></category>
+		<category><![CDATA[programlama]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır. • Problem : Problemin belirlenmesi. • Problem analizi : Problem analizi yapılarak çözüm aranmaya çalışılır. • Çözüm : Problemi en kısa sürede ve en doğru biçimde çözen yöntemdir. •...]]></description>
+								<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
+<p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
+<p><img src="http://www.robotiksistem.com/program_adimlari.jpg" alt="Program Yazma Aşamaları" /></p>
+<p>Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır.</p>
+<p>• Problem : Problemin belirlenmesi.<br />
+• Problem analizi : Problem analizi yapılarak çözüm aranmaya çalışılır.<br />
+• Çözüm : Problemi en kısa sürede ve en doğru biçimde çözen yöntemdir.<br />
+• Algoritma : Çözüme götüren yolların belirlenmesi yani programlamanın algoritması oluşturulması<br />
+• Akış diyagramı : Algoritmanın anlaşılacak şekilde yani akış diyagramı ile gösterilmesi<br />
+• Programın yazımı ve hataların düzeltilmesi : Algoritmanın bir programlama dili ile program haline getirilmesi ve hataların düzeltilmesi<br />
+• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Genel Programlamlama Mantığı &#8211; 2</title>
+		<link>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/</link>
+				<comments>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/#respond</comments>
+				<pubDate>Mon, 23 Oct 2017 16:55:11 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[algoritma]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[csharp]]></category>
+		<category><![CDATA[döngü]]></category>
+		<category><![CDATA[döngüler]]></category>
+		<category><![CDATA[programlama]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=247</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın şekil bulmuş halidir. Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır. Başla &#8211; Bitir Klavyeden veri al Yazdır Kart okuyucu aracılığıyla giriş yapılacağını gösterir. Değişken atama Aritmetik hesaplama Eğer Diskten okuma ya da diskete yazmayı...]]></description>
+								<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Bu yazımda akış şemasını göstereceğim.</p>
+<p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
+<p>Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır.<br />
+<span id="more-247"></span></p>
+<table>
+<tbody>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-1.jpg" /></center></td>
+<td>Başla &#8211; Bitir</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-2.jpg" /></center></td>
+<td>Klavyeden veri al</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-3.jpg" /></center></td>
+<td>Yazdır</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-4.jpg" /></center></td>
+<td>Kart okuyucu aracılığıyla giriş yapılacağını gösterir.</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_5.jpg" /></center></td>
+<td>Değişken atama</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_6.jpg" /></center></td>
+<td>Aritmetik hesaplama</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_7.jpg" /></center></td>
+<td>Eğer</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_8.jpg" /></center></td>
+<td>Diskten okuma ya da diskete yazmayı gösterir.</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_9.jpg" /></center></td>
+<td>Disketten okuma ya da diskete yazmayı gösterir.</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_10.jpg" /></center></td>
+<td>Teyp kütüğünü gösterir.</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_11.jpg" /></center></td>
+<td>Döngü işlevinde kullanılmakta</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s29-12.jpg" /></center></td>
+<td>Akış diyagramında iki nokta arası ilişkiyi gösterir.Döngü sonunu göstermek için ya da diyagramın çizilemediği durumlarda kulllanılır. Burada i herhangi bir sembol olabilir.</td>
+</tr>
+<tr>
+<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s29-13.jpg" /></center></td>
+<td>Akış yönü</td>
+</tr>
+</tbody>
+</table>
+<p>Örnek bir algoritma örneği verirsek;</p>
+<table class="codeTable" style="height: 484px;" width="739">
+<caption>Algoritma</caption>
+<tbody>
+<tr>
+<td>
+<pre class="crayon-plain-tag">Adım 1-Başla
+
+Adım 2-I18=0 I19=0 I20=0 I21=0 I22=0 IYOS=0
+
+Adım 3-OSA oku
+
+Adım 4-OSA=18 ise I18'i arttır, Adım 9'a git
+
+Adım 5-OSA=19 ise I19'u arttır, Adım 9'a git
+
+Adım 6-OSA=20 ise I20'yi arttır,Adım 9'a git
+
+Adım 7-OSA=21 ise I21'i arttır,ADım 9'a git
+
+Adım 8-OSA=22 ise I22'Yİ arttır,Adım 9'a git
+
+Adım 9-IYOS&amp;lt;100 ise Adım 3'e git
+
+Adım 10-I18,I19,I20,I21,I22,yaz
+
+Adım 11-DUR</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="imgTable">
+<caption>Akış Şeması</caption>
+<tbody>
+<tr>
+<td><img class="" src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s39.jpg" width="370" height="445" /></td>
+</tr>
+</tbody>
+</table>
+<p>Genel Programlama Mantığını (Programlama Temelleri) iki yazımda klavyemin döndüğünce anlatmaya çalıştım.</p>
+<p>İyi akşamlar dilerim.</p>
+<p>Referens alınmıştır : <a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Genel Programlama Mantığı &#8211; 1</title>
+		<link>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/</link>
+				<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/#respond</comments>
+				<pubDate>Fri, 20 Oct 2017 20:39:36 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[algoritma]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[csharp]]></category>
+		<category><![CDATA[döngü]]></category>
+		<category><![CDATA[döngüler]]></category>
+		<category><![CDATA[programlama]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=235</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz. Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz. Algoritma Başla komutuyla başlar Bitir komutyla biter. Örnekler verirsek; A1 : Başla. A2 : &#8220;Merhaba Dünya&#8221; yazdır. A3 : Bitir. Bahsettiğimiz...]]></description>
+								<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım.</p>
+<p>Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz.</p>
+<p>Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz.</p>
+<p>Algoritma Başla komutuyla başlar Bitir komutyla biter.</p>
+<p><span id="more-235"></span></p>
+<p>Örnekler verirsek;</p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2 : &#8220;Merhaba Dünya&#8221; yazdır.</p>
+<p>A3 : Bitir.</p></blockquote>
+<p>Bahsettiğimiz gibi algoritma Başla komutuyla başlar Bitir komutyla biter.</p>
+<p>Bir veri yazdırıken çift tırnak içinde metin yazdırılır.</p>
+<p>Ama sistemde işlem gerekip o işlem sonucunun yazdırması için değişken atanması gerekmektedir.</p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2 : a değişkenini ata</p>
+<p>A3 : a değişkenine 5 değerini ver.</p>
+<p>A4: a değişkenini yazdır.</p>
+<p>A5 : Bitir.</p></blockquote>
+<p>&nbsp;</p>
+<p>Değişken ile işlem yapılırken önce değişken atanır sonra değer verilir. Ama değişken atanırken değer verilebilir.</p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2 : a değişkenini atayıp 5 değerini ver.</p>
+<p>A3: a değişkenini yazdır.</p>
+<p>A4 : Bitir.</p></blockquote>
+<p>İllaki atanan değişken yazdırmak zorunda değiliz. Ama gerektiği durumda yazdırmamız gerekir.</p>
+<p>Programlamada işlemler:</p>
+<blockquote><p>Toplama : +</p>
+<p>Çıkarma : &#8211;</p>
+<p>Çarpma : *</p>
+<p>Bölme : /</p>
+<p>Mod (Kalan) : %</p></blockquote>
+<p>İşlem öncelikleri:</p>
+<blockquote><p>Parantez ()</p>
+<p>Çarpma veya bölme * /</p>
+<p>Toplama veya Çıkarma + &#8211;</p></blockquote>
+<p>İşlemlerden algoritma örnekleri :</p>
+<p><strong>Toplama :</strong></p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 6 değerini ver.</p>
+<p>A3 : y değişkenini ata ve 2 değerini ver.</p>
+<p>A4 z değişkenini ata ve x+y değerini ver.</p>
+<p>(veya A4 :z değişkenini ata.</p>
+<p>A5 : z=x+y işlemini yap. algoritmasını uygulayabiliriz. )</p>
+<p>A5 : z değişkenini yazdır.</p>
+<p>A6 : Bitir.</p></blockquote>
+<p><strong>Çıkarma :</strong></p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 6 değerini ver.</p>
+<p>A3 : y değişkenini ata ve 2 değerini ver.</p>
+<p>A4 z değişkenini ata ve x-y değerini ver.</p>
+<p>(veya A4 :z değişkenini ata.</p>
+<p>A5 : z=x-y işlemini yap. algoritmasını uygulayabiliriz. )</p>
+<p>A5 : z değişkenini yazdır.</p>
+<p>A6 : Bitir.</p></blockquote>
+<p><strong>Çarpma :</strong></p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 6 değerini ver.</p>
+<p>A3 : y değişkenini ata ve 2 değerini ver.</p>
+<p>A4 z değişkenini ata ve x*y değerini ver.</p>
+<p>(veya A4 :z değişkenini ata.</p>
+<p>A5 : z=x*y işlemini yap. algoritmasını uygulayabiliriz. )</p>
+<p>A5 : z değişkenini yazdır.</p>
+<p>A6 : Bitir.</p></blockquote>
+<p><strong>Bölme :</strong></p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 6 değerini ver.</p>
+<p>A3 : y değişkenini ata ve 2 değerini ver.</p>
+<p>A4 z değişkenini ata ve x/y değerini ver.</p>
+<p>(veya A4 :z değişkenini ata.</p>
+<p>A5 : z=x/y işlemini yap. algoritmasını uygulayabiliriz. )</p>
+<p>A5 : z değişkenini yazdır.</p>
+<p>A6 : Bitir.</p></blockquote>
+<p><strong>Mod :</strong></p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 6 değerini ver.</p>
+<p>A3 : y değişkenini ata ve 2 değerini ver.</p>
+<p>A4 z değişkenini ata ve x%y değerini ver.</p>
+<p>(veya A4 :z değişkenini ata.</p>
+<p>A5 : z=x%y işlemini yap. algoritmasını uygulayabiliriz. )</p>
+<p>A5 : z değişkenini yazdır.</p>
+<p>A6 : Bitir.</p></blockquote>
+<p>Bazen değişkenlerle matematiksel işlem değilde karşılaştırmak gerekmekte. Algoritma mantığında ise,</p>
+<p><em><strong>Eğer</strong> </em>şu doğru <strong><em>ise</em></strong></p>
+<p>Belirtilen <em><strong>işlemi yap.</strong></em></p>
+<p><em><strong>Eğer</strong> </em>şu yanlış <em><strong>ise</strong></em></p>
+<p>Belirtilen <em><strong>işlemi yap.</strong></em></p>
+<p>Ve iki veya ikiden fazla değeri karşılaştırmak gerekmektedir.</p>
+<blockquote><p>Küçüktür : &lt;</p>
+<p>Büyüktür : &gt;</p>
+<p>Küçükeşittir : &lt;=</p>
+<p>Büyükeşittir : &gt;=</p>
+<p>Eşittir : ==</p>
+<p>Değişken Atama : =</p></blockquote>
+<p>Not : Aşağıdaki mantık yürütmeyle Büyükeşittir ile Küçükeşittir işaretlerini anlatmaya çalışmışımdır.</p>
+<blockquote><p>Küçük : &lt; Eşittir : == Küçük eşittir : &lt;=</p>
+<p>Büyük &gt; Eşittir : == Büyükeşittir : &gt;=</p></blockquote>
+<p>Birkaç örnekle anlatayım;</p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 6 değerini ver.</p>
+<p>A3 : y değişkenini ata ve 2 değerini ver.</p>
+<p>A4 Eğer x&lt;y ise</p>
+<p>A5 : &#8220;x küçüktür.&#8221; yazdır.</p>
+<p>A5 :Eğer tam tersiyle</p>
+<p>A6 : &#8220;y küçüktür.&#8221; yazdır.</p>
+<p>A7 : Bitir.</p></blockquote>
+<p>Eğer diğer işaretlerle de yapmak istiyorsanız A4&#8217;te aşağıdaki değerler gelmelidir.</p>
+<p>Eşittir için;</p>
+<blockquote><p>A4 : Eğer x==y ise</p></blockquote>
+<p>Büyüktür için;</p>
+<blockquote><p>A4 : Eğer x&gt;y ise</p></blockquote>
+<p>Büyükeşittir için;</p>
+<blockquote><p>A4 : Eğer x&gt;=y ise</p></blockquote>
+<p>Küçük eşittir için;</p>
+<blockquote><p>A4 : Eğer x&lt;=y ise</p></blockquote>
+<p>Bazen komutları belli bir döngüye göre çalıştırmak isteyebiliriz. Döngüde algoritma mantığı şu şekilde;</p>
+<blockquote><p>DÖNGÜ başlangıç &#8230;&#8230; bitiş +artış miktarı</p>
+<p>Başlangıç&#8217;tan bitiş&#8217;e kadar artış miktarı&#8217;na göre komut&#8217;u uygula</p></blockquote>
+<p>Bir örnekle anlatırsak;</p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 0 değerini ver.</p>
+<p>A3 : x&#8217;i 0&#8217;dan 10&#8217;a kadar 1&#8217;e artışla x&#8217;i 1 arttır.</p>
+<p>A4 x&#8217;i yazdır.</p>
+<p>A5 : Bitir.</p></blockquote>
+<p>Bazen verileri klavyeden almak isteyebiliriz.</p>
+<blockquote><p>A1 : Başla.</p>
+<p>A2: x değişkenini ata ve 0 değerini ver.</p>
+<p>A3 : Klavyeden veri al ve alınan veriyi x&#8217;e ata.</p>
+<p>A4 x&#8217;i yazdır.</p>
+<p>A5 : Bitir.</p></blockquote>
+<p>Ve böylece algoritmayı tanımlayıp klavyemizin döndüğünce anlatmaya çalıştım.</p>
+<p>Kısmetse diğer yazımda konuyu devam ettirmenin arzusundayım.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</title>
+		<link>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/</link>
+				<comments>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/#respond</comments>
+				<pubDate>Tue, 02 May 2017 10:32:42 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[hata]]></category>
+		<category><![CDATA[kurulum]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[linux microsoft sql server]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft sql server]]></category>
+		<category><![CDATA[microsoft sql server linux kurulumu]]></category>
+		<category><![CDATA[mssql]]></category>
+		<category><![CDATA[pardus]]></category>
+		<category><![CDATA[pardus microsoft sql server kurulumu]]></category>
+		<category><![CDATA[pardus mssql]]></category>
+		<category><![CDATA[pardus mssql kurulum]]></category>
+		<category><![CDATA[pardus mssql kurulumu]]></category>
+		<category><![CDATA[path]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[sql]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
+				<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle sudo apt-get install curl ile curl paketini yüklüyoruz. curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz. sudo apt-get update sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz. sudo /opt/mssql/bin/sqlservr-setup...]]></description>
+								<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+<p>Öncelikle</p>
+<p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
+<p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
+<p>sudo apt-get update</p>
+<p>sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz.</p>
+<p>sudo /opt/mssql/bin/sqlservr-setup  komutuyla yapılandırıyoruz.</p>
+<p>Lisans anlaşmalarını kabul edip gerekli ayarları yaptıktan sonra</p>
+<p>sudo echo &#8216;export PATH=&#8221;$PATH:/opt/mssql-tools/bin&#8221;&#8216; &gt;&gt; ~/.bash_profile</p>
+<p>sudo echo &#8216;export PATH=&#8221;$PATH:/opt/mssql-tools/bin&#8221;&#8216; &gt;&gt; ~/.bashrc<br />
+source ~/.bashrc</p>
+<p>komutlarını yazdıktan sonra</p>
+<p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
+<p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
+<p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>PARDUS&#8217;A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</title>
+		<link>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/</link>
+				<comments>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/#respond</comments>
+				<pubDate>Thu, 27 Apr 2017 12:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[kurulum]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[linux microsoft sql server]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft sql server]]></category>
+		<category><![CDATA[microsoft sql server linux kurulumu]]></category>
+		<category><![CDATA[mssql]]></category>
+		<category><![CDATA[pardus]]></category>
+		<category><![CDATA[pardus microsoft sql server kurulumu]]></category>
+		<category><![CDATA[pardus mssql]]></category>
+		<category><![CDATA[pardus mssql kurulum]]></category>
+		<category><![CDATA[pardus mssql kurulumu]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[sql]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=120</guid>
+				<description><![CDATA[Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu adımları uygulamaya başladım. 1) Public repo keyini import ediyoruz. sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add -“ 2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz. sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main...]]></description>
+								<content:encoded><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım.</p>
+<p>Şu adımları uygulamaya başladım.</p>
+<p><strong>1) Public repo keyini import ediyoruz.</strong></p>
+<p><em>sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -“</em></p>
+<p><strong>2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz.</strong></p>
+<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p><pre class="crayon-plain-tag">sudo sh -c &quot;echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &amp;gt;&amp;gt; /etc/apt/sources.list.d/sql-server.list&quot;</pre><p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p><pre class="crayon-plain-tag">sudo apt-get update</pre><p></p><pre class="crayon-plain-tag">sudo apt-get install mssql-server mssql-tools -y</pre><p>Kurulum adımlarını tamamladıktan sonra</p><pre class="crayon-plain-tag">sqlcmd -S localhost -U SA -P Parola</pre><p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
+Sonra <strong>mssql-tools</strong> paketi eksik olduğunu gördüm ve kurmaya başladım. <strong>Synaptic Paket Yöneticisinden mssql-tools</strong> paketini yüklemeye çalıştığımda aşağıdaki hatayı aldım.</p>
+<blockquote><p>mssql-tools:<br />
+Bağımlılıklar: libc6 (&gt;=2.21) fakat 2.19-18+deb8u7 kurulacak<br />
+Bağımlılıklar: libstdc++6 (&gt;=5.2) fakat 4.9.2-10 kurulacak<br />
+Bağımlılıklar: msodbcsql fakat kurulmayacak<br />
+Bağımlılıklar: msodbcsql fakat kurulmayacak,</p></blockquote>
+<p>Hatayı araştırdığımda Pardus paketlerinde hata aldığım paketler güncel olmadığını anladım ve Ubuntu paket adreslerini alıp <strong>source.list</strong> dosyasına yapıştırdım. (Pardus depo adreslerine dokunmadan.) sonra terminale<strong>sudo apt-get update</strong> yazdım.<br />
+Terminale sudo apt-get install mssql-tools yazdım ve gerekli sorularara &#8220;yes&#8221; ile cevap verdim.<br />
+Güncellemeye başlayınca Pardus&#8217;taki mevcut paketleri kaldırmaya başlamış ve yeniden başlatmayı sistem talep ettiğimde sistemi yeniden başlattığımda Pardus sistemden göçmüştü.<br />
+Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
+<p>Belki de Pardus depolarında güncel paketler olsaydı kararlı bir şekilde Mssql Server&#8217;ı Pardus&#8217;a kurmuş olurdum.</p>
+<p>İyi Çalışmalar ve İyi Günler dilerim.</p>
+<p>Kaynakça :</p>
+<blockquote class="wp-embedded-content" data-secret="rVwnrRPsiU"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
+<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=rVwnrRPsiU" data-secret="rVwnrRPsiU" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>http://www.4s.com.tr/8523-2/</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

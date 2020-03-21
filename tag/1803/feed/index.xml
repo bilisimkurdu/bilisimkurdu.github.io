@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1803 &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/1803/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 23 Oct 2018 08:09:39 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>1803 &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows 10 version 1803 varsayılan klavye dil ayarları</title>
+		<link>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/</link>
+				<comments>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/#respond</comments>
+				<pubDate>Tue, 23 Oct 2018 07:34:31 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[1803]]></category>
+		<category><![CDATA[dil]]></category>
+		<category><![CDATA[dil paketi]]></category>
+		<category><![CDATA[keyboad settings]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[klavye]]></category>
+		<category><![CDATA[klavye ayarları]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[language pack]]></category>
+		<category><![CDATA[pack]]></category>
+		<category><![CDATA[paketi]]></category>
+		<category><![CDATA[settings]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 1803]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=365</guid>
+				<description><![CDATA[Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.]]></description>
+								<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
+<span id="more-365"></span></p>
+<p>Ayarlar -&gt; Dil ve Bölgeler -&gt; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.</p>
+<p><img src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
+<img src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
+<img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

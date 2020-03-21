@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobil &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/mobil/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Fri, 04 Oct 2019 07:48:43 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Mobil &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
+		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
+				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Android Studio HAXM This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[Android studio This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[haxm This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology çözümü]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım.</p>
+
+
+
+<p>This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır;</p>
+
+
+
+<span id="more-578"></span>
+
+
+
+<p><strong>Eğer BIOS üzerinden VT-x ayarı enable ise;</strong></p>
+
+
+
+<p>1)Hyper-V yüklü ise disable ediniz.</p>
+
+
+
+<p>Hyper-V disable etmek için;</p>
+
+
+
+<p>Control Panel-&gt;<em>&nbsp;Program and Feature</em> -&gt;T<em>urn Window Features on and off</em> -&gt;Hyper-V işaretliyse kaldırılıp Bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>2)Windows 10 kullanıyorsanız;</p>
+
+
+
+<p>Windows Defender settings &gt; Device security &gt; Core isolation details &gt; Memory integrity &gt; Off&nbsp;konumuna getirilerek bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>3)CMD yönetici olarak çalıştırarak aşağıdaki komut girilerek bilgisayar yeniden başlatılır.</p>
+
+
+<p>bcdedit /set hypervisorlaunchtype off</p>
+
+
+
+<p>4)</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=53337">https://www.microsoft.com/en-us/download/details.aspx?id=53337</a> adresinden Device Guard and Credential Guard&nbsp;tool indirilir ve CMD administrator olarak çalıştıralak toolun bulunduğu klasöre işaret edilerek (cd komutuyla) aşağıdaki komut girilir.</p>
+
+
+<p>DG_Readiness_Tool_v3.6.ps1 -disable</p>
+
+
+
+<p>5) BIOS&#8217;a girilerek VT-x disable moduna alındıktan sonra bilgisayar yeniden başlatılarak BIOS&#8217;a girilerek VT-x modu enable moduna getirilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>OEM Kilidi nedir? (Android)</title>
+		<link>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/</link>
+				<comments>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/#respond</comments>
+				<pubDate>Tue, 10 Sep 2019 11:36:40 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Android oem kilidi]]></category>
+		<category><![CDATA[android oem kilidi kaldırma]]></category>
+		<category><![CDATA[android oem kilidi kaldırma 2019]]></category>
+		<category><![CDATA[Android OEM Kilit Açma Nedir Hırsızlık Korumasını Kapatma]]></category>
+		<category><![CDATA[oem kilidi]]></category>
+		<category><![CDATA[oem kilidi kaldırma]]></category>
+		<category><![CDATA[OEM Kilit Açma Nedir? Android Oem Kilit Açma Nasıl Yapılır?]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=543</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip telefonu sıfırlaması sonucunda cihazın kullanılmasını engellemektedir. Sistem telefona girdiğiniz Google hesabı ile birlikte çalışmakta olup formatlama işleminden sonra telefon kurulum ekranında Google Hesabınızı girmenizi istemektedir.  OEM kilidinin bypass yöntemleri bulunsa da telefonunuzu sıfırlamak isterseniz OEM kilidini...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim.</p>
+
+
+
+<span id="more-543"></span>
+
+
+
+<p>OEM kilidi, üçüncü kişilerin telefono ele geçirip telefonu sıfırlaması sonucunda cihazın kullanılmasını engellemektedir. Sistem telefona girdiğiniz Google hesabı ile birlikte çalışmakta olup formatlama işleminden sonra telefon kurulum ekranında <strong>Google Hesabınızı girmenizi istemektedir.</strong> </p>
+
+
+
+<p>OEM kilidinin bypass yöntemleri bulunsa da telefonunuzu sıfırlamak isterseniz OEM kilidini mağduru olmak istemşyorsanız iki yöntem bulunmaktadır.</p>
+
+
+
+<p>1.yöntem:</p>
+
+
+
+<p>Telefonunuzda <strong>Ayarlar</strong> -> T<strong>elefon Hakkında, Yazılım Bilgileri</strong> -> <strong>Android Yapım Numarası veya Derleme Numarası</strong> (7  defa basılması) </p>
+
+
+
+<p>Geliştirici Seçenekleri -> OEM kilidi (pasif)</p>
+
+
+
+<p>2.yöntem olarak Google hesaplarınızı kaldırabilirsiniz.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Hadi bilgi yarışması Android uygulamasında donması\kasması</title>
+		<link>https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/</link>
+				<comments>https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/#respond</comments>
+				<pubDate>Tue, 05 Mar 2019 15:56:06 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[hadi bilgi yarışması dondu]]></category>
+		<category><![CDATA[hadi donuyor]]></category>
+		<category><![CDATA[hadi kasıyor]]></category>
+		<category><![CDATA[hadi yarışması ilerlemiyor]]></category>
+		<category><![CDATA[hadi yarışması kasıyor]]></category>
+		<category><![CDATA[instagram donuyor]]></category>
+		<category><![CDATA[instagram ilerlemiyor]]></category>
+		<category><![CDATA[instagram kasıyor]]></category>
+		<category><![CDATA[instagram yarışması dondu]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=427</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Hadi gibi uygulamalarda telefonun teknik özellikleri hem de boşta RAM oranı ve internet hızınız yeterliyken telefonun aniden kasması veya donma hatasının çözümünü anlatacağım. Önce telefonumuzun &#8220;Developer Options&#8221; yani Geliştirici Seçeneklerini aktif ediyoruz. Ama nasıl geliştirici seçeneğini aktif ederim? Ayarlar -&#62; Telefon Hakkında\Cihaz Hakkında -&#62; Özel Derleme Sürümü\Yapım Numarası(Build Number)&#8217;na 5...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda <a rel="noreferrer noopener" aria-label="Hadi (yeni sekmede açılır)" href="https://play.google.com/store/apps/details?id=go.tv.hadi&amp;hl=tr" target="_blank">Hadi</a> gibi uygulamalarda telefonun teknik özellikleri hem de boşta RAM oranı ve internet hızınız yeterliyken telefonun aniden kasması veya donma hatasının çözümünü anlatacağım.</p>
+
+
+
+<span id="more-427"></span>
+
+
+
+<p>Önce telefonumuzun &#8220;Developer Options&#8221; yani Geliştirici Seçeneklerini aktif ediyoruz.</p>
+
+
+
+<p>Ama nasıl geliştirici seçeneğini aktif ederim?</p>
+
+
+
+<p>Ayarlar -&gt; Telefon Hakkında\Cihaz Hakkında -&gt; Özel Derleme Sürümü\Yapım Numarası(Build Number)&#8217;na 5 defa üst üste basdıktan sonra Geliştirici Seçenekleri aktif ederiz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/r5agD7.png" alt=""/><figcaption>1.Adım</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/7apoL5.png" alt=""/><figcaption>2.adım</figcaption></figure>
+
+
+
+<p>Telefonumuzu geliştirici seçeneğini açtık sorunu çözmek için ne yapacağız o zaman?</p>
+
+
+
+<p>Geliştirici Seçeneğini &#8220;Açık&#8221; olacak şekilde aşağıdaki ayarları yapıyoruz ;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/P1A5V9.png" alt=""/><figcaption>Gpu oluşturmayı zorla : Aktif</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/grDkG3.png" alt=""/><figcaption>4x MSAA&#8217;yı zorla : Aktif<br>Donanım katmanlarını devre dışı bırak : Aktif</figcaption></figure>
+
+
+
+<p>Elimden geldiğince sorunun çözümünü anlatmaya çalıştım. Yazmış olduğum ayarları test etmek isterseniz önce telefonunuzun<a rel="noreferrer noopener" aria-label=" önbelleğini temizlemenizi (yeni sekmede açılır)" href="https://teknobolge.com/nasil-yapilir/android-8-0-ve-uzerinde-onbellek-nasil-temizlenir" target="_blank"> önbelleğini temizlemenizi</a> tavsiye ederim.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Mobil Cihazla Smart TV bağlantı problemi</title>
+		<link>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/</link>
+				<comments>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/#respond</comments>
+				<pubDate>Mon, 07 Jan 2019 20:41:31 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[ekran]]></category>
+		<category><![CDATA[ekrana yansıtmama]]></category>
+		<category><![CDATA[miracast]]></category>
+		<category><![CDATA[smart]]></category>
+		<category><![CDATA[smart tv]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=382</guid>
+				<description><![CDATA[Merhaba Muhterem ziyaretçiler, En başında yeni yılın bütün insanlık için hayırlı olmasını temenni eder, neşeli bir yıl olmasını temenni ederim. Telefonların tabletlerin TV kablosuz olarak Televizyonlara bağlanamama problemi konusunda yardımcı olacağım. Bildiğiniz üzere Android 7.0’dan sonra Google tarafından Miracast desteği kesilmiş durumdadır. Sebebi ise Google Cast’ların yaygınlaştırma politikası olarak düşünebilir miyiz? İyi Akşamlar 🙂]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem ziyaretçiler,</p>
+
+
+
+<p>En başında yeni yılın bütün insanlık için hayırlı olmasını temenni eder, neşeli bir yıl olmasını temenni ederim.</p>
+
+
+
+<span id="more-382"></span>
+
+
+
+<p>Telefonların tabletlerin TV kablosuz olarak Televizyonlara bağlanamama problemi konusunda yardımcı olacağım.</p>
+
+
+
+<p>Bildiğiniz üzere Android 7.0’dan sonra Google tarafından Miracast desteği kesilmiş durumdadır. Sebebi ise Google Cast’ların yaygınlaştırma politikası olarak düşünebilir miyiz?</p>
+
+
+
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<ul><li></li></ul>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>ZTE Handset software update tool yazılımı &#8220;Failed to detect network&#8221; hatası</title>
+		<link>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/</link>
+				<comments>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/#respond</comments>
+				<pubDate>Sun, 16 Sep 2018 20:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[cmd]]></category>
+		<category><![CDATA[detect]]></category>
+		<category><![CDATA[failed]]></category>
+		<category><![CDATA[Failed to detect network]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[handset]]></category>
+		<category><![CDATA[network]]></category>
+		<category><![CDATA[ping]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[to]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[ZTE]]></category>
+		<category><![CDATA[ZTE Handset software update tool]]></category>
+		<category><![CDATA[ZTE Handset software update tool yazılımı "Failed to detect network" hatası]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=355</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221; hatasının sebebi yazılımın cndms.ztems.com (113.98.59.187) adresine erişilememesidir. Bu sonuca nasıl ulaştım? TURKCELL T50 cihazını kurtatmaya çalışırken ZTE Handset software update tool yazılımını kurup çalıştırdığımda &#8220;Failed to detect network&#8221; hatası aldım. (İnternet bağlantısı var.) Firewall ayarlarına bakıtm...]]></description>
+								<content:encoded><![CDATA[<p data-xf-p="1">Merhaba arkadaşlar,</p>
+<p data-xf-p="1">Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221; hatasının sebebi yazılımın cndms.ztems.com (113.98.59.187) adresine erişilememesidir.</p>
+<p data-xf-p="1"><span id="more-355"></span></p>
+<p data-xf-p="1">Bu sonuca nasıl ulaştım?</p>
+<p data-xf-p="1">TURKCELL T50 cihazını kurtatmaya çalışırken ZTE Handset software update tool yazılımını kurup çalıştırdığımda &#8220;Failed to detect network&#8221; hatası aldım. (İnternet bağlantısı var.)</p>
+<p data-xf-p="1">Firewall ayarlarına bakıtm problem oluşmadı.</p>
+<p data-xf-p="1">En sonunda firewall loglarına bakınca 113.98.59.187 adresine ulaşamadığı farkedip Google&#8217;dan arattım.</p>
+<p><a href="https://www.threatcrowd.org/domain.php?domain=cndms.ztems.com">https://www.threatcrowd.org/domain.php?domain=cndms.ztems.com</a></p>
+<p>Sonra PCDEN ping attım.</p>
+<p data-xf-p="1">Cmd ping</p>
+<div data-xf-p="1">C:\Users\xxxx&gt;ping cndms.ztems.com</div>
+<div data-xf-p="1"></div>
+<div data-xf-p="1">cndms.ztems.com [113.98.59.187] yoklanıyor32 bayt veri ile:</div>
+<div data-xf-p="1">İstek zaman aşımına uğradı.</div>
+<div data-xf-p="1">İstek zaman aşımına uğradı.</div>
+<div data-xf-p="1">İstek zaman aşımına uğradı.</div>
+<div data-xf-p="1">İstek zaman aşımına uğradı.</div>
+<p data-xf-p="1">&#8220;İstek zaman aşımına uğradı&#8221; hatası alınca web siteye ulaşılamamakta olduğu anlaşılmıştı.</p>
+<p data-xf-p="1">Selâmetle.</p>
+<p data-xf-p="1">
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</title>
+		<link>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/#respond</comments>
+				<pubDate>Mon, 03 Jul 2017 13:09:16 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[atma]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[fastboot]]></category>
+		<category><![CDATA[kurdu]]></category>
+		<category><![CDATA[Miflash]]></category>
+		<category><![CDATA[rom]]></category>
+		<category><![CDATA[usb]]></category>
+		<category><![CDATA[xiaomi]]></category>
+		<category><![CDATA[xiaomi rom]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=171</guid>
+				<description><![CDATA[Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte fastboot yazılımını ve fastboot flash yazılımını indiriyoruz. Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz. Miflash programını açarak resimdeki modda ayarlıyoruz. Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten...]]></description>
+								<content:encoded><![CDATA[<p>Muhterem ziyaretçilerimiz,</p>
+<p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>
+<p>Şu linkte fastboot yazılımını ve fastboot flash yazılımını <a href="http://en.miui.com/a-234.html" target="_blank" rel="noopener">indiriyoruz</a>.</p>
+<p>Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz.</p>
+<p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong-fastboot.jpg" alt="点击收起图片" /></p>
+<p>Miflash programını açarak resimdeki modda ayarlıyoruz.</p>
+<p>Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten sonra refresh&#8217;e tıkladıktan sonra flash&#8217;a tıklayınız.</p>
+<p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Apple yeni garanti problemi</title>
+		<link>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/</link>
+				<comments>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/#respond</comments>
+				<pubDate>Thu, 08 Jun 2017 09:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[apple garanti problemi]]></category>
+		<category><![CDATA[Avustralya]]></category>
+		<category><![CDATA[Avustralya Rekabet ve Tüketici Komisyonu]]></category>
+		<category><![CDATA[bilgisayar]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[dışı]]></category>
+		<category><![CDATA[garanti]]></category>
+		<category><![CDATA[garanti dışı]]></category>
+		<category><![CDATA[hak]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Komisyonu]]></category>
+		<category><![CDATA[macintosh]]></category>
+		<category><![CDATA[problem]]></category>
+		<category><![CDATA[Rekabet]]></category>
+		<category><![CDATA[tamir]]></category>
+		<category><![CDATA[Tüketici]]></category>
+		<category><![CDATA[ücretsiz]]></category>
+		<category><![CDATA[ücretsiz tamir hakkı]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=163</guid>
+				<description><![CDATA[Apple, müşterilerinin kendi cihazlarını onarma hakkına sahip olmasından gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı. Dava, Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu) tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları...]]></description>
+								<content:encoded><![CDATA[<p>Apple, müşterilerinin <strong>kendi cihazlarını onarma hakkına sahip olmasından </strong>gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı.</p>
+<p>Dava, <strong>Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu)</strong> tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları durumunda ücretsiz onarım ve değişim hakkını kaybedeceklerini söylüyor. Avustralya kanununa göre, ürün &#8220;kusurlu veya kabul edilemez bir kalitede&#8221; ise, tüketiciler ücretsiz onarım ve değişim hakkına sahipler.</p>
+<p>Davalar şimdilik devam etse de bizim ülkemizde kanı teknik servis harici onarımın garanti dışı olacağına yönelik.</p>
+<p>Hayırlısı.</p>
+<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>CYANOGENMOD İSİM DEĞİŞTİRDİ</title>
+		<link>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/</link>
+				<comments>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/#respond</comments>
+				<pubDate>Thu, 23 Feb 2017 14:01:02 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[apk]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[cynogenmod]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[kurdu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=104</guid>
+				<description><![CDATA[Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım. Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek. &#160;]]></description>
+								<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım.</p>
+<p>Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>CUSTOM ROMDAN STOCK ROMA GEÇİŞ</title>
+		<link>https://bilisimkurdu.github.io/custom-romdan-gecis/</link>
+				<comments>https://bilisimkurdu.github.io/custom-romdan-gecis/#respond</comments>
+				<pubDate>Tue, 14 Feb 2017 07:32:46 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[bilişim kurdu youtube kanalı]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[bloglama]]></category>
+		<category><![CDATA[bloglandırma]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[custom rom]]></category>
+		<category><![CDATA[cynagenmod]]></category>
+		<category><![CDATA[general]]></category>
+		<category><![CDATA[general mobile]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[rom]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[stock]]></category>
+		<category><![CDATA[stock rom]]></category>
+		<category><![CDATA[trend]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=96</guid>
+				<description><![CDATA[&#160; Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım. Stock Rom : Android cihazınızın üretici firma tarafından ve modele uygun stabil Android yazılımıdır. Custom Rom : Android cihazınızın üretici firma tarafından üretilmeyen ve modele uygun stabil olma ihtimali yüksek olmayan Android yazılımıdır. Eğer telefononuzda custom rom varsa CWM veya TWRP...]]></description>
+								<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım.</p>
+<p><span id="more-96"></span></p>
+<p>Stock Rom : Android cihazınızın üretici firma tarafından ve modele uygun stabil Android yazılımıdır.</p>
+<p>Custom Rom : Android cihazınızın üretici firma tarafından üretilmeyen ve modele uygun stabil olma ihtimali yüksek olmayan Android yazılımıdır.</p>
+<p>Eğer telefononuzda custom rom varsa CWM veya TWRP yüklüdür. Çünkü custom rom CWM veya TWRP olmadan yüklemez.</p>
+<ol>
+<li>CWM veya TWRP&#8217;Yİ açınız. (Samsung Galaxy Home+Power+Volume on tuşları Dİğer cihazlar Power+Volume on tuşları)</li>
+<li>(TWRPiçin) &#8220;Wipe Data&#8221; menüsünden &#8220;Dalvik&#8221;,&#8221;Wipe Data&#8221;,&#8221;Wipe Cache&#8221;,&#8221;Internal Storage&#8221; seçeneklerini işaretleyip işareti kaydırınız.</li>
+<li>(CWM için) Ekrandan &#8220;wipe cache partition&#8221; sonasında , &#8220;wipe data/factory reset&#8221; yazılarını seçiniz ve Wipe işlemi bitti.</li>
+<li>(CWM için)&#8221;Mount&#8221; seçeneğine seçerek &#8220;/system&#8221;,&#8221;/data&#8221; yazılarını seçiniz.</li>
+<li>Cihazınızın yükleyicisiyle Stock Rom&#8217;unuzu kurabilirsiniz.</li>
+</ol>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/custom-romdan-gecis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>ANDROİD CİHAZALARA GOOGLE PLAY DIŞINDA UYGULAMA YÜKLEME</title>
+		<link>https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/</link>
+				<comments>https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/#respond</comments>
+				<pubDate>Tue, 06 Dec 2016 13:39:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[apk]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google play]]></category>
+		<category><![CDATA[uygulama]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=74</guid>
+				<description><![CDATA[Android cihazlara google play dışında uygulama yükleme aşağıdaki videodadır. Eğer anlaşılmayan mesele olursa yorum atmayı unutmayınız.]]></description>
+								<content:encoded><![CDATA[<p>Android cihazlara google play dışında uygulama yükleme aşağıdaki videodadır.</p>
+<p>Eğer anlaşılmayan mesele olursa yorum atmayı unutmayınız.</p>
+<p><iframe src="https://www.youtube.com/embed/ZXFUBlRyYaU" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>GALAXY TREND PLUS&#8217;A NOUGAT GELDİ</title>
+		<link>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/</link>
+				<comments>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/#respond</comments>
+				<pubDate>Thu, 17 Nov 2016 11:45:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[2]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[android 7.0]]></category>
+		<category><![CDATA[android 7.0 nougat]]></category>
+		<category><![CDATA[cm]]></category>
+		<category><![CDATA[cm14]]></category>
+		<category><![CDATA[cynagenmod]]></category>
+		<category><![CDATA[duos 2]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[galaxy s duos 2]]></category>
+		<category><![CDATA[galaxy trend plus]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[nougat]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[s duos]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[trend]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=47</guid>
+				<description><![CDATA[2013 yılında çıkan ve Cynaganmod 11,12.1 ve 13 sürümlerinde cihaza uygun romları bulunan cihazın Android 7.0 Nougat sürümü çıkmıştır. Şu anda CM14 sürümünü kurmayı önermemekteyiz. Çünkü bu cihaza uygun CM14 sürümü yeni çıktı ve hatalarla boğuşma ihtimaliniz yüksek. Eğer yine de Galaxy Trend Plus cihazınıza CM14 kurmak isterseniz tıklayınız. CM14 güncelleme paneli için tıklayınız. Not:...]]></description>
+								<content:encoded><![CDATA[<p>2013 yılında çıkan ve Cynaganmod 11,12.1 ve 13 sürümlerinde cihaza uygun romları bulunan cihazın Android 7.0 Nougat sürümü çıkmıştır.<br />
+Şu anda CM14 sürümünü kurmayı önermemekteyiz.</p>
+<p><span id="more-47"></span></p>
+<p>Çünkü bu cihaza uygun CM14 sürümü yeni çıktı ve hatalarla boğuşma ihtimaliniz yüksek.</p>
+<p>Eğer yine de Galaxy Trend Plus cihazınıza CM14 kurmak isterseniz <a href="https://jenkins.sandpox.org/view/KYLEPROXX/job/KYLEPROXX_CM14.1/lastSuccessfulBuild/artifact/cm-14.1-20161114-UNOFFICIAL-kylepro.zip" target="_blank">tıklayınız</a>.</p>
+<p>CM14 güncelleme paneli için <a href="https://jenkins.sandpox.org/view/KYLEPROXX/job/KYLEPROXX_CM14.1/" target="_blank">tıklayınız</a>.</p>
+<p>Not:</p>
+<p>Kylepro :Galaxy  Trend plus</p>
+<p>Kyleprods : Galaxy S duos 2</p>
+<p>romlarını içerir.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

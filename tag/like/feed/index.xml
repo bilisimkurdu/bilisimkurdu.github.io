@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>like &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/like/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Wed, 13 Mar 2019 19:20:15 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>like &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>C# Entity Framework üzerinden &#8220;Select&#8221; ve &#8220;Like&#8221; deyimleri</title>
+		<link>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</link>
+				<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
+				<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[C# Entity Framework like]]></category>
+		<category><![CDATA[C# Entity Framework like query]]></category>
+		<category><![CDATA[C# Entity Framework like sorguları]]></category>
+		<category><![CDATA[C# Entity Framework select]]></category>
+		<category><![CDATA[C# Entity Framework select query]]></category>
+		<category><![CDATA[C# Entity Framework select sorguları]]></category>
+		<category><![CDATA[Entity Framework]]></category>
+		<category><![CDATA[like]]></category>
+		<category><![CDATA[select]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim. Şimdi başlayalım; Where SQL dilinde &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk; Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; s parametrasiyle studentName değeri &#8220;Bill&#8221; değerini...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım.</p>
+
+
+
+<p>Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim.</p>
+
+
+
+<span id="more-438"></span>
+
+
+
+<p>Şimdi başlayalım;</p>
+
+
+
+<p><strong>Where</strong></p>
+
+
+
+<p>SQL dilinde  &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk;</p>
+
+
+
+<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</pre>
+
+
+
+<p>Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak;</p>
+
+
+
+<p><strong>s</strong> parametrasiyle studentName değeri &#8220;Bill&#8221; değerini içeren ögeleri listeledik.</p>
+
+
+
+<pre class="crayon-plain-tag">//Entity Framework 
+//SchoolDBEntities tanımladığımızı varsayıyoruz.
+using (var context = new SchoolDBEntities())
+{
+    var query = context.Students
+                       .where(s =&gt; s.StudentName == &quot;Bill&quot;)
+                       .FirstOrDefault&amp;lt;Student&gt;();
+}</pre>
+
+
+
+<p><strong>Like</strong></p>
+
+
+
+<p> SQL dilinde  &#8220;Like&#8221; ifadesini aşağıdaki gibi kullanıyorduk; </p>
+
+
+
+<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE 
+satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
+
+
+
+<p> Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; </p>
+
+
+
+<p><code>person</code> değişkenini <code>context.People</code> içine alınıp <code>where person.FirstName.Like("Col%")</code>deyiminden sonra seçilmekte.</p>
+
+
+
+<pre class="crayon-plain-tag">var query =
+    from person in context.People
+    where person.FirstName.Like(&quot;Col%&quot;)
+    select person;</pre>
+
+
+
+<p>Bu yazımla birlikte C# Entity Framework temel sorguları anlatmış oldum.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mysql The devenv /update configuration command may have failed &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/mysql-the-devenv-update-configuration-command-may-have-failed/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 21 Mar 2019 20:00:38 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>mysql The devenv /update configuration command may have failed &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The devenv /updateconfiguration command may have failed</title>
+		<link>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/</link>
+				<comments>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 19:52:25 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed error]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed hatası]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed error]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed hatası]]></category>
+		<category><![CDATA[The devenv /update configuration command may have failed]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm yöntemi: C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ &#60;instance_id&#62; \privateregistry.bin dosyası silinir. Program tekrardan kurma\kaldırma işlemi gerçekleşir. Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde &#8220;privateregistry.bin&#8221; dosyası silinir. Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım.</p>
+
+
+
+<span id="more-445"></span>
+
+
+
+<p>Hata iletisi :</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/LlzJ5b.png" alt=""/></figure>
+
+
+
+<p>İlk Çözüm yöntemi:</p>
+
+
+
+<p>C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ <br><strong>&lt;instance_id&gt;</strong> \privateregistry.bin dosyası silinir.</p>
+
+
+
+<p>Program tekrardan kurma\kaldırma işlemi gerçekleşir.</p>
+
+
+
+<p>Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde  <br>&#8220;<strong>privateregistry.bin</strong>&#8221; dosyası silinir.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
+
+
+
+<p>İkinci Çözüm yöntemi;</p>
+
+
+
+<p>(Eğer birden fazla Visual Studio kurulmuşsa önerilir.)</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
+
+
+
+<p>regedit.exe -&gt; HKEY_LOCAL_MACHINE -&gt; SOFTWARE -&gt; Microsoft -&gt; Windows -&gt; Currentversion -&gt; App Paths -&gt; devenv.exe-&gt; (Default) değerlerin kullandığınız Visual Studio versiyonuzun devenv.exe dosyası olduğundan emin olunuz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/dvd6mL.jpg" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.<br></p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

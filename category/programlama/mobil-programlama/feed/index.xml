@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobil &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/programlama/mobil-programlama/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 18 Feb 2020 08:39:54 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Mobil &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required</title>
+		<link>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/</link>
+				<comments>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/#respond</comments>
+				<pubDate>Tue, 18 Feb 2020 08:39:53 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for .Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[xamarin.android]]></category>
+		<category><![CDATA[Xamarin.Android The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[xamarin.forms]]></category>
+		<category><![CDATA[Xamarin.Forms The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=703</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim. &#8220;The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for App1.Android.&#8221; Hatada anlaşılacağı gibi android sürümü (4.4 = KitKat) Xamarin.Forms ve Xamarin.Android projesi için uygun değil....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim.</p>
+
+
+
+<span id="more-703"></span>
+
+
+
+<p>&#8220;The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for App1.Android.&#8221;</p>
+
+
+
+<p>Hatada anlaşılacağı gibi android sürümü (4.4 = KitKat) Xamarin.Forms ve Xamarin.Android projesi için uygun değil.</p>
+
+
+
+<p>Hatanın çözümü olarak ProjeAdi.Android -&gt; Properties -&gt; Android Manifest yoluna ulaşarak resimde belirtildiği üzere ayarlamamız gerekmektedir.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/NGVRa5.jpg" alt=""/><figcaption>Minimum Android Version :Android 5.0<br>Target Android Version :Android 9.0</figcaption></figure>
+
+
+
+<p>Eğer eski Android sürürümüne yönelik uygulama geliştirmek isterseniz Xamarin Studio&#8217;yu aşağıdaki adresten indirebilirsiniz.</p>
+
+
+
+<p><a href="https://kubadownload.com/app/xamarin-studio-download">https://kubadownload.com/app/xamarin-studio-download</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Gboard durduruldu</title>
+		<link>https://bilisimkurdu.github.io/gboard-durduruldu/</link>
+				<comments>https://bilisimkurdu.github.io/gboard-durduruldu/#respond</comments>
+				<pubDate>Thu, 19 Dec 2019 09:51:50 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[gboard]]></category>
+		<category><![CDATA[gboard durduruldu]]></category>
+		<category><![CDATA[gboard durduruldu 2019]]></category>
+		<category><![CDATA[gboard durduruldu hatası]]></category>
+		<category><![CDATA[gboard durduruldu hatası 2019]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor 2019]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor hatası]]></category>
+		<category><![CDATA[Gboard sürekli olarak duruyor hatası 2019]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=670</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak. Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya &#8220;Gboard always stopped&#8221; hatası alınıyorsa; Ayarlar->Uygulamalar->Gboard->(Android 5.0&#8217;dan sonra Depolama->Verileri Temizle)Verileri Temizle aşmaları takip edilerek sorun çözülmüş olur. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>    Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak.</p>
+
+
+
+<p>Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya &#8220;Gboard always stopped&#8221;  hatası alınıyorsa;</p>
+
+
+
+<span id="more-670"></span>
+
+
+
+<p>Ayarlar->Uygulamalar->Gboard->(Android 5.0&#8217;dan sonra Depolama->Verileri Temizle)Verileri Temizle aşmaları takip edilerek sorun çözülmüş olur.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/gboard-durduruldu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
+		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
+				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Android Studio HAXM This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[Android studio This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[haxm This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology çözümü]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım.</p>
+
+
+
+<p>This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır;</p>
+
+
+
+<span id="more-578"></span>
+
+
+
+<p><strong>Eğer BIOS üzerinden VT-x ayarı enable ise;</strong></p>
+
+
+
+<p>1)Hyper-V yüklü ise disable ediniz.</p>
+
+
+
+<p>Hyper-V disable etmek için;</p>
+
+
+
+<p>Control Panel-&gt;<em>&nbsp;Program and Feature</em> -&gt;T<em>urn Window Features on and off</em> -&gt;Hyper-V işaretliyse kaldırılıp Bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>2)Windows 10 kullanıyorsanız;</p>
+
+
+
+<p>Windows Defender settings &gt; Device security &gt; Core isolation details &gt; Memory integrity &gt; Off&nbsp;konumuna getirilerek bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>3)CMD yönetici olarak çalıştırarak aşağıdaki komut girilerek bilgisayar yeniden başlatılır.</p>
+
+
+<p>bcdedit /set hypervisorlaunchtype off</p>
+
+
+
+<p>4)</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=53337">https://www.microsoft.com/en-us/download/details.aspx?id=53337</a> adresinden Device Guard and Credential Guard&nbsp;tool indirilir ve CMD administrator olarak çalıştıralak toolun bulunduğu klasöre işaret edilerek (cd komutuyla) aşağıdaki komut girilir.</p>
+
+
+<p>DG_Readiness_Tool_v3.6.ps1 -disable</p>
+
+
+
+<p>5) BIOS&#8217;a girilerek VT-x disable moduna alındıktan sonra bilgisayar yeniden başlatılarak BIOS&#8217;a girilerek VT-x modu enable moduna getirilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

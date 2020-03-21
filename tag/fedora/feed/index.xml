@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fedora &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/fedora/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 26 Feb 2019 17:45:03 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>fedora &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Linux tabanlı işletim sistemlerinde VMware tool yükleme</title>
+		<link>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/#respond</comments>
+				<pubDate>Mon, 25 Feb 2019 09:03:29 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[debian]]></category>
+		<category><![CDATA[fedora]]></category>
+		<category><![CDATA[istemci]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[open Suse]]></category>
+		<category><![CDATA[sunucu]]></category>
+		<category><![CDATA[Suse]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[vmware tool yükleme]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=394</guid>
+				<description><![CDATA[Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir. Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi) İstemciler; Sunucu; Fedora tabanlı işletim sistemleri İstemci; Sunucu; Open Suse tabanlı işletim sistemleri için; İstemci; Sunucu; Eğer bu yazıyla ilişkin...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtarem ziyaretçilerimiz,</p>
+
+
+
+<p>   Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım.</p>
+
+
+
+<p>Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir.</p>
+
+
+
+<span id="more-394"></span>
+
+
+
+<p>Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi)</p>
+
+
+
+<p>İstemciler;<br></p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools</pre>
+
+
+
+<p>Fedora tabanlı işletim sistemleri <br></p>
+
+
+
+<p>İstemci;</p>
+
+
+
+<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools open-vm-tools-desktop&quot;</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools&quot;</pre>
+
+
+
+<p>Open Suse tabanlı işletim sistemleri için;</p>
+
+
+
+<p>İstemci;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo zypper install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo zypper install open-vm-tools</pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

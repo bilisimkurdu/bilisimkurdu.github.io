@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ASP.NET MVC &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/asp-net-mvc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Fri, 12 Jul 2019 13:19:56 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>ASP.NET MVC &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
+				<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[asp.net]]></category>
+		<category><![CDATA[ASP.NET MVC]]></category>
+		<category><![CDATA[ASP.NET MVC Core]]></category>
+		<category><![CDATA[linux asp.net mvc core install]]></category>
+		<category><![CDATA[linux net core install]]></category>
+		<category><![CDATA[MonoDevelop]]></category>
+		<category><![CDATA[monodevelop asp.net]]></category>
+		<category><![CDATA[monodevelop asp.net core]]></category>
+		<category><![CDATA[monodevelop asp.net mvc]]></category>
+		<category><![CDATA[monodevelop net core]]></category>
+		<category><![CDATA[monodevelop net core problem]]></category>
+		<category><![CDATA[mvc]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim. Problemin çözümü olarak https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız. Eğer yukarıdaki gibi .NET...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu.</p>
+
+
+
+<p>Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim.</p>
+
+
+
+<span id="more-473"></span>
+
+
+
+<p>Problemin çözümü olarak <a href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current">https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current</a> adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/od3VkQ.png" alt=""/></figure>
+
+
+
+<p>Eğer yukarıdaki gibi .NET Core görünmüşse başarıyla yüklenmiştir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at &#8230; hatasının çözümü</title>
+		<link>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/</link>
+				<comments>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/#respond</comments>
+				<pubDate>Mon, 04 Mar 2019 18:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[ASP.NET CORE]]></category>
+		<category><![CDATA[ASP.NET MVC]]></category>
+		<category><![CDATA[ASP.NET MVC Core]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at 'C:\Program Files\dotnet\sdk\' will be displayed.]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+		<category><![CDATA[Visual Studio 2017]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=424</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak. Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel olarak güncelllenmesinden sonra yaşanabilmekte olup hata aşağıdaki resimdedir. x86 :32bit işletim sistemleri x64 :64bit işletim sistemleri Ufak bir hatırlatma 🙂 Bu hatayı ASP:NET Core yükseltmesini hem x86 hem de x64&#8217;e yapmışsınızdır çözümü olarak (İşletim sisteminiz...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak.</p>
+
+
+
+<p>Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel olarak güncelllenmesinden sonra yaşanabilmekte olup hata aşağıdaki resimdedir.</p>
+
+
+
+<span id="more-424"></span>
+
+
+
+<figure class="wp-block-image"><img src="https://docs.microsoft.com/tr-tr/aspnet/core/test/troubleshoot/_static/multiplelocations.png?view=aspnetcore-2.2" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p>x86 :32bit işletim sistemleri</p><p>x64 :64bit işletim sistemleri</p><cite>Ufak bir hatırlatma <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></cite></blockquote>
+
+
+
+<p>Bu hatayı ASP:NET Core yükseltmesini hem x86 hem de x64&#8217;e yapmışsınızdır çözümü olarak (İşletim sisteminiz x64 kullanıyorsanız) ASP.NET Core x86 güncellemesini kaldırmanız gerekir. (İşletim sisteminiz x86 ise x64 yükleyemezsiniz.)</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.<br></p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

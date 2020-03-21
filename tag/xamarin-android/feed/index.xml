@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xamarin.android &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/xamarin-android/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 18 Feb 2020 08:39:54 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>xamarin.android &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required</title>
+		<link>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/</link>
+				<comments>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/#respond</comments>
+				<pubDate>Tue, 18 Feb 2020 08:39:53 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for .Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[xamarin.android]]></category>
+		<category><![CDATA[Xamarin.Android The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+		<category><![CDATA[xamarin.forms]]></category>
+		<category><![CDATA[Xamarin.Forms The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=703</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim. &#8220;The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for App1.Android.&#8221; Hatada anlaşılacağı gibi android sürümü (4.4 = KitKat) Xamarin.Forms ve Xamarin.Android projesi için uygun değil....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim.</p>
+
+
+
+<span id="more-703"></span>
+
+
+
+<p>&#8220;The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms (8.1). You need to increase the $(TargetFrameworkVersion) for App1.Android.&#8221;</p>
+
+
+
+<p>Hatada anlaşılacağı gibi android sürümü (4.4 = KitKat) Xamarin.Forms ve Xamarin.Android projesi için uygun değil.</p>
+
+
+
+<p>Hatanın çözümü olarak ProjeAdi.Android -&gt; Properties -&gt; Android Manifest yoluna ulaşarak resimde belirtildiği üzere ayarlamamız gerekmektedir.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/NGVRa5.jpg" alt=""/><figcaption>Minimum Android Version :Android 5.0<br>Target Android Version :Android 9.0</figcaption></figure>
+
+
+
+<p>Eğer eski Android sürürümüne yönelik uygulama geliştirmek isterseniz Xamarin Studio&#8217;yu aşağıdaki adresten indirebilirsiniz.</p>
+
+
+
+<p><a href="https://kubadownload.com/app/xamarin-studio-download">https://kubadownload.com/app/xamarin-studio-download</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

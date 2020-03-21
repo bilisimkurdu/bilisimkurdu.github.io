@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ADO.NET &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/programlama/sql/ado-net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Fri, 03 May 2019 18:38:24 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>ADO.NET &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cannot save&#8217;&#8230;Models\Model1.edmx&#8217;: Could not load file or assembly &#8230;</title>
+		<link>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/</link>
+				<comments>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/#respond</comments>
+				<pubDate>Fri, 03 May 2019 18:38:21 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[Cannot load Model.edmx]]></category>
+		<category><![CDATA[Cannot load model.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot load Model1.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot save Model1.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot save'...Models\Model1.edmx': Could not load file or assembly...]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[provider]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız; ComponentModelCache temizliği Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz. Visual Studio 2017 için;...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak.</p>
+
+
+
+<p>Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız;</p>
+
+
+
+<span id="more-464"></span>
+
+
+
+<p><em><strong>ComponentModelCache temizliği</strong></em></p>
+
+
+
+<p>Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz.</p>
+
+
+
+<p>Visual Studio 2017 için;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\15.0\ComponentModelCache</code></pre>
+
+
+
+<p>Visual Studio 2015 için;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p> Visual Studio 2013 için; </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p>Visual Studio 2012 için;  </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\11.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\11.0\ComponentModelCache</code></pre>
+
+
+
+<p> Visual Studio 2010 için;   </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p>Veya otomatik temizlemek isterseniz aşağıdaki adresten Visual Studio eklentisini indirip kurabilirsiniz.</p>
+
+
+
+<p><a href="https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache">https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache</a></p>
+
+
+
+<p><em><strong>EntitiyFramework oluşturulurken faydanılan Data Provider (Connector) onarımı veya tekrardan kurulumu</strong></em></p>
+
+
+
+<p>Misal olarak MySQL provider <a rel="noreferrer noopener" aria-label="MySQL .net Provider (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/connector/net/" target="_blank">MySQL .net Provider</a> ve <a rel="noreferrer noopener" aria-label="MySQL for Visual Studio (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/windows/visualstudio/" target="_blank">MySQL for Visual Studio</a></p>
+
+
+
+<p>Bir Misal daha verirsek <a rel="noreferrer noopener" aria-label="Oracle ODP.NET (yeni sekmede açılır)" href="https://www.oracle.com/technetwork/topics/dotnet/index-085163.html" target="_blank">Oracle ODP.NET</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>MySQL for Visual Studio guid error</title>
+		<link>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/</link>
+				<comments>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 20:19:35 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.NET connector and getting the error “Guid should contain 32 digits and 4 dashes]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes çözümü]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes error]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes hatası]]></category>
+		<category><![CDATA[MySQL for Visual Studio guid error]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
+				<description><![CDATA[Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü : Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. &#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir. &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Dostlar,</p>
+
+
+
+<p>Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım.</p>
+
+
+
+<span id="more-451"></span>
+
+
+
+<p>Hata iletisi:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/RrzLVn.jpg" alt=""/></figure>
+
+
+
+<p>Çözümü :</p>
+
+
+
+<ul><li>Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. </li><li>&#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir.</li><li> &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır.</li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/ZXBrLk.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/k9d3Ly.jpg" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The devenv /updateconfiguration command may have failed</title>
+		<link>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/</link>
+				<comments>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 19:52:25 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed error]]></category>
+		<category><![CDATA[mysql for visual studio The devenv /update configuration command may have failed hatası]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed error]]></category>
+		<category><![CDATA[mysql The devenv /update configuration command may have failed hatası]]></category>
+		<category><![CDATA[The devenv /update configuration command may have failed]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm yöntemi: C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ &#60;instance_id&#62; \privateregistry.bin dosyası silinir. Program tekrardan kurma\kaldırma işlemi gerçekleşir. Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde &#8220;privateregistry.bin&#8221; dosyası silinir. Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım.</p>
+
+
+
+<span id="more-445"></span>
+
+
+
+<p>Hata iletisi :</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/LlzJ5b.png" alt=""/></figure>
+
+
+
+<p>İlk Çözüm yöntemi:</p>
+
+
+
+<p>C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ <br><strong>&lt;instance_id&gt;</strong> \privateregistry.bin dosyası silinir.</p>
+
+
+
+<p>Program tekrardan kurma\kaldırma işlemi gerçekleşir.</p>
+
+
+
+<p>Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde  <br>&#8220;<strong>privateregistry.bin</strong>&#8221; dosyası silinir.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
+
+
+
+<p>İkinci Çözüm yöntemi;</p>
+
+
+
+<p>(Eğer birden fazla Visual Studio kurulmuşsa önerilir.)</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
+
+
+
+<p>regedit.exe -&gt; HKEY_LOCAL_MACHINE -&gt; SOFTWARE -&gt; Microsoft -&gt; Windows -&gt; Currentversion -&gt; App Paths -&gt; devenv.exe-&gt; (Default) değerlerin kullandığınız Visual Studio versiyonuzun devenv.exe dosyası olduğundan emin olunuz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/dvd6mL.jpg" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.<br></p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Entity Framework&#8217;ü MYSQL&#8217;de kullanmak</title>
+		<link>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/</link>
+				<comments>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 19:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[ado.net mysql]]></category>
+		<category><![CDATA[ado.net mysql bağlantı]]></category>
+		<category><![CDATA[ado.net mysql bağlantısı]]></category>
+		<category><![CDATA[ado.net mysql connect]]></category>
+		<category><![CDATA[c# mysql]]></category>
+		<category><![CDATA[c# mysql bağlantı]]></category>
+		<category><![CDATA[c# mysql connect]]></category>
+		<category><![CDATA[Entity Framework]]></category>
+		<category><![CDATA[entity framework mysql]]></category>
+		<category><![CDATA[entity framework mysql bağlantı]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=442</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir. MYSQL for Visual Studio (MSI Installer): https://dev.mysql.com/downloads/windows/visualstudio/ MYSQL Connector/NET : https://dev.mysql.com/downloads/connector/net/8.0.html adreslerinden temin edebilirsiniz. MYSQL for Visual Studio kurarken &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun. The devenv /updateconfiguration...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım.</p>
+
+
+
+<p>Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir.</p>
+
+
+
+<span id="more-442"></span>
+
+
+
+<p>MYSQL for Visual Studio (MSI Installer): <a rel="noreferrer noopener" aria-label="https://dev.mysql.com/downloads/windows/visualstudio/ (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/windows/visualstudio/" target="_blank">https://dev.mysql.com/downloads/windows/visualstudio/</a></p>
+
+
+
+<p>MYSQL Connector/NET  : <a href="https://dev.mysql.com/downloads/connector/net/8.0.html" target="_blank" rel="noreferrer noopener" aria-label="https://dev.mysql.com/downloads/connector/net/8.0.html (yeni sekmede açılır)">https://dev.mysql.com/downloads/connector/net/8.0.html</a></p>
+
+
+
+<p>adreslerinden temin edebilirsiniz.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>MYSQL for Visual Studio kurarken  &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun.</p><p><a rel="noreferrer noopener" aria-label="The devenv /usipdate configuration command may have failed
+ (yeni sekmede açılır)" href="http://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a><br></p></blockquote>
+
+
+
+<p>Peki programı yükledim nasıl kullanacağım?</p>
+
+
+
+<p>Visual Studio&#8217;yu açıp projemizi oluşturduktan sonra;</p>
+
+
+
+<p>Sağ tık -&gt; Add Item -&gt; Data -&gt; ADO.NET Data Model</p>
+
+
+
+<figure class="wp-block-image"><img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/entity-framework-in-mvc-part-one/Images/image010.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/entity-framework-in-mvc-part-one/Images/image010.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/BaQVZD.jpg" alt=""/></figure>
+
+
+
+<p>&#8220;Data Source&#8221; seçeneğinde &#8220;MySQL Database&#8221; seçilip &#8220;OK&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/ZXBrLk.jpg" alt=""/></figure>
+
+
+
+<p>Gerekli bilgileri girildikten sonra &#8220;OK&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/oXWLA7.jpg" alt=""/></figure>
+
+
+
+<p>Akabinde &#8220;Next&#8221; butonuna tıklandıktan sonra ADO.NET penceresi kendiliğinden kapanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/8avGZV.jpg" alt=""/></figure>
+
+
+
+<p>Solution Explorer sekmesinde beyaz karenin içinde bulunan simgeye tıklandıktan sonra karşımıza çıkan pencerelerden çıkan seçeneklere dokunmadan &#8220;Next&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/nQ6vAR.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/v620gp.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/16W9YG.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/LlzJpb.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/r5kqg1.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/7anOoa.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/qdkg4Q.jpg" alt=""/></figure>
+
+
+
+<p>&#8220;Finish&#8221; butonuna tıkladıktan sonra biraz beklenir ve eklediğimiz mevcut database bağlantısının modeli oluşturulur.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/MVGz62.jpg" alt=""/></figure>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>C# Entity Framework üzerinden &#8220;Select&#8221; ve &#8220;Like&#8221; deyimleri</title>
+		<link>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</link>
+				<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
+				<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[C# Entity Framework like]]></category>
+		<category><![CDATA[C# Entity Framework like query]]></category>
+		<category><![CDATA[C# Entity Framework like sorguları]]></category>
+		<category><![CDATA[C# Entity Framework select]]></category>
+		<category><![CDATA[C# Entity Framework select query]]></category>
+		<category><![CDATA[C# Entity Framework select sorguları]]></category>
+		<category><![CDATA[Entity Framework]]></category>
+		<category><![CDATA[like]]></category>
+		<category><![CDATA[select]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim. Şimdi başlayalım; Where SQL dilinde &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk; Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; s parametrasiyle studentName değeri &#8220;Bill&#8221; değerini...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım.</p>
+
+
+
+<p>Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim.</p>
+
+
+
+<span id="more-438"></span>
+
+
+
+<p>Şimdi başlayalım;</p>
+
+
+
+<p><strong>Where</strong></p>
+
+
+
+<p>SQL dilinde  &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk;</p>
+
+
+
+<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</pre>
+
+
+
+<p>Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak;</p>
+
+
+
+<p><strong>s</strong> parametrasiyle studentName değeri &#8220;Bill&#8221; değerini içeren ögeleri listeledik.</p>
+
+
+
+<pre class="crayon-plain-tag">//Entity Framework 
+//SchoolDBEntities tanımladığımızı varsayıyoruz.
+using (var context = new SchoolDBEntities())
+{
+    var query = context.Students
+                       .where(s =&gt; s.StudentName == &quot;Bill&quot;)
+                       .FirstOrDefault&amp;lt;Student&gt;();
+}</pre>
+
+
+
+<p><strong>Like</strong></p>
+
+
+
+<p> SQL dilinde  &#8220;Like&#8221; ifadesini aşağıdaki gibi kullanıyorduk; </p>
+
+
+
+<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE 
+satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
+
+
+
+<p> Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; </p>
+
+
+
+<p><code>person</code> değişkenini <code>context.People</code> içine alınıp <code>where person.FirstName.Like("Col%")</code>deyiminden sonra seçilmekte.</p>
+
+
+
+<pre class="crayon-plain-tag">var query =
+    from person in context.People
+    where person.FirstName.Like(&quot;Col%&quot;)
+    select person;</pre>
+
+
+
+<p>Bu yazımla birlikte C# Entity Framework temel sorguları anlatmış oldum.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

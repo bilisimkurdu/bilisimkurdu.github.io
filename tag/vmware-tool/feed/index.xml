@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VMware tool &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/vmware-tool/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Wed, 27 Feb 2019 17:41:26 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>VMware tool &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VMware Workstation Linux virtual machine not working sharing folder</title>
+		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
+				<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
+				<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vmware klasör paylaşım çalışmıyor]]></category>
+		<category><![CDATA[vmware linux klasör paylaşım çalışmıyor]]></category>
+		<category><![CDATA[VMware Linux virtual machine not working sharing folder]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
+				<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması. VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz; https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html Aşağıdaki komutları...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhabalar Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım.</p>
+
+
+
+<span id="more-417"></span>
+
+
+
+<p>Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım.</p>
+
+
+
+<ul><li>open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p>VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz;</p><p><a href="https://www.vmware.com/support/ws5/doc/ws_newguest_tools_linux.html">https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html</a></p></blockquote>
+
+
+
+<ul><li>Aşağıdaki komutları sırasıyla giriniz ve /mnt/hgfs klasörünü kontrol edebilirsiniz.</li></ul>
+
+
+
+<pre class="crayon-plain-tag">//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
+sudo vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+sudo .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0
+//fedora tabanlı işletim sistemlerinde
+su -c &quot;vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other&quot;
+su -c &quot;.host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0&quot;
+//Suse tabanlı işletim sistemlerinde
+su vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Linux tabanlı işletim sistemlerinde VMware tool yükleme</title>
+		<link>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/#respond</comments>
+				<pubDate>Mon, 25 Feb 2019 09:03:29 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[debian]]></category>
+		<category><![CDATA[fedora]]></category>
+		<category><![CDATA[istemci]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[open Suse]]></category>
+		<category><![CDATA[sunucu]]></category>
+		<category><![CDATA[Suse]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[vmware tool yükleme]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=394</guid>
+				<description><![CDATA[Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir. Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi) İstemciler; Sunucu; Fedora tabanlı işletim sistemleri İstemci; Sunucu; Open Suse tabanlı işletim sistemleri için; İstemci; Sunucu; Eğer bu yazıyla ilişkin...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhtarem ziyaretçilerimiz,</p>
+
+
+
+<p>   Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım.</p>
+
+
+
+<p>Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir.</p>
+
+
+
+<span id="more-394"></span>
+
+
+
+<p>Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi)</p>
+
+
+
+<p>İstemciler;<br></p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools</pre>
+
+
+
+<p>Fedora tabanlı işletim sistemleri <br></p>
+
+
+
+<p>İstemci;</p>
+
+
+
+<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools open-vm-tools-desktop&quot;</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools&quot;</pre>
+
+
+
+<p>Open Suse tabanlı işletim sistemleri için;</p>
+
+
+
+<p>İstemci;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo zypper install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Sunucu;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo zypper install open-vm-tools</pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ubuntu&#8217;ya VMware tool yükleme</title>
+		<link>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/</link>
+				<comments>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/#respond</comments>
+				<pubDate>Sat, 23 Feb 2019 16:19:41 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[kubuntu]]></category>
+		<category><![CDATA[sanal makine]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[vmware tool yükleme]]></category>
+		<category><![CDATA[xubuntu]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=386</guid>
+				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut işletim sistemi üzerinden kullanılan ikincil işletim sistemidir. Eğer Ubuntu\Kubuntu\Xubuntu\Ubuntu Studio\&#8230; güncel (&#62;14) yüklendiyse terminale aşağıdaki komut girilip restart atılır. Eğer Ubuntu&#8217;nun eski sürümü yüklüyse terminale aşağıdaki komutlar girilir. (&#60;=13); Lucid sürümü ise: sudo apt-add-repository 'deb...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba arkadaşlar,</p>
+
+
+
+<p>Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım.</p>
+
+
+
+<p>Wmare Tool VMware sanal makine yazılımıdır.</p>
+
+
+
+<p>Sanal Makine; mevcut işletim sistemi üzerinden kullanılan ikincil işletim sistemidir.</p>
+
+
+
+<span id="more-386"></span>
+
+
+
+<p>Eğer Ubuntu\Kubuntu\Xubuntu\Ubuntu Studio\&#8230; güncel (&gt;14) yüklendiyse terminale aşağıdaki komut girilip restart atılır.</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+
+
+
+<p>Eğer Ubuntu&#8217;nun eski sürümü yüklüyse terminale aşağıdaki komutlar girilir. (&lt;=13);</p>
+
+
+
+<p>Lucid sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/lucid main'</code> <br>
+Natty sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/natty main'</code> <br>
+Oneiric sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/oneiric main'</code> <br>
+Precise sürümü ise: <code>sudo apt-add-repository 'deb https://packages.vmware.com/tools/releases/latest/ubuntu/precise main'</code> <br>
+komutunu yazdıktan sonra;</p>
+
+
+
+<p><code>sudo wget http://packages.vmware.com/tools/keys/VMWARE-PACKAGING-GPG-RSA-KEY.pub -q -O- | \    sudo apt-key add -</code></p>
+
+
+
+<p><code>sudo apt-get update </code></p>
+
+
+
+<p><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></p>
+
+
+
+<p>sırasıyla yazılarak yüklenir ve restart atılır.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.<br></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

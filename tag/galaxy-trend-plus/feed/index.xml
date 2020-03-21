@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>galaxy trend plus &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/galaxy-trend-plus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 06 Jun 2017 13:49:48 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>galaxy trend plus &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GALAXY TREND PLUS&#8217;A NOUGAT GELDİ</title>
+		<link>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/</link>
+				<comments>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/#respond</comments>
+				<pubDate>Thu, 17 Nov 2016 11:45:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[2]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[android 7.0]]></category>
+		<category><![CDATA[android 7.0 nougat]]></category>
+		<category><![CDATA[cm]]></category>
+		<category><![CDATA[cm14]]></category>
+		<category><![CDATA[cynagenmod]]></category>
+		<category><![CDATA[duos 2]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[galaxy s duos 2]]></category>
+		<category><![CDATA[galaxy trend plus]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[nougat]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[s duos]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[trend]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=47</guid>
+				<description><![CDATA[2013 yılında çıkan ve Cynaganmod 11,12.1 ve 13 sürümlerinde cihaza uygun romları bulunan cihazın Android 7.0 Nougat sürümü çıkmıştır. Şu anda CM14 sürümünü kurmayı önermemekteyiz. Çünkü bu cihaza uygun CM14 sürümü yeni çıktı ve hatalarla boğuşma ihtimaliniz yüksek. Eğer yine de Galaxy Trend Plus cihazınıza CM14 kurmak isterseniz tıklayınız. CM14 güncelleme paneli için tıklayınız. Not:...]]></description>
+								<content:encoded><![CDATA[<p>2013 yılında çıkan ve Cynaganmod 11,12.1 ve 13 sürümlerinde cihaza uygun romları bulunan cihazın Android 7.0 Nougat sürümü çıkmıştır.<br />
+Şu anda CM14 sürümünü kurmayı önermemekteyiz.</p>
+<p><span id="more-47"></span></p>
+<p>Çünkü bu cihaza uygun CM14 sürümü yeni çıktı ve hatalarla boğuşma ihtimaliniz yüksek.</p>
+<p>Eğer yine de Galaxy Trend Plus cihazınıza CM14 kurmak isterseniz <a href="https://jenkins.sandpox.org/view/KYLEPROXX/job/KYLEPROXX_CM14.1/lastSuccessfulBuild/artifact/cm-14.1-20161114-UNOFFICIAL-kylepro.zip" target="_blank">tıklayınız</a>.</p>
+<p>CM14 güncelleme paneli için <a href="https://jenkins.sandpox.org/view/KYLEPROXX/job/KYLEPROXX_CM14.1/" target="_blank">tıklayınız</a>.</p>
+<p>Not:</p>
+<p>Kylepro :Galaxy  Trend plus</p>
+<p>Kyleprods : Galaxy S duos 2</p>
+<p>romlarını içerir.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

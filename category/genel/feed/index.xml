@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genel &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/genel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 26 Sep 2019 06:24:41 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Genel &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</title>
+		<link>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/</link>
+				<comments>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/#respond</comments>
+				<pubDate>Thu, 26 Sep 2019 06:24:40 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[MonoDevelop]]></category>
+		<category><![CDATA[monodevelop asp.net]]></category>
+		<category><![CDATA[MonoDevelop NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=574</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; hatasının çözümüyle ilişkin olacak. Error : NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation....]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; hatasının çözümüyle ilişkin olacak.</p>
+
+
+
+<span id="more-574"></span>
+
+
+
+<p>Error : NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</p>
+
+
+
+<p>Bu hatanın çözümü olarak Solution Explorer -> NuGet (Sağ tık) -> Geri yükle aşamalarını takip ederek NuGet paketlerin yeniden yüklenmesi yöntemi uygulanırç </p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Cannot save&#8217;&#8230;Models\Model1.edmx&#8217;: Could not load file or assembly &#8230;</title>
+		<link>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/</link>
+				<comments>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/#respond</comments>
+				<pubDate>Fri, 03 May 2019 18:38:21 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[Cannot load Model.edmx]]></category>
+		<category><![CDATA[Cannot load model.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot load Model1.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot save Model1.edmx': Could not load file or assembly]]></category>
+		<category><![CDATA[Cannot save'...Models\Model1.edmx': Could not load file or assembly...]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[provider]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız; ComponentModelCache temizliği Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz. Visual Studio 2017 için;...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak.</p>
+
+
+
+<p>Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız;</p>
+
+
+
+<span id="more-464"></span>
+
+
+
+<p><em><strong>ComponentModelCache temizliği</strong></em></p>
+
+
+
+<p>Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz.</p>
+
+
+
+<p>Visual Studio 2017 için;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\15.0\ComponentModelCache</code></pre>
+
+
+
+<p>Visual Studio 2015 için;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p> Visual Studio 2013 için; </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p>Visual Studio 2012 için;  </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\11.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\11.0\ComponentModelCache</code></pre>
+
+
+
+<p> Visual Studio 2010 için;   </p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0\ComponentModelCache
+//veya
+%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0_installID\ComponentModelCache</code></pre>
+
+
+
+<p>Veya otomatik temizlemek isterseniz aşağıdaki adresten Visual Studio eklentisini indirip kurabilirsiniz.</p>
+
+
+
+<p><a href="https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache">https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache</a></p>
+
+
+
+<p><em><strong>EntitiyFramework oluşturulurken faydanılan Data Provider (Connector) onarımı veya tekrardan kurulumu</strong></em></p>
+
+
+
+<p>Misal olarak MySQL provider <a rel="noreferrer noopener" aria-label="MySQL .net Provider (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/connector/net/" target="_blank">MySQL .net Provider</a> ve <a rel="noreferrer noopener" aria-label="MySQL for Visual Studio (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/windows/visualstudio/" target="_blank">MySQL for Visual Studio</a></p>
+
+
+
+<p>Bir Misal daha verirsek <a rel="noreferrer noopener" aria-label="Oracle ODP.NET (yeni sekmede açılır)" href="https://www.oracle.com/technetwork/topics/dotnet/index-085163.html" target="_blank">Oracle ODP.NET</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>VMware Workstation Linux virtual machine not working sharing folder</title>
+		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
+				<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
+				<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vmware klasör paylaşım çalışmıyor]]></category>
+		<category><![CDATA[vmware linux klasör paylaşım çalışmıyor]]></category>
+		<category><![CDATA[VMware Linux virtual machine not working sharing folder]]></category>
+		<category><![CDATA[VMware tool]]></category>
+		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
+				<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması. VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz; https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html Aşağıdaki komutları...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhabalar Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım.</p>
+
+
+
+<span id="more-417"></span>
+
+
+
+<p>Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım.</p>
+
+
+
+<ul><li>open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p>VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz;</p><p><a href="https://www.vmware.com/support/ws5/doc/ws_newguest_tools_linux.html">https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html</a></p></blockquote>
+
+
+
+<ul><li>Aşağıdaki komutları sırasıyla giriniz ve /mnt/hgfs klasörünü kontrol edebilirsiniz.</li></ul>
+
+
+
+<pre class="crayon-plain-tag">//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
+sudo vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+sudo .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0
+//fedora tabanlı işletim sistemlerinde
+su -c &quot;vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other&quot;
+su -c &quot;.host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0&quot;
+//Suse tabanlı işletim sistemlerinde
+su vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</pre>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>DAHA GÜZEL GELİYORUZ</title>
+		<link>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/</link>
+				<comments>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/#respond</comments>
+				<pubDate>Tue, 04 Sep 2018 13:40:15 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[kızılelma]]></category>
+		<category><![CDATA[kurdu]]></category>
+		<category><![CDATA[tekno]]></category>
+		<category><![CDATA[Tekno Kızılelma]]></category>
+		<category><![CDATA[teknoloji]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=346</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi Tekno Kızılelma adıyla birleştirdik. Tekno Kızılelma projesi kapsamında; Blog Bilişim eğitim\bilgilendirme\destek içerikleri Web site barındırma servisleri oluşturduk. Nice katkılarda bulunmak dileğiyle. #TÜRKİYE #TeknoKızılelma #DahaGüzelGeliyoruz]]></description>
+								<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
+<p>Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi <a href="https://www.teknokizilelma.ooo/" target="_blank" rel="noopener">Tekno Kızılelma</a> adıyla birleştirdik.</p>
+<p>Tekno Kızılelma projesi kapsamında;</p>
+<ul>
+<li><a href="https://www.bilisimkurdu.cf/" target="_blank" rel="noopener">Blog</a></li>
+<li><a href="https://www.youtube.com/channel/UCu15CLJFFCceFcVRQ-aG-Vg" target="_blank" rel="noopener">Bilişim eğitim\bilgilendirme\destek içerikleri</a></li>
+<li><a href="http://tkhosting.66ghz.com/" target="_blank" rel="noopener">Web site barındırma</a></li>
+</ul>
+<p>servisleri oluşturduk.</p>
+<p>Nice katkılarda bulunmak dileğiyle.</p>
+<p>#TÜRKİYE</p>
+<p>#TeknoKızılelma</p>
+<p>#DahaGüzelGeliyoruz</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Adblock yazılımların çalışma mantığı</title>
+		<link>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/</link>
+				<comments>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/#respond</comments>
+				<pubDate>Tue, 05 Jun 2018 09:53:54 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[adblock]]></category>
+		<category><![CDATA[advertisement]]></category>
+		<category><![CDATA[engelleme]]></category>
+		<category><![CDATA[reklam]]></category>
+		<category><![CDATA[reklam engelleme]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
+				<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir. Adblock eklentileri şu şekilde çalışır; Konu ile alakalı video; İyi okumalar dilerim.]]></description>
+								<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
+<p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
+Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
+<span id="more-289"></span><br />
+Adblock eklentileri şu şekilde çalışır;<br />
+<img src="https://i.hizliresim.com/Q2JgkV.jpg" /></p>
+<p>Konu ile alakalı video;</p>
+<p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
+<p>İyi okumalar dilerim.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Dünya Devi Microsoft&#8217;a Türkiye&#8217;de soruşturma açıldı</title>
+		<link>https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/</link>
+				<comments>https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/#respond</comments>
+				<pubDate>Fri, 14 Jul 2017 08:39:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=191</guid>
+				<description><![CDATA[Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması. Kurul açıklamasında şöyle denildi: &#8220;İnternet kafelere yönelik olarak hazırlanan “3+ Projesi” kapsamında 4054 sayılı Kanun’un ihlal edildiği iddiasını içeren şikayet başvurusunu Danıştay 13. Dairesinin kararı üzerine yeniden değerlendirdi. Daha önce bahse konu şikayet nedeniyle yapılan önaraştırmada, söz konusu faaliyetler incelenmiş, 07.12.2011...]]></description>
+								<content:encoded><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması.</p>
+<p>Kurul açıklamasında şöyle denildi:</p>
+<p>&#8220;İnternet kafelere yönelik olarak hazırlanan “3+ Projesi” kapsamında 4054 sayılı Kanun’un ihlal edildiği iddiasını içeren şikayet başvurusunu Danıştay 13. Dairesinin kararı üzerine yeniden değerlendirdi.<img class="alignnone size-medium wp-image-202" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/microsoft-300x142.jpg" alt="" width="300" height="142" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-300x142.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-768x364.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-1024x485.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Daha önce bahse konu şikayet nedeniyle yapılan önaraştırmada, söz konusu faaliyetler incelenmiş, 07.12.2011 tarihinde 11-60/1555-550 sayı ile şikayetin reddine ve soruşturma açılmamasına karar verilmişti. Ancak anılan Kurul kararı Danıştay 13. Dairesinin, 25.10.2016 tarih, 2012/1000 E.; 2016/3413 K. sayılı kararı ile iptal edildi.</p>
+<p>Dosyada yer alan bilgi ve belgeleri 20.04.2017 tarihli toplantısında müzakere eden Kurul, ilgili mahkeme kararında belirtilen hususları dikkate alarak, 4054 sayılı Kanun&#8217;un 6. maddesini ihlal edip etmediğinin tespitine yönelik olarak aynı Kanun’un 41. maddesi uyarınca;</p>
+<p>Microsoft Bilgisayar Yazılım Hizmetleri Ltd. Şti. hakkında soruşturma açılmasına 17-13/171-M sayı ile karar verdi.</p>
+<p>Bilindiği üzere 4054 sayılı Kanun’un 6. maddesi hâkim durumun kötüye kullanılmasını yasaklamaktadır.&#8221;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Riot Games&#8217;ten Türkiye&#8217;ye yatırım</title>
+		<link>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/</link>
+				<comments>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/#respond</comments>
+				<pubDate>Fri, 14 Jul 2017 08:35:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[kurdu]]></category>
+		<category><![CDATA[oyun]]></category>
+		<category><![CDATA[riot]]></category>
+		<category><![CDATA[riot games]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=188</guid>
+				<description><![CDATA[Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu. Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends...]]></description>
+								<content:encoded><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu.</p>
+<p><img class="alignnone size-full wp-image-194" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir.png" alt="" width="255" height="198" /></p>
+<p>Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends oyuncusuna çok daha hızlı ve kaliteli hizmet sunacağını açıkladı.</p>
+<p>League of Legends Türkiye Sunucusunun devreye girmesiyle Türkiye’deki League of Legends oyuncularının mevcut bağlantı hızlarına bağlı olarak yaşadıkları gecikme sürelerinin (ping) daha da azalmasının hedeflendiği bildirildi.</p>
+<p>&#8220;BU YATIRIM TÜRKİYE&#8217;DEKİ OYUNCULARIMIZA OLAN İNANCIN GÖSTERGESİDİR&#8221;</p>
+<p>Riot Games Türkiye Ülke Müdürü Bora Koçyiğit, yapılan bu yatırımın Türkiye&#8217;de milyonlarca oyuncu için 5 yıldır değer üretmeye devam eden ve kendi sektöründe dev bir ekosistemin şekillenmesine yol açan şirketin, Türkiye&#8217;ye yatırım yapma konusundaki kararlılığına işaret ettiğini söyledi.Riot Games Türkiye olarak SunucununTürkiye&#8217;ye getirilmesi yönünde büyük çaba harcadıklarını belirten Koçyiğit, “Birçok yabancı şirketin Türkiye’deki yatırımlarını gözden geçirdiği bir dönemde yaptığımız bu yatırım, Türkiye’ye ve Türkiye’deki oyuncularımıza olan inancımızın ve verdiğimiz değerin göstergesidir” dedi.</p>
+<p>&#8220;5 YILDA DEV BİR EKOSİSTEMİN OLUŞUMUNA ÖNCÜLÜK ETTİK&#8221;</p>
+<p>Bu yıl Türkiye’deki 5&#8217;inci yılını dolduran Riot Games Türkiye’nin önemli başarılara imza attığını aktaran Koçyiğit, uluslararası bir oyun yayıncısı olan Riot Games’in Türkiye’de yarattığı doğrudan istihdamın yanı sıra, fırsatlarla dolu dev bir ekosistemin gelişimine de katkıda bulunduğuna dikkat çekti. Türkiye&#8217;de oyunculara ve espor ekosistemine, bugüne kadar hiçbir oyun şirketinin yapmadığı kadar büyük yatırım yaptıklarını ifade eden Koçyiğit, şunları söyledi:</p>
+<p>“Geçtiğimiz 5 yılda oyunumuzu Türkiye için yerelleştirirken,ülkenin önde gelen seslendirme sanatçılarıyla ve stüdyolarıyla çalıştık. Oyuncuları bir araya getiren büyük çaplı organizasyonlar düzenledik. Esporu Türkiye&#8217;de kurumsal, organize ve profesyonel bir spor dalı haline getirdik. Esporda bizi dünya arenasında temsil eden, bayrağımızı dalgalandıran şampiyonların yetişmesine aracı olduk. Türkiye’de hizmete giren yeni sunucumuz,tüm oyuncularımızın faydalanabileceği yepyeni bir otoyol, bir olimpiyat stadı anlamına geliyor. Bu yatırımın oyuncularımıza daha iyi hizmet sunmanın yanı sıra, Türkiye’nin espordaki rekabet gücünü arttıracağına inanıyorum. Bu yeni yatırım sürecimizin başından sonuna kadar bize destek veren Türkiye Cumhuriyeti Başbakanlık Yatırım ve Destek Ajansı’na teşekkür ediyorum.”</p>
+<p>&#8220;GELİŞTİRİLEN ÖZEL İŞLEMCİLER DÜNYADA İLK KEZ TÜRKİYE’DE KULLANILACAK&#8221;</p>
+<p>League of Legends Sunucularında hizmet vermek üzere özel olarak geliştirilen işlemcilerinin dünyada ilk kez Türkiye&#8217;deki sunucuda kullanılacağını ifade eden Koçyiğit, &#8220;Türkiye’deki ekibin gelişimini yakından takip ettiği yeni işlemciler, League of Legends sunucularının ihtiyaçlarına uygun iyileştirmeler içeriyor. Bu sayede oyunculara daha az sayıda sunucuyla çok daha iyi hizmet vermek mümkün hale geliyor. Bu durum sunucuların enerji ve bakım giderlerinde de önemli oranda tasarruf sağlıyor&#8221; şeklinde konuştu.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Samsung&#8217;tan Dev Yatırım</title>
+		<link>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/</link>
+				<comments>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/#respond</comments>
+				<pubDate>Fri, 14 Jul 2017 08:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[kurdu]]></category>
+		<category><![CDATA[kurulu]]></category>
+		<category><![CDATA[Rekabet]]></category>
+		<category><![CDATA[rekabet kurulu]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[soruşturma]]></category>
+		<category><![CDATA[Türkiye]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=185</guid>
+				<description><![CDATA[Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu. Samsung Electronics Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapacağını açıkladı. Tüketiciler markayı akıllı telefonlar ve televizyonlarla ilişkilendirse de, Samsung aslında dünyanın en büyük bellek çipi üreticisi. Nitekim Bloomberg’in verilerine göre, yarı iletkenler 2016 yılında...]]></description>
+								<content:encoded><![CDATA[<ol>
+<li>Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu.</li>
+</ol>
+<p><img class="alignnone size-medium wp-image-196" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir-300x158.jpg" alt="" width="300" height="158" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2017/07/indir-300x158.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/indir.jpg 310w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Samsung Electronics Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapacağını açıkladı.</p>
+<p>Tüketiciler markayı akıllı telefonlar ve televizyonlarla ilişkilendirse de, Samsung aslında dünyanın en büyük bellek çipi üreticisi. Nitekim Bloomberg’in verilerine göre, yarı iletkenler 2016 yılında şirketin işletme gelirinin hemen hemen yarısını sağladı. Bu yeni yatırım ise bu satış gelirinin daha da büyüyeceğine işaret ediyor.</p>
+<p>Samsung’tan yapılan açıklamada, şimdiye kadar 13,5 milyar dolar yatırılan Pyeongtaek’teki tesise 2021 yılına kadar toplam yatırımın 26 milyar dolara çıkacağı kaydedildi.</p>
+<p>Dünyada otomotiv endüstrisindeki ilerlemeler, yapay zeka ve Nesnelerin İnterneti’nin gelecek yıllarda yarı iletkene olan talebi artırması bekleniyor.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Apple yeni garanti problemi</title>
+		<link>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/</link>
+				<comments>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/#respond</comments>
+				<pubDate>Thu, 08 Jun 2017 09:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[apple garanti problemi]]></category>
+		<category><![CDATA[Avustralya]]></category>
+		<category><![CDATA[Avustralya Rekabet ve Tüketici Komisyonu]]></category>
+		<category><![CDATA[bilgisayar]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[dışı]]></category>
+		<category><![CDATA[garanti]]></category>
+		<category><![CDATA[garanti dışı]]></category>
+		<category><![CDATA[hak]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Komisyonu]]></category>
+		<category><![CDATA[macintosh]]></category>
+		<category><![CDATA[problem]]></category>
+		<category><![CDATA[Rekabet]]></category>
+		<category><![CDATA[tamir]]></category>
+		<category><![CDATA[Tüketici]]></category>
+		<category><![CDATA[ücretsiz]]></category>
+		<category><![CDATA[ücretsiz tamir hakkı]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=163</guid>
+				<description><![CDATA[Apple, müşterilerinin kendi cihazlarını onarma hakkına sahip olmasından gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı. Dava, Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu) tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları...]]></description>
+								<content:encoded><![CDATA[<p>Apple, müşterilerinin <strong>kendi cihazlarını onarma hakkına sahip olmasından </strong>gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı.</p>
+<p>Dava, <strong>Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu)</strong> tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları durumunda ücretsiz onarım ve değişim hakkını kaybedeceklerini söylüyor. Avustralya kanununa göre, ürün &#8220;kusurlu veya kabul edilemez bir kalitede&#8221; ise, tüketiciler ücretsiz onarım ve değişim hakkına sahipler.</p>
+<p>Davalar şimdilik devam etse de bizim ülkemizde kanı teknik servis harici onarımın garanti dışı olacağına yönelik.</p>
+<p>Hayırlısı.</p>
+<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>YOUTUBE KANALIMIZ</title>
+		<link>https://bilisimkurdu.github.io/youtube-kanalimiz/</link>
+				<comments>https://bilisimkurdu.github.io/youtube-kanalimiz/#respond</comments>
+				<pubDate>Sat, 29 Oct 2016 09:34:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[bilişim kurdu youtube kanalı]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[bloglama]]></category>
+		<category><![CDATA[bloglandırma]]></category>
+		<category><![CDATA[hoşgeldiniz]]></category>
+		<category><![CDATA[kanal]]></category>
+		<category><![CDATA[kurt]]></category>
+		<category><![CDATA[youtube]]></category>
+		<category><![CDATA[youtube kanalı]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=35</guid>
+				<description><![CDATA[Youtube kanalımız Bilişim Kurdu: https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.]]></description>
+								<content:encoded><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: <a>https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg</a></p>
+<p>Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/youtube-kanalimiz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Hoş Geldiniz</title>
+		<link>https://bilisimkurdu.github.io/hos-geldiniz/</link>
+				<comments>https://bilisimkurdu.github.io/hos-geldiniz/#respond</comments>
+				<pubDate>Thu, 27 Oct 2016 14:24:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[bloglama]]></category>
+		<category><![CDATA[bloglandırma]]></category>
+		<category><![CDATA[hoşgeldiniz]]></category>
+		<category><![CDATA[kurt]]></category>
+
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=6</guid>
+				<description><![CDATA[&#160; &#160; Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili gelişmeler ve yazılar bulunacaktır. Size şimdiden iyi okumalar dilerim. Bilişim Kurdu Ekibi]]></description>
+								<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili gelişmeler ve yazılar bulunacaktır.</p>
+<p>Size şimdiden iyi okumalar dilerim.</p>
+<p><strong> Bilişim Kurdu Ekibi</strong></p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/hos-geldiniz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

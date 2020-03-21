@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>engelleme &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/engelleme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 05 Jun 2018 09:55:33 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>engelleme &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Adblock yazılımların çalışma mantığı</title>
+		<link>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/</link>
+				<comments>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/#respond</comments>
+				<pubDate>Tue, 05 Jun 2018 09:53:54 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[adblock]]></category>
+		<category><![CDATA[advertisement]]></category>
+		<category><![CDATA[engelleme]]></category>
+		<category><![CDATA[reklam]]></category>
+		<category><![CDATA[reklam engelleme]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
+				<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir. Adblock eklentileri şu şekilde çalışır; Konu ile alakalı video; İyi okumalar dilerim.]]></description>
+								<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
+<p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
+Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
+<span id="more-289"></span><br />
+Adblock eklentileri şu şekilde çalışır;<br />
+<img src="https://i.hizliresim.com/Q2JgkV.jpg" /></p>
+<p>Konu ile alakalı video;</p>
+<p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
+<p>İyi okumalar dilerim.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

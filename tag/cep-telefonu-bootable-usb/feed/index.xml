@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cep telefonu bootable usb &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/cep-telefonu-bootable-usb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 28 Nov 2019 12:50:28 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>cep telefonu bootable usb &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Android cihazlarda Bootable USB oluşturma</title>
+		<link>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</link>
+				<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
+				<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[android cihazlarda bootable usb oluşturma]]></category>
+		<category><![CDATA[android device creating bootable usb]]></category>
+		<category><![CDATA[android rufus]]></category>
+		<category><![CDATA[cep telefonu bootable usb]]></category>
+		<category><![CDATA[cep telefonu bootable usb yapma]]></category>
+		<category><![CDATA[mobil phone device creating bootable usb]]></category>
+		<category><![CDATA[rufus apk]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle gereksinimlerin bulunması gerekmektedir; Android Cihazınızın OTG desteği olması En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek OTG kablo Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır veya indirilir. Eğer işletim sistemi...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var.</p>
+
+
+
+<span id="more-646"></span>
+
+
+
+<p>Öncelikle gereksinimlerin bulunması gerekmektedir;</p>
+
+
+
+<ul><li>Android Cihazınızın OTG desteği olması</li><li>En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek</li><li>OTG kablo</li></ul>
+
+
+
+<p>Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır  veya indirilir.</p>
+
+
+
+<p>Eğer işletim sistemi linux tabanlı ise <a rel="noreferrer noopener" aria-label="EtchDroid (yeni sekmede açılır)" href="https://play.google.com/store/apps/details?id=eu.depau.etchdroid" target="_blank">EtchDroid</a> uygulamasını indirmeniz gerekmektedir.</p>
+
+
+
+<p>EtchDroid ile nasıl bootable USB oluşturulacağını anlatan video:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer Windows ise <a rel="noreferrer noopener" aria-label="ISO 2 USB (yeni sekmede açılır)" href="https://play.google.com/store/apps/details?id=com.mixapplications.iso2usb" target="_blank">ISO 2 USB</a> ile nasıl bootable USB oluşturulacağını anlatan video:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer ISO 2 USB ile olmazsa Windows 10 için nasıl bootable USB oluşturulacağını anlatan video:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="748" height="421" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

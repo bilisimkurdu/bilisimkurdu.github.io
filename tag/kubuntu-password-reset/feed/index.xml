@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kubuntu password reset &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/kubuntu-password-reset/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 19 Dec 2019 09:52:14 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>kubuntu password reset &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kali Linux şifre sıfırlama</title>
+		<link>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/</link>
+				<comments>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/#respond</comments>
+				<pubDate>Tue, 17 Dec 2019 14:06:07 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Kali Linux şifre kurtarma]]></category>
+		<category><![CDATA[Kali Linux şifre resetleme]]></category>
+		<category><![CDATA[Kali Linux şifresini unuttum]]></category>
+		<category><![CDATA[kubuntu password reset]]></category>
+		<category><![CDATA[kubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[linux şifre sıfırlama]]></category>
+		<category><![CDATA[lubuntu password reset]]></category>
+		<category><![CDATA[pardus şifre sıfırlama]]></category>
+		<category><![CDATA[ubuntu password reset]]></category>
+		<category><![CDATA[ubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[xubuntu password reset]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=666</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır. Kali linux yazan seçeneğe gelir F10 tuşuna basılır. GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221; kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın. &#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak.</p>
+
+
+
+<span id="more-666"></span>
+
+
+
+<ul><li>Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır.</li></ul>
+
+
+
+<ul><li>Kali linux yazan seçeneğe gelir F10 tuşuna basılır.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/02-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+
+
+
+<ul><li>GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221;  kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/03-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+
+
+
+<ul><li>&#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna &#8220;init=/bin/bash&#8221; ifadesi eklenir.</li></ul>
+
+
+
+<ul><li>Karşınıza çıkan shell ekranında &#8220;passwd&#8221; komutu yazılır.Yeni şifrenizi giriniz. Doğrulamak için tekrar root şifresini girin. ENTER tuşuna basın ve şifre sıfırlamanın başarılı olduğunu onaylayın.</li></ul>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ubuntu şifresi sıfırlama</title>
+		<link>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/</link>
+				<comments>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/#respond</comments>
+				<pubDate>Tue, 17 Dec 2019 13:53:02 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[kubuntu password reset]]></category>
+		<category><![CDATA[kubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[linux şifre sıfırlama]]></category>
+		<category><![CDATA[lubuntu password reset]]></category>
+		<category><![CDATA[pardus şifre sıfırlama]]></category>
+		<category><![CDATA[ubuntu password reset]]></category>
+		<category><![CDATA[ubuntu şifre sıfırlama]]></category>
+		<category><![CDATA[xubuntu password reset]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=663</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız. Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz. Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz. Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız. Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>   Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak.</p>
+
+
+
+<span id="more-663"></span>
+
+
+
+<ul><li>Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın.</li></ul>
+
+
+
+<ul><li>Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız.</li></ul>
+
+
+
+<ul><li>Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://wpcdn.cazda.com/wp-content/uploads/2016/10/Grub2.02_DualBoot-820x440.jpg" alt=""/></figure>
+
+
+
+<ul><li>Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://clouding.io/kb/wp-content/uploads/2018/11/ubuntu_recoverymode_1.png" alt=""/></figure>
+
+
+
+<ul><li>Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız.</li></ul>
+
+
+
+<pre class="crayon-plain-tag">mount -o remount,rw /
+passwd &amp;lt;kullaniciadi&gt;</pre>
+
+
+
+<ul><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

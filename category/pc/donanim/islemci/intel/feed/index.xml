@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Intel &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/category/pc/donanim/islemci/intel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Fri, 04 Oct 2019 07:48:43 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Intel &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
+		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
+				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Android Studio HAXM This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[Android studio This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[haxm This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology çözümü]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
+		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım.</p>
+
+
+
+<p>This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır;</p>
+
+
+
+<span id="more-578"></span>
+
+
+
+<p><strong>Eğer BIOS üzerinden VT-x ayarı enable ise;</strong></p>
+
+
+
+<p>1)Hyper-V yüklü ise disable ediniz.</p>
+
+
+
+<p>Hyper-V disable etmek için;</p>
+
+
+
+<p>Control Panel-&gt;<em>&nbsp;Program and Feature</em> -&gt;T<em>urn Window Features on and off</em> -&gt;Hyper-V işaretliyse kaldırılıp Bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>2)Windows 10 kullanıyorsanız;</p>
+
+
+
+<p>Windows Defender settings &gt; Device security &gt; Core isolation details &gt; Memory integrity &gt; Off&nbsp;konumuna getirilerek bilgisayar yeniden başlatılır.</p>
+
+
+
+<p>3)CMD yönetici olarak çalıştırarak aşağıdaki komut girilerek bilgisayar yeniden başlatılır.</p>
+
+
+<p>bcdedit /set hypervisorlaunchtype off</p>
+
+
+
+<p>4)</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=53337">https://www.microsoft.com/en-us/download/details.aspx?id=53337</a> adresinden Device Guard and Credential Guard&nbsp;tool indirilir ve CMD administrator olarak çalıştıralak toolun bulunduğu klasöre işaret edilerek (cd komutuyla) aşağıdaki komut girilir.</p>
+
+
+<p>DG_Readiness_Tool_v3.6.ps1 -disable</p>
+
+
+
+<p>5) BIOS&#8217;a girilerek VT-x disable moduna alındıktan sonra bilgisayar yeniden başlatılarak BIOS&#8217;a girilerek VT-x modu enable moduna getirilir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Microsoft&#8217;tan güncelleme müjdesi</title>
+		<link>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/</link>
+				<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
+				<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[açık]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[güncelleme]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[işlemci]]></category>
+		<category><![CDATA[Meltdown]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft güncelleme]]></category>
+		<category><![CDATA[Spectre]]></category>
+		<category><![CDATA[Spectre ve Meltdown açık yamaları]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[yamaları]]></category>
+
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
+				<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi....]]></description>
+								<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
+<span id="more-362"></span><br />
+Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
+<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

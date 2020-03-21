@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>microsoft free ebook &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/microsoft-free-ebook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 16 Apr 2019 19:49:04 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>microsoft free ebook &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microsoft Free eBook Giveaway</title>
+		<link>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/</link>
+				<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft free e-book]]></category>
+		<category><![CDATA[microsoft free ebook]]></category>
+		<category><![CDATA[microsoft virtual academy]]></category>
+		<category><![CDATA[mva]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz. https://yadi.sk/d/WgEStyM6iSdkvA (Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.) İyi Akşamlar.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>30 Nisan&#8217;da <a rel="noreferrer noopener" aria-label="Microsoft MVA (yeni sekmede açılır)" href="https://mva.microsoft.com/" target="_blank">Microsoft MVA</a> programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır.</p>
+
+
+
+<span id="more-460"></span>
+
+
+
+<p>Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz.</p>
+
+
+
+<p><a href="https://yadi.sk/d/WgEStyM6iSdkvA">https://yadi.sk/d/WgEStyM6iSdkvA</a></p>
+
+
+
+<p>(Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.)</p>
+
+
+
+<p>İyi Akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

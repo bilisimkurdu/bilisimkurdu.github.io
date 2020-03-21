@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ado.net mysql &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/ado-net-mysql/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 21 Mar 2019 19:59:00 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>ado.net mysql &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Entity Framework&#8217;ü MYSQL&#8217;de kullanmak</title>
+		<link>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/</link>
+				<comments>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/#respond</comments>
+				<pubDate>Thu, 21 Mar 2019 19:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[ado.net mysql]]></category>
+		<category><![CDATA[ado.net mysql bağlantı]]></category>
+		<category><![CDATA[ado.net mysql bağlantısı]]></category>
+		<category><![CDATA[ado.net mysql connect]]></category>
+		<category><![CDATA[c# mysql]]></category>
+		<category><![CDATA[c# mysql bağlantı]]></category>
+		<category><![CDATA[c# mysql connect]]></category>
+		<category><![CDATA[Entity Framework]]></category>
+		<category><![CDATA[entity framework mysql]]></category>
+		<category><![CDATA[entity framework mysql bağlantı]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=442</guid>
+				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir. MYSQL for Visual Studio (MSI Installer): https://dev.mysql.com/downloads/windows/visualstudio/ MYSQL Connector/NET : https://dev.mysql.com/downloads/connector/net/8.0.html adreslerinden temin edebilirsiniz. MYSQL for Visual Studio kurarken &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun. The devenv /updateconfiguration...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Arkadaşlar,</p>
+
+
+
+<p>Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım.</p>
+
+
+
+<p>Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir.</p>
+
+
+
+<span id="more-442"></span>
+
+
+
+<p>MYSQL for Visual Studio (MSI Installer): <a rel="noreferrer noopener" aria-label="https://dev.mysql.com/downloads/windows/visualstudio/ (yeni sekmede açılır)" href="https://dev.mysql.com/downloads/windows/visualstudio/" target="_blank">https://dev.mysql.com/downloads/windows/visualstudio/</a></p>
+
+
+
+<p>MYSQL Connector/NET  : <a href="https://dev.mysql.com/downloads/connector/net/8.0.html" target="_blank" rel="noreferrer noopener" aria-label="https://dev.mysql.com/downloads/connector/net/8.0.html (yeni sekmede açılır)">https://dev.mysql.com/downloads/connector/net/8.0.html</a></p>
+
+
+
+<p>adreslerinden temin edebilirsiniz.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>MYSQL for Visual Studio kurarken  &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun.</p><p><a rel="noreferrer noopener" aria-label="The devenv /usipdate configuration command may have failed
+ (yeni sekmede açılır)" href="http://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a><br></p></blockquote>
+
+
+
+<p>Peki programı yükledim nasıl kullanacağım?</p>
+
+
+
+<p>Visual Studio&#8217;yu açıp projemizi oluşturduktan sonra;</p>
+
+
+
+<p>Sağ tık -&gt; Add Item -&gt; Data -&gt; ADO.NET Data Model</p>
+
+
+
+<figure class="wp-block-image"><img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/entity-framework-in-mvc-part-one/Images/image010.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/entity-framework-in-mvc-part-one/Images/image010.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/BaQVZD.jpg" alt=""/></figure>
+
+
+
+<p>&#8220;Data Source&#8221; seçeneğinde &#8220;MySQL Database&#8221; seçilip &#8220;OK&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/ZXBrLk.jpg" alt=""/></figure>
+
+
+
+<p>Gerekli bilgileri girildikten sonra &#8220;OK&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/oXWLA7.jpg" alt=""/></figure>
+
+
+
+<p>Akabinde &#8220;Next&#8221; butonuna tıklandıktan sonra ADO.NET penceresi kendiliğinden kapanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/8avGZV.jpg" alt=""/></figure>
+
+
+
+<p>Solution Explorer sekmesinde beyaz karenin içinde bulunan simgeye tıklandıktan sonra karşımıza çıkan pencerelerden çıkan seçeneklere dokunmadan &#8220;Next&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/nQ6vAR.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/v620gp.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/16W9YG.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/LlzJpb.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/r5kqg1.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/7anOoa.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/qdkg4Q.jpg" alt=""/></figure>
+
+
+
+<p>&#8220;Finish&#8221; butonuna tıkladıktan sonra biraz beklenir ve eklediğimiz mevcut database bağlantısının modeli oluşturulur.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/MVGz62.jpg" alt=""/></figure>
+
+
+
+<p>
+
+Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
+
+</p>
+
+
+
+<p>İyi akşamlar.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

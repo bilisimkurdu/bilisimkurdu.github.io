@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>android oem kilidi kaldırma &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/android-oem-kilidi-kaldirma/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 10 Sep 2019 11:36:41 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>android oem kilidi kaldırma &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OEM Kilidi nedir? (Android)</title>
+		<link>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/</link>
+				<comments>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/#respond</comments>
+				<pubDate>Tue, 10 Sep 2019 11:36:40 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Android oem kilidi]]></category>
+		<category><![CDATA[android oem kilidi kaldırma]]></category>
+		<category><![CDATA[android oem kilidi kaldırma 2019]]></category>
+		<category><![CDATA[Android OEM Kilit Açma Nedir Hırsızlık Korumasını Kapatma]]></category>
+		<category><![CDATA[oem kilidi]]></category>
+		<category><![CDATA[oem kilidi kaldırma]]></category>
+		<category><![CDATA[OEM Kilit Açma Nedir? Android Oem Kilit Açma Nasıl Yapılır?]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=543</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip telefonu sıfırlaması sonucunda cihazın kullanılmasını engellemektedir. Sistem telefona girdiğiniz Google hesabı ile birlikte çalışmakta olup formatlama işleminden sonra telefon kurulum ekranında Google Hesabınızı girmenizi istemektedir.  OEM kilidinin bypass yöntemleri bulunsa da telefonunuzu sıfırlamak isterseniz OEM kilidini...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim.</p>
+
+
+
+<span id="more-543"></span>
+
+
+
+<p>OEM kilidi, üçüncü kişilerin telefono ele geçirip telefonu sıfırlaması sonucunda cihazın kullanılmasını engellemektedir. Sistem telefona girdiğiniz Google hesabı ile birlikte çalışmakta olup formatlama işleminden sonra telefon kurulum ekranında <strong>Google Hesabınızı girmenizi istemektedir.</strong> </p>
+
+
+
+<p>OEM kilidinin bypass yöntemleri bulunsa da telefonunuzu sıfırlamak isterseniz OEM kilidini mağduru olmak istemşyorsanız iki yöntem bulunmaktadır.</p>
+
+
+
+<p>1.yöntem:</p>
+
+
+
+<p>Telefonunuzda <strong>Ayarlar</strong> -> T<strong>elefon Hakkında, Yazılım Bilgileri</strong> -> <strong>Android Yapım Numarası veya Derleme Numarası</strong> (7  defa basılması) </p>
+
+
+
+<p>Geliştirici Seçenekleri -> OEM kilidi (pasif)</p>
+
+
+
+<p>2.yöntem olarak Google hesaplarınızı kaldırabilirsiniz.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
