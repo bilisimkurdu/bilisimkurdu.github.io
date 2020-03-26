@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/tag/ubuntu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 27 Feb 2019 17:41:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Mar 2020 10:02:21 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</title>
+		<link>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/</link>
+				<comments>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/#respond</comments>
+				<pubDate>Thu, 26 Mar 2020 10:02:15 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Debian server VNC server kurulumu]]></category>
+		<category><![CDATA[Debian VNC server kurulumu]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[Linux VNC yükleme]]></category>
+		<category><![CDATA[putty]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[Ubuntu server VNC server kurulumu]]></category>
+		<category><![CDATA[Ubuntu VNC server kurulumu]]></category>
+		<category><![CDATA[vnc]]></category>
+		<category><![CDATA[vps]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Debian tanablı işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir. Eğer Ubuntu Server için; Gerekli paketlerin yüklenmesi...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Debian tanablı işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim.</p>
+
+
+
+<span id="more-711"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir.</p></blockquote>
+
+
+
+<p>Eğer Ubuntu Server  için;</p>
+
+
+
+<p>Gerekli paketlerin yüklenmesi ve konfigrasyonların oluşturulması için.</p>
+
+
+
+<pre class="crayon-plain-tag">sudo apt-get install ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
+sudo apt-get install --no-install-recommends ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
+sudo apt-get install vnc4server
+vncserver
+vncserver -kill :1</pre>
+
+
+
+<p>Akabinde xstartup&nbsp; dosyasını düzenliyoruz.</p>
+
+
+
+<pre class="crayon-plain-tag">nano ~/.vnc/xstartup</pre>
+
+
+
+<p>xstartup&nbsp;içeriği;</p>
+
+
+
+<pre class="crayon-plain-tag">#!/bin/sh
+
+# Uncomment the following two lines for normal desktop:
+# unset SESSION_MANAGER
+# exec /etc/X11/xinit/xinitrc
+
+&amp;#91; -x /etc/vnc/xstartup ] &amp;amp;&amp;amp; exec /etc/vnc/xstartup
+&amp;#91; -r $HOME/.Xresources ] &amp;amp;&amp;amp; xrdb $HOME/.Xresources
+# xsetroot -solid grey
+vncconfig -iconic &amp;amp;
+# x-terminal-emulator -geometry 80x24+10+10 -ls -title &quot;$VNCDESKTOP Desktop&quot; &amp;amp;
+# x-window-manager &amp;amp;
+gnome-session &amp;amp;
+gnome-panel &amp;amp;
+gnome-settings-daemon &amp;amp;
+metacity &amp;amp;
+nautilus &amp;amp;
+gnome-terminal &amp;amp;</pre>
+
+
+
+<p>Gerekli konfigrasyonlar;</p>
+
+
+
+<pre class="crayon-plain-tag">You will require a password to access your desktops.
+
+Password:
+Verify:
+Would you like to enter a view-only password (y/n)? y
+Password:
+Verify:
+xauth:  file /home/$USER/.Xauthority does not exist
+
+New 'X' desktop is 578e1bb09561:1
+
+Creating default startup script /home/$USER/.vnc/xstartup
+Starting applications specified in /home/$USER/.vnc/xstartup
+Log file is /home/$USER/.vnc/578e1bb09561:1.log</pre>
+
+
+
+<p>Eğer Debian ve debian tabanlı sistemler için;</p>
+
+
+
+<pre class="crayon-plain-tag">sudo su
+apt-get update
+apt-get install xfce4 xfce4-goodies gnome-icon-theme tightvncserver
+vncserver</pre>
+
+
+
+<p>Gerekli konfigrasyonlar;</p>
+
+
+
+<pre class="crayon-plain-tag">You will require a password to access your desktops.
+
+Password:
+Verify:
+Would you like to enter a view-only password (y/n)? y
+Password:
+Verify:
+xauth:  file /home/$USER/.Xauthority does not exist
+
+New 'X' desktop is 578e1bb09561:1
+
+Creating default startup script /home/$USER/.vnc/xstartup
+Starting applications specified in /home/$USER/.vnc/xstartup
+Log file is /home/$USER/.vnc/578e1bb09561:1.log</pre>
+
+
+
+<p>Bütün işlemler tamamlandıktan sonra <code>vncserver</code> komutu çalıştırarak VNC Server&#8217;ı çalıştırıp VNC Client yazılımları ile <code>ServerIP:5901</code> veya <code>ServerIP::5901</code> ile girerek bağlanabilirsiniz.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Eğer farklı çözünürlük ile çalışmak isterseniz VNC Server&#8217;ı <code>vncserver -geometry cozunulukDegeri</code> komutu ile çalıştırabilisiniz. </p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>VMware Workstation Linux virtual machine not working sharing folder</title>
 		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
 				<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>

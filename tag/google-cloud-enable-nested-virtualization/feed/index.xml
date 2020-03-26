@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google Cloud Enable nested virtualization &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/google-cloud-enable-nested-virtualization/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 26 Mar 2020 10:59:19 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Google Cloud Enable nested virtualization &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Enable nested virtualization on Google Cloud</title>
+		<link>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/</link>
+				<comments>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/#respond</comments>
+				<pubDate>Thu, 26 Mar 2020 10:59:16 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Enable nested virtualization Google Cloud]]></category>
+		<category><![CDATA[Enable nested virtualization on Google Cloud]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[Google Cloud Enable nested virtualization]]></category>
+		<category><![CDATA[Google Cloud iç içe sanallaştırma]]></category>
+		<category><![CDATA[Google Cloud sanal makine oluşturma]]></category>
+		<category><![CDATA[İç içe sanallaştırma]]></category>
+		<category><![CDATA[nested virtualization]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=719</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud üzerinden oluşturulan sunucu sanal olup sanal makine üzerinden başka bir sanal makine oluşturulması iç içe sanallaştırma senaryosudur. Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz. https://cloud.google.com/sdk/install Aşağıdaki komut ile Console...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak.</p>
+
+
+
+<p>Bilindiği üzere Google Cloud üzerinden oluşturulan sunucu sanal olup sanal makine üzerinden başka bir sanal makine oluşturulması iç içe sanallaştırma senaryosudur.</p>
+
+
+
+<span id="more-719"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz.</p><p><a href="https://cloud.google.com/sdk/install" target="_blank" rel="noreferrer noopener">https://cloud.google.com/sdk/install</a></p></blockquote>
+
+
+
+<p> Aşağıdaki komut ile Console üzerinden oturum açıp projemizi seçiyoruz.</p>
+
+
+
+<pre class="crayon-plain-tag">gcloud init</pre>
+
+
+
+<p>Ubuntı imajı oluşturup nested virtualization lisansını alıyoruz.</p>
+
+
+
+<pre class="crayon-plain-tag">gcloud compute images create nested-virt --source-image-project=ubuntu-os-cloud --source-image-family=ubuntu-1804-lts --licenses=&quot;https://www.googleapis.com/compute/v1/projects/vm-options/global/licenses/enable-vmx&quot;</pre>
+
+
+
+<p>Yeni makine oluşturuyoruz.</p>
+
+
+
+<pre class="crayon-plain-tag">gcloud compute instances create &quot;nest-1&quot; --zone &quot;us-east1-b&quot; --machine-type &quot;n1-standard-8&quot;  --min-cpu-platform &quot;Intel Haswell&quot; --image &quot;nested-virt&quot; --boot-disk-size &quot;40&quot; --boot-disk-type &quot;pd-ssd&quot; --boot-disk-device-name &quot;nest-1&quot;</pre>
+
+
+
+<p>Akabinden <a href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/" target="_blank" rel="noreferrer noopener">VNC Server</a> kurulumunu yaparak VirtualBox kurulumu yapıp dilediğiniz kadar sanal makine çalıştırabilirsiniz.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
