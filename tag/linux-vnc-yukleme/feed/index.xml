@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/tag/linux-vnc-yukleme/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 26 Mar 2020 10:02:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Mar 2020 16:13:00 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -47,13 +47,13 @@
 		<category><![CDATA[vps]]></category>
 
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Debian tanablı işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir. Eğer Ubuntu Server için; Gerekli paketlerin yüklenmesi...]]></description>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir. Eğer Ubuntu Server için;...]]></description>
 								<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
-<p>Bu yazımda Debian tanablı işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim.</p>
+<p>Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim.</p>
 
 
 
@@ -74,7 +74,6 @@
 
 
 <pre class="crayon-plain-tag">sudo apt-get install ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
-sudo apt-get install --no-install-recommends ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
 sudo apt-get install vnc4server
 vncserver
 vncserver -kill :1</pre>
