@@ -75,15 +75,15 @@
 
 
 
-<pre class="crayon-plain-tag">//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
+<pre class="wp-block-code"><code>//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
 sudo vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
 sudo .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0
 //fedora tabanlı işletim sistemlerinde
-su -c &quot;vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other&quot;
-su -c &quot;.host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0&quot;
+su -c "vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other"
+su -c ".host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0"
 //Suse tabanlı işletim sistemlerinde
 su vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
-su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</pre>
+su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</code></pre>
 
 
 

@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/windows/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 13 Feb 2020 08:54:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Mar 2020 14:25:53 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,144 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ekran kartı sürücüsü güncelleme</title>
+		<link>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/</link>
+				<comments>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond</comments>
+				<pubDate>Sat, 28 Mar 2020 14:21:19 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[amd ekran kartı güncelleme]]></category>
+		<category><![CDATA[ekran kartı]]></category>
+		<category><![CDATA[ekran kartı güncelleme]]></category>
+		<category><![CDATA[ekran kartı sürücü güncelleme]]></category>
+		<category><![CDATA[intel ekran kartı güncelleme]]></category>
+		<category><![CDATA[nvida ekran kartı güncelleme]]></category>
+		<category><![CDATA[windows 10 ekran katı güncelleme]]></category>
+		<category><![CDATA[windows 7 ekran kartı güncelleme]]></category>
+		<category><![CDATA[windows 8 ekan katı güncelleme]]></category>
+		<category><![CDATA[windows ekran kartı güncelleme]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına  video içeriği olarak sizlere sunuyoruz.</p>
+
+
+
+<span id="more-731"></span>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Ekran Kartı sürücüsünü güncelleme - Her marka için geçerli" width="748" height="421" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p> </p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Windows 7 Visual Studio kurulmuyor.</title>
+		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
+				<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
+				<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Visual Studio 2017 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Visual Studio kurulum ekranı gelmiyor]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak.</p>
+
+
+
+<span id="more-727"></span>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/65Uq0Z.jpg" alt=""/><figcaption>İnstaller yükleme veya güncelleme sonrası Visual studio yükleme veya güncelleştirme ekranı gelmemesi.</figcaption></figure>
+
+
+
+<p>Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır.</p>
+
+
+
+<p>Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir.</p>
+
+
+
+<p>Windows 7 32 bit:  <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE</a></p>
+
+
+
+<p>Windows 7 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-us/download/details.aspx?id=45633" target="_blank">https://www.microsoft.com/en-us/download/details.aspx?id=45633</a></p>
+
+
+
+<p>Windows 8 32 bit: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=45083" target="_blank" rel="noreferrer noopener">https://www.microsoft.com/en-us/download/details.aspx?id=45083</a></p>
+
+
+
+<p>Windows 8 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-ph/download/details.aspx?id=45096" target="_blank">https://www.microsoft.com/en-ph/download/details.aspx?id=45096</a></p>
+
+
+
+<p>Windows 8.1 32 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-sg/download/details.aspx?id=45047" target="_blank">https://www.microsoft.com/en-sg/download/details.aspx?id=45047</a></p>
+
+
+
+<p>Windows 8.1 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45074" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45074</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>Required Privilege Is Not Held By The Client Error</title>
 		<link>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/</link>
 				<comments>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/#respond</comments>
@@ -294,9 +432,9 @@
 
 
 
-<pre class="crayon-plain-tag">bootrec.exe /fixmbr
+<pre class="wp-block-code"><code>bootrec.exe /fixmbr
 bootrec.exe /fixboot  
-bootrec.exe /rebuildbcd</pre>
+bootrec.exe /rebuildbcd</code></pre>
 
 
 
@@ -733,7 +871,7 @@ bootrec.exe /rebuildbcd</pre>
 
 
 
-<pre class="crayon-plain-tag">powercfg -RestoreDefaultSchemes</pre>
+<pre class="wp-block-code"><code>powercfg -RestoreDefaultSchemes</code></pre>
 
 
 

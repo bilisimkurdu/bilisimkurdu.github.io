@@ -79,7 +79,7 @@
 
 
 
-<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</pre>
+<pre class="wp-block-code"><code>SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</code></pre>
 
 
 
@@ -91,14 +91,14 @@
 
 
 
-<pre class="crayon-plain-tag">//Entity Framework 
+<pre class="wp-block-code"><code>//Entity Framework 
 //SchoolDBEntities tanımladığımızı varsayıyoruz.
 using (var context = new SchoolDBEntities())
 {
     var query = context.Students
-                       .where(s =&gt; s.StudentName == &quot;Bill&quot;)
-                       .FirstOrDefault&amp;lt;Student&gt;();
-}</pre>
+                       .where(s => s.StudentName == "Bill")
+                       .FirstOrDefault&lt;Student>();
+}</code></pre>
 
 
 
@@ -110,8 +110,8 @@ using (var context = new SchoolDBEntities())
 
 
 
-<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE 
-satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
+<pre class="wp-block-code"><code>SELECT secilecekSatir FROM tabloAdi WHERE 
+satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
@@ -123,10 +123,10 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
 
 
 
-<pre class="crayon-plain-tag">var query =
+<pre class="wp-block-code"><code>var query =
     from person in context.People
-    where person.FirstName.Like(&quot;Col%&quot;)
-    select person;</pre>
+    where person.FirstName.Like("Col%")
+    select person;</code></pre>
 
 
 

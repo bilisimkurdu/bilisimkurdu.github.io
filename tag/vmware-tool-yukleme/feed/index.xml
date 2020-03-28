@@ -75,7 +75,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 
@@ -83,7 +83,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools</code></pre>
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools open-vm-tools-desktop&quot;</pre>
+<pre class="wp-block-code"><code>su -c "yum install open-vm-tools open-vm-tools-desktop"</code></pre>
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools&quot;</pre>
+<pre class="wp-block-code"><code>su -c "yum install open-vm-tools"</code></pre>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo zypper install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo zypper install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 
@@ -123,7 +123,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo zypper install open-vm-tools</pre>
+<pre class="wp-block-code"><code>sudo zypper install open-vm-tools</code></pre>
 
 
 
@@ -183,7 +183,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 

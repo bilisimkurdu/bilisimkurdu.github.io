@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Visual Studio 2019 kurulmuyor. &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/visual-studio-2019-kurulmuyor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sat, 28 Mar 2020 13:16:17 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Visual Studio 2019 kurulmuyor. &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows 7 Visual Studio kurulmuyor.</title>
+		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
+				<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
+				<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Visual Studio 2017 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Visual Studio kurulum ekranı gelmiyor]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak.</p>
+
+
+
+<span id="more-727"></span>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/65Uq0Z.jpg" alt=""/><figcaption>İnstaller yükleme veya güncelleme sonrası Visual studio yükleme veya güncelleştirme ekranı gelmemesi.</figcaption></figure>
+
+
+
+<p>Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır.</p>
+
+
+
+<p>Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir.</p>
+
+
+
+<p>Windows 7 32 bit:  <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE</a></p>
+
+
+
+<p>Windows 7 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-us/download/details.aspx?id=45633" target="_blank">https://www.microsoft.com/en-us/download/details.aspx?id=45633</a></p>
+
+
+
+<p>Windows 8 32 bit: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=45083" target="_blank" rel="noreferrer noopener">https://www.microsoft.com/en-us/download/details.aspx?id=45083</a></p>
+
+
+
+<p>Windows 8 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-ph/download/details.aspx?id=45096" target="_blank">https://www.microsoft.com/en-ph/download/details.aspx?id=45096</a></p>
+
+
+
+<p>Windows 8.1 32 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-sg/download/details.aspx?id=45047" target="_blank">https://www.microsoft.com/en-sg/download/details.aspx?id=45047</a></p>
+
+
+
+<p>Windows 8.1 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45074" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45074</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -68,7 +68,7 @@
 
 
 
-<pre class="crayon-plain-tag">deb http://debian.opennms.org/ stable main</pre>
+<pre class="wp-block-code"><code>deb http://debian.opennms.org/ stable main</code></pre>
 
 
 
@@ -76,9 +76,9 @@
 
 
 
-<pre class="crayon-plain-tag">sudo wget -O - http://debian.opennms.org/OPENNMS-GPG-KEY | sudo apt-key add -
+<pre class="wp-block-code"><code>sudo wget -O - http://debian.opennms.org/OPENNMS-GPG-KEY | sudo apt-key add -
 sudo apt-get update
-sudo apt-get install paketAdi</pre>
+sudo apt-get install paketAdi</code></pre>
 
 
 
@@ -86,9 +86,9 @@ sudo apt-get install paketAdi</pre>
 
 
 
-<pre class="crayon-plain-tag">cd dosyaDizini
+<pre class="wp-block-code"><code>cd dosyaDizini
 sudo apt-get install gdebi
-sudo gdebi paketAdi.deb</pre>
+sudo gdebi paketAdi.deb</code></pre>
 
 
 

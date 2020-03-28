@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 18 Feb 2020 08:39:54 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Mar 2020 13:16:17 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Windows 7 Visual Studio kurulmuyor.</title>
+		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
+				<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
+				<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Visual Studio 2017 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Visual Studio kurulum ekranı gelmiyor]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak.</p>
+
+
+
+<span id="more-727"></span>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/65Uq0Z.jpg" alt=""/><figcaption>İnstaller yükleme veya güncelleme sonrası Visual studio yükleme veya güncelleştirme ekranı gelmemesi.</figcaption></figure>
+
+
+
+<p>Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır.</p>
+
+
+
+<p>Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir.</p>
+
+
+
+<p>Windows 7 32 bit:  <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE</a></p>
+
+
+
+<p>Windows 7 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-us/download/details.aspx?id=45633" target="_blank">https://www.microsoft.com/en-us/download/details.aspx?id=45633</a></p>
+
+
+
+<p>Windows 8 32 bit: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=45083" target="_blank" rel="noreferrer noopener">https://www.microsoft.com/en-us/download/details.aspx?id=45083</a></p>
+
+
+
+<p>Windows 8 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-ph/download/details.aspx?id=45096" target="_blank">https://www.microsoft.com/en-ph/download/details.aspx?id=45096</a></p>
+
+
+
+<p>Windows 8.1 32 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-sg/download/details.aspx?id=45047" target="_blank">https://www.microsoft.com/en-sg/download/details.aspx?id=45047</a></p>
+
+
+
+<p>Windows 8.1 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45074" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45074</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required</title>
 		<link>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/</link>
 				<comments>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/#respond</comments>
@@ -157,13 +241,13 @@
 
 
 
-<pre class="crayon-plain-tag">zend_extension = c:\xampp\php\ext\xdebug.dll
+<pre class="wp-block-code"><code>zend_extension = c:\xampp\php\ext\xdebug.dll
 xdebug.remote_enable = 1
 xdebug.remote_handler = dbgp
 xdebug.remote_host = localhost
 xdebug.remote_autostart = 1
 xdebug.remote_port = 9000
-xdebug.show_local_vars = 1</pre>
+xdebug.show_local_vars = 1</code></pre>
 
 
 
@@ -171,10 +255,10 @@ xdebug.show_local_vars = 1</pre>
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install autoconf automake libtool m4
-export LANG=&quot;C&quot;
+<pre class="wp-block-code"><code>sudo apt-get install autoconf automake libtool m4
+export LANG="C"
 /opt/lampp/bin/pecl update-channels
-/opt/lampp/bin/pecl install Xdebug</pre>
+/opt/lampp/bin/pecl install Xdebug</code></pre>
 
 
 
@@ -182,7 +266,7 @@ export LANG=&quot;C&quot;
 
 
 
-<pre class="crayon-plain-tag">&amp;#91;Xdebug]
+<pre class="wp-block-code"><code>&#91;Xdebug]
 zend_extension=/opt/lampp/lib/php/extensions/xdegugDosyasininOlduguKlasor/xdebug.so
 xdebug.idekey = netbeans-xdebug
 xdebug.profiler_append = 0
@@ -196,7 +280,7 @@ xdebug.remote_host = 127.0.0.1
 xdebug.remote_port = 9000
 xdebug.remote_handler = dbgp
 xdebug.remote_mode = req
-xdebug.show_local_vars = 9</pre>
+xdebug.show_local_vars = 9</code></pre>
 
 
 
@@ -880,17 +964,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">WebClient wclient = new WebClient();  
+<pre class="wp-block-code"><code> 
+WebClient wclient = new WebClient();  
             string RSSData=wclient.DownloadString(RSSURL);  
             XDocument xml = XDocument.Parse(RSSData);  
-            var RSSFeedData = (from x in xml.Descendants(&quot;item&quot;)  
+            var RSSFeedData = (from x in xml.Descendants("item")  
                              select new RSSFeed  
                              {  
-                                 Title = ((string)x.Element(&quot;title&quot;)),  
-                                 Link = ((string)x.Element(&quot;link&quot;)),  
-                                 Description = ((string)x.Element(&quot;description&quot;)),  
-                                 PubDate = ((string)x.Element(&quot;pubDate&quot;))  
-                             });</pre>
+                                 Title = ((string)x.Element("title")),  
+                                 Link = ((string)x.Element("link")),  
+                                 Description = ((string)x.Element("description")),  
+                                 PubDate = ((string)x.Element("pubDate"))  
+                             });  
+          </code></pre>
 
 
 
@@ -898,8 +984,8 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">WebClient wclient = new WebClient();
-            string RSSData = &quot;&quot;;
+<pre class="wp-block-code"><code>WebClient wclient = new WebClient();
+            string RSSData = "";
 
             using (WebClient webClient = new WebClient())
             {
@@ -908,19 +994,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
             }
 
             XDocument xml = XDocument.Parse(RSSData);
-            xml.Declaration.Encoding = &quot;utf-8&quot;;
-            var RSSFeedData = (from x in xml.Descendants(&quot;item&quot;)
+            xml.Declaration.Encoding = "utf-8";
+            var RSSFeedData = (from x in xml.Descendants("item")
                                select new RSSHaber
                                {
-                                   Title = ((string)x.Element(&quot;title&quot;)),
-                                   Link = ((string)x.Element(&quot;link&quot;)),
-                                   Description = ((string)x.Element(&quot;description&quot;)),
-                                   PubDate = ((string)x.Element(&quot;pubDate&quot;)),
+                                   Title = ((string)x.Element("title")),
+                                   Link = ((string)x.Element("link")),
+                                   Description = ((string)x.Element("description")),
+                                   PubDate = ((string)x.Element("pubDate")),
 
 
                                }
 
-                               );</pre>
+                               );</code></pre>
 
 
 
@@ -1304,7 +1390,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</pre>
+<pre class="wp-block-code"><code>SELECT secilecekSatir FROM tabloAdi WHERE i //i = Where sorgusunda kullanılan ifadeler</code></pre>
 
 
 
@@ -1316,14 +1402,14 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">//Entity Framework 
+<pre class="wp-block-code"><code>//Entity Framework 
 //SchoolDBEntities tanımladığımızı varsayıyoruz.
 using (var context = new SchoolDBEntities())
 {
     var query = context.Students
-                       .where(s =&gt; s.StudentName == &quot;Bill&quot;)
-                       .FirstOrDefault&amp;lt;Student&gt;();
-}</pre>
+                       .where(s => s.StudentName == "Bill")
+                       .FirstOrDefault&lt;Student>();
+}</code></pre>
 
 
 
@@ -1335,8 +1421,8 @@ using (var context = new SchoolDBEntities())
 
 
 
-<pre class="crayon-plain-tag">SELECT secilecekSatir FROM tabloAdi WHERE 
-satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
+<pre class="wp-block-code"><code>SELECT secilecekSatir FROM tabloAdi WHERE 
+satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
@@ -1348,10 +1434,10 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
 
 
 
-<pre class="crayon-plain-tag">var query =
+<pre class="wp-block-code"><code>var query =
     from person in context.People
-    where person.FirstName.Like(&quot;Col%&quot;)
-    select person;</pre>
+    where person.FirstName.Like("Col%")
+    select person;</code></pre>
 
 
 
@@ -1538,7 +1624,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</pre>
 <tbody>
 <tr>
 <td>
-<pre class="crayon-plain-tag">Adım 1-Başla
+<pre class="code">Adım 1-Başla
 
 Adım 2-I18=0 I19=0 I20=0 I21=0 I22=0 IYOS=0
 
@@ -1554,7 +1640,7 @@ Adım 7-OSA=21 ise I21'i arttır,ADım 9'a git
 
 Adım 8-OSA=22 ise I22'Yİ arttır,Adım 9'a git
 
-Adım 9-IYOS&amp;lt;100 ise Adım 3'e git
+Adım 9-IYOS&lt;100 ise Adım 3'e git
 
 Adım 10-I18,I19,I20,I21,I22,yaz
 
@@ -1815,7 +1901,16 @@ source ~/.bashrc</p>
 <p><strong>1) Public repo keyini import ediyoruz.</strong></p>
 <p><em>sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -“</em></p>
 <p><strong>2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz.</strong></p>
-<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p><pre class="crayon-plain-tag">sudo sh -c &quot;echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &amp;gt;&amp;gt; /etc/apt/sources.list.d/sql-server.list&quot;</pre><p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p><pre class="crayon-plain-tag">sudo apt-get update</pre><p></p><pre class="crayon-plain-tag">sudo apt-get install mssql-server mssql-tools -y</pre><p>Kurulum adımlarını tamamladıktan sonra</p><pre class="crayon-plain-tag">sqlcmd -S localhost -U SA -P Parola</pre><p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
+<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p>
+<pre>sudo sh -c "echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &gt;&gt; /etc/apt/sources.list.d/sql-server.list"</pre>
+<p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p>
+<pre>sudo apt-get update</pre>
+<pre>sudo apt-get install mssql-server mssql-tools -y 
+
+</pre>
+<p>Kurulum adımlarını tamamladıktan sonra</p>
+<pre>sqlcmd -S localhost -U SA -P Parola</pre>
+<p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
 Sonra <strong>mssql-tools</strong> paketi eksik olduğunu gördüm ve kurmaya başladım. <strong>Synaptic Paket Yöneticisinden mssql-tools</strong> paketini yüklemeye çalıştığımda aşağıdaki hatayı aldım.</p>
 <blockquote><p>mssql-tools:<br />
 Bağımlılıklar: libc6 (&gt;=2.21) fakat 2.19-18+deb8u7 kurulacak<br />

@@ -157,8 +157,8 @@
 
 
 
-<pre class="crayon-plain-tag">mount -o remount,rw /
-passwd &amp;lt;kullaniciadi&gt;</pre>
+<pre class="wp-block-code"><code>mount -o remount,rw /
+passwd &lt;kullaniciadi></code></pre>
 
 
 

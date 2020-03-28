@@ -62,9 +62,9 @@
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get update -y
+<pre class="wp-block-code"><code>sudo apt-get update -y
 sudo apt-get upgrade -y
-sudo apt --fix-broken install</pre>
+sudo apt --fix-broken install</code></pre>
 
 
 

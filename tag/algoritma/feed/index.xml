@@ -142,7 +142,7 @@
 <tbody>
 <tr>
 <td>
-<pre class="crayon-plain-tag">Adım 1-Başla
+<pre class="code">Adım 1-Başla
 
 Adım 2-I18=0 I19=0 I20=0 I21=0 I22=0 IYOS=0
 
@@ -158,7 +158,7 @@ Adım 7-OSA=21 ise I21'i arttır,ADım 9'a git
 
 Adım 8-OSA=22 ise I22'Yİ arttır,Adım 9'a git
 
-Adım 9-IYOS&amp;lt;100 ise Adım 3'e git
+Adım 9-IYOS&lt;100 ise Adım 3'e git
 
 Adım 10-I18,I19,I20,I21,I22,yaz
 

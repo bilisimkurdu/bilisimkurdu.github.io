@@ -65,17 +65,19 @@
 
 
 
-<pre class="crayon-plain-tag">WebClient wclient = new WebClient();  
+<pre class="wp-block-code"><code> 
+WebClient wclient = new WebClient();  
             string RSSData=wclient.DownloadString(RSSURL);  
             XDocument xml = XDocument.Parse(RSSData);  
-            var RSSFeedData = (from x in xml.Descendants(&quot;item&quot;)  
+            var RSSFeedData = (from x in xml.Descendants("item")  
                              select new RSSFeed  
                              {  
-                                 Title = ((string)x.Element(&quot;title&quot;)),  
-                                 Link = ((string)x.Element(&quot;link&quot;)),  
-                                 Description = ((string)x.Element(&quot;description&quot;)),  
-                                 PubDate = ((string)x.Element(&quot;pubDate&quot;))  
-                             });</pre>
+                                 Title = ((string)x.Element("title")),  
+                                 Link = ((string)x.Element("link")),  
+                                 Description = ((string)x.Element("description")),  
+                                 PubDate = ((string)x.Element("pubDate"))  
+                             });  
+          </code></pre>
 
 
 
@@ -83,8 +85,8 @@
 
 
 
-<pre class="crayon-plain-tag">WebClient wclient = new WebClient();
-            string RSSData = &quot;&quot;;
+<pre class="wp-block-code"><code>WebClient wclient = new WebClient();
+            string RSSData = "";
 
             using (WebClient webClient = new WebClient())
             {
@@ -93,19 +95,19 @@
             }
 
             XDocument xml = XDocument.Parse(RSSData);
-            xml.Declaration.Encoding = &quot;utf-8&quot;;
-            var RSSFeedData = (from x in xml.Descendants(&quot;item&quot;)
+            xml.Declaration.Encoding = "utf-8";
+            var RSSFeedData = (from x in xml.Descendants("item")
                                select new RSSHaber
                                {
-                                   Title = ((string)x.Element(&quot;title&quot;)),
-                                   Link = ((string)x.Element(&quot;link&quot;)),
-                                   Description = ((string)x.Element(&quot;description&quot;)),
-                                   PubDate = ((string)x.Element(&quot;pubDate&quot;)),
+                                   Title = ((string)x.Element("title")),
+                                   Link = ((string)x.Element("link")),
+                                   Description = ((string)x.Element("description")),
+                                   PubDate = ((string)x.Element("pubDate")),
 
 
                                }
 
-                               );</pre>
+                               );</code></pre>
 
 
 

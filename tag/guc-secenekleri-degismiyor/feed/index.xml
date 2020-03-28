@@ -63,7 +63,7 @@
 
 
 
-<pre class="crayon-plain-tag">powercfg -RestoreDefaultSchemes</pre>
+<pre class="wp-block-code"><code>powercfg -RestoreDefaultSchemes</code></pre>
 
 
 

@@ -113,7 +113,16 @@ source ~/.bashrc</p>
 <p><strong>1) Public repo keyini import ediyoruz.</strong></p>
 <p><em>sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -“</em></p>
 <p><strong>2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz.</strong></p>
-<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p><pre class="crayon-plain-tag">sudo sh -c &quot;echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &amp;gt;&amp;gt; /etc/apt/sources.list.d/sql-server.list&quot;</pre><p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p><pre class="crayon-plain-tag">sudo apt-get update</pre><p></p><pre class="crayon-plain-tag">sudo apt-get install mssql-server mssql-tools -y</pre><p>Kurulum adımlarını tamamladıktan sonra</p><pre class="crayon-plain-tag">sqlcmd -S localhost -U SA -P Parola</pre><p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
+<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p>
+<pre>sudo sh -c "echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &gt;&gt; /etc/apt/sources.list.d/sql-server.list"</pre>
+<p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p>
+<pre>sudo apt-get update</pre>
+<pre>sudo apt-get install mssql-server mssql-tools -y 
+
+</pre>
+<p>Kurulum adımlarını tamamladıktan sonra</p>
+<pre>sqlcmd -S localhost -U SA -P Parola</pre>
+<p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
 Sonra <strong>mssql-tools</strong> paketi eksik olduğunu gördüm ve kurmaya başladım. <strong>Synaptic Paket Yöneticisinden mssql-tools</strong> paketini yüklemeye çalıştığımda aşağıdaki hatayı aldım.</p>
 <blockquote><p>mssql-tools:<br />
 Bağımlılıklar: libc6 (&gt;=2.21) fakat 2.19-18+deb8u7 kurulacak<br />

@@ -86,9 +86,9 @@
 
 
 
-<pre class="crayon-plain-tag">bootrec.exe /fixmbr
+<pre class="wp-block-code"><code>bootrec.exe /fixmbr
 bootrec.exe /fixboot  
-bootrec.exe /rebuildbcd</pre>
+bootrec.exe /rebuildbcd</code></pre>
 
 
 

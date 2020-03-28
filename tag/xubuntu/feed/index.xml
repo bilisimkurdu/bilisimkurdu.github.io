@@ -70,7 +70,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 

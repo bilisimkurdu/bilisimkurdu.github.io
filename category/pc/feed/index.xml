@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 26 Mar 2020 16:13:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Mar 2020 14:25:53 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,144 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ekran kartı sürücüsü güncelleme</title>
+		<link>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/</link>
+				<comments>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond</comments>
+				<pubDate>Sat, 28 Mar 2020 14:21:19 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[amd ekran kartı güncelleme]]></category>
+		<category><![CDATA[ekran kartı]]></category>
+		<category><![CDATA[ekran kartı güncelleme]]></category>
+		<category><![CDATA[ekran kartı sürücü güncelleme]]></category>
+		<category><![CDATA[intel ekran kartı güncelleme]]></category>
+		<category><![CDATA[nvida ekran kartı güncelleme]]></category>
+		<category><![CDATA[windows 10 ekran katı güncelleme]]></category>
+		<category><![CDATA[windows 7 ekran kartı güncelleme]]></category>
+		<category><![CDATA[windows 8 ekan katı güncelleme]]></category>
+		<category><![CDATA[windows ekran kartı güncelleme]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına  video içeriği olarak sizlere sunuyoruz.</p>
+
+
+
+<span id="more-731"></span>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Ekran Kartı sürücüsünü güncelleme - Her marka için geçerli" width="748" height="421" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p> </p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Windows 7 Visual Studio kurulmuyor.</title>
+		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
+				<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
+				<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Genel]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Visual Studio 2017 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Visual Studio kurulum ekranı gelmiyor]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio 2019 kurulum ekranı gelmiyor.]]></category>
+		<category><![CDATA[Windows 7 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8 Visual Studio kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio 2019 kurulmuyor.]]></category>
+		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
+				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak.</p>
+
+
+
+<span id="more-727"></span>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/65Uq0Z.jpg" alt=""/><figcaption>İnstaller yükleme veya güncelleme sonrası Visual studio yükleme veya güncelleştirme ekranı gelmemesi.</figcaption></figure>
+
+
+
+<p>Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır.</p>
+
+
+
+<p>Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir.</p>
+
+
+
+<p>Windows 7 32 bit:  <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&amp;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE</a></p>
+
+
+
+<p>Windows 7 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-us/download/details.aspx?id=45633" target="_blank">https://www.microsoft.com/en-us/download/details.aspx?id=45633</a></p>
+
+
+
+<p>Windows 8 32 bit: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=45083" target="_blank" rel="noreferrer noopener">https://www.microsoft.com/en-us/download/details.aspx?id=45083</a></p>
+
+
+
+<p>Windows 8 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-ph/download/details.aspx?id=45096" target="_blank">https://www.microsoft.com/en-ph/download/details.aspx?id=45096</a></p>
+
+
+
+<p>Windows 8.1 32 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/en-sg/download/details.aspx?id=45047" target="_blank">https://www.microsoft.com/en-sg/download/details.aspx?id=45047</a></p>
+
+
+
+<p>Windows 8.1 64 bit: <a rel="noreferrer noopener" href="https://www.microsoft.com/tr-tr/download/details.aspx?id=45074" target="_blank">https://www.microsoft.com/tr-tr/download/details.aspx?id=45074</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>Enable nested virtualization on Google Cloud</title>
 		<link>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/</link>
 				<comments>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/#respond</comments>
@@ -70,7 +208,7 @@
 
 
 
-<pre class="crayon-plain-tag">gcloud init</pre>
+<pre class="wp-block-code"><code>gcloud init</code></pre>
 
 
 
@@ -78,7 +216,7 @@
 
 
 
-<pre class="crayon-plain-tag">gcloud compute images create nested-virt --source-image-project=ubuntu-os-cloud --source-image-family=ubuntu-1804-lts --licenses=&quot;https://www.googleapis.com/compute/v1/projects/vm-options/global/licenses/enable-vmx&quot;</pre>
+<pre class="wp-block-code"><code>gcloud compute images create nested-virt --source-image-project=ubuntu-os-cloud --source-image-family=ubuntu-1804-lts --licenses="https://www.googleapis.com/compute/v1/projects/vm-options/global/licenses/enable-vmx"</code></pre>
 
 
 
@@ -86,7 +224,7 @@
 
 
 
-<pre class="crayon-plain-tag">gcloud compute instances create &quot;nest-1&quot; --zone &quot;us-east1-b&quot; --machine-type &quot;n1-standard-8&quot;  --min-cpu-platform &quot;Intel Haswell&quot; --image &quot;nested-virt&quot; --boot-disk-size &quot;40&quot; --boot-disk-type &quot;pd-ssd&quot; --boot-disk-device-name &quot;nest-1&quot;</pre>
+<pre class="wp-block-code"><code>gcloud compute instances create "nest-1" --zone "us-east1-b" --machine-type "n1-standard-8"  --min-cpu-platform "Intel Haswell" --image "nested-virt" --boot-disk-size "40" --boot-disk-type "pd-ssd" --boot-disk-device-name "nest-1"</code></pre>
 
 
 
@@ -149,10 +287,10 @@
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
+<pre class="wp-block-code"><code>sudo apt-get install ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
 sudo apt-get install vnc4server
 vncserver
-vncserver -kill :1</pre>
+vncserver -kill :1</code></pre>
 
 
 
@@ -160,7 +298,7 @@ vncserver -kill :1</pre>
 
 
 
-<pre class="crayon-plain-tag">nano ~/.vnc/xstartup</pre>
+<pre class="wp-block-code"><code>nano ~/.vnc/xstartup</code></pre>
 
 
 
@@ -168,24 +306,24 @@ vncserver -kill :1</pre>
 
 
 
-<pre class="crayon-plain-tag">#!/bin/sh
+<pre class="wp-block-code"><code>#!/bin/sh
 
 # Uncomment the following two lines for normal desktop:
 # unset SESSION_MANAGER
 # exec /etc/X11/xinit/xinitrc
 
-&amp;#91; -x /etc/vnc/xstartup ] &amp;amp;&amp;amp; exec /etc/vnc/xstartup
-&amp;#91; -r $HOME/.Xresources ] &amp;amp;&amp;amp; xrdb $HOME/.Xresources
+&#91; -x /etc/vnc/xstartup ] &amp;&amp; exec /etc/vnc/xstartup
+&#91; -r $HOME/.Xresources ] &amp;&amp; xrdb $HOME/.Xresources
 # xsetroot -solid grey
-vncconfig -iconic &amp;amp;
-# x-terminal-emulator -geometry 80x24+10+10 -ls -title &quot;$VNCDESKTOP Desktop&quot; &amp;amp;
-# x-window-manager &amp;amp;
-gnome-session &amp;amp;
-gnome-panel &amp;amp;
-gnome-settings-daemon &amp;amp;
-metacity &amp;amp;
-nautilus &amp;amp;
-gnome-terminal &amp;amp;</pre>
+vncconfig -iconic &amp;
+# x-terminal-emulator -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &amp;
+# x-window-manager &amp;
+gnome-session &amp;
+gnome-panel &amp;
+gnome-settings-daemon &amp;
+metacity &amp;
+nautilus &amp;
+gnome-terminal &amp;</code></pre>
 
 
 
@@ -193,7 +331,7 @@ gnome-terminal &amp;amp;</pre>
 
 
 
-<pre class="crayon-plain-tag">You will require a password to access your desktops.
+<pre class="wp-block-code"><code>You will require a password to access your desktops.
 
 Password:
 Verify:
@@ -206,7 +344,7 @@ New 'X' desktop is 578e1bb09561:1
 
 Creating default startup script /home/$USER/.vnc/xstartup
 Starting applications specified in /home/$USER/.vnc/xstartup
-Log file is /home/$USER/.vnc/578e1bb09561:1.log</pre>
+Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
@@ -214,10 +352,10 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</pre>
 
 
 
-<pre class="crayon-plain-tag">sudo su
+<pre class="wp-block-code"><code>sudo su
 apt-get update
 apt-get install xfce4 xfce4-goodies gnome-icon-theme tightvncserver
-vncserver</pre>
+vncserver</code></pre>
 
 
 
@@ -225,7 +363,7 @@ vncserver</pre>
 
 
 
-<pre class="crayon-plain-tag">You will require a password to access your desktops.
+<pre class="wp-block-code"><code>You will require a password to access your desktops.
 
 Password:
 Verify:
@@ -238,7 +376,7 @@ New 'X' desktop is 578e1bb09561:1
 
 Creating default startup script /home/$USER/.vnc/xstartup
 Starting applications specified in /home/$USER/.vnc/xstartup
-Log file is /home/$USER/.vnc/578e1bb09561:1.log</pre>
+Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
@@ -644,8 +782,8 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</pre>
 
 
 
-<pre class="crayon-plain-tag">mount -o remount,rw /
-passwd &amp;lt;kullaniciadi&gt;</pre>
+<pre class="wp-block-code"><code>mount -o remount,rw /
+passwd &lt;kullaniciadi></code></pre>
 
 
 
@@ -703,7 +841,7 @@ passwd &amp;lt;kullaniciadi&gt;</pre>
 
 
 
-<pre class="crayon-plain-tag">deb http://debian.opennms.org/ stable main</pre>
+<pre class="wp-block-code"><code>deb http://debian.opennms.org/ stable main</code></pre>
 
 
 
@@ -711,9 +849,9 @@ passwd &amp;lt;kullaniciadi&gt;</pre>
 
 
 
-<pre class="crayon-plain-tag">sudo wget -O - http://debian.opennms.org/OPENNMS-GPG-KEY | sudo apt-key add -
+<pre class="wp-block-code"><code>sudo wget -O - http://debian.opennms.org/OPENNMS-GPG-KEY | sudo apt-key add -
 sudo apt-get update
-sudo apt-get install paketAdi</pre>
+sudo apt-get install paketAdi</code></pre>
 
 
 
@@ -721,9 +859,9 @@ sudo apt-get install paketAdi</pre>
 
 
 
-<pre class="crayon-plain-tag">cd dosyaDizini
+<pre class="wp-block-code"><code>cd dosyaDizini
 sudo apt-get install gdebi
-sudo gdebi paketAdi.deb</pre>
+sudo gdebi paketAdi.deb</code></pre>
 
 
 
@@ -799,9 +937,9 @@ sudo gdebi paketAdi.deb</pre>
 
 
 
-<pre class="crayon-plain-tag">bootrec.exe /fixmbr
+<pre class="wp-block-code"><code>bootrec.exe /fixmbr
 bootrec.exe /fixboot  
-bootrec.exe /rebuildbcd</pre>
+bootrec.exe /rebuildbcd</code></pre>
 
 
 
@@ -999,9 +1137,9 @@ bootrec.exe /rebuildbcd</pre>
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get update -y
+<pre class="wp-block-code"><code>sudo apt-get update -y
 sudo apt-get upgrade -y
-sudo apt --fix-broken install</pre>
+sudo apt --fix-broken install</code></pre>
 
 
 
@@ -1146,7 +1284,7 @@ sudo apt --fix-broken install</pre>
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install nautilus</pre>
+<pre class="wp-block-code"><code>sudo apt-get install nautilus</code></pre>
 
 
 
@@ -1154,7 +1292,7 @@ sudo apt --fix-broken install</pre>
 
 
 
-<pre class="crayon-plain-tag">sudo nautilus</pre>
+<pre class="wp-block-code"><code>sudo nautilus</code></pre>
 
 
 
@@ -1708,7 +1846,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">powercfg -RestoreDefaultSchemes</pre>
+<pre class="wp-block-code"><code>powercfg -RestoreDefaultSchemes</code></pre>
 
 
 
@@ -1769,15 +1907,15 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
+<pre class="wp-block-code"><code>//debian tabanlı işletim sistemlerinde(ubuntu,pardus,...)
 sudo vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
 sudo .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0
 //fedora tabanlı işletim sistemlerinde
-su -c &quot;vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other&quot;
-su -c &quot;.host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0&quot;
+su -c "vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other"
+su -c ".host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0"
 //Suse tabanlı işletim sistemlerinde
 su vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
-su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</pre>
+su .host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other 0 0</code></pre>
 
 
 
@@ -1842,7 +1980,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 
@@ -1850,7 +1988,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools</code></pre>
 
 
 
@@ -1862,7 +2000,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools open-vm-tools-desktop&quot;</pre>
+<pre class="wp-block-code"><code>su -c "yum install open-vm-tools open-vm-tools-desktop"</code></pre>
 
 
 
@@ -1870,7 +2008,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">su -c &quot;yum install open-vm-tools&quot;</pre>
+<pre class="wp-block-code"><code>su -c "yum install open-vm-tools"</code></pre>
 
 
 
@@ -1882,7 +2020,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">sudo zypper install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo zypper install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 
@@ -1890,7 +2028,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">sudo zypper install open-vm-tools</pre>
+<pre class="wp-block-code"><code>sudo zypper install open-vm-tools</code></pre>
 
 
 
@@ -1950,7 +2088,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install open-vm-tools open-vm-tools-desktop</pre>
+<pre class="wp-block-code"><code>sudo apt-get install open-vm-tools open-vm-tools-desktop</code></pre>
 
 
 
@@ -2379,7 +2517,16 @@ source ~/.bashrc</p>
 <p><strong>1) Public repo keyini import ediyoruz.</strong></p>
 <p><em>sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -“</em></p>
 <p><strong>2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz.</strong></p>
-<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p><pre class="crayon-plain-tag">sudo sh -c &quot;echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &amp;gt;&amp;gt; /etc/apt/sources.list.d/sql-server.list&quot;</pre><p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p><pre class="crayon-plain-tag">sudo apt-get update</pre><p></p><pre class="crayon-plain-tag">sudo apt-get install mssql-server mssql-tools -y</pre><p>Kurulum adımlarını tamamladıktan sonra</p><pre class="crayon-plain-tag">sqlcmd -S localhost -U SA -P Parola</pre><p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
+<p>sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main &gt; /etc/apt/sources.list.d/sql-server.list”</p>
+<pre>sudo sh -c "echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main &gt;&gt; /etc/apt/sources.list.d/sql-server.list"</pre>
+<p><strong>3) Paketleri güncelleyip kuruluma geçiyoruz.</strong></p>
+<pre>sudo apt-get update</pre>
+<pre>sudo apt-get install mssql-server mssql-tools -y 
+
+</pre>
+<p>Kurulum adımlarını tamamladıktan sonra</p>
+<pre>sqlcmd -S localhost -U SA -P Parola</pre>
+<p>komutunu yazdıktan sonra  sqlcmd olmadığına dailr hatalar aldım.<br />
 Sonra <strong>mssql-tools</strong> paketi eksik olduğunu gördüm ve kurmaya başladım. <strong>Synaptic Paket Yöneticisinden mssql-tools</strong> paketini yüklemeye çalıştığımda aşağıdaki hatayı aldım.</p>
 <blockquote><p>mssql-tools:<br />
 Bağımlılıklar: libc6 (&gt;=2.21) fakat 2.19-18+deb8u7 kurulacak<br />

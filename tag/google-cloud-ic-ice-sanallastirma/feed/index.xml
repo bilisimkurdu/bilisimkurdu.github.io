@@ -70,7 +70,7 @@
 
 
 
-<pre class="crayon-plain-tag">gcloud init</pre>
+<pre class="wp-block-code"><code>gcloud init</code></pre>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<pre class="crayon-plain-tag">gcloud compute images create nested-virt --source-image-project=ubuntu-os-cloud --source-image-family=ubuntu-1804-lts --licenses=&quot;https://www.googleapis.com/compute/v1/projects/vm-options/global/licenses/enable-vmx&quot;</pre>
+<pre class="wp-block-code"><code>gcloud compute images create nested-virt --source-image-project=ubuntu-os-cloud --source-image-family=ubuntu-1804-lts --licenses="https://www.googleapis.com/compute/v1/projects/vm-options/global/licenses/enable-vmx"</code></pre>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<pre class="crayon-plain-tag">gcloud compute instances create &quot;nest-1&quot; --zone &quot;us-east1-b&quot; --machine-type &quot;n1-standard-8&quot;  --min-cpu-platform &quot;Intel Haswell&quot; --image &quot;nested-virt&quot; --boot-disk-size &quot;40&quot; --boot-disk-type &quot;pd-ssd&quot; --boot-disk-device-name &quot;nest-1&quot;</pre>
+<pre class="wp-block-code"><code>gcloud compute instances create "nest-1" --zone "us-east1-b" --machine-type "n1-standard-8"  --min-cpu-platform "Intel Haswell" --image "nested-virt" --boot-disk-size "40" --boot-disk-type "pd-ssd" --boot-disk-device-name "nest-1"</code></pre>
 
 
 

@@ -67,7 +67,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo apt-get install nautilus</pre>
+<pre class="wp-block-code"><code>sudo apt-get install nautilus</code></pre>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<pre class="crayon-plain-tag">sudo nautilus</pre>
+<pre class="wp-block-code"><code>sudo nautilus</code></pre>
 
 
 
