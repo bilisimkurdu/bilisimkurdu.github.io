@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/tag/android-oem-kilidi-kaldirma-2019/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 10 Sep 2019 11:36:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Mar 2020 10:02:58 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,55 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Android cihazlarda OEM kilidi açmak</title>
+		<link>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/</link>
+				<comments>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/#respond</comments>
+				<pubDate>Sun, 29 Mar 2020 09:15:50 +0000</pubDate>
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[Android oem kilidi]]></category>
+		<category><![CDATA[android oem kilidi kaldırma]]></category>
+		<category><![CDATA[android oem kilidi kaldırma 2019]]></category>
+		<category><![CDATA[Android OEM Kilit Açma Nedir Hırsızlık Korumasını Kapatma]]></category>
+		<category><![CDATA[oem kilidi]]></category>
+		<category><![CDATA[oem kilidi kaldırma]]></category>
+
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=738</guid>
+				<description><![CDATA[Merhaba Değerli Ziyaretçilerimiz, Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak. Ayarlar&#160;&#8211;&#62;&#160;Telefon Hakkında&#160;&#8211;&#62; Derleme numarasına&#160;birkaç defa hızlıca dokunun. Artık Geliştiricisiniz mesajını aldıktan sonra Ayarlar&#160;&#8211;&#62;&#160;Sistem&#160;&#8211;&#62;&#160;Gelişmiş&#160;&#8211;&#62;&#160;Geliştirici Seçeneklerine gidin &#8220;OEM kilit açma&#8221;&#160;Seçeneğini bulun ve etkinleştirin.&#160; Cihazı kapatın Ses kısma ve güç tuşuna&#160;aynı anda basılı tutun. Ekranda&#160;Fastboot mode&#160;yazısı belirince bırakın. Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim...]]></description>
+								<content:encoded><![CDATA[
+<p>Merhaba Değerli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak.</p>
+
+
+
+<ol><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img src="https://www.forumandroid.com/proxy.php?image=https%3A%2F%2Fi.hizliresim.com%2FWqbB9P.jpg&amp;hash=13d18709d3e0125f28e5a37996e5f217" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
+
+
+
+<pre class="wp-block-code"><code>fastboot oem unlock
+//veya
+fastboot oem unlock-go
+//komutunu girmeniz gerekmektedir.</code></pre>
+
+
+
+<blockquote class="wp-block-quote"><p>Windows için <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">ADB toolu</a> indirerek CMD&#8217;yi açarak <code>cd ADBToolDizini</code>ne geliniz. Linux için ilgili paket yöneticisinden <a href="https://dl.google.com/android/repository/platform-tools-latest-darwin.zip">ADB Tool</a> yüklenmesi sağlanmalıdır.</p><cite><a href="https://www.xda-developers.com/install-adb-windows-macos-linux/" target="_blank" rel="noreferrer noopener">https://www.xda-developers.com/install-adb-windows-macos-linux/</a></cite></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>OEM Kilidi nedir? (Android)</title>
 		<link>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/</link>
 				<comments>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/#respond</comments>
