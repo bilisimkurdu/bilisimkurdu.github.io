@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>C# RSS Reader UTF-8 problemi</title>
 		<link>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/</link>
-				<comments>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/#respond</comments>
-				<pubDate>Mon, 08 Apr 2019 20:09:41 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 08 Apr 2019 20:09:41 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[c#]]></category>
@@ -45,10 +46,10 @@
 		<category><![CDATA[rss]]></category>
 		<category><![CDATA[RSS Reader UTF-8 problem]]></category>
 		<category><![CDATA[utf-8]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=454</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki gibi veya benzer bir kodlarla alıyorsanız; Aşağıdaki gibi düzenlemeniz gerekmektedir. Açıklarsak,WebClient türünde webClient nesnesini oluşturarak using deyimi içinde utf-8 uyumlu olacak şekilde parse ettik. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz....]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -121,15 +122,19 @@ WebClient wclient = new WebClient();
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>C# Entity Framework üzerinden &#8220;Select&#8221; ve &#8220;Like&#8221; deyimleri</title>
 		<link>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</link>
-				<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
-				<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
 		<category><![CDATA[Programlama]]></category>
@@ -144,10 +149,10 @@ WebClient wclient = new WebClient();
 		<category><![CDATA[Entity Framework]]></category>
 		<category><![CDATA[like]]></category>
 		<category><![CDATA[select]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim. Şimdi başlayalım; Where SQL dilinde &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk; Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; s parametrasiyle studentName değeri &#8220;Bill&#8221; değerini...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -237,15 +242,19 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at &#8230; hatasının çözümü</title>
 		<link>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/</link>
-				<comments>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/#respond</comments>
-				<pubDate>Mon, 04 Mar 2019 18:46:49 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2019 18:46:49 +0000</pubDate>
 				<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[ASP.NET CORE]]></category>
 		<category><![CDATA[ASP.NET MVC]]></category>
@@ -254,10 +263,10 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<category><![CDATA[The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at 'C:\Program Files\dotnet\sdk\' will be displayed.]]></category>
 		<category><![CDATA[Visual Studio]]></category>
 		<category><![CDATA[Visual Studio 2017]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=424</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak. Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel olarak güncelllenmesinden sonra yaşanabilmekte olup hata aşağıdaki resimdedir. x86 :32bit işletim sistemleri x64 :64bit işletim sistemleri Ufak bir hatırlatma 🙂 Bu hatayı ASP:NET Core yükseltmesini hem x86 hem de x64&#8217;e yapmışsınızdır çözümü olarak (İşletim sisteminiz...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak. Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -292,15 +301,19 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Genel Programlama Mantığı &#8211; 3</title>
 		<link>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/</link>
-				<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/#respond</comments>
-				<pubDate>Sun, 10 Dec 2017 10:12:17 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2017 10:12:17 +0000</pubDate>
 				<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[algoritma]]></category>
 		<category><![CDATA[aşama]]></category>
@@ -309,10 +322,10 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<category><![CDATA[döngü]]></category>
 		<category><![CDATA[döngüler]]></category>
 		<category><![CDATA[programlama]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır. • Problem : Problemin belirlenmesi. • Problem analizi : Problem analizi yapılarak çözüm aranmaya çalışılır. • Çözüm : Problemi en kısa sürede ve en doğru biçimde çözen yöntemdir. •...]]></description>
-								<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
+
+					<description><![CDATA[Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 <p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
 <p><img src="http://www.robotiksistem.com/program_adimlari.jpg" alt="Program Yazma Aşamaları" /></p>
 <p>Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır.</p>
@@ -324,15 +337,19 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 • Programın yazımı ve hataların düzeltilmesi : Algoritmanın bir programlama dili ile program haline getirilmesi ve hataların düzeltilmesi<br />
 • Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Genel Programlamlama Mantığı &#8211; 2</title>
 		<link>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/</link>
-				<comments>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/#respond</comments>
-				<pubDate>Mon, 23 Oct 2017 16:55:11 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2017 16:55:11 +0000</pubDate>
 				<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[algoritma]]></category>
 		<category><![CDATA[c#]]></category>
@@ -340,10 +357,10 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<category><![CDATA[döngü]]></category>
 		<category><![CDATA[döngüler]]></category>
 		<category><![CDATA[programlama]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=247</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın şekil bulmuş halidir. Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır. Başla &#8211; Bitir Klavyeden veri al Yazdır Kart okuyucu aracılığıyla giriş yapılacağını gösterir. Değişken atama Aritmetik hesaplama Eğer Diskten okuma ya da diskete yazmayı...]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+					<description><![CDATA[Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>Bu yazımda akış şemasını göstereceğim.</p>
 <p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
 <p>Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır.<br />
@@ -448,15 +465,19 @@ Adım 11-DUR</pre>
 <p>İyi akşamlar dilerim.</p>
 <p>Referens alınmıştır : <a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Genel Programlama Mantığı &#8211; 1</title>
 		<link>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/</link>
-				<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/#respond</comments>
-				<pubDate>Fri, 20 Oct 2017 20:39:36 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 20:39:36 +0000</pubDate>
 				<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[algoritma]]></category>
 		<category><![CDATA[c#]]></category>
@@ -464,10 +485,10 @@ Adım 11-DUR</pre>
 		<category><![CDATA[döngü]]></category>
 		<category><![CDATA[döngüler]]></category>
 		<category><![CDATA[programlama]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=235</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz. Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz. Algoritma Başla komutuyla başlar Bitir komutyla biter. Örnekler verirsek; A1 : Başla. A2 : &#8220;Merhaba Dünya&#8221; yazdır. A3 : Bitir. Bahsettiğimiz...]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım.</p>
+
+					<description><![CDATA[Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım.</p>
 <p>Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz.</p>
 <p>Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz.</p>
 <p>Algoritma Başla komutuyla başlar Bitir komutyla biter.</p>
@@ -598,8 +619,11 @@ Adım 11-DUR</pre>
 <p>Ve böylece algoritmayı tanımlayıp klavyemizin döndüğünce anlatmaya çalıştım.</p>
 <p>Kısmetse diğer yazımda konuyu devam ettirmenin arzusundayım.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Windows güncelleme hata kodları</title>
 		<link>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/</link>
-				<comments>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/#respond</comments>
-				<pubDate>Thu, 13 Feb 2020 08:10:28 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 08:10:28 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[0x80070002 0x20009]]></category>
@@ -58,10 +59,10 @@
 		<category><![CDATA[Installation has failed]]></category>
 		<category><![CDATA[Installation has failed hatası]]></category>
 		<category><![CDATA[Windows update hatası]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem yolunu takip edilerek hata kodu tespit edilebilir. Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\Windows\Logs\MoSetup\BlueBox.log&#8221; dosyasını inceleyerek bulunabilir. Hata kodları ve açıklamaları aşağıdaki tablodadır. Hata Ne anlama gelir ve nasıl düzeltilir 0xc1900223 Bu, seçilen güncelleştirmeyi...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -96,8 +97,11 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

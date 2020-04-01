@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,17 +30,18 @@
 	<item>
 		<title>MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/#respond</comments>
-				<pubDate>Thu, 26 Sep 2019 06:24:40 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2019 06:24:40 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[MonoDevelop]]></category>
 		<category><![CDATA[monodevelop asp.net]]></category>
 		<category><![CDATA[MonoDevelop NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=574</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; hatasının çözümüyle ilişkin olacak. Error : NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation....]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -59,15 +60,19 @@
 
 <p>Bu hatanın çözümü olarak Solution Explorer -> NuGet (Sağ tık) -> Geri yükle aşamalarını takip ederek NuGet paketlerin yeniden yüklenmesi yöntemi uygulanırç </p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
-				<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -76,10 +81,10 @@
 		<category><![CDATA[MonoDevelop]]></category>
 		<category><![CDATA[monodevelop asp.net]]></category>
 		<category><![CDATA[monodevelop asp.net server not starting]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
-				<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open Suse tabanlı sistemlerde Fedora (Sunucuya kuruyorsanız) Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merthaba Arkadaşlar,</p>
 
 
@@ -130,15 +135,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
-				<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Programlama]]></category>
@@ -154,10 +163,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[monodevelop net core]]></category>
 		<category><![CDATA[monodevelop net core problem]]></category>
 		<category><![CDATA[mvc]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim. Problemin çözümü olarak https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız. Eğer yukarıdaki gibi .NET...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -192,8 +201,11 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

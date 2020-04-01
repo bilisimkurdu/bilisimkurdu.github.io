@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>DAHA GÜZEL GELİYORUZ</title>
 		<link>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/</link>
-				<comments>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/#respond</comments>
-				<pubDate>Tue, 04 Sep 2018 13:40:15 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2018 13:40:15 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[bilişim]]></category>
 		<category><![CDATA[bilişim kurdu]]></category>
@@ -41,10 +42,10 @@
 		<category><![CDATA[tekno]]></category>
 		<category><![CDATA[Tekno Kızılelma]]></category>
 		<category><![CDATA[teknoloji]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=346</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi Tekno Kızılelma adıyla birleştirdik. Tekno Kızılelma projesi kapsamında; Blog Bilişim eğitim\bilgilendirme\destek içerikleri Web site barındırma servisleri oluşturduk. Nice katkılarda bulunmak dileğiyle. #TÜRKİYE #TeknoKızılelma #DahaGüzelGeliyoruz]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 <p>Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi <a href="https://www.teknokizilelma.ooo/" target="_blank" rel="noopener">Tekno Kızılelma</a> adıyla birleştirdik.</p>
 <p>Tekno Kızılelma projesi kapsamında;</p>
 <ul>
@@ -58,8 +59,11 @@
 <p>#TeknoKızılelma</p>
 <p>#DahaGüzelGeliyoruz</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

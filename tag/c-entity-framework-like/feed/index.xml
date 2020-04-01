@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>C# Entity Framework üzerinden &#8220;Select&#8221; ve &#8220;Like&#8221; deyimleri</title>
 		<link>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</link>
-				<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
-				<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2019 19:20:13 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
 		<category><![CDATA[Programlama]]></category>
@@ -47,10 +48,10 @@
 		<category><![CDATA[Entity Framework]]></category>
 		<category><![CDATA[like]]></category>
 		<category><![CDATA[select]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden yayınlamaktaydım. Yaptığınız geri bildirimlerinize istinaden dersleri blog üzerinden yoğunlaştırmaya karar verdim. Şimdi başlayalım; Where SQL dilinde &#8220;Where&#8221; ifadesini aşağıdaki gibi kullanıyorduk; Entity sorgumuzda kullandığımız context ve entitiesleri tanımladığımız varsayarak; s parametrasiyle studentName değeri &#8220;Bill&#8221; değerini...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -140,8 +141,11 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

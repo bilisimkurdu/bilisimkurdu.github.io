@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>CYANOGENMOD İSİM DEĞİŞTİRDİ</title>
 		<link>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/</link>
-				<comments>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/#respond</comments>
-				<pubDate>Thu, 23 Feb 2017 14:01:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 23 Feb 2017 14:01:02 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[android]]></category>
 		<category><![CDATA[apk]]></category>
@@ -41,15 +42,18 @@
 		<category><![CDATA[cynogenmod]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[kurdu]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=104</guid>
-				<description><![CDATA[Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım. Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek. &#160;]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım.</p>
+
+					<description><![CDATA[Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım. Bilindiği üzere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım.</p>
 <p>Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

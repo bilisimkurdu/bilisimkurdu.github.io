@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>&#8220;Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi.&#8221;</title>
 		<link>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/</link>
-				<comments>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/#respond</comments>
-				<pubDate>Fri, 01 Mar 2019 16:54:34 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2019 16:54:34 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[güç ayarları değişmiyor]]></category>
@@ -43,10 +44,10 @@
 		<category><![CDATA[güç seçenekleri pasif]]></category>
 		<category><![CDATA[Your Power Plan Information isn't available]]></category>
 		<category><![CDATA[Your Power Plan Information isn't available access denied]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=420</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna değineceğim. Bu hatayla ilişkin harici olarak kullandığınız güç planlama programı varsa kaldırıp bilgisayarı restart attıktan sonra CMD&#8217;yi yönetici olarak çalıştırarak aşağıdaki komutu girmeniz yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz....]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -73,8 +74,11 @@
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

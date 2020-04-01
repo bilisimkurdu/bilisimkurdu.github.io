@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Enable nested virtualization on Google Cloud</title>
 		<link>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/</link>
-				<comments>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/#respond</comments>
-				<pubDate>Thu, 26 Mar 2020 10:59:16 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 10:59:16 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Enable nested virtualization Google Cloud]]></category>
 		<category><![CDATA[Enable nested virtualization on Google Cloud]]></category>
@@ -42,10 +43,10 @@
 		<category><![CDATA[Google Cloud sanal makine oluşturma]]></category>
 		<category><![CDATA[İç içe sanallaştırma]]></category>
 		<category><![CDATA[nested virtualization]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=719</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud üzerinden oluşturulan sunucu sanal olup sanal makine üzerinden başka bir sanal makine oluşturulması iç içe sanallaştırma senaryosudur. Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz. https://cloud.google.com/sdk/install Aşağıdaki komut ile Console...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -100,8 +101,11 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

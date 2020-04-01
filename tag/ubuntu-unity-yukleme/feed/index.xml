@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Linux Unity yükleme</title>
 		<link>https://bilisimkurdu.github.io/linux-unity-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
-				<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[Unity]]></category>
@@ -49,10 +50,10 @@
 		<category><![CDATA[Ubuntu Unity yükleme]]></category>
 		<category><![CDATA[Ubuntu Unity yükleme 2019]]></category>
 		<category><![CDATA[Unity Hub]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır. Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba arkadaşlar,</p>
 
 
@@ -88,8 +89,11 @@
 
 <figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

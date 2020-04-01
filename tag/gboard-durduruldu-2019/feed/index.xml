@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Gboard durduruldu</title>
 		<link>https://bilisimkurdu.github.io/gboard-durduruldu/</link>
-				<comments>https://bilisimkurdu.github.io/gboard-durduruldu/#respond</comments>
-				<pubDate>Thu, 19 Dec 2019 09:51:50 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/gboard-durduruldu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2019 09:51:50 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[gboard]]></category>
 		<category><![CDATA[gboard durduruldu]]></category>
@@ -43,10 +44,10 @@
 		<category><![CDATA[Gboard sürekli olarak duruyor 2019]]></category>
 		<category><![CDATA[Gboard sürekli olarak duruyor hatası]]></category>
 		<category><![CDATA[Gboard sürekli olarak duruyor hatası 2019]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=670</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak. Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya &#8220;Gboard always stopped&#8221; hatası alınıyorsa; Ayarlar->Uygulamalar->Gboard->(Android 5.0&#8217;dan sonra Depolama->Verileri Temizle)Verileri Temizle aşmaları takip edilerek sorun çözülmüş olur. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak. Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/gboard-durduruldu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -73,8 +74,11 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/gboard-durduruldu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/gboard-durduruldu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>DAHA GÜZEL GELİYORUZ</title>
 		<link>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/</link>
-				<comments>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/#respond</comments>
-				<pubDate>Tue, 04 Sep 2018 13:40:15 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2018 13:40:15 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[bilişim]]></category>
 		<category><![CDATA[bilişim kurdu]]></category>
@@ -41,10 +42,10 @@
 		<category><![CDATA[tekno]]></category>
 		<category><![CDATA[Tekno Kızılelma]]></category>
 		<category><![CDATA[teknoloji]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=346</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi Tekno Kızılelma adıyla birleştirdik. Tekno Kızılelma projesi kapsamında; Blog Bilişim eğitim\bilgilendirme\destek içerikleri Web site barındırma servisleri oluşturduk. Nice katkılarda bulunmak dileğiyle. #TÜRKİYE #TeknoKızılelma #DahaGüzelGeliyoruz]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 <p>Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi <a href="https://www.teknokizilelma.ooo/" target="_blank" rel="noopener">Tekno Kızılelma</a> adıyla birleştirdik.</p>
 <p>Tekno Kızılelma projesi kapsamında;</p>
 <ul>
@@ -58,15 +59,19 @@
 <p>#TeknoKızılelma</p>
 <p>#DahaGüzelGeliyoruz</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>&#8220;db-config-ini.php&#8221; analizi</title>
 		<link>https://bilisimkurdu.github.io/db-config-ini-php-analizi/</link>
-				<comments>https://bilisimkurdu.github.io/db-config-ini-php-analizi/#respond</comments>
-				<pubDate>Mon, 11 Jun 2018 14:02:32 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/db-config-ini-php-analizi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2018 14:02:32 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Wordpress]]></category>
 		<category><![CDATA[açık]]></category>
@@ -79,10 +84,10 @@
 		<category><![CDATA[usom]]></category>
 		<category><![CDATA[wordpress]]></category>
 		<category><![CDATA[zaafiyet]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=298</guid>
-				<description><![CDATA[Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama bilmeyenler için BTK&#8217;ya bağlı Ulusal Siber Olaylara Müdahale Merkezi&#8217;dir.Zaman zaman analiz ettiği zararlı URL&#8217;leri aşağıdaki gibi inceledim. Başlıkta belirttiğim &#8220;db-config-ini.php&#8221; dosyası zararlı URL olarak tespit edilmiş ve WordPress sitelerinde olduğunu analiz ettim. Listedeki bazı web sitelerini...]]></description>
-								<content:encoded><![CDATA[<p>Merhabalar,</p>
+
+					<description><![CDATA[Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar,</p>
 <p>Bugün yapmış olduğum analizi paylaşmak istiyorum.</p>
 <p>Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim.</p>
 <p><span id="more-298"></span></p>
@@ -113,15 +118,19 @@ USOM zararlı link listesi : <a href="https://www.usom.gov.tr/zararli-baglantila
 <p>En ulvi saygılarmla.<br />
 Lisanı sürç ettiysek affola.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/db-config-ini-php-analizi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/db-config-ini-php-analizi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Riot Games&#8217;ten Türkiye&#8217;ye yatırım</title>
 		<link>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/</link>
-				<comments>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/#respond</comments>
-				<pubDate>Fri, 14 Jul 2017 08:35:48 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 14 Jul 2017 08:35:48 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[bilişim]]></category>
@@ -132,10 +141,10 @@ Lisanı sürç ettiysek affola.</p>
 		<category><![CDATA[oyun]]></category>
 		<category><![CDATA[riot]]></category>
 		<category><![CDATA[riot games]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=188</guid>
-				<description><![CDATA[Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu. Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends...]]></description>
-								<content:encoded><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu.</p>
+
+					<description><![CDATA[Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu.</p>
 <p><img class="alignnone size-full wp-image-194" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir.png" alt="" width="255" height="198" /></p>
 <p>Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends oyuncusuna çok daha hızlı ve kaliteli hizmet sunacağını açıkladı.</p>
 <p>League of Legends Türkiye Sunucusunun devreye girmesiyle Türkiye’deki League of Legends oyuncularının mevcut bağlantı hızlarına bağlı olarak yaşadıkları gecikme sürelerinin (ping) daha da azalmasının hedeflendiği bildirildi.</p>
@@ -147,15 +156,19 @@ Lisanı sürç ettiysek affola.</p>
 <p>&#8220;GELİŞTİRİLEN ÖZEL İŞLEMCİLER DÜNYADA İLK KEZ TÜRKİYE’DE KULLANILACAK&#8221;</p>
 <p>League of Legends Sunucularında hizmet vermek üzere özel olarak geliştirilen işlemcilerinin dünyada ilk kez Türkiye&#8217;deki sunucuda kullanılacağını ifade eden Koçyiğit, &#8220;Türkiye’deki ekibin gelişimini yakından takip ettiği yeni işlemciler, League of Legends sunucularının ihtiyaçlarına uygun iyileştirmeler içeriyor. Bu sayede oyunculara daha az sayıda sunucuyla çok daha iyi hizmet vermek mümkün hale geliyor. Bu durum sunucuların enerji ve bakım giderlerinde de önemli oranda tasarruf sağlıyor&#8221; şeklinde konuştu.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Samsung&#8217;tan Dev Yatırım</title>
 		<link>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/</link>
-				<comments>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/#respond</comments>
-				<pubDate>Fri, 14 Jul 2017 08:29:53 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 14 Jul 2017 08:29:53 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[bilişim]]></category>
 		<category><![CDATA[bilişim kurdu]]></category>
@@ -167,10 +180,10 @@ Lisanı sürç ettiysek affola.</p>
 		<category><![CDATA[samsung]]></category>
 		<category><![CDATA[soruşturma]]></category>
 		<category><![CDATA[Türkiye]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=185</guid>
-				<description><![CDATA[Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu. Samsung Electronics Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapacağını açıkladı. Tüketiciler markayı akıllı telefonlar ve televizyonlarla ilişkilendirse de, Samsung aslında dünyanın en büyük bellek çipi üreticisi. Nitekim Bloomberg’in verilerine göre, yarı iletkenler 2016 yılında...]]></description>
-								<content:encoded><![CDATA[<ol>
+
+					<description><![CDATA[Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu. Samsung Electronics Güney Kore’deki yarı&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<ol>
 <li>Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu.</li>
 </ol>
 <p><img class="alignnone size-medium wp-image-196" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir-300x158.jpg" alt="" width="300" height="158" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2017/07/indir-300x158.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/indir.jpg 310w" sizes="(max-width: 300px) 100vw, 300px" /></p>
@@ -179,15 +192,19 @@ Lisanı sürç ettiysek affola.</p>
 <p>Samsung’tan yapılan açıklamada, şimdiye kadar 13,5 milyar dolar yatırılan Pyeongtaek’teki tesise 2021 yılına kadar toplam yatırımın 26 milyar dolara çıkacağı kaydedildi.</p>
 <p>Dünyada otomotiv endüstrisindeki ilerlemeler, yapay zeka ve Nesnelerin İnterneti’nin gelecek yıllarda yarı iletkene olan talebi artırması bekleniyor.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</title>
 		<link>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/#respond</comments>
-				<pubDate>Mon, 03 Jul 2017 13:09:16 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2017 13:09:16 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[android]]></category>
 		<category><![CDATA[atma]]></category>
@@ -200,10 +217,10 @@ Lisanı sürç ettiysek affola.</p>
 		<category><![CDATA[usb]]></category>
 		<category><![CDATA[xiaomi]]></category>
 		<category><![CDATA[xiaomi rom]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=171</guid>
-				<description><![CDATA[Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte fastboot yazılımını ve fastboot flash yazılımını indiriyoruz. Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz. Miflash programını açarak resimdeki modda ayarlıyoruz. Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten...]]></description>
-								<content:encoded><![CDATA[<p>Muhterem ziyaretçilerimiz,</p>
+
+					<description><![CDATA[Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Muhterem ziyaretçilerimiz,</p>
 <p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>
 <p>Şu linkte fastboot yazılımını ve fastboot flash yazılımını <a href="http://en.miui.com/a-234.html" target="_blank" rel="noopener">indiriyoruz</a>.</p>
 <p>Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz.</p>
@@ -213,15 +230,19 @@ Lisanı sürç ettiysek affola.</p>
 <p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>CYANOGENMOD İSİM DEĞİŞTİRDİ</title>
 		<link>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/</link>
-				<comments>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/#respond</comments>
-				<pubDate>Thu, 23 Feb 2017 14:01:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 23 Feb 2017 14:01:02 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[android]]></category>
 		<category><![CDATA[apk]]></category>
@@ -230,15 +251,18 @@ Lisanı sürç ettiysek affola.</p>
 		<category><![CDATA[cynogenmod]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[kurdu]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=104</guid>
-				<description><![CDATA[Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım. Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek. &#160;]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım.</p>
+
+					<description><![CDATA[Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım. Bilindiği üzere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım.</p>
 <p>Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

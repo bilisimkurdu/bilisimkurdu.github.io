@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Cannot save&#8217;&#8230;Models\Model1.edmx&#8217;: Could not load file or assembly &#8230;</title>
 		<link>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/</link>
-				<comments>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/#respond</comments>
-				<pubDate>Fri, 03 May 2019 18:38:21 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 03 May 2019 18:38:21 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
 		<category><![CDATA[Genel]]></category>
@@ -48,10 +49,10 @@
 		<category><![CDATA[mysql]]></category>
 		<category><![CDATA[oracle]]></category>
 		<category><![CDATA[provider]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız; ComponentModelCache temizliği Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz. Visual Studio 2017 için;...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -150,8 +151,11 @@
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>MySQL for Visual Studio guid error</title>
 		<link>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/</link>
-				<comments>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/#respond</comments>
-				<pubDate>Thu, 21 Mar 2019 20:19:35 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2019 20:19:35 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
 		<category><![CDATA[MYSQL]]></category>
@@ -43,10 +44,10 @@
 		<category><![CDATA[Guid should contain 32 digits and 4 dashes error]]></category>
 		<category><![CDATA[Guid should contain 32 digits and 4 dashes hatası]]></category>
 		<category><![CDATA[MySQL for Visual Studio guid error]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
-				<description><![CDATA[Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü : Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. &#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir. &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Dostlar,</p>
 
 
@@ -89,8 +90,11 @@
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

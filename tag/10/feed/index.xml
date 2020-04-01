@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>BEDAVA WİNDOWS 10 İÇİN SON ŞANS</title>
 		<link>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/</link>
-				<comments>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/#respond</comments>
-				<pubDate>Fri, 20 Jan 2017 13:59:01 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2017 13:59:01 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[10]]></category>
 		<category><![CDATA[enterprise]]></category>
@@ -46,17 +47,20 @@
 		<category><![CDATA[windows]]></category>
 		<category><![CDATA[windows 10]]></category>
 		<category><![CDATA[windows 10 enterprise]]></category>
-
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=87</guid>
-				<description><![CDATA[29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak. Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli Windows 10 Enterprise E3 ve E5 (Secure Procuctive sürümleri) hali...]]></description>
-								<content:encoded><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak.</p>
+
+					<description><![CDATA[29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak.</p>
 <p><span id="more-87"></span></p>
 <p>Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli <strong>Windows 10 Enterprise E3</strong> ve E5 (Secure Procuctive sürümleri) hali hazırda Windows 7 – Windows 8.1 kurumsal kullanıcılara ücretsiz olarak gelecek.</p>
 <p>Yani işletmeler kurumsal Win 7,8.1 enterprise e3 ve e5 sürümlerini Windows 10 gerekli sürümlerini ücretsiz olarak indirip kurabilir.</p>
 <p>Bu sürümler özellikle kurumsal işletmeler için oldukça yüklü meblağlara güncelleniyordu. Üstelik ücretsiz güncelleme olanağı kurumsal işletim sistemleri içinde sağlanmamıştı. <strong>Microsoft</strong> bu noktada daha önce ücretsiz yükseltme olanağı tanımadığı kurumsal yapıların da gönlünü alıyor. Microsoft daha önce Windows 7 Kurumsal ve Windows 8/8.1 Kurumsal için Windows 10’a ücretsiz yükseltme imkanının bulunmayacağını dile getirmişti.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

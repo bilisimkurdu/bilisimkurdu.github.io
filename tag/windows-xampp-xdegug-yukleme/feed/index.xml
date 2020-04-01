@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Xampp Xdebug yükleme</title>
 		<link>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/#respond</comments>
-				<pubDate>Thu, 13 Feb 2020 08:52:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 08:52:02 +0000</pubDate>
 				<category><![CDATA[PHP]]></category>
 		<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[lampp install xdebug linux]]></category>
@@ -48,10 +49,10 @@
 		<category><![CDATA[xampp xdebug yükleme]]></category>
 		<category><![CDATA[xdebug]]></category>
 		<category><![CDATA[yükleme]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=698</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği üzere PHP kodlarını Debug (Ayrıştırma) işlevini görmekte. Geçelim Xdebug yüklemeye: Windows için; Xdebug dll dosyasını indirdikten sonra dosyanın ismi &#8220;debug.dll&#8221; olarak değiştirilir. Xdebug Windows dll dosyasını https://xdebug.org/download adresinden indirebilirsiniz debug.dll dosyasını &#8220;C:\xampp\php\ext&#8221; dizinine yapıştırılır. &#8220;C:\xampp\php\&#8221;...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -141,8 +142,11 @@ xdebug.show_local_vars = 9</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Entity Framework&#8217;ü MYSQL&#8217;de kullanmak</title>
 		<link>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/</link>
-				<comments>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/#respond</comments>
-				<pubDate>Thu, 21 Mar 2019 19:13:07 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2019 19:13:07 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
 		<category><![CDATA[MYSQL]]></category>
@@ -48,10 +49,10 @@
 		<category><![CDATA[Entity Framework]]></category>
 		<category><![CDATA[entity framework mysql]]></category>
 		<category><![CDATA[entity framework mysql bağlantı]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=442</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması gerekmektedir. MYSQL for Visual Studio (MSI Installer): https://dev.mysql.com/downloads/windows/visualstudio/ MYSQL Connector/NET : https://dev.mysql.com/downloads/connector/net/8.0.html adreslerinden temin edebilirsiniz. MYSQL for Visual Studio kurarken &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun. The devenv /updateconfiguration...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -183,8 +184,11 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

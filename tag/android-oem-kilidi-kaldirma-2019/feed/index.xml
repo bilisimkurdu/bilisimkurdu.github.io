@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Android cihazlarda OEM kilidi açmak</title>
 		<link>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/</link>
-				<comments>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/#respond</comments>
-				<pubDate>Sun, 29 Mar 2020 09:15:50 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sun, 29 Mar 2020 09:15:50 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[Android oem kilidi]]></category>
 		<category><![CDATA[android oem kilidi kaldırma]]></category>
@@ -40,10 +41,10 @@
 		<category><![CDATA[Android OEM Kilit Açma Nedir Hırsızlık Korumasını Kapatma]]></category>
 		<category><![CDATA[oem kilidi]]></category>
 		<category><![CDATA[oem kilidi kaldırma]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=738</guid>
-				<description><![CDATA[Merhaba Değerli Ziyaretçilerimiz, Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak. Ayarlar&#160;&#8211;&#62;&#160;Telefon Hakkında&#160;&#8211;&#62; Derleme numarasına&#160;birkaç defa hızlıca dokunun. Artık Geliştiricisiniz mesajını aldıktan sonra Ayarlar&#160;&#8211;&#62;&#160;Sistem&#160;&#8211;&#62;&#160;Gelişmiş&#160;&#8211;&#62;&#160;Geliştirici Seçeneklerine gidin &#8220;OEM kilit açma&#8221;&#160;Seçeneğini bulun ve etkinleştirin.&#160; Cihazı kapatın Ses kısma ve güç tuşuna&#160;aynı anda basılı tutun. Ekranda&#160;Fastboot mode&#160;yazısı belirince bırakın. Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Değerli Ziyaretçilerimiz, Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak. Ayarlar&#160;&#8211;&#62;&#160;Telefon Hakkında&#160;&#8211;&#62; Derleme numarasına&#160;birkaç defa hızlıca dokunun. Artık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Değerli Ziyaretçilerimiz,</p>
 
 
@@ -73,15 +74,19 @@ fastboot oem unlock-go
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>OEM Kilidi nedir? (Android)</title>
 		<link>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/</link>
-				<comments>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/#respond</comments>
-				<pubDate>Tue, 10 Sep 2019 11:36:40 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 10 Sep 2019 11:36:40 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[Android oem kilidi]]></category>
 		<category><![CDATA[android oem kilidi kaldırma]]></category>
@@ -90,10 +95,10 @@ fastboot oem unlock-go
 		<category><![CDATA[oem kilidi]]></category>
 		<category><![CDATA[oem kilidi kaldırma]]></category>
 		<category><![CDATA[OEM Kilit Açma Nedir? Android Oem Kilit Açma Nasıl Yapılır?]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=543</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip telefonu sıfırlaması sonucunda cihazın kullanılmasını engellemektedir. Sistem telefona girdiğiniz Google hesabı ile birlikte çalışmakta olup formatlama işleminden sonra telefon kurulum ekranında Google Hesabınızı girmenizi istemektedir.  OEM kilidinin bypass yöntemleri bulunsa da telefonunuzu sıfırlamak isterseniz OEM kilidini...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -128,8 +133,11 @@ fastboot oem unlock-go
 
 <p>2.yöntem olarak Google hesaplarınızı kaldırabilirsiniz.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

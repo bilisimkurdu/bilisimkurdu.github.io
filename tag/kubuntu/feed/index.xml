@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Ubuntu&#8217;ya VMware tool yükleme</title>
 		<link>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/#respond</comments>
-				<pubDate>Sat, 23 Feb 2019 16:19:41 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 23 Feb 2019 16:19:41 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[kubuntu]]></category>
@@ -42,10 +43,10 @@
 		<category><![CDATA[VMware tool]]></category>
 		<category><![CDATA[vmware tool yükleme]]></category>
 		<category><![CDATA[xubuntu]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=386</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut işletim sistemi üzerinden kullanılan ikincil işletim sistemidir. Eğer Ubuntu\Kubuntu\Xubuntu\Ubuntu Studio\&#8230; güncel (&#62;14) yüklendiyse terminale aşağıdaki komut girilip restart atılır. Eğer Ubuntu&#8217;nun eski sürümü yüklüyse terminale aşağıdaki komutlar girilir. (&#60;=13); Lucid sürümü ise: sudo apt-add-repository 'deb...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba arkadaşlar,</p>
 
 
@@ -108,8 +109,11 @@ komutunu yazdıktan sonra;</p>
 
 <p>İyi akşamlar.<br></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

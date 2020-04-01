@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Genel Programlama Mantığı &#8211; 3</title>
 		<link>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/</link>
-				<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/#respond</comments>
-				<pubDate>Sun, 10 Dec 2017 10:12:17 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2017 10:12:17 +0000</pubDate>
 				<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[algoritma]]></category>
 		<category><![CDATA[aşama]]></category>
@@ -41,10 +42,10 @@
 		<category><![CDATA[döngü]]></category>
 		<category><![CDATA[döngüler]]></category>
 		<category><![CDATA[programlama]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır. • Problem : Problemin belirlenmesi. • Problem analizi : Problem analizi yapılarak çözüm aranmaya çalışılır. • Çözüm : Problemi en kısa sürede ve en doğru biçimde çözen yöntemdir. •...]]></description>
-								<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
+
+					<description><![CDATA[Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 <p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
 <p><img src="http://www.robotiksistem.com/program_adimlari.jpg" alt="Program Yazma Aşamaları" /></p>
 <p>Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır.</p>
@@ -56,8 +57,11 @@
 • Programın yazımı ve hataların düzeltilmesi : Algoritmanın bir programlama dili ile program haline getirilmesi ve hataların düzeltilmesi<br />
 • Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</title>
 		<link>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/#respond</comments>
-				<pubDate>Thu, 26 Mar 2020 10:02:15 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 10:02:15 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Debian server VNC server kurulumu]]></category>
 		<category><![CDATA[Debian VNC server kurulumu]]></category>
@@ -45,10 +46,10 @@
 		<category><![CDATA[Ubuntu VNC server kurulumu]]></category>
 		<category><![CDATA[vnc]]></category>
 		<category><![CDATA[vps]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir. Eğer Ubuntu Server için;...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -180,8 +181,11 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

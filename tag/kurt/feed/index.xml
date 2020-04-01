@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>PARDUS 17 ÖN İNCELEME</title>
 		<link>https://bilisimkurdu.github.io/pardus-17-on-inceleme/</link>
-				<comments>https://bilisimkurdu.github.io/pardus-17-on-inceleme/#respond</comments>
-				<pubDate>Mon, 10 Jul 2017 11:55:34 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/pardus-17-on-inceleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 11:55:34 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[bloglama]]></category>
@@ -46,10 +47,10 @@
 		<category><![CDATA[pardus mssql kurulumu]]></category>
 		<category><![CDATA[server]]></category>
 		<category><![CDATA[sql]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=178</guid>
-				<description><![CDATA[Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım. Pardus kurulduktan sonra açılış aşırı hızlıydı ve sistem yükü çok az bir değerdeydi yani eski 64 bit makineniz varsa kurup...]]></description>
-								<content:encoded><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım.</p>
+
+					<description><![CDATA[Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardus-17-on-inceleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım.</p>
 <p>Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim.</p>
 <p>Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım.</p>
 <p>Pardus kurulduktan sonra açılış aşırı hızlıydı ve sistem yükü çok az bir değerdeydi yani eski 64 bit makineniz varsa kurup kullanmanızı öneririm.</p>
@@ -62,15 +63,19 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/pardus-17-on-inceleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/pardus-17-on-inceleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</title>
 		<link>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/</link>
-				<comments>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/#respond</comments>
-				<pubDate>Tue, 01 Nov 2016 14:14:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2016 14:14:02 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[300 000 kişi]]></category>
 		<category><![CDATA[300 000 kişiye bedava internet]]></category>
@@ -107,24 +112,28 @@
 		<category><![CDATA[yardımlaşma]]></category>
 		<category><![CDATA[youtube]]></category>
 		<category><![CDATA[youtube kanalı]]></category>
-
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=42</guid>
-				<description><![CDATA[Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor. İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik...]]></description>
-								<content:encoded><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor.<br />
+
+					<description><![CDATA[Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor. İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması,&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor.<br />
 İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik bir kaynak ayrıldığı bildiriliyor.<br />
 <span id="more-42"></span><br />
 Ancak uygulamadan herkesin yararlanması söz konusu değil, bedava internet erişimi, sadece düşük gelirli ailelere sunulacak. Sosyal Yardımlaşma ve Dayanışma Vakıfları tarafından belirlenecek olan 300.000 vatandaş, bedava internet erişimine sahip olacak.</p>
 <p>Sunulacak internetin kotası henüz açıklanmamış olup bağlantı aile koruma şifresiyle korunması beklenmekte.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>YOUTUBE KANALIMIZ</title>
 		<link>https://bilisimkurdu.github.io/youtube-kanalimiz/</link>
-				<comments>https://bilisimkurdu.github.io/youtube-kanalimiz/#respond</comments>
-				<pubDate>Sat, 29 Oct 2016 09:34:27 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/youtube-kanalimiz/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2016 09:34:27 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[bilişim]]></category>
 		<category><![CDATA[bilişim kurdu]]></category>
@@ -137,21 +146,25 @@ Ancak uygulamadan herkesin yararlanması söz konusu değil, bedava internet eri
 		<category><![CDATA[kurt]]></category>
 		<category><![CDATA[youtube]]></category>
 		<category><![CDATA[youtube kanalı]]></category>
-
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=35</guid>
-				<description><![CDATA[Youtube kanalımız Bilişim Kurdu: https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.]]></description>
-								<content:encoded><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: <a>https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg</a></p>
+
+					<description><![CDATA[Youtube kanalımız Bilişim Kurdu: https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.]]></description>
+										<content:encoded><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: <a>https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg</a></p>
 <p>Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/youtube-kanalimiz/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/youtube-kanalimiz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Hoş Geldiniz</title>
 		<link>https://bilisimkurdu.github.io/hos-geldiniz/</link>
-				<comments>https://bilisimkurdu.github.io/hos-geldiniz/#respond</comments>
-				<pubDate>Thu, 27 Oct 2016 14:24:54 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/hos-geldiniz/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2016 14:24:54 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[bilişim]]></category>
 		<category><![CDATA[bilişim kurdu]]></category>
@@ -160,17 +173,20 @@ Ancak uygulamadan herkesin yararlanması söz konusu değil, bedava internet eri
 		<category><![CDATA[bloglandırma]]></category>
 		<category><![CDATA[hoşgeldiniz]]></category>
 		<category><![CDATA[kurt]]></category>
-
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=6</guid>
-				<description><![CDATA[&#160; &#160; Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili gelişmeler ve yazılar bulunacaktır. Size şimdiden iyi okumalar dilerim. Bilişim Kurdu Ekibi]]></description>
-								<content:encoded><![CDATA[<p>&nbsp;</p>
+
+					<description><![CDATA[&#160; &#160; Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/hos-geldiniz/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili gelişmeler ve yazılar bulunacaktır.</p>
 <p>Size şimdiden iyi okumalar dilerim.</p>
 <p><strong> Bilişim Kurdu Ekibi</strong></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/hos-geldiniz/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/hos-geldiniz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

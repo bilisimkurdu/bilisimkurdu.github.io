@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,19 +30,20 @@
 	<item>
 		<title>Ubuntu systemd-udevd yoğun CPU kullanımı</title>
 		<link>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
-				<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[ubuntu high cpu usage]]></category>
 		<category><![CDATA[ubuntu high cpu used]]></category>
 		<category><![CDATA[Ubuntu systemd-udevd high cpu usage]]></category>
 		<category><![CDATA[Ubuntu systemd-udevd high cpu used]]></category>
 		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
-				<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu ve türevlerinde (Kubuntu,Xubuntu,Ubuntu Studio&#8230;) 18.04 sürümlerinde yaşanan Wifi sürücülerin ve Bluetooth sürücülerin birbirleriyle çakışmasından kaynaklanmaktadır. Sorunun çözümü BIOS ayarlarında Bluetooth devredışı bırakılması olup geçici bir çözümdür. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -69,8 +70,11 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

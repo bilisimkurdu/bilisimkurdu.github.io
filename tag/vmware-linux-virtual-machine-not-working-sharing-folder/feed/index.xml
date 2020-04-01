@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>VMware Workstation Linux virtual machine not working sharing folder</title>
 		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
-				<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
-				<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[linux]]></category>
@@ -43,10 +44,10 @@
 		<category><![CDATA[VMware Linux virtual machine not working sharing folder]]></category>
 		<category><![CDATA[VMware tool]]></category>
 		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
-				<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması. VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz; https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html Aşağıdaki komutları...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhabalar Muhterem Ziyaretçiler,</p>
 
 
@@ -97,8 +98,11 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

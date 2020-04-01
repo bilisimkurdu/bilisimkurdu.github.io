@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Microsoft Free eBook Giveaway</title>
 		<link>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/</link>
-				<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
-				<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[SQL]]></category>
@@ -42,10 +43,10 @@
 		<category><![CDATA[microsoft free ebook]]></category>
 		<category><![CDATA[microsoft virtual academy]]></category>
 		<category><![CDATA[mva]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz. https://yadi.sk/d/WgEStyM6iSdkvA (Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.) İyi Akşamlar.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -72,8 +73,11 @@
 
 <p>İyi Akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

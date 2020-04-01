@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,19 +30,20 @@
 	<item>
 		<title>sudo dolphin:Executing Dolphin as root is not possible.</title>
 		<link>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/</link>
-				<comments>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/#respond</comments>
-				<pubDate>Wed, 07 Aug 2019 10:46:53 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2019 10:46:53 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Executing Dolphin as root is not possible.]]></category>
 		<category><![CDATA[Executing Dolphin as root is not possible. bypass]]></category>
 		<category><![CDATA[KDE Executing Dolphin as root is not possible.]]></category>
 		<category><![CDATA[Kubuntu Executing Dolphin as root is not possible.]]></category>
 		<category><![CDATA[sudo dolphin sudo dolphin:Executing Dolphin as root is not possible.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=492</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu hata KDE framework 5.34 sürümünde yapılan güncellemeden ötürü kaynaklanmaktadır. Problemin çözümü nautilus dosya yöneticisinin yüklenip sudo komutu ile çalıştırılması ile çözülür. Nautilus yüklemek için; Nautilus&#8217;u sudo olarak çalıştırmak için; komutlarını terminal üzerinden yürütebilirirsiniz. Eğer bu...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -89,8 +90,11 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

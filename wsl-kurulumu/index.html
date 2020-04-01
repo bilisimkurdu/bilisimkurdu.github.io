@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="tr">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="pingback" href="https://bilisimkurdu.github.io/xmlrpc.php" />
+		<title>WSL (Linux için Windows Alt Sistemi) kurulumu | | Bilişim Kurdu</title>
+
+<!-- All In One SEO Pack 3.4.2[316,390] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://bilisimkurdu.github.io/#organization","url":"https://bilisimkurdu.github.io/","name":"Bilişim Kurdu","sameAs":[]},{"@type":"WebSite","@id":"https://bilisimkurdu.github.io/#website","url":"https://bilisimkurdu.github.io/","name":"Bilişim Kurdu","publisher":{"@id":"https://bilisimkurdu.github.io/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://bilisimkurdu.github.io/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#webpage","url":"https://bilisimkurdu.github.io/wsl-kurulumu/","inLanguage":"tr","name":"WSL (Linux için Windows Alt Sistemi) kurulumu","isPartOf":{"@id":"https://bilisimkurdu.github.io/#website"},"breadcrumb":{"@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#breadcrumblist"},"image":{"@type":"ImageObject","@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#primaryimage","url":"https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-için-yerleşik-Linux-çekirdeği-WSL-2-testleri-başladı-ShiftDelete.Net-4.jpg","width":1280,"height":720},"primaryImageOfPage":{"@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#primaryimage"},"datePublished":"2020-04-01T16:25:51+03:00","dateModified":"2020-04-01T16:26:39+03:00"},{"@type":"Article","@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#article","isPartOf":{"@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#webpage"},"author":{"@id":"https://bilisimkurdu.github.io/author/ykpcntrl/#author"},"headline":"WSL (Linux için Windows Alt Sistemi) kurulumu","datePublished":"2020-04-01T16:25:51+03:00","dateModified":"2020-04-01T16:26:39+03:00","commentCount":0,"mainEntityOfPage":{"@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#webpage"},"publisher":{"@id":"https://bilisimkurdu.github.io/#organization"},"articleSection":"Linux, Windows, linuxu windowsta kullanma, windows 10 debian, windows 10 linux, windows 10 pardus, windows 10 ubunutu, wsl, wsl kurulumu, WSL Linux için Windows Alt Sistem, wsl nedir","image":{"@type":"ImageObject","@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#primaryimage","url":"https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-için-yerleşik-Linux-çekirdeği-WSL-2-testleri-başladı-ShiftDelete.Net-4.jpg","width":1280,"height":720}},{"@type":"Person","@id":"https://bilisimkurdu.github.io/author/ykpcntrl/#author","name":"Yakup Contarlı","sameAs":[],"image":{"@type":"ImageObject","@id":"https://bilisimkurdu.github.io/#personlogo","url":"http://2.gravatar.com/avatar/e26bcf3b78439c1a3430942ebb7e279f?s=96&d=mm&r=g","width":96,"height":96,"caption":"Yakup Contarlı"}},{"@type":"BreadcrumbList","@id":"https://bilisimkurdu.github.io/wsl-kurulumu/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://bilisimkurdu.github.io/","url":"https://bilisimkurdu.github.io/","name":"Bilişim Kurdu"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://bilisimkurdu.github.io/wsl-kurulumu/","url":"https://bilisimkurdu.github.io/wsl-kurulumu/","name":"WSL (Linux için Windows Alt Sistemi) kurulumu"}}]}]}</script>
+<link rel="canonical" href="https://bilisimkurdu.github.io/wsl-kurulumu/" />
+<!-- All In One SEO Pack -->
+<link rel="amphtml" href="https://bilisimkurdu.github.io/wsl-kurulumu/amp/" /><meta name="generator" content="AMP for WP 1.0.37"/><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Bilişim Kurdu &raquo; beslemesi" href="https://bilisimkurdu.github.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bilişim Kurdu &raquo; yorum beslemesi" href="https://bilisimkurdu.github.io/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bilişim Kurdu &raquo; WSL (Linux için Windows Alt Sistemi) kurulumu yorum beslemesi" href="https://bilisimkurdu.github.io/wsl-kurulumu/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bilisimkurdu.github.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://bilisimkurdu.github.io/wp-content/plugins/gutenberg/build/block-library/style.css?ver=1585396782' type='text/css' media='all' />
+<link rel='stylesheet' id='aioseop-toolbar-menu-css'  href='https://bilisimkurdu.github.io/wp-content/plugins/all-in-one-seo-pack/css/admin-toolbar-menu.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://bilisimkurdu.github.io/wp-content/themes/balanced-blog/css/bootstrap.css?ver=3.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='balanced-blog-stylesheet-css'  href='https://bilisimkurdu.github.io/wp-content/themes/balanced-blog/style.css?ver=1.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://bilisimkurdu.github.io/wp-content/themes/balanced-blog/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://bilisimkurdu.github.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bilisimkurdu.github.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bilisimkurdu.github.io/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Android cihazlarda OEM kilidi açmak' href='https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/' />
+<link rel='next' title='WSL GUI' href='https://bilisimkurdu.github.io/wsl-gui/' />
+<meta name="generator" content="WordPress 5.4" />
+<link rel='shortlink' href='https://bilisimkurdu.github.io/?p=756' />
+<link rel="alternate" type="application/json+oembed" href="https://bilisimkurdu.github.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbilisimkurdu.github.io%2Fwsl-kurulumu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bilisimkurdu.github.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbilisimkurdu.github.io%2Fwsl-kurulumu%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-180x180.png" />
+<meta name="msapplication-TileImage" content="https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-270x270.png" />
+	</head>
+	<body id="blog" class="post-template-default single single-post postid-756 single-format-standard">
+        		<div class="site-header container-fluid" style="background-image: url()">
+	<div class="custom-header container" >
+			<div class="site-heading text-center">
+        				<div class="site-branding-logo">
+									</div>
+				<div class="site-branding-text">
+											<p class="site-title"><a href="https://bilisimkurdu.github.io/" rel="home">Bilişim Kurdu</a></p>
+					
+											<p class="site-description">
+							Bilişim Hakkında Her Şey						</p>
+									</div><!-- .site-branding-text -->
+        			</div>
+	</div>
+</div>
+ 
+<div class="main-menu">
+	<nav id="site-navigation" class="navbar navbar-default navbar-center">     
+		<div class="container">   
+			<div class="navbar-header">
+									<div id="main-menu-panel" class="open-panel" data-panel="main-menu-panel">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+							</div>
+			<div class="menu-container"><ul id="menu-sitemenu" class="nav navbar-nav"><li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a title="HAKKIMIZDA" href="https://bilisimkurdu.github.io/hakkimizda/">HAKKIMIZDA</a></li>
+<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-340"><a title="Privacy Policy" href="https://bilisimkurdu.github.io/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a title="Tekno Kızlelma(Youtube)" href="https://www.youtube.com/channel/UCu15CLJFFCceFcVRQ-aG-Vg">Tekno Kızlelma(Youtube)</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316"><a title="Facebook" href="https://www.facebook.com/teknokizilelma">Facebook</a></li>
+<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a title="Twitter" href="https://www.twitter.com/teknokizilelma">Twitter</a></li>
+<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a title="Tekno Kızılelma (Web Site)" href="https://teknokizilelma.github.io/">Tekno Kızılelma (Web Site)</a></li>
+</ul></div>		</div>
+			</nav> 
+</div>
+
+<div class="container main-container" role="main">
+	<div class="page-area">
+		
+<!-- start content container -->
+<!-- start content container -->
+<div class="row">      
+			<article class="col-md-9">
+			                         
+					<div class="post-756 post type-post status-publish format-standard has-post-thumbnail hentry category-linux category-windows tag-linuxu-windowsta-kullanma tag-windows-10-debian tag-windows-10-linux tag-windows-10-pardus tag-windows-10-ubunutu tag-wsl tag-wsl-kurulumu tag-wsl-linux-icin-windows-alt-sistem tag-wsl-nedir">
+						<div class="single-wrap col-md-12">
+										<div class="news-thumb">
+				<img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-için-yerleşik-Linux-çekirdeği-WSL-2-testleri-başladı-ShiftDelete.Net-4-1140x641.jpg" alt="WSL (Linux için Windows Alt Sistemi) kurulumu" />
+			</div><!-- .news-thumb -->
+									<h1 class="single-title">WSL (Linux için Windows Alt Sistemi) kurulumu</h1>							<div class="single-meta text-center">
+									<span class="posted-date">
+		1 Nisan 2020	</span>
+	<span class="comments-meta">
+						<a href="https://bilisimkurdu.github.io/wsl-kurulumu/#respond" rel="nofollow" title="YorumunuzWSL (Linux için Windows Alt Sistemi) kurulumu">
+					0				</a>
+					<i class="fa fa-comments-o"></i>
+	</span>
+									<span class="author-meta">
+									<span class="author-meta-by">Yazar:</span>
+									<a href="https://bilisimkurdu.github.io/author/ykpcntrl/">
+										Yakup Contarlı									</a>
+								</span>
+							</div>	
+							<div class="single-content"> 
+								<div class="single-entry-summary">
+									    							
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz.</p>
+
+
+
+<p>WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir.</p>
+
+
+
+<span id="more-756"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
+
+
+
+<p>Şimdi geçelim kuruluma;</p>
+
+
+
+<p>Başlat -&gt; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak</p>
+
+
+
+<pre class="wp-block-code"><code>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux</code></pre>
+
+
+
+<p>komutunu giriyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt=""/></figure>
+
+
+
+<p>Bilgisayarı yeniden başlatma için onay isteyecek. Klavyeden &#8220;Y&#8221; tuşuna basıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt=""/></figure>
+
+
+
+<p>Bilgisayar yeniden başlatıldıktan sonra Windows Store&#8217;yi açarak &#8220;Ubuntu&#8221; yazılımını kuruyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt=""/><figcaption><br><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png"></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt=""/><figcaption><br></figcaption></figure>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" alt="" class="wp-image-30579"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" alt="" class="wp-image-30580"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" alt="" class="wp-image-30581"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" alt="" class="wp-image-30582"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" alt="" class="wp-image-30583"/></figure></div>
+
+
+
+<ul><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" alt="" class="wp-image-30584"/></figure></div>
+
+
+
+<ul><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" alt="" class="wp-image-30585"/></figure></div>
+
+
+
+<ul><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" alt="" class="wp-image-30586"/></figure></div>
+
+
+
+<ul><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" alt="" class="wp-image-30587"/></figure></div>
+
+
+
+<ul><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" alt="" class="wp-image-30588"/></figure></div>
+
+
+
+<ul><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" alt="" class="wp-image-30589"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" alt="" class="wp-image-30590"/></figure></div>
+
+
+
+<ul><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+    															</div><!-- .single-entry-summary -->
+																<div class="entry-footer"><div class="cat-links"><span class="space-right">Kategori</span><a href="https://bilisimkurdu.github.io/category/pc/linux/">Linux</a> <a href="https://bilisimkurdu.github.io/category/pc/windows/">Windows</a></div><div class="tags-links"><span class="space-right">Etiketler</span><a href="https://bilisimkurdu.github.io/tag/linuxu-windowsta-kullanma/">linuxu windowsta kullanma</a> <a href="https://bilisimkurdu.github.io/tag/windows-10-debian/">windows 10 debian</a> <a href="https://bilisimkurdu.github.io/tag/windows-10-linux/">windows 10 linux</a> <a href="https://bilisimkurdu.github.io/tag/windows-10-pardus/">windows 10 pardus</a> <a href="https://bilisimkurdu.github.io/tag/windows-10-ubunutu/">windows 10 ubunutu</a> <a href="https://bilisimkurdu.github.io/tag/wsl/">wsl</a> <a href="https://bilisimkurdu.github.io/tag/wsl-kurulumu/">wsl kurulumu</a> <a href="https://bilisimkurdu.github.io/tag/wsl-linux-icin-windows-alt-sistem/">WSL Linux için Windows Alt Sistem</a> <a href="https://bilisimkurdu.github.io/tag/wsl-nedir/">wsl nedir</a></div></div>							</div>
+						</div>
+													<div class="single-footer row">
+								<div class="col-md-12 text-center">
+									<div class="postauthor-container">			  
+	<div class="postauthor-title">
+		<h3 class="about">
+			Yazar hakkında		</h3>
+		<div class="auhor-avatar">
+				<img alt='' src='http://2.gravatar.com/avatar/e26bcf3b78439c1a3430942ebb7e279f?s=46&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/e26bcf3b78439c1a3430942ebb7e279f?s=92&#038;d=mm&#038;r=g 2x' class='avatar avatar-46 photo' height='46' width='46' />		</div>
+		<div class="auhor-link">
+			<span class="fn">
+				<a href="https://bilisimkurdu.github.io/author/ykpcntrl/" title="Yakup Contarlı tarafından yazılan yazılar" rel="author">Yakup Contarlı</a>			</span>
+		</div>
+	</div>        	
+	<div class="postauthor-content">	             						           
+		<p>
+			04-05-1998'de dünyaya geldim.
+2004 - 2012 arasında İTO Kadınlar Çeşmesi İlköğretim Okulunda eğitim gördüm.
+2012 - 2016 arasın Kağıthane İTO Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri \Web Programcığı eğitim gördüm.
+2016-2018 Atatürk Üniversitesi Açıköğretim Fakültesi Bilgi Yönetimi Programı 
+2017-2019 Ahmet Yesevi Üniversitesi Bilgisayar Programcılığı mezunuyum.
+2016'dan itibaren Bankacılık Düzenleme ve Denetleme Kurumu'nda (BDDK) Bilişim Teknisyeni olarak kamu vazifesini yerine getirmekteyim.		</p>					
+	</div>	 		
+</div>
+								</div>
+								<div class="col-md-12">
+									
+<div id="disqus_thread"></div>
+ 
+								</div>
+							</div>
+											</div>        
+				        
+			    
+		</article> 
+			<aside id="sidebar" class="col-md-3">
+    <div class="sidebar__inner">
+		  <div id="custom_html-9" class="widget_text widget widget_custom_html"><div class="widget-title"><h3>Buyurun :-)</h3></div><div class="textwidget custom-html-widget"><script async src="https://cse.google.com/cse.js?cx=002890625118119314470:rwdeyqyusg0"></script>
+<div class="gcse-search"></div></div></div><div id="balanced-blog-extended-recent-posts-3" class="widget extended-recent-posts">
+			<div class="recent-news-section">
+
+				
+							<div class="news-item layout-two">
+											<div class="news-thumb">
+				<img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-için-yerleşik-Linux-çekirdeği-WSL-2-testleri-başladı-ShiftDelete.Net-4-120x90.jpg" alt="WSL GUI" />
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2>
+										<a href="https://bilisimkurdu.github.io/wsl-gui/">
+											WSL GUI										</a>
+									</h2>
+										<span class="posted-date">
+		1 Nisan 2020	</span>
+	<span class="comments-meta">
+						<a href="https://bilisimkurdu.github.io/wsl-gui/#respond" rel="nofollow" title="YorumunuzWSL GUI">
+					0				</a>
+					<i class="fa fa-comments-o"></i>
+	</span>
+									</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item layout-two">
+											<div class="news-thumb">
+				<img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-için-yerleşik-Linux-çekirdeği-WSL-2-testleri-başladı-ShiftDelete.Net-4-120x90.jpg" alt="WSL (Linux için Windows Alt Sistemi) kurulumu" />
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2>
+										<a href="https://bilisimkurdu.github.io/wsl-kurulumu/">
+											WSL (Linux için Windows Alt Sistemi) kurulumu										</a>
+									</h2>
+										<span class="posted-date">
+		1 Nisan 2020	</span>
+	<span class="comments-meta">
+						<a href="https://bilisimkurdu.github.io/wsl-kurulumu/#respond" rel="nofollow" title="YorumunuzWSL (Linux için Windows Alt Sistemi) kurulumu">
+					0				</a>
+					<i class="fa fa-comments-o"></i>
+	</span>
+									</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item layout-two">
+											<div class="news-thumb">
+				<img src="https://bilisimkurdu.github.io/wp-content/uploads/2017/06/android-nougat.png" alt="Android cihazlarda OEM kilidi açmak" />
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2>
+										<a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">
+											Android cihazlarda OEM kilidi açmak										</a>
+									</h2>
+										<span class="posted-date">
+		29 Mart 2020	</span>
+	<span class="comments-meta">
+						<a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/#respond" rel="nofollow" title="YorumunuzAndroid cihazlarda OEM kilidi açmak">
+					0				</a>
+					<i class="fa fa-comments-o"></i>
+	</span>
+									</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item layout-two">
+											<div class="news-thumb">
+				<img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/03/cd1068e066cc4d07a779eec85366fbbc.jpg" alt="Ekran kartı sürücüsü güncelleme" />
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2>
+										<a href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">
+											Ekran kartı sürücüsü güncelleme										</a>
+									</h2>
+										<span class="posted-date">
+		28 Mart 2020	</span>
+	<span class="comments-meta">
+						<a href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond" rel="nofollow" title="YorumunuzEkran kartı sürücüsü güncelleme">
+					0				</a>
+					<i class="fa fa-comments-o"></i>
+	</span>
+									</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+					
+				</div>
+
+				</div><div id="meta-4" class="widget widget_meta"><div class="widget-title"><h3>Meta</h3></div>			<ul>
+						<li><a href="https://bilisimkurdu.github.io/wp-login.php">Giriş</a></li>
+			<li><a href="https://bilisimkurdu.github.io/feed/">Yazı beslemesi</a></li>
+			<li><a href="https://bilisimkurdu.github.io/comments/feed/">Yorum beslemesi</a></li>
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>			</ul>
+			</div><div id="archives-5" class="widget widget_archive"><div class="widget-title"><h3>Arşivler</h3></div>		<label class="screen-reader-text" for="archives-dropdown-5">Arşivler</label>
+		<select id="archives-dropdown-5" name="archive-dropdown">
+			
+			<option value="">Ay seçin</option>
+				<option value='https://bilisimkurdu.github.io/2020/04/'> Nisan 2020 </option>
+	<option value='https://bilisimkurdu.github.io/2020/03/'> Mart 2020 </option>
+	<option value='https://bilisimkurdu.github.io/2020/02/'> Şubat 2020 </option>
+	<option value='https://bilisimkurdu.github.io/2020/01/'> Ocak 2020 </option>
+	<option value='https://bilisimkurdu.github.io/2019/12/'> Aralık 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/11/'> Kasım 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/10/'> Ekim 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/09/'> Eylül 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/08/'> Ağustos 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/07/'> Temmuz 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/05/'> Mayıs 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/04/'> Nisan 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/03/'> Mart 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/02/'> Şubat 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2019/01/'> Ocak 2019 </option>
+	<option value='https://bilisimkurdu.github.io/2018/11/'> Kasım 2018 </option>
+	<option value='https://bilisimkurdu.github.io/2018/10/'> Ekim 2018 </option>
+	<option value='https://bilisimkurdu.github.io/2018/09/'> Eylül 2018 </option>
+	<option value='https://bilisimkurdu.github.io/2018/06/'> Haziran 2018 </option>
+	<option value='https://bilisimkurdu.github.io/2017/12/'> Aralık 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/10/'> Ekim 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/07/'> Temmuz 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/06/'> Haziran 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/05/'> Mayıs 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/04/'> Nisan 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/02/'> Şubat 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2017/01/'> Ocak 2017 </option>
+	<option value='https://bilisimkurdu.github.io/2016/12/'> Aralık 2016 </option>
+	<option value='https://bilisimkurdu.github.io/2016/11/'> Kasım 2016 </option>
+	<option value='https://bilisimkurdu.github.io/2016/10/'> Ekim 2016 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-5" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
+		</div>    </div>
+	</aside>
+</div>
+<!-- end content container -->
+<!-- end content container -->
+
+</div><!-- end main-container -->
+</div><!-- end page-area -->
+ 
+<footer id="colophon" class="footer-credits container-fluid">
+	<div class="container">
+				<p class="footer-credits-text text-center">
+			<a href="https://wordpress.org/">WordPress</a> gururla sunar			<span class="sep"> | </span>
+			Tema: <a href="http://headthemes.com/">Balanced Blog</a>		</p> 
+		 
+	</div>	
+</footer>
+ 
+<!--Start of Tawk.to Script (0.3.3)-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{};
+var Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5b052fc413d5ab375e378011/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script (0.3.3)--><script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"bilisimkurdu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"756 https:\/\/bilisimkurdu.github.io\/?p=756","disqusShortname":"bilisimkurdu","disqusTitle":"WSL (Linux i\u00e7in Windows Alt Sistemi) kurulumu","disqusUrl":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/","postId":"756"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-content/themes/balanced-blog/js/bootstrap.min.js?ver=3.3.7'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-content/themes/balanced-blog/js/customscript.js?ver=1.0.6'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script src="https://my.hellobar.com/fba11ad874363924c22e5b7b974c28732c728079.js" type="text/javascript" charset="utf-8" async="async"></script>
+</body>
+</html>

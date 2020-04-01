@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>The devenv /updateconfiguration command may have failed</title>
 		<link>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/</link>
-				<comments>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/#respond</comments>
-				<pubDate>Thu, 21 Mar 2019 19:52:25 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2019 19:52:25 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
 		<category><![CDATA[MYSQL]]></category>
@@ -45,10 +46,10 @@
 		<category><![CDATA[mysql The devenv /update configuration command may have failed error]]></category>
 		<category><![CDATA[mysql The devenv /update configuration command may have failed hatası]]></category>
 		<category><![CDATA[The devenv /update configuration command may have failed]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm yöntemi: C:\Users\kullaniciAdi\AppData\Local\Microsoft\VisualStudio\15.0_ &#60;instance_id&#62; \privateregistry.bin dosyası silinir. Program tekrardan kurma\kaldırma işlemi gerçekleşir. Kurulum tamamlandığında Visual Studio açtığınızda&#8221;Unknown error&#8221; hatası verirse aynı şekilde &#8220;privateregistry.bin&#8221; dosyası silinir. Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba arkadaşlar,</p>
 
 
@@ -115,8 +116,11 @@
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>
