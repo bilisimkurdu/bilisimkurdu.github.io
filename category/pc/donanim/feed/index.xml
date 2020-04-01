@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>Ekran kartı sürücüsü güncelleme</title>
 		<link>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/</link>
-				<comments>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond</comments>
-				<pubDate>Sat, 28 Mar 2020 14:21:19 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2020 14:21:19 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
@@ -46,10 +47,10 @@
 		<category><![CDATA[windows 7 ekran kartı güncelleme]]></category>
 		<category><![CDATA[windows 8 ekan katı güncelleme]]></category>
 		<category><![CDATA[windows ekran kartı güncelleme]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -63,7 +64,7 @@
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Ekran Kartı sürücüsünü güncelleme - Her marka için geçerli" width="748" height="421" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1140" height="641" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -78,15 +79,19 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Temel ve dinamik diskler arasındaki farklar.</title>
 		<link>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/</link>
-				<comments>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/#respond</comments>
-				<pubDate>Wed, 15 Jan 2020 11:03:43 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 11:03:43 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[Basic]]></category>
@@ -99,10 +104,10 @@
 		<category><![CDATA[Dynamic]]></category>
 		<category><![CDATA[Dynamic Disk]]></category>
 		<category><![CDATA[Temel]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=686</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle yapılacak işlem (bölüm oluşturma,kapasite arttırımı,bölümleme,hacim işlemleri gibi) önemli farklar oluşturabilmektedir. İşte bu iki disk türü arasındaki farklar. Özellik Temel disk Dinamik disk Bölümleri ve birimleri izleme Bir bölüm tablosu kullanır Gizli bir mantıksal disk yöneticisi...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -125,15 +130,19 @@
 
 <figure class="wp-block-table"><table><tbody><tr><td><strong>Özellik</strong></td><td><strong>Temel disk</strong></td><td><strong>Dinamik disk</strong></td></tr><tr><td>Bölümleri ve birimleri izleme</td><td>Bir bölüm tablosu kullanır</td><td>Gizli bir mantıksal disk yöneticisi (LDM) veya sanal disk hizmeti (VDS) kullanır</td></tr><tr><td>Desteklenen işletim sistemleri</td><td>MS-DOS ,Windows 95/98, Windows 8</td><td>Windows 2000, XP, 2003, 2008, 2011, 2012, Vista, Windows 7, Windows 8 ve Windows 10</td></tr><tr><td>Birimlerin kapasitesinin artırılması</td><td>Hayır. Bir bölüm oluşturulduktan sonra, kapasitesini doğrudan değiştiremezsiniz. Bunu yapmak için üçüncü taraf araçlara ihtiyacınız var.</td><td>Evet. Yeniden başlatmadan bölümlerin kapasitesini artırabilirsiniz. Hiçbir zaman veri kaybı olmaz.</td></tr><tr><td>Disk space</td><td>Maksimum kapasite 2 TB ile sınırlıdır.</td><td>Bölümler 2 TB’tan büyük olabilir.</td></tr><tr><td>Bölüm sayısı</td><td>MBR bölüm stili kullanıyorsanız, en fazla dört bölüm kullanıyorsanız. Dördü de birincil bölüm olabilir veya üç birincil bölüm ve bir genişletilmiş bölüm olabilir. Genişletilmiş bölüm mantıksal sürücüler içerebilir. GPT stili kullanıyorsanız, maksimum 128 bölüm oluşturulabilir.</td><td>Sınırsız sayıda bölüm.</td></tr><tr><td>Hacim türleri</td><td>Yalnızca birincil veya mantıksal bölümlere izin verir.</td><td>Basit, yayılmış, çizgili, yansıtılmış ve RAID-5 birimlerine izin verir.</td></tr><tr><td>Çevirilebilirlik</td><td>Temel diskler veri kaybı olmadan dinamik disklere dönüştürülebilir</td><td>Dinamik diski temel diske dönüştürmek için dinamik diskteki tüm birimler silinmelidir. Veri kaybını önlemenin tek yolu üçüncü taraf araçlarını kullanmaktır.</td></tr></tbody></table></figure>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
 		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
-				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
-				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
 				<category><![CDATA[Intel]]></category>
 		<category><![CDATA[İşlemci]]></category>
 		<category><![CDATA[Mobil]]></category>
@@ -149,10 +158,10 @@
 		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -221,21 +230,25 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>BlueStacks 4 Motor başlatılamadı hatası</title>
 		<link>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/</link>
-				<comments>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/#respond</comments>
-				<pubDate>Wed, 28 Nov 2018 20:30:36 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 28 Nov 2018 20:30:36 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[PC]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=377</guid>
-				<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı: Hata Tipi : AppCrash Dosya Adı : HD-Player.exe CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..bcdedit /set {current} nx AlwaysOff BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim- Settings -> Engiene sekmesinde resimdeki gibi ayarlıyoruz. Verdiğim önerileri uygulamanız...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı:&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem ziyaretçiler,</p>
 
 
@@ -270,15 +283,19 @@
 
 <p>İyi Akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Microsoft&#8217;tan güncelleme müjdesi</title>
 		<link>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/</link>
-				<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
-				<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[Intel]]></category>
 		<category><![CDATA[İşlemci]]></category>
@@ -296,16 +313,19 @@
 		<category><![CDATA[Spectre ve Meltdown açık yamaları]]></category>
 		<category><![CDATA[windows 10]]></category>
 		<category><![CDATA[yamaları]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
-				<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi....]]></description>
-								<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
+
+					<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
 <span id="more-362"></span><br />
 Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
 <p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/linux/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 26 Mar 2020 16:13:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Apr 2020 16:48:23 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -28,11 +28,287 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>WSL GUI</title>
+		<link>https://bilisimkurdu.github.io/wsl-gui/</link>
+					<comments>https://bilisimkurdu.github.io/wsl-gui/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 16:48:21 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[wsl gui programlarını çalıştırma]]></category>
+		<category><![CDATA[wsl gui uygulamalarını çalıştırma]]></category>
+		<category><![CDATA[wsl gui yazılımlarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux programlarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux uygulamalarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux yazılımlarını çalıştırma]]></category>
+		<category><![CDATA[WSL run gui]]></category>
+		<category><![CDATA[WSL run gui apps]]></category>
+		<category><![CDATA[WSL run gui software]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-760"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
+
+
+
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Öncelikle Xming yazılımın indiriyoruz.</p>
+
+
+
+<p><a href="https://sourceforge.net/projects/xming">https://sourceforge.net/projects/xming</a></p>
+
+
+
+<p>Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install x11-apps
+export DISPLAY=:0
+xeyes</code></pre>
+
+
+
+<p>Çalıştıracağımız uygulamanın paket ismini (<code>sudo apt-get paketAdi</code> ile yükleyip) yazarak çalıştırınız.</p>
+
+
+
+<p>Örnek:</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install blockout2 //yükleme
+blockout2 //çalıştırma</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WSL (Linux için Windows Alt Sistemi) kurulumu</title>
+		<link>https://bilisimkurdu.github.io/wsl-kurulumu/</link>
+					<comments>https://bilisimkurdu.github.io/wsl-kurulumu/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 16:25:51 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[linuxu windowsta kullanma]]></category>
+		<category><![CDATA[windows 10 debian]]></category>
+		<category><![CDATA[windows 10 linux]]></category>
+		<category><![CDATA[windows 10 pardus]]></category>
+		<category><![CDATA[windows 10 ubunutu]]></category>
+		<category><![CDATA[wsl]]></category>
+		<category><![CDATA[wsl kurulumu]]></category>
+		<category><![CDATA[WSL Linux için Windows Alt Sistem]]></category>
+		<category><![CDATA[wsl nedir]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz.</p>
+
+
+
+<p>WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir.</p>
+
+
+
+<span id="more-756"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
+
+
+
+<p>Şimdi geçelim kuruluma;</p>
+
+
+
+<p>Başlat -&gt; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak</p>
+
+
+
+<pre class="wp-block-code"><code>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux</code></pre>
+
+
+
+<p>komutunu giriyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt=""/></figure>
+
+
+
+<p>Bilgisayarı yeniden başlatma için onay isteyecek. Klavyeden &#8220;Y&#8221; tuşuna basıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt=""/></figure>
+
+
+
+<p>Bilgisayar yeniden başlatıldıktan sonra Windows Store&#8217;yi açarak &#8220;Ubuntu&#8221; yazılımını kuruyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt=""/><figcaption><br><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png"></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt=""/><figcaption><br></figcaption></figure>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" alt="" class="wp-image-30579"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" alt="" class="wp-image-30580"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" alt="" class="wp-image-30581"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" alt="" class="wp-image-30582"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" alt="" class="wp-image-30583"/></figure></div>
+
+
+
+<ul><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" alt="" class="wp-image-30584"/></figure></div>
+
+
+
+<ul><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" alt="" class="wp-image-30585"/></figure></div>
+
+
+
+<ul><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" alt="" class="wp-image-30586"/></figure></div>
+
+
+
+<ul><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" alt="" class="wp-image-30587"/></figure></div>
+
+
+
+<ul><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" alt="" class="wp-image-30588"/></figure></div>
+
+
+
+<ul><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" alt="" class="wp-image-30589"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" alt="" class="wp-image-30590"/></figure></div>
+
+
+
+<ul><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-kurulumu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Enable nested virtualization on Google Cloud</title>
 		<link>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/</link>
-				<comments>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/#respond</comments>
-				<pubDate>Thu, 26 Mar 2020 10:59:16 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 10:59:16 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Enable nested virtualization Google Cloud]]></category>
 		<category><![CDATA[Enable nested virtualization on Google Cloud]]></category>
@@ -42,10 +318,10 @@
 		<category><![CDATA[Google Cloud sanal makine oluşturma]]></category>
 		<category><![CDATA[İç içe sanallaştırma]]></category>
 		<category><![CDATA[nested virtualization]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=719</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud üzerinden oluşturulan sunucu sanal olup sanal makine üzerinden başka bir sanal makine oluşturulması iç içe sanallaştırma senaryosudur. Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz. https://cloud.google.com/sdk/install Aşağıdaki komut ile Console...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -100,15 +376,19 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</title>
 		<link>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/#respond</comments>
-				<pubDate>Thu, 26 Mar 2020 10:02:15 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 10:02:15 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Debian server VNC server kurulumu]]></category>
 		<category><![CDATA[Debian VNC server kurulumu]]></category>
@@ -121,10 +401,10 @@
 		<category><![CDATA[Ubuntu VNC server kurulumu]]></category>
 		<category><![CDATA[vnc]]></category>
 		<category><![CDATA[vps]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir. Eğer Ubuntu Server için;...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -256,15 +536,19 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Kali Linux şifre sıfırlama</title>
 		<link>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/</link>
-				<comments>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/#respond</comments>
-				<pubDate>Tue, 17 Dec 2019 14:06:07 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2019 14:06:07 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Kali Linux şifre kurtarma]]></category>
 		<category><![CDATA[Kali Linux şifre resetleme]]></category>
@@ -277,10 +561,10 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 		<category><![CDATA[ubuntu password reset]]></category>
 		<category><![CDATA[ubuntu şifre sıfırlama]]></category>
 		<category><![CDATA[xubuntu password reset]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=666</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır. Kali linux yazan seçeneğe gelir F10 tuşuna basılır. GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221; kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın. &#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -327,15 +611,19 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Ubuntu şifresi sıfırlama</title>
 		<link>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/#respond</comments>
-				<pubDate>Tue, 17 Dec 2019 13:53:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2019 13:53:02 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[kubuntu password reset]]></category>
 		<category><![CDATA[kubuntu şifre sıfırlama]]></category>
@@ -345,10 +633,10 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 		<category><![CDATA[ubuntu password reset]]></category>
 		<category><![CDATA[ubuntu şifre sıfırlama]]></category>
 		<category><![CDATA[xubuntu password reset]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=663</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız. Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz. Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz. Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız. Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -404,15 +692,19 @@ passwd &lt;kullaniciadi></code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Debian tabanlı işletim sistemlerinde depolarda bulunmayan paketleri yüklemek</title>
 		<link>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/</link>
-				<comments>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/#respond</comments>
-				<pubDate>Thu, 28 Nov 2019 12:47:00 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2019 12:47:00 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[debian not package repository]]></category>
 		<category><![CDATA[debian paket]]></category>
@@ -424,10 +716,10 @@ passwd &lt;kullaniciadi></code></pre>
 		<category><![CDATA[ubuntu not package repository]]></category>
 		<category><![CDATA[ubuntu paket]]></category>
 		<category><![CDATA[ubuntu paket yüklenmiyor]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=654</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir? /etc/apt/sources.list dosyasını root hakları ile açıp aşağıdaki satırı ekleyiniz. Sonra aşağıdaki komutları giriniz. Eğer deb uzantılı dosyaları yüklerken almışsanız. komutların girilmesi yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir?&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -482,15 +774,19 @@ sudo gdebi paketAdi.deb</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</title>
 		<link>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/</link>
-				<comments>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/#respond</comments>
-				<pubDate>Thu, 28 Nov 2019 12:24:05 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2019 12:24:05 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[does not boot from GRUB boot loader]]></category>
@@ -504,10 +800,10 @@ sudo gdebi paketAdi.deb</code></pre>
 		<category><![CDATA[pardus grub rescue hatası]]></category>
 		<category><![CDATA[Windows 10 does not boot from GRUB boot loader]]></category>
 		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
-				<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue) Senaryomuz şu şekilde; Bilgisayara hem Linux tabanlı işletim sistemlerinden biri hem de Windows işletim sistemlerinden biri kurulmuş olsun. Belli bir süre sonra (güncelleme,sistem yapılandırma,arıza) gibi nedenlerle işletim sistemlerinden biri açılırken &#8220;grub rescue&#8221; hatası versin. Çözüm...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba muhterem ziyaretçiler,</p>
 
 
@@ -564,15 +860,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Android cihazlarda Bootable USB oluşturma</title>
 		<link>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</link>
-				<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
-				<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[android cihazlarda bootable usb oluşturma]]></category>
@@ -582,10 +882,10 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[cep telefonu bootable usb yapma]]></category>
 		<category><![CDATA[mobil phone device creating bootable usb]]></category>
 		<category><![CDATA[rufus apk]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle gereksinimlerin bulunması gerekmektedir; Android Cihazınızın OTG desteği olması En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek OTG kablo Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır veya indirilir. Eğer işletim sistemi...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -619,7 +919,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -629,7 +929,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -639,7 +939,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="748" height="421" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="1140" height="641" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -650,24 +950,28 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/#respond</comments>
-				<pubDate>Thu, 07 Nov 2019 12:33:24 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2019 12:33:24 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.]]></category>
 		<category><![CDATA[Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
 		<category><![CDATA[MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=628</guid>
-				<description><![CDATA[Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; &#8220;Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhtrerem Ziyaretçiler,</p>
 
 
@@ -706,24 +1010,28 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>deb paketi yüklenirken &#8220;paketi işlenirken sorun yaşandı (&#8211;install)&#8221;</title>
 		<link>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/</link>
-				<comments>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/#respond</comments>
-				<pubDate>Mon, 07 Oct 2019 13:39:20 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2019 13:39:20 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[paketi işlenirken sorun yaşandı (--install):]]></category>
 		<category><![CDATA[paketi işlenirken sorun yaşandı (--install): çözümü]]></category>
 		<category><![CDATA[problem while processing package (--install):]]></category>
 		<category><![CDATA[problem while processing package (--install): fix]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=583</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken sorun yaşandı (&#8211;install): hatası bağımlılık gerektiren paketlerin bilgisayarda yüklü bulunmamasından kaynaklanmaktadır. Sorunun çözümü için aşağıdaki komutlar sırasıyla girilir: Akabinden .deb paketi tekrardan yüklenir.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -752,25 +1060,29 @@ sudo apt --fix-broken install</code></pre>
 
 <p>Akabinden .deb paketi tekrardan yüklenir.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>sudo dolphin:Executing Dolphin as root is not possible.</title>
 		<link>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/</link>
-				<comments>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/#respond</comments>
-				<pubDate>Wed, 07 Aug 2019 10:46:53 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2019 10:46:53 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Executing Dolphin as root is not possible.]]></category>
 		<category><![CDATA[Executing Dolphin as root is not possible. bypass]]></category>
 		<category><![CDATA[KDE Executing Dolphin as root is not possible.]]></category>
 		<category><![CDATA[Kubuntu Executing Dolphin as root is not possible.]]></category>
 		<category><![CDATA[sudo dolphin sudo dolphin:Executing Dolphin as root is not possible.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=492</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu hata KDE framework 5.34 sürümünde yapılan güncellemeden ötürü kaynaklanmaktadır. Problemin çözümü nautilus dosya yöneticisinin yüklenip sudo komutu ile çalıştırılması ile çözülür. Nautilus yüklemek için; Nautilus&#8217;u sudo olarak çalıştırmak için; komutlarını terminal üzerinden yürütebilirirsiniz. Eğer bu...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -817,25 +1129,29 @@ sudo apt --fix-broken install</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Ubuntu systemd-udevd yoğun CPU kullanımı</title>
 		<link>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
-				<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[ubuntu high cpu usage]]></category>
 		<category><![CDATA[ubuntu high cpu used]]></category>
 		<category><![CDATA[Ubuntu systemd-udevd high cpu usage]]></category>
 		<category><![CDATA[Ubuntu systemd-udevd high cpu used]]></category>
 		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
-				<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu ve türevlerinde (Kubuntu,Xubuntu,Ubuntu Studio&#8230;) 18.04 sürümlerinde yaşanan Wifi sürücülerin ve Bluetooth sürücülerin birbirleriyle çakışmasından kaynaklanmaktadır. Sorunun çözümü BIOS ayarlarında Bluetooth devredışı bırakılması olup geçici bir çözümdür. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -862,15 +1178,19 @@ sudo apt --fix-broken install</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Linux Unity yükleme</title>
 		<link>https://bilisimkurdu.github.io/linux-unity-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
-				<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[Unity]]></category>
@@ -887,10 +1207,10 @@ sudo apt --fix-broken install</code></pre>
 		<category><![CDATA[Ubuntu Unity yükleme]]></category>
 		<category><![CDATA[Ubuntu Unity yükleme 2019]]></category>
 		<category><![CDATA[Unity Hub]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır. Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba arkadaşlar,</p>
 
 
@@ -926,15 +1246,19 @@ sudo apt --fix-broken install</code></pre>
 
 <figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
-				<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -945,10 +1269,10 @@ sudo apt --fix-broken install</code></pre>
 		<category><![CDATA[dotnet MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
 		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
 		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
-				<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly. hatasının çözümü konusunda olacak. 1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi. 2-)Birinci adım olmazsa ; .NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için tıklayınız.) gerekmektedir....]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhtererem Ziyeretçiler,</p>
 
 
@@ -987,15 +1311,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
-				<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -1004,10 +1332,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[MonoDevelop]]></category>
 		<category><![CDATA[monodevelop asp.net]]></category>
 		<category><![CDATA[monodevelop asp.net server not starting]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
-				<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open Suse tabanlı sistemlerde Fedora (Sunucuya kuruyorsanız) Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merthaba Arkadaşlar,</p>
 
 
@@ -1058,15 +1386,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
-				<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2019 13:05:56 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Programlama]]></category>
@@ -1082,10 +1414,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[monodevelop net core]]></category>
 		<category><![CDATA[monodevelop net core problem]]></category>
 		<category><![CDATA[mvc]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop yazılımında .NET Core projesi oluşturama probleminden bahsedeceğim. Problemin çözümü olarak https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-current adresinden Linux Distribution kısmında kullandığınız linux sürümünü seçip sitede belirtilen komutları termimal üzerinde girerek yükleyiniz ve MonoDevelop yazılımını yeniden başlatınız. Eğer yukarıdaki gibi .NET...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -1120,15 +1452,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>VMware Workstation Linux virtual machine not working sharing folder</title>
 		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
-				<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
-				<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[linux]]></category>
@@ -1139,10 +1475,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[VMware Linux virtual machine not working sharing folder]]></category>
 		<category><![CDATA[VMware tool]]></category>
 		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
-				<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması. VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz; https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html Aşağıdaki komutları...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhabalar Muhterem Ziyaretçiler,</p>
 
 
@@ -1193,15 +1529,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Linux tabanlı işletim sistemlerinde VMware tool yükleme</title>
 		<link>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/#respond</comments>
-				<pubDate>Mon, 25 Feb 2019 09:03:29 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2019 09:03:29 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[debian]]></category>
@@ -1216,10 +1556,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[VMware]]></category>
 		<category><![CDATA[VMware tool]]></category>
 		<category><![CDATA[vmware tool yükleme]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=394</guid>
-				<description><![CDATA[Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine göre seçip terminale yazıp sanal işletim sistemini restart etmeniz gerekmektedir. Debian tabanlı (Ubuntu,Pardus,Linux Mint gibi) İstemciler; Sunucu; Fedora tabanlı işletim sistemleri İstemci; Sunucu; Open Suse tabanlı işletim sistemleri için; İstemci; Sunucu; Eğer bu yazıyla ilişkin...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhtarem ziyaretçilerimiz,</p>
 
 
@@ -1306,15 +1646,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Ubuntu&#8217;ya VMware tool yükleme</title>
 		<link>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/</link>
-				<comments>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/#respond</comments>
-				<pubDate>Sat, 23 Feb 2019 16:19:41 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 23 Feb 2019 16:19:41 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[kubuntu]]></category>
@@ -1324,10 +1668,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[VMware tool]]></category>
 		<category><![CDATA[vmware tool yükleme]]></category>
 		<category><![CDATA[xubuntu]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=386</guid>
-				<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut işletim sistemi üzerinden kullanılan ikincil işletim sistemidir. Eğer Ubuntu\Kubuntu\Xubuntu\Ubuntu Studio\&#8230; güncel (&#62;14) yüklendiyse terminale aşağıdaki komut girilip restart atılır. Eğer Ubuntu&#8217;nun eski sürümü yüklüyse terminale aşağıdaki komutlar girilir. (&#60;=13); Lucid sürümü ise: sudo apt-add-repository 'deb...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba arkadaşlar,</p>
 
 
@@ -1390,15 +1734,19 @@ komutunu yazdıktan sonra;</p>
 
 <p>İyi akşamlar.<br></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>PARDUS 17 ÖN İNCELEME</title>
 		<link>https://bilisimkurdu.github.io/pardus-17-on-inceleme/</link>
-				<comments>https://bilisimkurdu.github.io/pardus-17-on-inceleme/#respond</comments>
-				<pubDate>Mon, 10 Jul 2017 11:55:34 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/pardus-17-on-inceleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 11:55:34 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[bloglama]]></category>
@@ -1412,10 +1760,10 @@ komutunu yazdıktan sonra;</p>
 		<category><![CDATA[pardus mssql kurulumu]]></category>
 		<category><![CDATA[server]]></category>
 		<category><![CDATA[sql]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=178</guid>
-				<description><![CDATA[Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım. Pardus kurulduktan sonra açılış aşırı hızlıydı ve sistem yükü çok az bir değerdeydi yani eski 64 bit makineniz varsa kurup...]]></description>
-								<content:encoded><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım.</p>
+
+					<description><![CDATA[Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardus-17-on-inceleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım.</p>
 <p>Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim.</p>
 <p>Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım.</p>
 <p>Pardus kurulduktan sonra açılış aşırı hızlıydı ve sistem yükü çok az bir değerdeydi yani eski 64 bit makineniz varsa kurup kullanmanızı öneririm.</p>
@@ -1428,15 +1776,19 @@ komutunu yazdıktan sonra;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/pardus-17-on-inceleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/pardus-17-on-inceleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</title>
 		<link>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/</link>
-				<comments>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/#respond</comments>
-				<pubDate>Tue, 02 May 2017 10:32:42 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 02 May 2017 10:32:42 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[MSSQL]]></category>
 		<category><![CDATA[PC]]></category>
@@ -1460,10 +1812,10 @@ komutunu yazdıktan sonra;</p>
 		<category><![CDATA[server]]></category>
 		<category><![CDATA[sql]]></category>
 		<category><![CDATA[ubuntu]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
-				<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle sudo apt-get install curl ile curl paketini yüklüyoruz. curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz. sudo apt-get update sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz. sudo /opt/mssql/bin/sqlservr-setup...]]></description>
-								<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+
+					<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
@@ -1480,8 +1832,11 @@ source ~/.bashrc</p>
 <p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -30,9 +30,10 @@
 	<item>
 		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
-				<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -43,10 +44,10 @@
 		<category><![CDATA[dotnet MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
 		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
 		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
-				<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly. hatasının çözümü konusunda olacak. 1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi. 2-)Birinci adım olmazsa ; .NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için tıklayınız.) gerekmektedir....]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhtererem Ziyeretçiler,</p>
 
 
@@ -85,15 +86,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/</link>
-				<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
-				<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -102,10 +107,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[MonoDevelop]]></category>
 		<category><![CDATA[monodevelop asp.net]]></category>
 		<category><![CDATA[monodevelop asp.net server not starting]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
-				<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open Suse tabanlı sistemlerde Fedora (Sunucuya kuruyorsanız) Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merthaba Arkadaşlar,</p>
 
 
@@ -156,15 +161,19 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>&#8220;db-config-ini.php&#8221; analizi</title>
 		<link>https://bilisimkurdu.github.io/db-config-ini-php-analizi/</link>
-				<comments>https://bilisimkurdu.github.io/db-config-ini-php-analizi/#respond</comments>
-				<pubDate>Mon, 11 Jun 2018 14:02:32 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/db-config-ini-php-analizi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2018 14:02:32 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Wordpress]]></category>
 		<category><![CDATA[açık]]></category>
@@ -177,10 +186,10 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[usom]]></category>
 		<category><![CDATA[wordpress]]></category>
 		<category><![CDATA[zaafiyet]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=298</guid>
-				<description><![CDATA[Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama bilmeyenler için BTK&#8217;ya bağlı Ulusal Siber Olaylara Müdahale Merkezi&#8217;dir.Zaman zaman analiz ettiği zararlı URL&#8217;leri aşağıdaki gibi inceledim. Başlıkta belirttiğim &#8220;db-config-ini.php&#8221; dosyası zararlı URL olarak tespit edilmiş ve WordPress sitelerinde olduğunu analiz ettim. Listedeki bazı web sitelerini...]]></description>
-								<content:encoded><![CDATA[<p>Merhabalar,</p>
+
+					<description><![CDATA[Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar,</p>
 <p>Bugün yapmış olduğum analizi paylaşmak istiyorum.</p>
 <p>Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim.</p>
 <p><span id="more-298"></span></p>
@@ -211,15 +220,19 @@ USOM zararlı link listesi : <a href="https://www.usom.gov.tr/zararli-baglantila
 <p>En ulvi saygılarmla.<br />
 Lisanı sürç ettiysek affola.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/db-config-ini-php-analizi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/db-config-ini-php-analizi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Adblock yazılımların çalışma mantığı</title>
 		<link>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/</link>
-				<comments>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/#respond</comments>
-				<pubDate>Tue, 05 Jun 2018 09:53:54 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2018 09:53:54 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[adblock]]></category>
@@ -227,10 +240,10 @@ Lisanı sürç ettiysek affola.</p>
 		<category><![CDATA[engelleme]]></category>
 		<category><![CDATA[reklam]]></category>
 		<category><![CDATA[reklam engelleme]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
-				<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir. Adblock eklentileri şu şekilde çalışır; Konu ile alakalı video; İyi okumalar dilerim.]]></description>
-								<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
+
+					<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 <p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
 Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
 <span id="more-289"></span><br />
@@ -240,15 +253,19 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
 <p>İyi okumalar dilerim.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>VPN GÜVENLİ Mİ?</title>
 		<link>https://bilisimkurdu.github.io/vpn-guvenli-mi/</link>
-				<comments>https://bilisimkurdu.github.io/vpn-guvenli-mi/#respond</comments>
-				<pubDate>Fri, 28 Apr 2017 06:32:13 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/vpn-guvenli-mi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 28 Apr 2017 06:32:13 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[güvenlik]]></category>
 		<category><![CDATA[hız]]></category>
@@ -257,10 +274,10 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<category><![CDATA[reklam]]></category>
 		<category><![CDATA[vpn]]></category>
 		<category><![CDATA[vpn güvenli mi?]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=130</guid>
-				<description><![CDATA[Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir. Çünkü VPN olarak ağına bağlandığımız kişiler ağ trafiklerimizi kontrol edebililr, özellikle iyi yapılandırılmamışsa ip adreslerimiz sızabilmektedir. Reklamları engellemeye gelince reklam izleme aracı ip adreslerine değilde browserlardaki cookie&#8217;lerden faydalanırlar. Cihazımızdan VPN bağlantısına kadar verileri şifrelediği için hız bir miktar...]]></description>
-								<content:encoded><![CDATA[<p>Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir.</p>
+
+					<description><![CDATA[Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir. Çünkü VPN olarak&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir.</p>
 <p>Çünkü VPN olarak ağına bağlandığımız kişiler ağ trafiklerimizi kontrol edebililr, özellikle iyi yapılandırılmamışsa ip adreslerimiz sızabilmektedir.</p>
 <p><span id="more-130"></span></p>
 <p>Reklamları engellemeye gelince reklam izleme aracı ip adreslerine değilde browserlardaki cookie&#8217;lerden faydalanırlar.</p>
@@ -268,15 +285,19 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <p>Bazı VPN&#8217;ler güvenliğe odaklanırken bazıları yerel engelleri aşmaya, bazıları ise gizliliğe odaklanıyor.</p>
 <p>Bir VPN hizmeti üyeliği almadan önce günlük tutma ilkelerine, sunucuların konumlarına ve başkalarının yorumlarına bakın.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/vpn-guvenli-mi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/vpn-guvenli-mi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</title>
 		<link>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/</link>
-				<comments>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/#respond</comments>
-				<pubDate>Tue, 01 Nov 2016 14:14:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2016 14:14:02 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[300 000 kişi]]></category>
 		<category><![CDATA[300 000 kişiye bedava internet]]></category>
@@ -313,17 +334,20 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<category><![CDATA[yardımlaşma]]></category>
 		<category><![CDATA[youtube]]></category>
 		<category><![CDATA[youtube kanalı]]></category>
-
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=42</guid>
-				<description><![CDATA[Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor. İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik...]]></description>
-								<content:encoded><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor.<br />
+
+					<description><![CDATA[Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor. İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması,&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor.<br />
 İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik bir kaynak ayrıldığı bildiriliyor.<br />
 <span id="more-42"></span><br />
 Ancak uygulamadan herkesin yararlanması söz konusu değil, bedava internet erişimi, sadece düşük gelirli ailelere sunulacak. Sosyal Yardımlaşma ve Dayanışma Vakıfları tarafından belirlenecek olan 300.000 vatandaş, bedava internet erişimine sahip olacak.</p>
 <p>Sunulacak internetin kotası henüz açıklanmamış olup bağlantı aile koruma şifresiyle korunması beklenmekte.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

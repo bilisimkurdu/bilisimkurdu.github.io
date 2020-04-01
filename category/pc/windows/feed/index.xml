@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/windows/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 28 Mar 2020 14:25:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Apr 2020 16:48:23 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -28,11 +28,287 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>WSL GUI</title>
+		<link>https://bilisimkurdu.github.io/wsl-gui/</link>
+					<comments>https://bilisimkurdu.github.io/wsl-gui/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 16:48:21 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[wsl gui programlarını çalıştırma]]></category>
+		<category><![CDATA[wsl gui uygulamalarını çalıştırma]]></category>
+		<category><![CDATA[wsl gui yazılımlarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux programlarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux uygulamalarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux yazılımlarını çalıştırma]]></category>
+		<category><![CDATA[WSL run gui]]></category>
+		<category><![CDATA[WSL run gui apps]]></category>
+		<category><![CDATA[WSL run gui software]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-760"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
+
+
+
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Öncelikle Xming yazılımın indiriyoruz.</p>
+
+
+
+<p><a href="https://sourceforge.net/projects/xming">https://sourceforge.net/projects/xming</a></p>
+
+
+
+<p>Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install x11-apps
+export DISPLAY=:0
+xeyes</code></pre>
+
+
+
+<p>Çalıştıracağımız uygulamanın paket ismini (<code>sudo apt-get paketAdi</code> ile yükleyip) yazarak çalıştırınız.</p>
+
+
+
+<p>Örnek:</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install blockout2 //yükleme
+blockout2 //çalıştırma</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WSL (Linux için Windows Alt Sistemi) kurulumu</title>
+		<link>https://bilisimkurdu.github.io/wsl-kurulumu/</link>
+					<comments>https://bilisimkurdu.github.io/wsl-kurulumu/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 16:25:51 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[linuxu windowsta kullanma]]></category>
+		<category><![CDATA[windows 10 debian]]></category>
+		<category><![CDATA[windows 10 linux]]></category>
+		<category><![CDATA[windows 10 pardus]]></category>
+		<category><![CDATA[windows 10 ubunutu]]></category>
+		<category><![CDATA[wsl]]></category>
+		<category><![CDATA[wsl kurulumu]]></category>
+		<category><![CDATA[WSL Linux için Windows Alt Sistem]]></category>
+		<category><![CDATA[wsl nedir]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz.</p>
+
+
+
+<p>WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir.</p>
+
+
+
+<span id="more-756"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
+
+
+
+<p>Şimdi geçelim kuruluma;</p>
+
+
+
+<p>Başlat -&gt; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak</p>
+
+
+
+<pre class="wp-block-code"><code>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux</code></pre>
+
+
+
+<p>komutunu giriyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt=""/></figure>
+
+
+
+<p>Bilgisayarı yeniden başlatma için onay isteyecek. Klavyeden &#8220;Y&#8221; tuşuna basıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt=""/></figure>
+
+
+
+<p>Bilgisayar yeniden başlatıldıktan sonra Windows Store&#8217;yi açarak &#8220;Ubuntu&#8221; yazılımını kuruyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt=""/><figcaption><br><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png"></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt=""/><figcaption><br></figcaption></figure>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" alt="" class="wp-image-30579"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" alt="" class="wp-image-30580"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" alt="" class="wp-image-30581"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" alt="" class="wp-image-30582"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" alt="" class="wp-image-30583"/></figure></div>
+
+
+
+<ul><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" alt="" class="wp-image-30584"/></figure></div>
+
+
+
+<ul><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" alt="" class="wp-image-30585"/></figure></div>
+
+
+
+<ul><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" alt="" class="wp-image-30586"/></figure></div>
+
+
+
+<ul><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" alt="" class="wp-image-30587"/></figure></div>
+
+
+
+<ul><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" alt="" class="wp-image-30588"/></figure></div>
+
+
+
+<ul><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" alt="" class="wp-image-30589"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" alt="" class="wp-image-30590"/></figure></div>
+
+
+
+<ul><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-kurulumu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ekran kartı sürücüsü güncelleme</title>
 		<link>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/</link>
-				<comments>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond</comments>
-				<pubDate>Sat, 28 Mar 2020 14:21:19 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2020 14:21:19 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
@@ -46,10 +322,10 @@
 		<category><![CDATA[windows 7 ekran kartı güncelleme]]></category>
 		<category><![CDATA[windows 8 ekan katı güncelleme]]></category>
 		<category><![CDATA[windows ekran kartı güncelleme]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -63,7 +339,7 @@
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Ekran Kartı sürücüsünü güncelleme - Her marka için geçerli" width="748" height="421" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1140" height="641" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -78,15 +354,19 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Windows 7 Visual Studio kurulmuyor.</title>
 		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
-				<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
-				<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Genel]]></category>
 		<category><![CDATA[PC]]></category>
@@ -104,10 +384,10 @@
 		<category><![CDATA[Windows 8 Visual Studio kurulmuyor.]]></category>
 		<category><![CDATA[Windows 8.1 Visual Studio 2019 kurulmuyor.]]></category>
 		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -162,15 +442,19 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Required Privilege Is Not Held By The Client Error</title>
 		<link>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/</link>
-				<comments>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/#respond</comments>
-				<pubDate>Thu, 13 Feb 2020 08:49:38 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 08:49:38 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[0x80070522]]></category>
@@ -180,10 +464,10 @@
 		<category><![CDATA[Required Privilege Is Not Held By The Client Error]]></category>
 		<category><![CDATA[Windows 10 update 0x80070522 error]]></category>
 		<category><![CDATA[Windows 10 upgrade 0x80070522 error]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=694</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının çözümü ile ilgili olacak. Hatanın çözümü ile ilgili uygulanabilecek yöntemler; Local Securty Policies ayarları Windows +R tuşlarına basarak secpol.msc yazılır. Security Settings > Local Policies > Security Options aşamaları takip edilir. “User Account Control: Run...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -298,15 +582,19 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Windows güncelleme hata kodları</title>
 		<link>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/</link>
-				<comments>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/#respond</comments>
-				<pubDate>Thu, 13 Feb 2020 08:10:28 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 08:10:28 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[0x80070002 0x20009]]></category>
@@ -332,10 +620,10 @@
 		<category><![CDATA[Installation has failed]]></category>
 		<category><![CDATA[Installation has failed hatası]]></category>
 		<category><![CDATA[Windows update hatası]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem yolunu takip edilerek hata kodu tespit edilebilir. Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\Windows\Logs\MoSetup\BlueBox.log&#8221; dosyasını inceleyerek bulunabilir. Hata kodları ve açıklamaları aşağıdaki tablodadır. Hata Ne anlama gelir ve nasıl düzeltilir 0xc1900223 Bu, seçilen güncelleştirmeyi...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -370,15 +658,19 @@
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</title>
 		<link>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/</link>
-				<comments>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/#respond</comments>
-				<pubDate>Thu, 28 Nov 2019 12:24:05 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2019 12:24:05 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[does not boot from GRUB boot loader]]></category>
@@ -392,10 +684,10 @@
 		<category><![CDATA[pardus grub rescue hatası]]></category>
 		<category><![CDATA[Windows 10 does not boot from GRUB boot loader]]></category>
 		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
-				<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue) Senaryomuz şu şekilde; Bilgisayara hem Linux tabanlı işletim sistemlerinden biri hem de Windows işletim sistemlerinden biri kurulmuş olsun. Belli bir süre sonra (güncelleme,sistem yapılandırma,arıza) gibi nedenlerle işletim sistemlerinden biri açılırken &#8220;grub rescue&#8221; hatası versin. Çözüm...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba muhterem ziyaretçiler,</p>
 
 
@@ -452,15 +744,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Android cihazlarda Bootable USB oluşturma</title>
 		<link>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</link>
-				<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
-				<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[android cihazlarda bootable usb oluşturma]]></category>
@@ -470,10 +766,10 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[cep telefonu bootable usb yapma]]></category>
 		<category><![CDATA[mobil phone device creating bootable usb]]></category>
 		<category><![CDATA[rufus apk]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle gereksinimlerin bulunması gerekmektedir; Android Cihazınızın OTG desteği olması En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek OTG kablo Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır veya indirilir. Eğer işletim sistemi...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -507,7 +803,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -517,7 +813,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="748" height="561" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -527,7 +823,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="748" height="421" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="1140" height="641" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -538,15 +834,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
 		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
-				<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
-				<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
 				<category><![CDATA[Intel]]></category>
 		<category><![CDATA[İşlemci]]></category>
 		<category><![CDATA[Mobil]]></category>
@@ -562,10 +862,10 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -634,15 +934,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi günler.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Microsoft Free eBook Giveaway</title>
 		<link>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/</link>
-				<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
-				<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/#respond</comments>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2019 19:49:02 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Programlama]]></category>
 		<category><![CDATA[SQL]]></category>
@@ -652,10 +956,10 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[microsoft free ebook]]></category>
 		<category><![CDATA[microsoft virtual academy]]></category>
 		<category><![CDATA[mva]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
-				<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz. https://yadi.sk/d/WgEStyM6iSdkvA (Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.) İyi Akşamlar.]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Arkadaşlar,</p>
 
 
@@ -682,15 +986,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi Akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Windows 10 1803 dil paketleri</title>
 		<link>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/</link>
-				<comments>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/#respond</comments>
-				<pubDate>Wed, 13 Mar 2019 18:38:42 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2019 18:38:42 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[dil]]></category>
@@ -698,10 +1006,10 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[windows 10 dil değiştirme]]></category>
 		<category><![CDATA[windows 10 dil paketi]]></category>
 		<category><![CDATA[windows 10 display language pack]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=435</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım. Öncelikle linkleri verelim; Language Locale 32-bit Architecture 64-bit Architecture South African af-ZA Download Language Pack Download Language Pack Amharic am-ET Download Language Pack Download Language Pack Arabic ar-SA Download Language Pack Download Language Pack Assamese – India as-IN Download Language...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım. Öncelikle linkleri verelim; Language Locale&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -832,15 +1140,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>&#8220;Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi.&#8221;</title>
 		<link>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/</link>
-				<comments>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/#respond</comments>
-				<pubDate>Fri, 01 Mar 2019 16:54:34 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2019 16:54:34 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[güç ayarları değişmiyor]]></category>
@@ -851,10 +1163,10 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[güç seçenekleri pasif]]></category>
 		<category><![CDATA[Your Power Plan Information isn't available]]></category>
 		<category><![CDATA[Your Power Plan Information isn't available access denied]]></category>
-
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=420</guid>
-				<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna değineceğim. Bu hatayla ilişkin harici olarak kullandığınız güç planlama programı varsa kaldırıp bilgisayarı restart attıktan sonra CMD&#8217;yi yönetici olarak çalıştırarak aşağıdaki komutu girmeniz yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz....]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -881,21 +1193,25 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <p>İyi akşamlar.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Windows 10 Cortana devre dışı bırakma</title>
 		<link>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/</link>
-				<comments>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/#respond</comments>
-				<pubDate>Tue, 20 Nov 2018 20:29:01 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 20 Nov 2018 20:29:01 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=374</guid>
-				<description><![CDATA[Merhaba Muhterem ziyaretçilerimiz,Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup işlevi yerine getirebilmesi için verilerinizi toparlayıp analiz edilmektedir. Cortana’yi disable ederek gizliliğinizi bir nebzede koruyabilirsiniz. Windows 10 Pro ve Enterpise Başlat -&#62;&#160;gpedit.msc &#160;Computer Configuration &#62; Administrative Templates &#62; Windows Components &#62; Search yolunu takip ederek&#160;...]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Merhaba Muhterem ziyaretçilerimiz,Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
 <p>Merhaba Muhterem ziyaretçilerimiz,<br>Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup işlevi yerine getirebilmesi için verilerinizi toparlayıp analiz edilmektedir.</p>
 
 
@@ -950,15 +1266,19 @@ bootrec.exe /rebuildbcd</code></pre>
 
 <div class="wp-block-image"><figure class="aligncenter"><img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTYvMDkvc2NyZWVuc2hvdC0oMTA2KV82NzUxNTQuMjg1NzE0Mjg1NzEucG5n" alt="screenshot (106) 675154.28571428571" class="wp-image-298238"/></figure></div>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Windows 10 version 1803 varsayılan klavye dil ayarları</title>
 		<link>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/</link>
-				<comments>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/#respond</comments>
-				<pubDate>Tue, 23 Oct 2018 07:34:31 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 23 Oct 2018 07:34:31 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[1803]]></category>
@@ -976,25 +1296,29 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[update]]></category>
 		<category><![CDATA[windows 10]]></category>
 		<category><![CDATA[windows 10 1803]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=365</guid>
-				<description><![CDATA[Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.]]></description>
-								<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
+
+					<description><![CDATA[Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
 <span id="more-365"></span></p>
 <p>Ayarlar -&gt; Dil ve Bölgeler -&gt; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.</p>
 <p><img src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
 <img src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
 <img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Microsoft&#8217;tan güncelleme müjdesi</title>
 		<link>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/</link>
-				<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
-				<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
+					<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
+		
 		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[Intel]]></category>
 		<category><![CDATA[İşlemci]]></category>
@@ -1012,16 +1336,19 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[Spectre ve Meltdown açık yamaları]]></category>
 		<category><![CDATA[windows 10]]></category>
 		<category><![CDATA[yamaları]]></category>
-
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
-				<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi....]]></description>
-								<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
+
+					<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
 <span id="more-362"></span><br />
 Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
 <p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>
