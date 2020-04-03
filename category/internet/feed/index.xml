@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/internet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 16 Jul 2019 13:55:59 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Apr 2020 09:25:22 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Windows 10 İnternet bağlantı problemi 2020</title>
+		<link>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/</link>
+					<comments>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 09:25:19 +0000</pubDate>
+				<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows 10 İnternet bağlantı problemi]]></category>
+		<category><![CDATA[Windows 10 İnternet bağlantı problemi 2020]]></category>
+		<category><![CDATA[Windows 10 İnternet bağlantısı problemi]]></category>
+		<category><![CDATA[Windows 10 İnternet bağlantısı problemi 2020]]></category>
+		<category><![CDATA[windows 10 internete bağlanmıyor]]></category>
+		<category><![CDATA[windows 10 internete bağlanmıyor 2020]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=771</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz.</p>
+
+
+
+<span id="more-771"></span>
+
+
+
+<p>Sorunun sebebi 27/02/2020 tarihinde <strong>KB4535996</strong> toplu güncellemesinde ortaya çıkan  WinHTTP veya WinInet&#8217;i kullanan tüm yazılımların sorun yaşayabilmekte. Yaşanan sorunun şirket ağına bağlanırken VPN bağlantısı yapılırken veya VPN bağlantısı kesilirken yaşandığı belirtilmekte.</p>
+
+
+
+<p>Geçici çözüm olarak bilgisayarın yeniden başlatılması.</p>
+
+
+
+<p>Microsoft, bu problemle ilişkin patch çalışmaların devam ettiği birkaç hafta içinde yayımlayacağını belirtti.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
 		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
 					<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
