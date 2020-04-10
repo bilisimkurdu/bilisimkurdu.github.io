@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/author/ykpcntrl/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sun, 05 Apr 2020 09:49:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Apr 2020 08:48:23 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,76 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</title>
+		<link>https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/</link>
+					<comments>https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2020 08:48:14 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[bağlantı]]></category>
+		<category><![CDATA[Bilgisayar bluetooth kulaklığı görmüyor]]></category>
+		<category><![CDATA[bluetooth]]></category>
+		<category><![CDATA[Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor]]></category>
+		<category><![CDATA[çevre aygıtı]]></category>
+		<category><![CDATA[hata]]></category>
+		<category><![CDATA[problem]]></category>
+		<category><![CDATA[sorun]]></category>
+		<category><![CDATA[sürücü]]></category>
+		<category><![CDATA[windows 7 bluetooth]]></category>
+		<category><![CDATA[windows 7 bluetooth aygıt tanımıyor]]></category>
+		<category><![CDATA[windows 7 bluetooth cihaz tanımıyor]]></category>
+		<category><![CDATA[Windows 7 Bluetooth kulaklığı görmüyor]]></category>
+		<category><![CDATA[windows 7 bluetooth kulaklık sorunu]]></category>
+		<category><![CDATA[windows 7 bluetooth tanımıyor]]></category>
+		<category><![CDATA[Windows 7 ve bluetooth Sorunu]]></category>
+		<category><![CDATA[Windows 7’de Bluetooth sorununun çözümü]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=780</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak.</p>
+
+
+
+<span id="more-780"></span>
+
+
+
+<p>Windows 7 kurulu bilgisayarda bluetooth ile bir aygıt bağlanıyor fakat bütün sürücülerin kurulu olmasına rağmen sürücüleri tanıyamamakta.</p>
+
+
+
+<p>Sorunun çözümü olarak Intel Bletooth Driver&#8217;ı indirip yükledikten sonra bilgisayarınızı yeniden başlatmanızdır.</p>
+
+
+
+<p>Intel Bluetooth Driver:</p>
+
+
+
+<p><a href="https://downloadcenter.intel.com/download/29330/Intel-Wireless-Bluetooth-for-Windows-7-">https://downloadcenter.intel.com/download/29330/Intel-Wireless-Bluetooth-for-Windows-7-</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. </p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Google Photos stopped &#8211; 2020</title>
 		<link>https://bilisimkurdu.github.io/google-photos-stopped-2020/</link>
 					<comments>https://bilisimkurdu.github.io/google-photos-stopped-2020/#respond</comments>
@@ -64,7 +134,7 @@
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Google photo durdu." width="1140" height="855" src="https://www.youtube.com/embed/Ke1O1_LmrHk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Google Fotoğraflar durdu hatasının çözümü 2020" width="1140" height="855" src="https://www.youtube.com/embed/Ke1O1_LmrHk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -4816,8 +4886,8 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 <p>Belki de Pardus depolarında güncel paketler olsaydı kararlı bir şekilde Mssql Server&#8217;ı Pardus&#8217;a kurmuş olurdum.</p>
 <p>İyi Çalışmalar ve İyi Günler dilerim.</p>
 <p>Kaynakça :</p>
-<blockquote class="wp-embedded-content" data-secret="wlxNx4rc1O"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
-<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=wlxNx4rc1O" data-secret="wlxNx4rc1O" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote class="wp-embedded-content" data-secret="m9UUkFd2Vt"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
+<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
 <p>http://www.4s.com.tr/8523-2/</p>
 ]]></content:encoded>
 					
