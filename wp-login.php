@@ -61,7 +61,7 @@ wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="https://bilisimkurdu.github.io/">
 		&larr; Bilişim Kurdu sitesine geri dön		</a></p>
-		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="https://bilisimkurdu.github.io/privacy-policy/">Privacy Policy</a></div>	</div>
+			</div>
 	<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>

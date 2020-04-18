@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/tag/algoritma/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sun, 24 Dec 2017 19:18:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Apr 2020 10:04:41 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -85,62 +85,7 @@
 <p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
 <p>Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır.<br />
 <span id="more-247"></span></p>
-<table>
-<tbody>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-1.jpg" /></center></td>
-<td>Başla &#8211; Bitir</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-2.jpg" /></center></td>
-<td>Klavyeden veri al</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-3.jpg" /></center></td>
-<td>Yazdır</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s27-4.jpg" /></center></td>
-<td>Kart okuyucu aracılığıyla giriş yapılacağını gösterir.</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_5.jpg" /></center></td>
-<td>Değişken atama</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_6.jpg" /></center></td>
-<td>Aritmetik hesaplama</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_7.jpg" /></center></td>
-<td>Eğer</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_8.jpg" /></center></td>
-<td>Diskten okuma ya da diskete yazmayı gösterir.</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_9.jpg" /></center></td>
-<td>Disketten okuma ya da diskete yazmayı gösterir.</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_10.jpg" /></center></td>
-<td>Teyp kütüğünü gösterir.</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s28_11.jpg" /></center></td>
-<td>Döngü işlevinde kullanılmakta</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s29-12.jpg" /></center></td>
-<td>Akış diyagramında iki nokta arası ilişkiyi gösterir.Döngü sonunu göstermek için ya da diyagramın çizilemediği durumlarda kulllanılır. Burada i herhangi bir sembol olabilir.</td>
-</tr>
-<tr>
-<td><center><img src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s29-13.jpg" /></center></td>
-<td>Akış yönü</td>
-</tr>
-</tbody>
-</table>
+<p><img src="https://www.dijitalders.com/rs/ic/i_620_0.jpg"></p>
 <p>Örnek bir algoritma örneği verirsek;</p>
 <table class="codeTable" style="height: 484px;" width="739">
 <caption>Algoritma</caption>
@@ -177,13 +122,13 @@ Adım 11-DUR</pre>
 <caption>Akış Şeması</caption>
 <tbody>
 <tr>
-<td><img class="" src="http://www.yildiz.edu.tr/~wwwhid/TR/files/algoritma_files/s39.jpg" width="370" height="445" /></td>
+<td><img src="https://i.hizliresim.com/SdKPkD.jpg"></td>
 </tr>
 </tbody>
 </table>
 <p>Genel Programlama Mantığını (Programlama Temelleri) iki yazımda klavyemin döndüğünce anlatmaya çalıştım.</p>
 <p>İyi akşamlar dilerim.</p>
-<p>Referens alınmıştır : <a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p>
+<p>Referens alınmıştır :&nbsp;<a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener noreferrer">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/feed/</wfw:commentRss>

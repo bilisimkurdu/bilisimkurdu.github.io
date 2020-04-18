@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 13 Apr 2020 10:04:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Apr 2020 13:09:27 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,98 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Laptop açılmaya çalışıldığında tepki vermiyor.</title>
+		<link>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/</link>
+					<comments>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2020 13:07:29 +0000</pubDate>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[açılmayan laptobu açma]]></category>
+		<category><![CDATA[açma tuşu bozuk bilgisayarı açma]]></category>
+		<category><![CDATA[laptop açılmıyor]]></category>
+		<category><![CDATA[laptop arızalı]]></category>
+		<category><![CDATA[laptop çalışmıyor]]></category>
+		<category><![CDATA[Laptop ekran açılmama problemi]]></category>
+		<category><![CDATA[Laptop ekran açılmama problemi nasıl çözülür? Kesin Çözüm!!!]]></category>
+		<category><![CDATA[laptop ekran açılmıyor]]></category>
+		<category><![CDATA[power tuşu arızalı bilgisayarı açma]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=794</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır.</p>
+
+
+
+<span id="more-794"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır.</p></blockquote>
+
+
+
+<p>Sorun 1: Statik elektrik birikmiş olabilir.</p>
+
+
+
+<p>Çözüm 1 :Bilgisayarınızda takilı bütün aygıtları (USB,Kulaklık,Mikrofon,Klavye,Mouse,&#8230;) ,bataryayı ve güç adaptörünü çıkarınız ve güç tuşuna 20-30 saniye basılı tutulduktan sonra sadece güç adaptörü bağlanarak açılmaya çalışılır.</p>
+
+
+
+<p>Sorun 2 :Power tuşu arızalıdır.</p>
+
+
+
+<p>Çözüm 2 :Power kablosundaki flex kablosunu VGA girişindeki demire temas ederek ve sürterek açma (Geçici çözüm.) veya Laptobunuzun modeline göre power tuşu temini (Kalıcı Çözüm.)</p>
+
+
+
+<p>Peki bu işlem nasıl yapılır?</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1140" height="641" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Sorun 3 :Power tuşu ile anakart arasındaki flex kablosu arızalıdır.</p>
+
+
+
+<p>Çözüm 3: Mousepad kablosundaki flex kablosu sökülüp önce power tuşu ile anakart bağlantısı yapılarak denenir olmazsa Çözüm 2&#8217;deki adımlar uygulanır sonra tekrardan mousepad bağlantısı yapılır.</p>
+
+
+
+<p>Sorun 4 :Yukarıdaki çözüm önerisi hiç biri olmadı.</p>
+
+
+
+<p>Çözüm 4 :Bazı bilgisayar modellerinde Sorun 1&#8217;in çözümü yapıldıktan sonra 1 gün ile 7 gün arası bilgisayara hiç bir işlem yapılmadan durur. Beklemeden sonra laptop tetiklenmezse anakart veya chip arızasıdır ve teknik servis tarafından onarım gerekmektedir.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Android Güncellemesinde yeni dönem 2020</title>
 		<link>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/</link>
 					<comments>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/#respond</comments>
@@ -4022,13 +4114,13 @@ komutunu yazdıktan sonra;</p>
 		<category><![CDATA[PC]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=377</guid>
 
-					<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı:&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı&#160;çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı:&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/">Okumaya devam et</a>]]></description>
 										<content:encoded><![CDATA[
 <p>Merhaba Muhterem ziyaretçiler,</p>
 
 
 
-<p>Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “<em>Motor başlatılamadı hatası”nı </em>çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım.</p>
+<p>Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “<em>Motor başlatılamadı hatası”nı&nbsp;</em>çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım.</p>
 
 
 
@@ -4048,7 +4140,15 @@ komutunu yazdıktan sonra;</p>
 
 
 
-<ol><li>CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..<br><strong><em>bcdedit /set {current} nx AlwaysOff</em></strong></li><li>BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.<br><a href="https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-">https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim-</a></li><li>Settings -> Engiene sekmesinde resimdeki gibi ayarlıyoruz.<br><br></li></ol>
+<ol><li>CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..<br><strong><em>bcdedit&nbsp;/set&nbsp;{current}&nbsp;nx&nbsp;AlwaysOff</em></strong></li><li>BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.<br><a href="https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-">https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim-</a></li><li>Settings -&gt; Engiene sekmesinde resimdeki gibi ayarlıyoruz.<br></li></ol>
+
+
+
+<figure class="wp-block-image"><img src="https://k2rx.com/img/how-tos/970/fix-bluestacks-engine-wont-start-2.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://k2rx.com/img/how-tos/970/fix-bluestacks-engine-wont-start-3.png" alt=""/></figure>
 
 
 
