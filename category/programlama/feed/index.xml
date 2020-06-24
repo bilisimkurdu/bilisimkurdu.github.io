@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 13 Apr 2020 10:04:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Jun 2020 07:16:15 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -28,6 +28,330 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
+		<link>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/</link>
+					<comments>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 07:14:48 +0000</pubDate>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[.net core EF]]></category>
+		<category><![CDATA[.Net Core Entity Framework]]></category>
+		<category><![CDATA[ado.net]]></category>
+		<category><![CDATA[bağlantı]]></category>
+		<category><![CDATA[bağlantısı]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[connect]]></category>
+		<category><![CDATA[EF core]]></category>
+		<category><![CDATA[Entity]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[like]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[select]]></category>
+		<category><![CDATA[sorguları]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=811</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-811"></span>
+
+
+
+<p>Proje Visual Studio ilr oluşturulmuşsa;</p>
+
+
+
+<p>Visual Studio ile projeyi açtıktan sonra Tools -> NuGet Package Manager -> Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir.</p>
+
+
+
+<pre class="wp-block-code"><code>Install-Package Microsoft.EntityFrameworkCore.Design
+Install-Package Microsoft.EntityFrameworkCore.Tools</code></pre>
+
+
+
+<p>Eğer Console ile oluşturulmuşsa;</p>
+
+
+
+<pre class="wp-block-code"><code>dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Tools</code></pre>
+
+
+
+<p>.NET Core versiyonu 3.0&#8217;ın altındaysa (&lt;.NET Core 3.0)</p>
+
+
+
+<p>Visual Studio:</p>
+
+
+
+<pre class="wp-block-code"><code>Install-Package Pomelo.EntityFrameworkCore.MySql
+
+Scaffold-DbContext "Server=serverIPorName;Database=databaseName;User=userName;Password=pass;TreatTinyAsBoolean=true" Pomelo.EntityFrameworkCore.MySql -OutputDir Models-f
+</code></pre>
+
+
+
+<p>Console:</p>
+
+
+
+<pre class="wp-block-code"><code>dotnet add package Pomelo.EntityFrameworkCore.MySql
+
+dotnet ef dbcontext scaffold "Server=serverIPorName;Database=databaseName;User=userName;Password=password;TreatTinyAsBoolean=true;" "Pomelo.EntityFrameworkCore.MySql" -o Models -f
+
+//veya
+dotnet add package Pomelo.EntityFrameworkCore.MySql
+
+dotnet ef dbcontext scaffold "server=serverIPorName;port=3306;user=root;password=mypass;database=database" Pomelo.EntityFrameworkCore.MySql -o Models -f
+</code></pre>
+
+
+
+<p>.NET Core 3.0 ve üzeri ise:</p>
+
+
+
+<p>Visual Studio:</p>
+
+
+
+<pre class="wp-block-code"><code>Install-Package MySql.Data.EntityFrameworkCore
+
+Scaffold-DbContext "server=serverIPorAdress;port=3306;user=userName;password=mypass;database=databaseName" MySql.Data.EntityFrameworkCore -OutputDir Models -f</code></pre>
+
+
+
+<p>Console:</p>
+
+
+
+<pre class="wp-block-code"><code>dotnet add package MySql.Data.EntityFrameworkCore
+
+dotnet ef dbcontext scaffold "server=serverIPorAdress;port=3306;user=userName;password=mypass;database=databaseName" MySql.Data.EntityFrameworkCore -o Models -f</code></pre>
+
+
+
+<p>komutları girilerek gerekli paketler yüklenip bağlantı sağlanır.</p>
+
+
+
+<p>Sorgu işlemleri için aşağıdaki linkleri inceleyebilirsiniz.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="C# Eğitim - 8 Entity Framework" width="1140" height="641" src="https://www.youtube.com/embed/videoseries?list=PLf36Mq2HT0Q4AKWP-etfegXsqIaFf9pgv" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</a></p>
+
+
+
+<p>Not : Context oluşturduktan sonra .NET Core Entitiy framework sorgu işlemleri şu şekilde yapılır:</p>
+
+
+
+<pre class="wp-block-code"><code>contextName.TableName
+
+//Örnek Context1 contexti ve cntx nesnesi ve Test tablosu olduğunu düşünürsek.
+
+Context1 cntx = new Context1 ();
+cntx.Test</code></pre>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</title>
+		<link>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/</link>
+					<comments>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 05:30:00 +0000</pubDate>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[.net 3.1 heroku publish]]></category>
+		<category><![CDATA[.net core 3.1]]></category>
+		<category><![CDATA[.net core 3.1 heroku]]></category>
+		<category><![CDATA[.net core heroku]]></category>
+		<category><![CDATA[asp]]></category>
+		<category><![CDATA[asp.net 3.1 heroku publish]]></category>
+		<category><![CDATA[ASP.NET Core 3.1]]></category>
+		<category><![CDATA[asp.net core 3.1 heroku]]></category>
+		<category><![CDATA[ASP.NET Core 3.1 Uygulamasını Heroku ile Ücretsiz Yayınlamak]]></category>
+		<category><![CDATA[aspnet 3.1 heroku publish]]></category>
+		<category><![CDATA[aspnet core 3.1 heroku]]></category>
+		<category><![CDATA[bir]]></category>
+		<category><![CDATA[circleci]]></category>
+		<category><![CDATA[core]]></category>
+		<category><![CDATA[dotnet 3.1 heroku publish]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[https]]></category>
+		<category><![CDATA[ile]]></category>
+		<category><![CDATA[olu]]></category>
+		<category><![CDATA[yaz]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
+
+					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım.</p>
+
+
+
+<p>Visual Studio üzerinden hazırlanmışsa:</p>
+
+
+
+<p>&#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221; klasörüne Dockerfile ve .circlei klasörünü ekliyoruz.</p>
+
+
+
+<span id="more-807"></span>
+
+
+
+<p><strong>Dockerfile</strong> içeriği</p>
+
+
+
+<pre class="wp-block-code"><code>FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
+WORKDIR /app
+
+# Copy csproj and restore as distinct layers
+COPY *.csproj ./
+RUN dotnet restore
+
+# Copy everything else and build
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+# Build runtime image
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
+WORKDIR /app
+COPY --from=build-env /app/out .
+CMD ASPNETCORE_URLS= ./projeAdi</code></pre>
+
+
+
+<p><strong>.circleci\config.yml</strong> içeriği</p>
+
+
+
+<pre class="wp-block-code"><code>version: 2
+jobs:
+ build:
+   machine: true
+   steps:
+     - checkout 
+
+     # build image
+     - run: |         
+         docker info
+         docker build -t aspnetapp -f Dockerfile .
+     # deploy the image
+     - run: |         
+         docker login --username=$HEROKU_USERNAME --password=$HEROKU_API_KEY registry.heroku.com
+         docker tag aspnetapp registry.heroku.com/$HEROKU_APP_NAME/web
+         docker push registry.heroku.com/$HEROKU_APP_NAME/web                
+         curl https://cli-assets.heroku.com/install.sh | sh
+         heroku container:release web -a $HEROKU_APP_NAME</code></pre>
+
+
+
+<p>değerleri ile yazıldıktan sonra github ile pushlayıp heroku uygulaması ve circleci projesi oluşturuyoruz.</p>
+
+
+
+<p>CircleiCI projesi oluşturuken resimdeki gibi uyguluyoruz.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/I9ZqIA.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/L8GAGK.png" alt=""/></figure>
+
+
+
+<p>Bulid işlemlemine başlayacaktır fakat hata verecektir.</p>
+
+
+
+<p>Hatanın çözmek ve heroku ile siteyi yayınlanması için &#8220;Project Settings&#8221; -&gt; &#8220;Environment Variables&#8221; yolunu takip ederek aşağıdaki değişkenler eklenir.</p>
+
+
+
+<p>HEROKU_APP_NAME :Heroku üzerinden oluşturduğunuz uygulamanın adı</p>
+
+
+
+<p>HEROKU_API_KEY :<a href="https://dashboard.heroku.com/account" target="_blank" rel="noreferrer noopener">https://dashboard.heroku.com/account&nbsp;</a>adresinden (&#8220;Reveal&#8221; butonuna tıklayarak) erişebilirsiniz.</p>
+
+
+
+<p>HEROKU_USERNAME :Heroku kayıt olurken kullandığınız e-posta adresi <a href="https://dashboard.heroku.com/account" target="_blank" rel="noreferrer noopener">https://dashboard.heroku.com/account</a>&nbsp;adresinden erişebilirsiniz.</p>
+
+
+
+<p>Şimdi tekrar build edebiliriz. Build etmek için sol menüden builds sekmesine gidip son fail olan builde tıklayıp sağ üste bulunan&nbsp;<strong>Rerun workflow&nbsp;</strong>butonuna basıyoruz ve build işlemimiz tekrar başlıyor.</p>
+
+
+
+<p>Bulid işlemi başarılı ise heroku üzerinden site yayınlanmış olur.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Windows 7 Visual Studio kurulmuyor.</title>
 		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
 					<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>

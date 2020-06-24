@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Giriş &lsaquo; Bilişim Kurdu &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='https://bilisimkurdu.github.io/wp-includes/css/dashicons.min.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='https://bilisimkurdu.github.io/wp-includes/css/buttons.min.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://bilisimkurdu.github.io/wp-admin/css/forms.min.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://bilisimkurdu.github.io/wp-admin/css/l10n.min.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://bilisimkurdu.github.io/wp-admin/css/login.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://bilisimkurdu.github.io/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://bilisimkurdu.github.io/wp-includes/css/buttons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://bilisimkurdu.github.io/wp-admin/css/forms.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://bilisimkurdu.github.io/wp-admin/css/l10n.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://bilisimkurdu.github.io/wp-admin/css/login.min.css?ver=5.4.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -75,20 +75,20 @@ var _zxcvbnSettings = {"src":"https:\/\/bilisimkurdu.github.io\/wp-includes\/js\
 var pwsL10n = {"unknown":"Parola g\u00fcc\u00fc bilinmiyor","short":"\u00c7ok zay\u0131f","bad":"Zay\u0131f","good":"Orta","strong":"G\u00fc\u00e7l\u00fc","mismatch":"Parolalar uyu\u015fmuyor"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-admin/js/password-strength-meter.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-admin/js/password-strength-meter.min.js?ver=5.4.2'></script>
 <script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/bilisimkurdu\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/wp-util.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-includes/js/wp-util.min.js?ver=5.4.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var userProfileL10n = {"warn":"Yeni parolan\u0131z kaydedilemedi.","warnWeak":"Zay\u0131f parola kullanmay\u0131 onayla","show":"G\u00f6ster","hide":"Gizle","cancel":"Vazge\u00e7","ariaShow":"Parolay\u0131 g\u00f6ster","ariaHide":"Parolay\u0131 gizle"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-admin/js/user-profile.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://bilisimkurdu.github.io/wp-admin/js/user-profile.min.js?ver=5.4.2'></script>
 <script src="https://my.hellobar.com/fba11ad874363924c22e5b7b974c28732c728079.js" type="text/javascript" charset="utf-8" async="async"></script>	<div class="clear"></div>
 	</body>
 	</html>
