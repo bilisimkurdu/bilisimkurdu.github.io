@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 24 Jun 2020 07:16:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2020 06:53:11 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -56,9 +56,9 @@
 		<category><![CDATA[sorguları]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=811</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/" target="_blank">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-<p>Visual Studio ile projeyi açtıktan sonra Tools -> NuGet Package Manager -> Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir.</p>
+<p>Visual Studio ile projeyi açtıktan sonra Tools -&gt; NuGet Package Manager -&gt; Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir.</p>
 
 
 
@@ -113,7 +113,8 @@ Scaffold-DbContext "Server=serverIPorName;Database=databaseName;User=userName;Pa
 
 <pre class="wp-block-code"><code>dotnet add package Pomelo.EntityFrameworkCore.MySql
 
-dotnet ef dbcontext scaffold "Server=serverIPorName;Database=databaseName;User=userName;Password=password;TreatTinyAsBoolean=true;" "Pomelo.EntityFrameworkCore.MySql" -o Models -f
+dotnet ef dbcontext scaffold "Server=serverIPorName;Database=databaseName;User=userName;Password=password;TreatTinyAsBoolean=true;" "Pomelo.EntityFrameworkCore.MySql"
+ -o Models -f
 
 //veya
 dotnet add package Pomelo.EntityFrameworkCore.MySql
@@ -156,7 +157,7 @@ dotnet ef dbcontext scaffold "server=serverIPorAdress;port=3306;user=userName;pa
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="C# Eğitim - 8 Entity Framework" width="1140" height="641" src="https://www.youtube.com/embed/videoseries?list=PLf36Mq2HT0Q4AKWP-etfegXsqIaFf9pgv" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="C# ile MYSQL veri tabanına bağlanmaya çalıştık" width="1140" height="641" src="https://www.youtube.com/embed/7phgYQiaXzM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -182,8 +183,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/" target="_blank">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -225,9 +225,9 @@ cntx.Test</code></pre>
 		<category><![CDATA[yaz]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/" target="_blank">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -343,8 +343,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/" target="_blank">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -377,9 +376,9 @@ jobs:
 		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/" target="_blank">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -431,8 +430,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/" target="_blank">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -458,9 +456,9 @@ jobs:
 		<category><![CDATA[Xamarin.Forms The $(TargetFrameworkVersion) for App1.Android is less than the minimum required $(TargetFrameworkVersion) for Xamarin.Forms . You need to increase the $(TargetFrameworkVersion) for]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=703</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim. &#8220;The $(TargetFrameworkVersion) for&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda xamarin uyguluma mininum gerekliliği ayarlanıp test edilmeye kalkışıldığında alınan hatalardan birinden bahsedeceğim. &#8220;The $(TargetFrameworkVersion) for&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/" target="_blank">The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -500,8 +498,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/" target="_blank">The $(TargetFrameworkVersion) for App1.Android (v4.4) is less than the minimum required</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/the-targetframeworkversion-for-app1-android-v4-4-is-less-than-the-minimum-required/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -532,9 +529,9 @@ jobs:
 		<category><![CDATA[yükleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=698</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/" target="_blank">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -621,8 +618,7 @@ xdebug.show_local_vars = 9</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/" target="_blank">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -648,9 +644,9 @@ xdebug.show_local_vars = 9</code></pre>
 		<category><![CDATA[Gboard sürekli olarak duruyor hatası 2019]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=670</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak. Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/gboard-durduruldu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımızda Gboard durduruldu hatasıyla ilişkin olacak. Gboard 16\12\2019&#8217;da gelen güncelleme sonrası &#8220;Gboard sürekli olarak duruyor&#8221; veya&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/gboard-durduruldu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/gboard-durduruldu/" target="_blank">Gboard durduruldu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -674,8 +670,7 @@ xdebug.show_local_vars = 9</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/gboard-durduruldu/" target="_blank">Gboard durduruldu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/gboard-durduruldu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -696,9 +691,9 @@ xdebug.show_local_vars = 9</code></pre>
 		<category><![CDATA[MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=628</guid>
 
-					<description><![CDATA[Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhtrerem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/" target="_blank">MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhtrerem Ziyaretçiler,</p>
 
 
 
@@ -734,8 +729,7 @@ xdebug.show_local_vars = 9</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/" target="_blank">MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -766,9 +760,9 @@ xdebug.show_local_vars = 9</code></pre>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/" target="_blank">Intel HAXM installation error - This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -834,8 +828,7 @@ xdebug.show_local_vars = 9</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/" target="_blank">Intel HAXM installation error - This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -867,9 +860,9 @@ xdebug.show_local_vars = 9</code></pre>
 		<category><![CDATA[Unity Hub]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
 
-					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/" target="_blank">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
 
@@ -902,8 +895,7 @@ xdebug.show_local_vars = 9</code></pre>
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>
-]]></content:encoded>
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure><p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/" target="_blank">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -929,9 +921,9 @@ xdebug.show_local_vars = 9</code></pre>
 		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
 
-					<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhtererem Ziyeretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/" target="_blank">MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler,</p>
 
 
 
@@ -967,8 +959,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/" target="_blank">MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -992,9 +983,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[monodevelop asp.net server not starting]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
 
-					<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merthaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/" target="_blank">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merthaba Arkadaşlar,</p>
 
 
 
@@ -1042,8 +1033,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/" target="_blank">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1074,9 +1064,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[mvc]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/" target="_blank">MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -1108,8 +1098,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/" target="_blank">MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1140,9 +1129,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[provider]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1238,8 +1227,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1264,9 +1252,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[mva]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -1290,8 +1278,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi Akşamlar.</p>
-]]></content:encoded>
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1319,9 +1306,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[utf-8]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=454</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/" target="_blank">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1391,8 +1378,7 @@ WebClient wclient = new WebClient();
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/" target="_blank">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1418,9 +1404,9 @@ WebClient wclient = new WebClient();
 		<category><![CDATA[MySQL for Visual Studio guid error]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
 
-					<description><![CDATA[Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Dostlar,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/" target="_blank">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Dostlar,</p>
 
 
 
@@ -1460,8 +1446,7 @@ WebClient wclient = new WebClient();
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/" target="_blank">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1489,9 +1474,9 @@ WebClient wclient = new WebClient();
 		<category><![CDATA[The devenv /update configuration command may have failed]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
 
-					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
 
@@ -1555,8 +1540,7 @@ WebClient wclient = new WebClient();
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1587,9 +1571,9 @@ WebClient wclient = new WebClient();
 		<category><![CDATA[entity framework mysql bağlantı]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=442</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/" target="_blank">Entity Framework'ü MYSQL'de kullanmak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -1718,8 +1702,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/" target="_blank">Entity Framework'ü MYSQL'de kullanmak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1749,9 +1732,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[select]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/" target="_blank">C# Entity Framework üzerinden "Select" ve "Like" deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1838,8 +1821,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/" target="_blank">C# Entity Framework üzerinden "Select" ve "Like" deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1863,9 +1845,9 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<category><![CDATA[Visual Studio 2017]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=424</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak. Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazıma başlıkta belirtilen hatanın çözümü konusu olacak. Bu hata Visual Studio 2017 sürümlerinde ASP:NET Core manuel&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/" target="_blank">The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at ... hatasının çözümü</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1885,7 +1867,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>x86 :32bit işletim sistemleri</p><p>x64 :64bit işletim sistemleri</p><cite>Ufak bir hatırlatma <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></cite></blockquote>
+<blockquote class="wp-block-quote"><p>x86 :32bit işletim sistemleri</p><p>x64 :64bit işletim sistemleri</p><cite>Ufak bir hatırlatma <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></cite></blockquote>
 
 
 
@@ -1897,8 +1879,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/" target="_blank">The .NET Core SDK is installed in multiple locations. Only templates from the SDK(s) installed at ... hatasının çözümü</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-in-multiple-locations-only-templates-from-the-sdks-installed-at-hatasinin-cozumu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1922,7 +1903,8 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<category><![CDATA[programlama]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
 
-					<description><![CDATA[Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/" target="_blank">Genel Programlama Mantığı - 3</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 <p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
 <p><img src="http://www.robotiksistem.com/program_adimlari.jpg" alt="Program Yazma Aşamaları" /></p>
@@ -1933,8 +1915,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 • Algoritma : Çözüme götüren yolların belirlenmesi yani programlamanın algoritması oluşturulması<br />
 • Akış diyagramı : Algoritmanın anlaşılacak şekilde yani akış diyagramı ile gösterilmesi<br />
 • Programın yazımı ve hataların düzeltilmesi : Algoritmanın bir programlama dili ile program haline getirilmesi ve hataların düzeltilmesi<br />
-• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p>
-]]></content:encoded>
+• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/" target="_blank">Genel Programlama Mantığı - 3</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1957,8 +1938,9 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<category><![CDATA[programlama]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=247</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/" target="_blank">Genel Programlamlama Mantığı - 2</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>Bu yazımda akış şemasını göstereceğim.</p>
 <p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
 <p>Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır.<br />
@@ -2006,8 +1988,7 @@ Adım 11-DUR</pre>
 </table>
 <p>Genel Programlama Mantığını (Programlama Temelleri) iki yazımda klavyemin döndüğünce anlatmaya çalıştım.</p>
 <p>İyi akşamlar dilerim.</p>
-<p>Referens alınmıştır :&nbsp;<a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener noreferrer">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p>
-]]></content:encoded>
+<p>Referens alınmıştır :&nbsp;<a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener noreferrer">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/" target="_blank">Genel Programlamlama Mantığı - 2</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -2030,7 +2011,8 @@ Adım 11-DUR</pre>
 		<category><![CDATA[programlama]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=235</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/" target="_blank">Genel Programlama Mantığı - 1</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım.</p>
 <p>Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz.</p>
 <p>Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz.</p>
@@ -2160,8 +2142,7 @@ Adım 11-DUR</pre>
 <p>A4 x&#8217;i yazdır.</p>
 <p>A5 : Bitir.</p></blockquote>
 <p>Ve böylece algoritmayı tanımlayıp klavyemizin döndüğünce anlatmaya çalıştım.</p>
-<p>Kısmetse diğer yazımda konuyu devam ettirmenin arzusundayım.</p>
-]]></content:encoded>
+<p>Kısmetse diğer yazımda konuyu devam ettirmenin arzusundayım.</p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/" target="_blank">Genel Programlama Mantığı - 1</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -2200,8 +2181,9 @@ Adım 11-DUR</pre>
 		<category><![CDATA[ubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
 
-					<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
@@ -2216,8 +2198,7 @@ source ~/.bashrc</p>
 <p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
 <p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
 <p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -2253,7 +2234,8 @@ source ~/.bashrc</p>
 		<category><![CDATA[ubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=120</guid>
 
-					<description><![CDATA[Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/" target="_blank">PARDUS'A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım.</p>
 <p>Şu adımları uygulamaya başladım.</p>
 <p><strong>1) Public repo keyini import ediyoruz.</strong></p>
@@ -2284,8 +2266,7 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 <p>Kaynakça :</p>
 <blockquote class="wp-embedded-content" data-secret="m9UUkFd2Vt"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
 <p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
-<p>http://www.4s.com.tr/8523-2/</p>
-]]></content:encoded>
+<p>http://www.4s.com.tr/8523-2/</p><p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/" target="_blank">PARDUS'A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

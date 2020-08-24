@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -46,9 +46,9 @@
 		<category><![CDATA[MySQL for Visual Studio guid error]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
 
-					<description><![CDATA[Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Dostlar,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/" target="_blank">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Dostlar,</p>
 
 
 
@@ -88,8 +88,7 @@
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/" target="_blank">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

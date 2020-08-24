@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -61,9 +61,9 @@
 		<category><![CDATA[Windows update hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/" target="_blank">Windows güncelleme hata kodları</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -95,8 +95,7 @@
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/" target="_blank">Windows güncelleme hata kodları</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

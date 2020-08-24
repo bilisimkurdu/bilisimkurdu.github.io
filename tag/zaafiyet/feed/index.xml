@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -48,7 +48,8 @@
 		<category><![CDATA[zaafiyet]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=298</guid>
 
-					<description><![CDATA[Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/" target="_blank">"db-config-ini.php" analizi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhabalar,</p>
 <p>Bugün yapmış olduğum analizi paylaşmak istiyorum.</p>
 <p>Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim.</p>
@@ -78,8 +79,7 @@ Linkteki bilgiye göre iki farklı antivirüs tarafından tespit edilmiş (Malci
 <p>Yani diyeceğim o ki temaya beleşe alacağım diye nulled tema yüklemeyiniz. Nulled temaların çoğunda exploit(zaafiyeti kullanmak) oluşturacak açıklar meydana getirir ve web siteniz zarar görme ihtimali yüksektir.<br />
 USOM zararlı link listesi : <a href="https://www.usom.gov.tr/zararli-baglantilar/1.html">https://www.usom.gov.tr/zararli-baglantilar/1.html</a></p>
 <p>En ulvi saygılarmla.<br />
-Lisanı sürç ettiysek affola.</p>
-]]></content:encoded>
+Lisanı sürç ettiysek affola.</p><p>The post <a href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/" target="_blank">"db-config-ini.php" analizi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/db-config-ini-php-analizi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

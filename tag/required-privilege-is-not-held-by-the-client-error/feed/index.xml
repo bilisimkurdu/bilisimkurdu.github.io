@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -45,9 +45,9 @@
 		<category><![CDATA[Windows 10 upgrade 0x80070522 error]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=694</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/" target="_blank">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -159,8 +159,7 @@
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/" target="_blank">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

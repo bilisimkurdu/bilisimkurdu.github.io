@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -48,9 +48,9 @@
 		<category><![CDATA[The devenv /update configuration command may have failed]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
 
-					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
 
@@ -114,8 +114,7 @@
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

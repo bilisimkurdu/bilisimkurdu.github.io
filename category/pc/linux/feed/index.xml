@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/linux/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 23 Jun 2020 13:55:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2020 07:04:17 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -62,9 +62,9 @@
 		<category><![CDATA[yaz]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/" target="_blank">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -180,8 +180,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/" target="_blank">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -208,9 +207,9 @@ jobs:
 		<category><![CDATA[WSL run gui software]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/" target="_blank">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -226,7 +225,7 @@ jobs:
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -277,8 +276,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/" target="_blank">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -305,9 +303,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[wsl nedir]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/" target="_blank">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -455,8 +453,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/" target="_blank">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-kurulumu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -481,9 +478,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[nested virtualization]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=719</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/" target="_blank">Enable nested virtualization on Google Cloud</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -535,8 +532,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/" target="_blank">Enable nested virtualization on Google Cloud</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -564,9 +560,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[vps]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/" target="_blank">Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -695,8 +691,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/" target="_blank">Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -724,9 +719,9 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 		<category><![CDATA[xubuntu password reset]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=666</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/" target="_blank">Kali Linux şifre sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -770,8 +765,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/" target="_blank">Kali Linux şifre sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -796,9 +790,9 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 		<category><![CDATA[xubuntu password reset]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=663</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/" target="_blank">Ubuntu şifresi sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -822,7 +816,15 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://wpcdn.cazda.com/wp-content/uploads/2016/10/Grub2.02_DualBoot-820x440.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2012/07/new-grub-menu-ubuntu.png?w=637&amp;ssl=1" alt=""/></figure>
+
+
+
+<ul><li>Bu menüden çoğunlukla 2. sırada yer alan <strong>Recovery Mode</strong> satırını seçin ve içine giriniz.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/1.png" alt=""/></figure>
 
 
 
@@ -830,7 +832,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://clouding.io/kb/wp-content/uploads/2018/11/ubuntu_recoverymode_1.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/2.png" alt=""/></figure>
 
 
 
@@ -838,12 +840,13 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<pre class="wp-block-code"><code>mount -o remount,rw /
-passwd &lt;kullaniciadi></code></pre>
+<pre class="wp-block-code"><code>mount -rw -o remount /
+passwd &lt;kullaniciadi>
+exit</code></pre>
 
 
 
-<ul><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
+<ul><li>&lt;kullaniciadi> yerine sitemi kurarken belirlediğiniz kullanıcı adı.</li><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
 
 
 
@@ -851,8 +854,7 @@ passwd &lt;kullaniciadi></code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/" target="_blank">Ubuntu şifresi sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -879,9 +881,9 @@ passwd &lt;kullaniciadi></code></pre>
 		<category><![CDATA[ubuntu paket yüklenmiyor]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=654</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir?&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir?&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/" target="_blank">Debian tabanlı işletim sistemlerinde depolarda bulunmayan paketleri yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -933,8 +935,7 @@ sudo gdebi paketAdi.deb</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/" target="_blank">Debian tabanlı işletim sistemlerinde depolarda bulunmayan paketleri yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -963,9 +964,9 @@ sudo gdebi paketAdi.deb</code></pre>
 		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
 
-					<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba muhterem ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/" target="_blank">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba muhterem ziyaretçiler,</p>
 
 
 
@@ -1019,8 +1020,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/" target="_blank">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1045,9 +1045,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[rufus apk]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1109,8 +1109,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1131,9 +1130,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=628</guid>
 
-					<description><![CDATA[Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhtrerem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhtrerem Ziyaretçiler, Bu yazımda bir hatanın çözümü hakkında olacak. MonoDevelop ile ASP.NET\MVC \CORE uygulamaları geliştirken &#8220;Error: Derlemeden önce NuGet&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/" target="_blank">MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhtrerem Ziyaretçiler,</p>
 
 
 
@@ -1169,8 +1168,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/" target="_blank">MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1191,9 +1189,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[problem while processing package (--install): fix]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=583</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/" target="_blank">deb paketi yüklenirken "paketi işlenirken sorun yaşandı (--install)"</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1219,8 +1217,7 @@ sudo apt --fix-broken install</code></pre>
 
 
 
-<p>Akabinden .deb paketi tekrardan yüklenir.</p>
-]]></content:encoded>
+<p>Akabinden .deb paketi tekrardan yüklenir.</p><p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/" target="_blank">deb paketi yüklenirken "paketi işlenirken sorun yaşandı (--install)"</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1242,9 +1239,9 @@ sudo apt --fix-broken install</code></pre>
 		<category><![CDATA[sudo dolphin sudo dolphin:Executing Dolphin as root is not possible.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=492</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/" target="_blank">sudo dolphin:Executing Dolphin as root is not possible.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1288,8 +1285,7 @@ sudo apt --fix-broken install</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/" target="_blank">sudo dolphin:Executing Dolphin as root is not possible.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1311,9 +1307,9 @@ sudo apt --fix-broken install</code></pre>
 		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
 
-					<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/" target="_blank">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -1337,8 +1333,7 @@ sudo apt --fix-broken install</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/" target="_blank">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1370,9 +1365,9 @@ sudo apt --fix-broken install</code></pre>
 		<category><![CDATA[Unity Hub]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
 
-					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/" target="_blank">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
 
@@ -1405,8 +1400,7 @@ sudo apt --fix-broken install</code></pre>
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>
-]]></content:encoded>
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure><p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/" target="_blank">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1432,9 +1426,9 @@ sudo apt --fix-broken install</code></pre>
 		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
 
-					<description><![CDATA[Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhtererem Ziyeretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/" target="_blank">MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler,</p>
 
 
 
@@ -1470,8 +1464,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/" target="_blank">MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1495,9 +1488,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[monodevelop asp.net server not starting]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
 
-					<description><![CDATA[Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merthaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/" target="_blank">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merthaba Arkadaşlar,</p>
 
 
 
@@ -1545,8 +1538,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/" target="_blank">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1577,9 +1569,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[mvc]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=473</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Meşguliyetimden ötürü uzun zamandır beri yayımlayamıyordum şimdi nasip oldu. Bu yazımda Linux üzerinden .NET uygulama geliştirmeye yarayan MonoDevelop&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/" target="_blank">MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -1611,8 +1603,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/" target="_blank">MonoDevelop 7 ASP.NET MVC Core projesi desteklenmeme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-7-asp-net-mvc-core-projesi-desteklenmeme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1638,9 +1629,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
 
-					<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhabalar Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/" target="_blank">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1688,8 +1679,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/" target="_blank">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1719,9 +1709,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[vmware tool yükleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=394</guid>
 
-					<description><![CDATA[Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhtarem ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhtarem ziyaretçilerimiz, Bu yazımda bilinen bütün Linux sürümlerinde VMware tool paketlerini yüklemeyi anlamaya çalışacağım. Aşağıdaki komutları kullandığınız işletim sistemine&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/" target="_blank">Linux tabanlı işletim sistemlerinde VMware tool yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhtarem ziyaretçilerimiz,</p>
 
 
 
@@ -1805,8 +1795,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/" target="_blank">Linux tabanlı işletim sistemlerinde VMware tool yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/linux-tabanli-isletim-sistemlerinde-vmware-tool-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1831,9 +1820,9 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[xubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=386</guid>
 
-					<description><![CDATA[Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda en basit şekliyle VMware Tool yüklemeyi anlatacağım. Wmare Tool VMware sanal makine yazılımıdır. Sanal Makine; mevcut&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/" target="_blank">Ubuntu'ya VMware tool yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
 
@@ -1893,8 +1882,7 @@ komutunu yazdıktan sonra;</p>
 
 
 
-<p>İyi akşamlar.<br></p>
-]]></content:encoded>
+<p>İyi akşamlar.<br></p><p>The post <a href="https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/" target="_blank">Ubuntu'ya VMware tool yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntuya-wmare-tool-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1923,7 +1911,8 @@ komutunu yazdıktan sonra;</p>
 		<category><![CDATA[sql]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=178</guid>
 
-					<description><![CDATA[Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardus-17-on-inceleme/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım. Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim. Pardus kurulurken özelikle bootable usb ile&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardus-17-on-inceleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/pardus-17-on-inceleme/" target="_blank">PARDUS 17 ÖN İNCELEME</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhabalar bugün yeni yazımla karşınızdayım.</p>
 <p>Pardus 17 sürüm hakkında inceleme yapıp sizinle paylaşmak istedim.</p>
 <p>Pardus kurulurken özelikle bootable usb ile kuruyorsanız unetbootin kullanmayın çünkü kurulum esnasında bazı dosyaları görememekte bunun haricinde herhangi bir problem yaşamadım.</p>
@@ -1935,8 +1924,7 @@ komutunu yazdıktan sonra;</p>
 <p><a href="http://depo.pardus.org.tr/pub/ISO/RC-Pardus17/Pardus-17.0-amd64.iso" target="_blank" rel="noopener">Pardus 17</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/pardus-17-on-inceleme/" target="_blank">PARDUS 17 ÖN İNCELEME</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/pardus-17-on-inceleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1975,8 +1963,9 @@ komutunu yazdıktan sonra;</p>
 		<category><![CDATA[ubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
 
-					<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
@@ -1991,8 +1980,7 @@ source ~/.bashrc</p>
 <p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
 <p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
 <p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

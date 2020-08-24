@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -43,7 +43,8 @@
 		<category><![CDATA[reklam engelleme]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
 
-					<description><![CDATA[Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/" target="_blank">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 <p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
 Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
@@ -52,8 +53,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <img src="https://i.hizliresim.com/Q2JgkV.jpg" /></p>
 <p>Konu ile alakalı video;</p>
 <p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
-<p>İyi okumalar dilerim.</p>
-]]></content:encoded>
+<p>İyi okumalar dilerim.</p><p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/" target="_blank">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

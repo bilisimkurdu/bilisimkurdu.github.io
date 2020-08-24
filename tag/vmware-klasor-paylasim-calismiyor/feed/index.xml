@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -46,9 +46,9 @@
 		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
 
-					<description><![CDATA[Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhabalar Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/" target="_blank">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler,</p>
 
 
 
@@ -96,8 +96,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/" target="_blank">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

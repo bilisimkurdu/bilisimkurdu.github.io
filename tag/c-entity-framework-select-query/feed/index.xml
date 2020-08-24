@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -50,9 +50,9 @@
 		<category><![CDATA[select]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/" target="_blank">C# Entity Framework üzerinden "Select" ve "Like" deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -139,8 +139,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/" target="_blank">C# Entity Framework üzerinden "Select" ve "Like" deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

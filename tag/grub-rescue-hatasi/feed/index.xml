@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -49,9 +49,9 @@
 		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
 
-					<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba muhterem ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/" target="_blank">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba muhterem ziyaretçiler,</p>
 
 
 
@@ -105,8 +105,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/" target="_blank">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

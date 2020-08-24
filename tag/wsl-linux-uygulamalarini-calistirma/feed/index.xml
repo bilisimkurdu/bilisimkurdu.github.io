@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -47,9 +47,9 @@
 		<category><![CDATA[WSL run gui software]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/" target="_blank">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -65,7 +65,7 @@
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -116,8 +116,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/" target="_blank">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

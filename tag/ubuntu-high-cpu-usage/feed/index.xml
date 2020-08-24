@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -42,9 +42,9 @@
 		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
 
-					<description><![CDATA[Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/" target="_blank">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -68,8 +68,7 @@
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/" target="_blank">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

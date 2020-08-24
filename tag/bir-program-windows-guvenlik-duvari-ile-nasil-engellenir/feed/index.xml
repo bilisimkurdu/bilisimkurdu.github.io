@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir? &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 24 Aug 2020 09:43:53 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir? &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</title>
+		<link>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</link>
+					<comments>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 09:43:51 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[güvenlik duvarı]]></category>
+		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
+
+					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak.</p>
+
+
+
+<span id="more-826"></span>
+
+
+
+<p>Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc93410ea84.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.YHj4SyqcFs.png" alt=""/></figure>
+
+
+
+<p>Program işaretli olmalıdır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc94d48dbd1.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.QLozTsF7Zu.png" alt=""/></figure>
+
+
+
+<p>İleri (Next)&#8217;e tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dcb3b3674ee.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sV9uf1i_2J.png" alt=""/></figure>
+
+
+
+<p>This program path (Programın yolu) kısmında erişimini engellemek istediğiniz programın yolunu seçiyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc9692b3220.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sFQ4Bdm76X.png" alt=""/></figure>
+
+
+
+<p>Block the connection (Bağlantıyı engelle)&#8217;yi işaretliyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dca4250ece4.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.n5oVczAXC5.png" alt=""/></figure>
+
+
+
+<p>Domain,Private,Public işaretli olduğundan emin oluyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/img_55dca50653bb5.png" alt=""/></figure>
+
+
+
+<p>Kurala isim verip Finish (Son) tıklıyoruz.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

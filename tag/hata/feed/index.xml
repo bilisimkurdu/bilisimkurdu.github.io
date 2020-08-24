@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -55,9 +55,9 @@
 		<category><![CDATA[Windows 7’de Bluetooth sorununun çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=780</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/" target="_blank">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -89,8 +89,7 @@
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/" target="_blank">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -129,8 +128,9 @@
 		<category><![CDATA[ubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
 
-					<description><![CDATA[Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
@@ -145,8 +145,7 @@ source ~/.bashrc</p>
 <p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
 <p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
 <p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

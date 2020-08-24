@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/tag/mysql/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 24 Jun 2020 07:16:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2020 06:53:11 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -56,9 +56,9 @@
 		<category><![CDATA[sorguları]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=811</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/" target="_blank">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-<p>Visual Studio ile projeyi açtıktan sonra Tools -> NuGet Package Manager -> Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir.</p>
+<p>Visual Studio ile projeyi açtıktan sonra Tools -&gt; NuGet Package Manager -&gt; Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir.</p>
 
 
 
@@ -113,7 +113,8 @@ Scaffold-DbContext "Server=serverIPorName;Database=databaseName;User=userName;Pa
 
 <pre class="wp-block-code"><code>dotnet add package Pomelo.EntityFrameworkCore.MySql
 
-dotnet ef dbcontext scaffold "Server=serverIPorName;Database=databaseName;User=userName;Password=password;TreatTinyAsBoolean=true;" "Pomelo.EntityFrameworkCore.MySql" -o Models -f
+dotnet ef dbcontext scaffold "Server=serverIPorName;Database=databaseName;User=userName;Password=password;TreatTinyAsBoolean=true;" "Pomelo.EntityFrameworkCore.MySql"
+ -o Models -f
 
 //veya
 dotnet add package Pomelo.EntityFrameworkCore.MySql
@@ -156,7 +157,7 @@ dotnet ef dbcontext scaffold "server=serverIPorAdress;port=3306;user=userName;pa
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="C# Eğitim - 8 Entity Framework" width="1140" height="641" src="https://www.youtube.com/embed/videoseries?list=PLf36Mq2HT0Q4AKWP-etfegXsqIaFf9pgv" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="C# ile MYSQL veri tabanına bağlanmaya çalıştık" width="1140" height="641" src="https://www.youtube.com/embed/7phgYQiaXzM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -182,8 +183,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/" target="_blank">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -214,9 +214,9 @@ cntx.Test</code></pre>
 		<category><![CDATA[provider]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -312,8 +312,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

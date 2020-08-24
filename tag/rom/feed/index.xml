@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -48,7 +48,8 @@
 		<category><![CDATA[xiaomi rom]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=171</guid>
 
-					<description><![CDATA[Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/" target="_blank">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçilerimiz,</p>
 <p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>
 <p>Şu linkte fastboot yazılımını ve fastboot flash yazılımını <a href="http://en.miui.com/a-234.html" target="_blank" rel="noopener">indiriyoruz</a>.</p>
@@ -57,8 +58,7 @@
 <p>Miflash programını açarak resimdeki modda ayarlıyoruz.</p>
 <p>Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten sonra refresh&#8217;e tıkladıktan sonra flash&#8217;a tıklayınız.</p>
 <p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/" target="_blank">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -94,7 +94,8 @@
 		<category><![CDATA[trend]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=96</guid>
 
-					<description><![CDATA[&#160; Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım. Stock Rom : Android cihazınızın üretici&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/custom-romdan-gecis/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>&#160; Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım. Stock Rom : Android cihazınızın üretici&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/custom-romdan-gecis/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/custom-romdan-gecis/" target="_blank">CUSTOM ROMDAN STOCK ROMA GEÇİŞ</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <p>Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım.</p>
 <p><span id="more-96"></span></p>
@@ -107,8 +108,7 @@
 <li>(CWM için) Ekrandan &#8220;wipe cache partition&#8221; sonasında , &#8220;wipe data/factory reset&#8221; yazılarını seçiniz ve Wipe işlemi bitti.</li>
 <li>(CWM için)&#8221;Mount&#8221; seçeneğine seçerek &#8220;/system&#8221;,&#8221;/data&#8221; yazılarını seçiniz.</li>
 <li>Cihazınızın yükleyicisiyle Stock Rom&#8217;unuzu kurabilirsiniz.</li>
-</ol>
-]]></content:encoded>
+</ol><p>The post <a href="https://bilisimkurdu.github.io/custom-romdan-gecis/" target="_blank">CUSTOM ROMDAN STOCK ROMA GEÇİŞ</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/custom-romdan-gecis/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

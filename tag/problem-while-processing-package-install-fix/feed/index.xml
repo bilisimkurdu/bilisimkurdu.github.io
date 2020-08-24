@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -41,9 +41,9 @@
 		<category><![CDATA[problem while processing package (--install): fix]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=583</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/" target="_blank">deb paketi yüklenirken "paketi işlenirken sorun yaşandı (--install)"</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -69,8 +69,7 @@ sudo apt --fix-broken install</code></pre>
 
 
 
-<p>Akabinden .deb paketi tekrardan yüklenir.</p>
-]]></content:encoded>
+<p>Akabinden .deb paketi tekrardan yüklenir.</p><p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/" target="_blank">deb paketi yüklenirken "paketi işlenirken sorun yaşandı (--install)"</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -45,9 +45,9 @@
 		<category><![CDATA[mva]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -71,8 +71,7 @@
 
 
 
-<p>İyi Akşamlar.</p>
-]]></content:encoded>
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

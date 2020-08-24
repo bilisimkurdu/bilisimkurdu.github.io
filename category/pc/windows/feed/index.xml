@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/windows/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 23 Jun 2020 13:55:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2020 10:16:18 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -28,6 +28,391 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</title>
+		<link>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/</link>
+					<comments>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 10:16:16 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Connecting proxy server for office15client.microsoft.com]]></category>
+		<category><![CDATA[Connecting proxy server for office15client.microsoft.com error]]></category>
+		<category><![CDATA[excel 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
+		<category><![CDATA[office 2016 Connecting proxy server for office15client.microsoft.com error]]></category>
+		<category><![CDATA[office 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
+		<category><![CDATA[office15client.microsoft.com]]></category>
+		<category><![CDATA[proxy sunucusuna bağlanıyor office15client.microsoft.com]]></category>
+		<category><![CDATA[proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
+		<category><![CDATA[Proxy sunucusuna bağlanmaya çalışıyor office15client.microsoft.com]]></category>
+		<category><![CDATA[proxy sunucusuna bağlanmaya çalışıyor office15client.microsoft.com hatası]]></category>
+		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=831</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/" target="_blank">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
+
+
+
+<p>Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com  hatasından bahsedeceğim.</p>
+
+
+
+<span id="more-831"></span>
+
+
+
+<p>Hata resmi aşağıdadır:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="814" height="571" src="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/OfficeClient-814x571.jpg" alt="" class="wp-image-832" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/OfficeClient-814x571.jpg 814w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/OfficeClient-387x272.jpg 387w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/OfficeClient-92x65.jpg 92w" sizes="(max-width: 814px) 100vw, 814px" /></figure>
+
+
+
+<p>Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir.</p>
+
+
+
+<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
+
+
+
+<p>(İmgilizce) FILE&gt;Options&gt;Trust Center&gt;Trust Center Settings&#8230;&gt;Privacy Options -&gt;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır.</p>
+
+
+
+<p>(Türkçe)DOSYA&gt; Seçenekler&gt; Güven Merkezi&gt; Güven Merkezi Ayarları …&gt; Gizlilik Seçenekleri -&gt; &#8220;Office&#8217;in İnternet&#8217;e bağlanmasına izin ver&#8221; seçeneği kaldırılmalıdır.</p>
+
+
+
+<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
+
+
+
+<p>Control Panel -&gt;Windows Firewall -&gt;Advandec Settings aşamalarını takip ederek;</p>
+
+
+
+<p>Inbound Rules ve Outbound Rules kısmında aşağıda belirtilen office programların engellenmesi gerekmektedir.</p>
+
+
+
+<p>Güvenlik duvarından program nasıl engelleneceğiyle ilişkin yazımız;</p>
+
+
+
+<p><a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</a></p>
+
+
+
+<p>Office 2016</p>
+
+
+
+<p>(32 bit)</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\POWERPNT.exe</p>
+
+
+
+<p>(64 bit)</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\POWERPNT.exe</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/" target="_blank">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Office Connecting proxy server for store.office.com</title>
+		<link>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/</link>
+					<comments>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 10:06:33 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Connecting proxy server for store.office.com]]></category>
+		<category><![CDATA[Connecting proxy server for store.office.com error]]></category>
+		<category><![CDATA[excel 2013 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<category><![CDATA[excel 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<category><![CDATA[office 2013 Connecting proxy server for store.office.com error]]></category>
+		<category><![CDATA[office 2013 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<category><![CDATA[office 2016 Connecting proxy server for store.office.com error]]></category>
+		<category><![CDATA[office 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<category><![CDATA[proxy sunucusuna bağlanıyor store.office.com]]></category>
+		<category><![CDATA[proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<category><![CDATA[Proxy sunucusuna bağlanmaya çalışıyor store.office.com]]></category>
+		<category><![CDATA[proxy sunucusuna bağlanmaya çalışıyor store.office.com hatası]]></category>
+		<category><![CDATA[store.office.com]]></category>
+		<category><![CDATA[word 2013 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=823</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/" target="_blank">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
+
+
+
+<p>Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com  hatasından bahsedeceğim.</p>
+
+
+
+<span id="more-823"></span>
+
+
+
+<p>Hata resmi aşağıdadır:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="443" height="233" src="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom.jpg" alt="" class="wp-image-824"/></figure>
+
+
+
+<p>Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir.</p>
+
+
+
+<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
+
+
+
+<p>(İmgilizce) FILE&gt;Options&gt;Trust Center&gt;Trust Center Settings&#8230;&gt;Privacy Options -&gt;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır.</p>
+
+
+
+<p>(Türkçe)DOSYA&gt; Seçenekler&gt; Güven Merkezi&gt; Güven Merkezi Ayarları …&gt; Gizlilik Seçenekleri -&gt; &#8220;Office&#8217;in İnternet&#8217;e bağlanmasına izin ver&#8221; seçeneği kaldırılmalıdır.</p>
+
+
+
+<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
+
+
+
+<p>Control Panel -&gt;Windows Firewall -&gt;Advandec Settings aşamalarını takip ederek;</p>
+
+
+
+<p>Inbound Rules ve Outbound Rules kısmında aşağıda belirtilen office programların engellenmesi gerekmektedir.</p>
+
+
+
+<p>Güvenlik duvarından program nasıl engelleneceğiyle ilişkin yazımız;</p>
+
+
+
+<p><a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</a></p>
+
+
+
+<p>Office 2013;</p>
+
+
+
+<p>(32 bit)</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office15\WINWORD.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office15\EXCEL.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office15\POWERPNT.exe</p>
+
+
+
+<p>(64 bit)</p>
+
+
+
+<p>C:\Program&nbsp;File&nbsp;\Microsoft&nbsp;Office\Office15\WINWORD.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office15\EXCEL.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office15\POWERPNT.exe</p>
+
+
+
+<p>Office 2016</p>
+
+
+
+<p>(32 bit)</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\POWERPNT.exe</p>
+
+
+
+<p>(64 bit)</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
+
+
+
+<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
+
+
+
+<p>C:\Program Files\Microsoft Office\Office16\POWERPNT.exe</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/" target="_blank">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</title>
+		<link>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</link>
+					<comments>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 09:43:51 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[güvenlik duvarı]]></category>
+		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
+
+					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak.</p>
+
+
+
+<span id="more-826"></span>
+
+
+
+<p>Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc93410ea84.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.YHj4SyqcFs.png" alt=""/></figure>
+
+
+
+<p>Program işaretli olmalıdır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc94d48dbd1.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.QLozTsF7Zu.png" alt=""/></figure>
+
+
+
+<p>İleri (Next)&#8217;e tıklanır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dcb3b3674ee.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sV9uf1i_2J.png" alt=""/></figure>
+
+
+
+<p>This program path (Programın yolu) kısmında erişimini engellemek istediğiniz programın yolunu seçiyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc9692b3220.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sFQ4Bdm76X.png" alt=""/></figure>
+
+
+
+<p>Block the connection (Bağlantıyı engelle)&#8217;yi işaretliyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dca4250ece4.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.n5oVczAXC5.png" alt=""/></figure>
+
+
+
+<p>Domain,Private,Public işaretli olduğundan emin oluyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/img_55dca50653bb5.png" alt=""/></figure>
+
+
+
+<p>Kurala isim verip Finish (Son) tıklıyoruz.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</title>
 		<link>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/</link>
 					<comments>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/#respond</comments>
@@ -62,9 +447,9 @@
 		<category><![CDATA[yaz]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/" target="_blank">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -180,8 +565,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/" target="_blank">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -216,9 +600,9 @@ jobs:
 		<category><![CDATA[Windows 7’de Bluetooth sorununun çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=780</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/" target="_blank">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -250,8 +634,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/" target="_blank">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -275,9 +658,9 @@ jobs:
 		<category><![CDATA[windows 10 internete bağlanmıyor 2020]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=771</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/" target="_blank">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -305,8 +688,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/" target="_blank">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -333,9 +715,9 @@ jobs:
 		<category><![CDATA[WSL run gui software]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/" target="_blank">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -351,7 +733,7 @@ jobs:
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -402,8 +784,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/" target="_blank">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -430,9 +811,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[wsl nedir]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/" target="_blank">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -580,8 +961,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/" target="_blank">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-kurulumu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -610,9 +990,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[windows ekran kartı güncelleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/" target="_blank">Ekran kartı sürücüsü güncelleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -638,8 +1018,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/" target="_blank">Ekran kartı sürücüsü güncelleme</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -672,9 +1051,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/" target="_blank">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -726,8 +1105,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/" target="_blank">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -752,9 +1130,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[Windows 10 upgrade 0x80070522 error]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=694</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/" target="_blank">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -866,8 +1244,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/" target="_blank">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -908,9 +1285,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[Windows update hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/" target="_blank">Windows güncelleme hata kodları</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -942,8 +1319,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/" target="_blank">Windows güncelleme hata kodları</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -972,9 +1348,9 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
 
-					<description><![CDATA[Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba muhterem ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/" target="_blank">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba muhterem ziyaretçiler,</p>
 
 
 
@@ -1028,8 +1404,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/" target="_blank">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1054,9 +1429,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[rufus apk]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1118,8 +1493,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1150,9 +1524,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/" target="_blank">Intel HAXM installation error - This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -1218,8 +1592,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi günler.</p>
-]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/" target="_blank">Intel HAXM installation error - This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1244,9 +1617,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[mva]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
 
-					<description><![CDATA[Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Arkadaşlar,</p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
 
@@ -1270,8 +1643,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi Akşamlar.</p>
-]]></content:encoded>
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1294,9 +1666,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[windows 10 display language pack]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=435</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım. Öncelikle linkleri verelim; Language Locale&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım. Öncelikle linkleri verelim; Language Locale&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/" target="_blank">Windows 10 1803 dil paketleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
 
@@ -1328,7 +1700,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<figure class="wp-block-image is-resized"><img src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
 
 
 
@@ -1424,8 +1796,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/" target="_blank">Windows 10 1803 dil paketleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1451,9 +1822,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[Your Power Plan Information isn't available access denied]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=420</guid>
 
-					<description><![CDATA[Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem Ziyaretçiler,</p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Denetim Masasından güç ayarları değiştirirken alınan Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi. hatasının çözümü konusuna&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/" target="_blank">"Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi."</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
 
@@ -1477,8 +1848,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<p>İyi akşamlar.</p>
-]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/" target="_blank">"Güç Planı Bilgileriniz Kullanılamıyor. Erişim Engellendi."</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/guc-plani-bilgileriniz-kullanilamiyor-erisim-engellendi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1496,9 +1866,9 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[Windows]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=374</guid>
 
-					<description><![CDATA[Merhaba Muhterem ziyaretçilerimiz,Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/">Okumaya devam et</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Merhaba Muhterem ziyaretçilerimiz,<br>Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup işlevi yerine getirebilmesi için verilerinizi toparlayıp analiz edilmektedir.</p>
+					<description><![CDATA[<p>Merhaba Muhterem ziyaretçilerimiz,Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/" target="_blank">Windows 10 Cortana devre dışı bırakma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçilerimiz,<br>Bugün Windows 10 Cortana disable (devre dışı bırakacağımızı) nasıl edileceğini anlatacağım. Bilindiği üzere Cortana Microsoft’un asistan uygulaması olup işlevi yerine getirebilmesi için verilerinizi toparlayıp analiz edilmektedir.</p>
 
 
 
@@ -1550,8 +1920,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTYvMDkvc2NyZWVuc2hvdC0oMTA2KV82NzUxNTQuMjg1NzE0Mjg1NzEucG5n" alt="screenshot (106) 675154.28571428571" class="wp-image-298238"/></figure></div>
-]]></content:encoded>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTYvMDkvc2NyZWVuc2hvdC0oMTA2KV82NzUxNTQuMjg1NzE0Mjg1NzEucG5n" alt="screenshot (106) 675154.28571428571" class="wp-image-298238"/></figure></div><p>The post <a href="https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/" target="_blank">Windows 10 Cortana devre dışı bırakma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-cortana-devre-disi-birakma/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1584,14 +1953,14 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[windows 10 1803]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=365</guid>
 
-					<description><![CDATA[Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/" target="_blank">Windows 10 version 1803 varsayılan klavye dil ayarları</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
 <span id="more-365"></span></p>
 <p>Ayarlar -&gt; Dil ve Bölgeler -&gt; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.</p>
 <p><img src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
 <img src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
-<img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p>
-]]></content:encoded>
+<img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/" target="_blank">Windows 10 version 1803 varsayılan klavye dil ayarları</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -1624,12 +1993,12 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[yamaları]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
 
-					<description><![CDATA[Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a>]]></description>
+					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/" target="_blank">Microsoft'tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
 <span id="more-362"></span><br />
 Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
-<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>
-]]></content:encoded>
+<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p><p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/" target="_blank">Microsoft'tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
