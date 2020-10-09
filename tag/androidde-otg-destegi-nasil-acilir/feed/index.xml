@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Androidde Otg Desteği Nasıl Açılır &#8211; Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/androidde-otg-destegi-nasil-acilir/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Fri, 09 Oct 2020 05:45:46 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Androidde Otg Desteği Nasıl Açılır &#8211; Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Android telefon ve tabletlere OTG özelliği kazandırma</title>
+		<link>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/</link>
+					<comments>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2020 13:39:23 +0000</pubDate>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[android otg]]></category>
+		<category><![CDATA[Android Usb bellek bağlama 2020]]></category>
+		<category><![CDATA[Android Usb bellek bağlama 2020 [Çözüldü]]]></category>
+		<category><![CDATA[Androidde Otg Desteği Nasıl Açılır]]></category>
+		<category><![CDATA[E tab 5 otg desteğini açma]]></category>
+		<category><![CDATA[Etab 5 OTG desteğini aktifleştirme]]></category>
+		<category><![CDATA[otg çalışmıyor]]></category>
+		<category><![CDATA[OTG desteği Açma]]></category>
+		<category><![CDATA[OTG DESTEĞİ OLMAYAN ANDROİD CİHAZLARA OTG DESTEĞİ EKLEME (ROOT)]]></category>
+		<category><![CDATA[otg dönüştürücü]]></category>
+		<category><![CDATA[otg type c]]></category>
+		<category><![CDATA[tablet flash bellek görmüyor]]></category>
+		<category><![CDATA[Tablet flash diski görmüyor]]></category>
+		<category><![CDATA[Tablette usb sorunu çözüldü]]></category>
+		<category><![CDATA[telefon flash bellek görmüyor]]></category>
+		<category><![CDATA[Telefon flash diski görmüyor]]></category>
+		<category><![CDATA[Telefonda usb sorunu çözüldü]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=835</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/" target="_blank">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak.</p>
+
+
+
+<p>Öncelikle USB Otg Checker uygulamasını indirip açıyoruz. Uygulamayı açtıktan sonra &#8220;Detail&#8221; butonuna dokunup hangisinin eksik olduğunu buluyoruz.</p>
+
+
+
+<p><strong>USB Host solunda çarpı işaretı varsa</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>Önce cihazın rootlu olduğundan emin oluyoruz.</p>
+
+
+
+<p>android.hardware.usb.host.xml dosyası root erişimini destekleyen dosya yöneticisi aracılığı ile &nbsp;&#8220;/system/etc/permissions&#8221; yoluna yapıştırıp cihazı yeniden başlatılır.</p>
+
+
+
+<p>android.hardware.usb.host.xml dosyası için <strong><a href="http://bc.vc/jPR7EJy" target="_blank" rel="noreferrer noopener">tıklayınız</a></strong>. </p>
+
+
+
+<p>USB OTG Helper [root] uygulamasını yüklemek için <strong><a href="http://bc.vc/8WCunR2" target="_blank" rel="noreferrer noopener">tıklayınız</a></strong>.</p>
+
+
+
+<p><strong>USB Device List sol tarafında çarpı işareti varsa</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>Y-OTG cihazı temin edilmesi ve USB OTG Helper [root] uygulamasının yüklennmesi gerekmektedir.</p>
+
+
+
+<p>USB OTG Helper [root] uygulamasını yüklemek için <strong><a href="http://bc.vc/8WCunR2" target="_blank" rel="noreferrer noopener">tıklayınız</a></strong>.</p>
+
+
+
+<p>Y-OTG cihaz fiyatlarını incelemek için <strong><a href="http://bc.vc/pBFaBjz" target="_blank" rel="noreferrer noopener">tıklayınız</a></strong>.</p>
+
+
+
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/" target="_blank">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
