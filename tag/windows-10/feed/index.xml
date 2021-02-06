@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>windows 10 | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/windows-10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Wed, 13 Mar 2019 19:21:06 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>windows 10 | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows 10 1803 dil paketleri</title>
+		<link>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/</link>
+					<comments>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2019 18:38:42 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[dil]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 dil değiştirme]]></category>
+		<category><![CDATA[windows 10 dil paketi]]></category>
+		<category><![CDATA[windows 10 display language pack]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=435</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım. Öncelikle linkleri verelim; Language Locale&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/">Windows 10 1803 dil paketleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda Windows 10 dil paketlerin nasıl temin edilip yüklenecceği konusunda duracağım.</p>
+
+
+
+<span id="more-435"></span>
+
+
+
+<p>Öncelikle linkleri verelim;</p>
+
+
+
+<table class="wp-block-table"><tbody><tr><td><strong>Language</strong></td><td><strong>Locale</strong></td><td><strong>32-bit Architecture</strong></td><td><strong>64-bit Architecture</strong></td></tr><tr><td>South African</td><td>af-ZA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9444f64b5b01249b3a9e535621e9b610c8501ec1.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_775622a599d189a12fc844a0d8ce1c9d0b2f4d9e.cab">Download Language Pack</a></td></tr><tr><td>Amharic</td><td>am-ET</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_af9e577ef53fac788d2f40d1e26dc12cbd15ddf6.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_98fef765317b6cc8ab7971eb2c66c335274b545e.cab">Download Language Pack</a></td></tr><tr><td>Arabic</td><td>ar-SA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_305741e4cf1046e4ce3758e2662dbbae21f20d4a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e4be3d223d2f45d4e7671cec24c227a71976eead.cab">Download Language Pack</a></td></tr><tr><td>Assamese – India</td><td>as-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_942e39bde250ae9592fc8fc19f874e873053249b.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_8e3ec95512764b1c4bca71601fd9dc3f4492bcc1.cab">Download Language Pack</a></td></tr><tr></tr><tr><td>Latin – Azerbaijan</td><td>az-Latn-AZ</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_510102e7e4e352e112aec9c3a6e5694644532822.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_000cea9cd98ae35ab803b580207bdb82133739de.cab">Download Language Pack</a></td></tr><tr><td>Belarusian</td><td>be-BY</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_740dd0721ec0a11dff48fe0877207808527d5c79.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_bcff97e1999172a8439cc3dcdd7741f371a377b7.cab">Download Language Pack</a></td></tr><tr><td>Bulgarian</td><td>bg-BG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d2c55296b678e49ac096a043e923e38ed49e7b1e.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_acfd3a38205175b86cfe0064ba67cac565a9d347.cab">Download Language Pack</a></td></tr><tr><td>Bengali – Bangladesh</td><td>bn-BD</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_0e21a8a75727c41d8e173e171a554fb4cfaab661.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_e42e55c1e8426379e2766def39e3573274e877ab.cab">Download Language Pack</a></td></tr><tr><td>Bengali – India</td><td>bn-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9208df13be510a438cd9ebd403ddcddd63c3192b.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_86e9e59eaff94f5016596541d26348417f7ea55a.cab">Download Language Pack</a></td></tr><tr><td>Bosnian</td><td>bs-Latn-BA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_31f9805775bb5676d12702f39dcac09a8a0e2e0a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e3a9df461b63b1046427ff9254d2fb9909674571.cab">Download Language Pack</a></td></tr><tr><td>Catalan – Spain</td><td>ca-ES</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_dc2a19fff838ad09b0bedd5e2ae1a13c03d7e570.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_897417daf0bdce79215fdac39e4efe97124bea47.cab">Download Language Pack</a></td></tr><tr><td>Valencian</td><td>ca-ES-valencia</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d00954dfe16dc550a9d81a04f7dd7455bab439e2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bb8791a22895bf24dfed8db964b12df4710ba445.cab">Download Language Pack</a></td></tr><tr><td>Czech</td><td>cs-CZ</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6017991ca537ed9e6fd37323840020c5e63c8976.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_15555f6def6e37a35f3db297a3be185fdd0221b8.cab">Download Language Pack</a></td></tr><tr><td>Welsh – UK</td><td>cy-GB</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_811ca4df6a6403358b1f7bbaf07e9df7b3fd4c93.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_2b2fe45d38601f85175288330b51a100ee9f0fef.cab">Download Language Pack</a></td></tr><tr><td>Danish</td><td>da-DK</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d1b5ce87b66850f02cfb8963f9fd1bc0377f7ca7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d7a3893732174e747866a8868f6d585ac6ba0a47.cab">Download Language Pack</a></td></tr><tr><td>German</td><td>de-DE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b4da93dc0c3398dfddbce04f958f7964ff94ac94.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b9d99293f4c6164ac9e8ce2275ddd405c693cfe6.cab">Download Language Pack</a></td></tr><tr><td>Greek</td><td>el-GR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_55f681a758391535cfe89b881e52823636df161c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_122a7600d96ef8e414c6e795d5659c81c6c62da7.cab">Download Language Pack</a></td></tr><tr><td>English – UK</td><td>en-GB</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e1ce5ca2bad64e478bebae268c92e8f5b08bf958.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_8f81e0c700ad3a0e74f0b6725a55614f27f16fba.cab">Download Language Pack</a></td></tr><tr><td>English – USA</td><td>en-US</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c1c8dd139fb523fe9b97e23b100381c63d1d054c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0592f4ca7e1ed46dc37ac096a6dc3338d651342e.cab">Download Language Pack</a></td></tr><tr><td>Spanish</td><td>es-ES</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_2ee794da68363a424108f8001ff9760f8a52d947.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_ca040a3000b4e9c43d1ac88480a53ab7073417a4.cab">Download Language Pack</a></td></tr><tr><td>Spanish – Mexico</td><td>es-MX</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d025993881d6be6c85eecd5928c7b2ba7b5ef3b2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c427cf0284b2fc7818a1f89df4eff912917d6c86.cab">Download Language Pack</a></td></tr><tr><td>Estonian</td><td>et-EE</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_cf9b555a1575da571f301194d5c9d82af792d6de.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_54675cfe00dbb3d9a59420e4818dedabd29952ba.cab">Download Language Pack</a></td></tr><tr><td>Basque</td><td>eu-ES</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_3288667dd2c85c8b8983ae37b466bb80ea87bb2a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_2090480ef0bd8cf27a170519a71d0bad21bf1aaa.cab">Download Language Pack</a></td></tr><tr><td>Persian – Iran</td><td>fa-IR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6070ada27fcd2ca04ed6d85ca5a0d014c88a6fbb.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b3970d79417ab89b9bebe0feadde1fedb36e138d.cab">Download Language Pack</a></td></tr><tr><td>Finnish</td><td>fi-FI</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_f54b2789fd61a4987c7aa5a9c3b3d1111ed87efd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a0b941f51eb330f0a7f98e7153f39aed304d203a.cab">Download Language Pack</a></td></tr><tr><td>Filipino</td><td>fil-PH</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a85f2fd22d50685e67625f0b16587e78c33bee3d.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_578fa54a03cfbabeb7f63a60926f7cf28cb6be21.cab">Download Language Pack</a></td></tr><tr><td>French – Canada</td><td>fr-CA</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7d25604f443995598ced22302e3dcf68a497b29c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_fc01872ba8ba1a65ac5d67bad4940e7a4514ed72.cab">Download Language Pack</a></td></tr><tr><td>French – France</td><td>fr-FR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_06b0005fa5cefec79e7844e863b30f56312549cb.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1cd675db0963458669a37ec7eda8247b547f2088.cab">Download Language Pack</a></td></tr><tr><td>Irish</td><td>ga-IE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e128417fa3054c6d7618f48a912feee405162751.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_31b80ad2646e4d6d899f2ab6b791390963f441c1.cab">Download Language Pack</a></td></tr><tr><td>Scottish Gaelic – UK</td><td>gd-GB</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_770fcaf3b3e6127fcd7540126b3c6866f3b37162.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_2261b0f3a7814559bf3b18a5b8e70d7a959e3713.cab">Download Language Pack</a></td></tr><tr><td>Galician – Spain</td><td>gl-ES</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_938b1fa98d49d8f0edcda302386ea808230e78d5.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_372ed6be5fabcca053b59ccfabd7f158e8a04e8c.cab">Download Language Pack</a></td></tr><tr><td>Gujarati – Indian</td><td>gu-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_13b34059fed116f596b3bf8ab92ee2f1ac6afde8.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_57b9d12ee5138952a2251884c08b2c3b0348a4b0.cab">Download Language Pack</a></td></tr><tr><td>Latin – Nigeria</td><td>ha-Latn-NG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_427339aef7cfc3172daf2a73cd5bb2a0ac974424.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_6f115adc684fb5b2cd71f3f76dbb4be8eead23ac.cab">Download Language Pack</a></td></tr><tr><td>Hebrew</td><td>he-IL</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_acc56f07e9f64ef9578b105f352555d2d8906d83.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_540c0386e48cf67edf8e065920aea8c8165919f5.cab">Download Language Pack</a></td></tr><tr><td>Hindi – India</td><td>hi-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0fc0adf71efed454eb6ff680f3a43bdc30522665.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c416aa5f5cafc43c0ae1461b2fcd3fe2d7c103f2.cab">Download Language Pack</a></td></tr><tr><td>Croatian</td><td>hr-HR</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_39417ef8e67977558158596ab54963a9c099580c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_fb4415862c8bc0a631d9cee4801505892d9f1ae0.cab">Download Language Pack</a></td></tr><tr><td>Hungarian</td><td>hu-HU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6e3ac69c8c093325ab7d8393abc571db45e42dab.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f5e576709b46682d827626045448eff2dff8d67d.cab">Download Language Pack</a></td></tr><tr><td>Armenian</td><td>hy-AM</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d990908cea7e005f4622afafd22beba5ecb63a27.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_859b4e8609310973577a0af7cf95da300a7691c3.cab">Download Language Pack</a></td></tr><tr><td>Indonesian</td><td>id-ID</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1672c4554e0f505cebe4b3894dc535a06fa016e2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0d84b5067992656ca28b7f02da7f288fe2705ec7.cab">Download Language Pack</a></td></tr><tr><td>Nigeria</td><td>ig-NG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c0e115f3ba37b4777052f11be91461d69582008f.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e44d8ea5b7039512324d4d9034c6c8c686149047.cab">Download Language Pack</a></td></tr><tr><td>Icelandic</td><td>is-IS</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9d9541ff306133d8ea15b74e3f7a1374ee9f4669.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c04c2d60a1a98750d4c82a4be907f1fe660bc80a.cab">Download Language Pack</a></td></tr><tr><td>Italian</td><td>it-IT</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1cde666541c7857fef375eb91983e27cc798d185.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bff05a801d8e1b943520762860dfb4bc44016cde.cab">Download Language Pack</a></td></tr><tr><td>Japanese</td><td>ja-JP</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_dd454d41f7cb6dbca4bc4a4497fd6d0bf9e9bb26.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_bac048dbf02b9166cfc0fd1a926c241e64955d6f.cab">Download Language Pack</a></td></tr><tr><td>Georgian</td><td>ka-GE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1b705346619344cd89c2e0bea699b1cbdf7de0e7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_447f84f9816c63bf63a2aafc4aee688704573278.cab">Download Language Pack</a></td></tr><tr><td>Kazakh</td><td>kk-KZ</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_77a312f365d0e3133d47822e9a3a784f2a81bec3.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_543a6f260a5fe0c5b150260ff903135cf65e3dd0.cab">Download Language Pack</a></td></tr><tr><td>Khmer</td><td>km-KH</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_679375e535da4305d5578b9cc8344e22244e2231.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f7fdca7de0cc579cff6f14b661bc9fdd4b7baa36.cab">Download Language Pack</a></td></tr><tr><td>Kannada – India</td><td>kn-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_83220828578bc33587c5fe42eabf8abb0f08e1d4.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_ecedb677780f08ade27e5dd430a9f6878271a2bc.cab">Download Language Pack</a></td></tr><tr><td>Konkani – India</td><td>kok-IN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_415826cbbf3ab74155922af1d525bff2894b90e7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0142f245ad1007e88d0a171da422c16b6c04fad9.cab">Download Language Pack</a></td></tr><tr><td>Korean</td><td>ko–KR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_cd25db187ebb4a7648e7da0beb71e539116855a4.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_af771c527072e54b016226e57710df5ffb74387d.cab">Download Language Pack</a></td></tr><tr><td>Kirghiz</td><td>ky-KG</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_4411235d84acd80526bf1f1de588ad977f6497b7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_ec5d122ceaed86750fe66bb4fa546e13a4d18ed6.cab">Download Language Pack</a></td></tr><tr><td>Luxembourgish</td><td>lb-LU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d280d16b883d6923b06ac47c00d7e5d52543a60d.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_6223a8ab3e503cefd766c1699a06e80ee6d63af3.cab">Download Language Pack</a></td></tr><tr><td>Lothian</td><td>lo-LA</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_81312a54b5048ae5e53e9a6fce6b11d80a8250e3.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_e301585eefc5efd7ecf8e70c02329bb019882226.cab">Download Language Pack</a></td></tr><tr><td>Lithuanian</td><td>lt-LT</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c7d872d45495ed9aa208fc35e12488de3f39f8f2.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c7154849642cbe6667604b3b5d1e71001b4863ef.cab">Download Language Pack</a></td></tr><tr><td>Latvian</td><td>lv-LV</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_34b4428738441b2e21bb3f103ee1177b0ce1c6bf.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_c4db110d9800e5b564afccbe12e23ca0cb91bc0d.cab">Download Language Pack</a></td></tr><tr><td>Maori</td><td>mi-NZ</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a43c8f51266daa070a9aa8239076adfee0ef2a81.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_101911e1c873a255503e9fc32c8c61448fabdae4.cab">Download Language Pack</a></td></tr><tr><td>Macedonian</td><td>mk-MK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_151078fea9514d31463616235ad421c78c4f7be6.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_cd807d8522e14072a2bf978e2426ed6d5cb882a8.cab">Download Language Pack</a></td></tr><tr><td>Malayalam – India</td><td>ml-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9bad4ae8a71b03aff02711de2d62a229999d3498.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1931b48328039cca8e9d7b168335e65e54911be5.cab">Download Language Pack</a></td></tr><tr><td>Mongolian</td><td>mn-MN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_387d06fcbaf556257398f4cc65150570af9030bd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_dcf6f80f4e2908587016ebbb666f820cbd546348.cab">Download Language Pack</a></td></tr><tr><td>Marathi – INDIA</td><td>mr-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_a621d064988601828019a767c60dc4c5bfce2b22.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7377b500f1e04555d881a29d4494428fea8e748b.cab">Download Language Pack</a></td></tr><tr><td>Malay</td><td>ms-MY</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_3b715078d9b69fd3214f8d4765aa7bfbb5abf0d5.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b1c0fa5e29265d7ff722409929c96f1219f35f12.cab">Download Language Pack</a></td></tr><tr><td>Maltese</td><td>mt-MT</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_7068203b8d161c2940b613cbdf8252943e1ffacd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_39d8874811dae6de941fb9ad908075fc8f369fce.cab">Download Language Pack</a></td></tr><tr><td>Norwegian</td><td>nb-NO</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bc7085682148eed0490a66596da9542d5b9ad2c0.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d5a2020454be5a297bf514a17d327735305e47f6.cab">Download Language Pack</a></td></tr><tr><td>Nepali</td><td>ne-NP</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_2f88f049fdfba3ed777be21f003d1bdc676a0d12.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1e781a696249ffba7b113ab0beda6a06cbe9c4d6.cab">Download Language Pack</a></td></tr><tr><td>Dutch</td><td>nl-NL</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_adf2ab8d83e8d4ced1a18b1d37f8b40192d449cc.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_47f30be61e5d21caaf02f4314ebf4fef9eb3eb4a.cab">Download Language Pack</a></td></tr><tr><td>Norwegian</td><td>nn-NO</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_a66e74cd799125cc1b839f62b851ca92514f0495.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b1648b083ee19cd70445786f79a91793d48f05c0.cab">Download Language Pack</a></td></tr><tr><td>Oriya – INDIA</td><td>or-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_9799c26a508022de2979c4ffb093cf99012e4331.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7610d09d90d9d24ed72fe2710a4b2ce416d15543.cab">Download Language Pack</a></td></tr><tr><td>Punjabi (Arabic, Pakistan)</td><td>pa-Arab-PK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_f3ab15dfb9a0d8ad585f5a1aa3d12c29e48fc26c.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_bcccd736403ac27ea96473bfcd05db75ce3b5771.cab">Download Language Pack</a></td></tr><tr><td>Polish</td><td>pl-PL</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_80646ad82c74458ff33f4ccc46d0b49f212f1f7d.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f654f258127c74bf09f73c3b23ad0c5b90e52b8f.cab">Download Language Pack</a></td></tr><tr><td>Portuguese – Brazil</td><td>pt-BR</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d88a963afb2d6297a016769aeda2ff5d4f84a1e7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_7548f00ae60159cca5d31f32ab846fc4ab6e0614.cab">Download Language Pack</a></td></tr><tr><td>Portuguese</td><td>pt-PT</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b8f6716cab3053104d2c55a665bef7d2f486fd94.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_683c4a14678e8f87ca1e69e5b44460008b4812f4.cab">Download Language Pack</a></td></tr><tr><td>Romanian</td><td>ro-RO</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_531b9fac73c2f0d6477147ccb96c12b7a86aaa82.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_3eba76dff55f9a4d44b4e98d9e4447c855a1298b.cab">Download Language Pack</a></td></tr><tr><td>Russian</td><td>ru-RU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_04d00baf2bc5ccda9fa6a29177d9ae1b6eeaa911.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_cf71ede41aaa2413c84e153ffdc9a3374977e36e.cab">Download Language Pack</a></td></tr><tr><td>Sindhi – Pakistan</td><td>sd-Arab-PK</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_bad4cf8302642968d7bd41830e431b877591df4a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_7e095867f56df6e707ba1b69002cdd9b0cd6a8ce.cab">Download Language Pack</a></td></tr><tr><td>Sinhala</td><td>si-LK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_610a9b9875075fffd0fa139017ef10ea52215304.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_adf3e58e75d8e1079700507f2c0a6f086699294a.cab">Download Language Pack</a></td></tr><tr><td>Slovak</td><td>sk-SK</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c543f81859df9db173e237eef579fd7ecff34972.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_f775a6c466052b27ebf927ed4b2d99009c3755ca.cab">Download Language Pack</a></td></tr><tr><td>Slovenian</td><td>sl-SI</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_9f4cb0944f50a19104b08687ba5a37924e5cb3f0.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_963b9a6bb01d01abbe7953078cf6f76a582b7254.cab">Download Language Pack</a></td></tr><tr><td>Albanian</td><td>sq-AL</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b5c312a6bd93fd61b3aca115353f28a36f4da65b.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_510bc33d4e97b3626db991f69f5c4ef6189efec0.cab">Download Language Pack</a></td></tr><tr><td>Swedish</td><td>sv-SE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_c26c405fb0cf9c075008a4ce816913e295d8a961.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_334ddfc1870ca0cefae07f3755a19929b729e962.cab">Download Language Pack</a></td></tr><tr><td>Swahili</td><td>sw-KE</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_fd5c53dd7736e3851a660754b7df9fa992daec62.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d459e8153210a79ecd4be98f9245141e427cd586.cab">Download Language Pack</a></td></tr><tr><td>Tamil – India</td><td>ta-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_fe2460ed33061f71916061b9972f9bc4a0f85129.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_27f7e79e919ec723dd343c83926252e78b479665.cab">Download Language Pack</a></td></tr><tr><td>Telugu – India</td><td>te-IN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_1ba639a3b65b6aace1c370c7a53bfd61e993499a.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_b71822f670889d1fac37a3059216f145fe3920b8.cab">Download Language Pack</a></td></tr><tr><td>Thai</td><td>th-TH</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_d3d854de69d352463a10687f7e5426a9b0dd7287.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1c904bc9c897431e7960d9e213e33ed326004b92.cab">Download Language Pack</a></td></tr><tr><td>Turkish</td><td>tr-TR</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_3516450cbc78410433ceaa9359de87444cde5597.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_d30cc42c675228e09e8dec1c0d1f337f3879a0fb.cab">Download Language Pack</a></td></tr><tr><td>Tatar – Russia</td><td>tt-RU</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_3c327bcbb78ae0aeb7cca65eccfc173f333a48e9.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_301955b0ba0b24a594cf9b44514e578312e28cfe.cab">Download Language Pack</a></td></tr><tr><td>Uighur</td><td>ug-CN</td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_57bba1b61a490ca580f3d747fc05bdcab99081bd.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_9dda38a09ba9f25edcd0ac059b06a58939e829b6.cab">Download Language Pack</a></td></tr><tr><td>Ukrainian</td><td>uk-UA</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_0a1dc6ae6bae5f55629387bd5dc0351c7d716f62.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_2a9586c1afe1e9d0f220d6765456d37b68b88845.cab">Download Language Pack</a></td></tr><tr><td>Urdu – Pakistan</td><td>ur-PK</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_b15ce3ded1e4e90f913d02a1f1c28b2e3a41f569.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_f825b6e914b8b0acd3670be5caaa3ce02cd08146.cab">Download Language Pack</a></td></tr><tr><td>Vietnamese</td><td>vi-VN</td><td><a href="http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/lp_1acc1a4c1621c1440efd219545e40dca8dfa94c7.cab">Download Language Pack</a></td><td><a href="http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/lp_a3f54bd9007a07993e2891805694866cef975e31.cab">Download Language Pack</a></td></tr></tbody></table>
+
+
+
+<p> Dil paketini indirdim nasıl yükleyeceğim?</p>
+
+
+
+<p>Windows(Başlat) ve R tuşlarına basarak karşımıza çıkacak Çalıştır penceresine &#8220;lpksetup&#8221; yazıyoruz.</p>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
+
+
+
+<p>Karşımıza çıkacak pencere üzerinden &#8220;Install diplay languages&#8221; seçeneğini seçiyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i1.wp.com/www.itechtics.com/wp-content/uploads/2017/10/1-Install-language-pack-in-Windows-10-version-1709.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
+
+
+
+<p> İndirdiğimiz .cab uzantılı dosyamızıın çıkartıtığımız klasörü &#8220;Browse&#8221; butonuna tıklayarak gösterip &#8220;Next&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i2.wp.com/www.itechtics.com/wp-content/uploads/2017/10/2-Select-display-language-to-install.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
+
+
+
+<p>Yaklaşık 10-20 dk bekledikten sonra paketi yüklemiş oluruz.</p>
+
+
+
+<p>Ee şimdi nasıl aktifleştirebilirim?</p>
+
+
+
+<p>Setttings -&gt; Time &amp; Languages yolunu takip eidyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://media.chip.com.tr/images/temp/user/aa97f139396743b51c9944cf7740a8c2.jpg" alt=""/></figure>
+
+
+
+<p>Hangi dilin paketi yüklendiyse o dili seçip &#8220;Set as default&#8221; butonuna tıkladıktan sonra bir defa restart atmanız gerekmektedir.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/xLanguage-pack-with-additional-options-in-Windows-10-650x452.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.hc7o8pIL75.png" alt=""/></figure>
+
+
+
+<p>Eğer farklı kullanıcılar için;</p>
+
+
+
+<p>Control Panel -&gt; Region -&gt;   &#8220;Administrative&#8221; sekmesi &#8220;Copy settings&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Control-Panel-and-Region-in-Windows-10-650x467.png" alt=""/><figcaption><br><br></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Copy-settings-to-other-screens-in-Windows-10.png" alt=""/><figcaption><br><br></figcaption></figure>
+
+
+
+<p>&#8220;Welcome screen and system accounts&#8221; ve  &#8220;New user accounts&#8221; seçeneklerini işaretleyerek &#8220;OK&#8221; butonuna tıklayıp bilgisayarımızı restart atıyoruz. </p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Change-language-to-different-screens.png" alt=""/></figure>
+
+
+
+<p>Teşekkkürler;</p>
+
+
+
+<p>(Resim ve linkler için)</p>
+
+
+
+<p><a href="https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/">https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/</a></p>
+
+
+
+<p>
+
+(Bilgisayarımda Windows 10 olmadığı için resimlerden faydalandım.)
+
+</p>
+
+
+
+<p><a href="https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/">https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/</a></p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/">Windows 10 1803 dil paketleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 version 1803 varsayılan klavye dil ayarları</title>
+		<link>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/</link>
+					<comments>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 23 Oct 2018 07:34:31 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[1803]]></category>
+		<category><![CDATA[dil]]></category>
+		<category><![CDATA[dil paketi]]></category>
+		<category><![CDATA[keyboad settings]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[klavye]]></category>
+		<category><![CDATA[klavye ayarları]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[language pack]]></category>
+		<category><![CDATA[pack]]></category>
+		<category><![CDATA[paketi]]></category>
+		<category><![CDATA[settings]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 1803]]></category>
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=365</guid>
+
+					<description><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız; Ayarlar -&#62; Dil ve Bölgeler -&#62; Varsayılan&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Windows 10 version 1803 varsayılan klavye dil ayarları</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
+<span id="more-365"></span></p>
+<p>Ayarlar -&gt; Dil ve Bölgeler -&gt; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.</p>
+<p><img src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
+<img src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
+<img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p>The post <a href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Windows 10 version 1803 varsayılan klavye dil ayarları</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft&#8217;tan güncelleme müjdesi</title>
+		<link>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/</link>
+					<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[İşlemci]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[açık]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[güncelleme]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[işlemci]]></category>
+		<category><![CDATA[Meltdown]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft güncelleme]]></category>
+		<category><![CDATA[Spectre]]></category>
+		<category><![CDATA[Spectre ve Meltdown açık yamaları]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[yamaları]]></category>
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
+
+					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
+<span id="more-362"></span><br />
+Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
+<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BEDAVA WİNDOWS 10 İÇİN SON ŞANS</title>
+		<link>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/</link>
+					<comments>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2017 13:59:01 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[enterprise e3]]></category>
+		<category><![CDATA[enterprise e5]]></category>
+		<category><![CDATA[işletme]]></category>
+		<category><![CDATA[kurumsal]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[ücretsiz]]></category>
+		<category><![CDATA[ücretsiz geçiş]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[windows 10]]></category>
+		<category><![CDATA[windows 10 enterprise]]></category>
+		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=87</guid>
+
+					<description><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak.</p>
+<p><span id="more-87"></span></p>
+<p>Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli <strong>Windows 10 Enterprise E3</strong> ve E5 (Secure Procuctive sürümleri) hali hazırda Windows 7 – Windows 8.1 kurumsal kullanıcılara ücretsiz olarak gelecek.</p>
+<p>Yani işletmeler kurumsal Win 7,8.1 enterprise e3 ve e5 sürümlerini Windows 10 gerekli sürümlerini ücretsiz olarak indirip kurabilir.</p>
+<p>Bu sürümler özellikle kurumsal işletmeler için oldukça yüklü meblağlara güncelleniyordu. Üstelik ücretsiz güncelleme olanağı kurumsal işletim sistemleri içinde sağlanmamıştı. <strong>Microsoft</strong> bu noktada daha önce ücretsiz yükseltme olanağı tanımadığı kurumsal yapıların da gönlünü alıyor. Microsoft daha önce Windows 7 Kurumsal ve Windows 8/8.1 Kurumsal için Windows 10’a ücretsiz yükseltme imkanının bulunmayacağını dile getirmişti.</p>The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

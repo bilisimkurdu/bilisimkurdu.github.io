@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WSL run gui software | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/wsl-run-gui-software/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Wed, 01 Apr 2020 16:48:23 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>WSL run gui software | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WSL GUI</title>
+		<link>https://bilisimkurdu.github.io/wsl-gui/</link>
+					<comments>https://bilisimkurdu.github.io/wsl-gui/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 16:48:21 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[wsl gui programlarını çalıştırma]]></category>
+		<category><![CDATA[wsl gui uygulamalarını çalıştırma]]></category>
+		<category><![CDATA[wsl gui yazılımlarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux programlarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux uygulamalarını çalıştırma]]></category>
+		<category><![CDATA[wsl linux yazılımlarını çalıştırma]]></category>
+		<category><![CDATA[WSL run gui]]></category>
+		<category><![CDATA[WSL run gui apps]]></category>
+		<category><![CDATA[WSL run gui software]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-760"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
+
+
+
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Öncelikle Xming yazılımın indiriyoruz.</p>
+
+
+
+<p><a href="https://sourceforge.net/projects/xming">https://sourceforge.net/projects/xming</a></p>
+
+
+
+<p>Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install x11-apps
+export DISPLAY=:0
+xeyes</code></pre>
+
+
+
+<p>Çalıştıracağımız uygulamanın paket ismini (<code>sudo apt-get paketAdi</code> ile yükleyip) yazarak çalıştırınız.</p>
+
+
+
+<p>Örnek:</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install blockout2 //yükleme
+blockout2 //çalıştırma</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

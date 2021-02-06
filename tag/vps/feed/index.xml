@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vps | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/vps/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 26 Mar 2020 16:13:00 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>vps | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</title>
+		<link>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/</link>
+					<comments>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 10:02:15 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Debian server VNC server kurulumu]]></category>
+		<category><![CDATA[Debian VNC server kurulumu]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[Linux VNC yükleme]]></category>
+		<category><![CDATA[putty]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[Ubuntu server VNC server kurulumu]]></category>
+		<category><![CDATA[Ubuntu VNC server kurulumu]]></category>
+		<category><![CDATA[vnc]]></category>
+		<category><![CDATA[vps]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim.</p>
+
+
+
+<span id="more-711"></span>
+
+
+
+<blockquote class="wp-block-quote"><p>Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir.</p></blockquote>
+
+
+
+<p>Eğer Ubuntu Server  için;</p>
+
+
+
+<p>Gerekli paketlerin yüklenmesi ve konfigrasyonların oluşturulması için.</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt-get install ubuntu-desktop gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
+sudo apt-get install vnc4server
+vncserver
+vncserver -kill :1</code></pre>
+
+
+
+<p>Akabinde xstartup&nbsp; dosyasını düzenliyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>nano ~/.vnc/xstartup</code></pre>
+
+
+
+<p>xstartup&nbsp;içeriği;</p>
+
+
+
+<pre class="wp-block-code"><code>#!/bin/sh
+
+# Uncomment the following two lines for normal desktop:
+# unset SESSION_MANAGER
+# exec /etc/X11/xinit/xinitrc
+
+&#91; -x /etc/vnc/xstartup ] &amp;&amp; exec /etc/vnc/xstartup
+&#91; -r $HOME/.Xresources ] &amp;&amp; xrdb $HOME/.Xresources
+# xsetroot -solid grey
+vncconfig -iconic &amp;
+# x-terminal-emulator -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &amp;
+# x-window-manager &amp;
+gnome-session &amp;
+gnome-panel &amp;
+gnome-settings-daemon &amp;
+metacity &amp;
+nautilus &amp;
+gnome-terminal &amp;</code></pre>
+
+
+
+<p>Gerekli konfigrasyonlar;</p>
+
+
+
+<pre class="wp-block-code"><code>You will require a password to access your desktops.
+
+Password:
+Verify:
+Would you like to enter a view-only password (y/n)? y
+Password:
+Verify:
+xauth:  file /home/$USER/.Xauthority does not exist
+
+New 'X' desktop is 578e1bb09561:1
+
+Creating default startup script /home/$USER/.vnc/xstartup
+Starting applications specified in /home/$USER/.vnc/xstartup
+Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
+
+
+
+<p>Eğer Debian ve debian tabanlı sistemler için;</p>
+
+
+
+<pre class="wp-block-code"><code>sudo su
+apt-get update
+apt-get install xfce4 xfce4-goodies gnome-icon-theme tightvncserver
+vncserver</code></pre>
+
+
+
+<p>Gerekli konfigrasyonlar;</p>
+
+
+
+<pre class="wp-block-code"><code>You will require a password to access your desktops.
+
+Password:
+Verify:
+Would you like to enter a view-only password (y/n)? y
+Password:
+Verify:
+xauth:  file /home/$USER/.Xauthority does not exist
+
+New 'X' desktop is 578e1bb09561:1
+
+Creating default startup script /home/$USER/.vnc/xstartup
+Starting applications specified in /home/$USER/.vnc/xstartup
+Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
+
+
+
+<p>Bütün işlemler tamamlandıktan sonra <code>vncserver</code> komutu çalıştırarak VNC Server&#8217;ı çalıştırıp VNC Client yazılımları ile <code>ServerIP:5901</code> veya <code>ServerIP::5901</code> ile girerek bağlanabilirsiniz.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Eğer farklı çözünürlük ile çalışmak isterseniz VNC Server&#8217;ı <code>vncserver -geometry cozunulukDegeri</code> komutu ile çalıştırabilisiniz. </p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>C# RSS Reader UTF-8 problemi &#8211; Bilişim Kurdu</title>
+	<title>C# RSS Reader UTF-8 problemi | Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/c-rss-reader-utf-8-problemi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>C# RSS Reader UTF-8 problemi &#8211; Bilişim Kurdu</title>
+	<title>C# RSS Reader UTF-8 problemi | Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -49,7 +49,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=454</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/" target="_blank">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -120,7 +120,7 @@ WebClient wclient = new WebClient();
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/" target="_blank">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

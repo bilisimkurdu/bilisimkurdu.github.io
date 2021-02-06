@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>general | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/general/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Tue, 06 Jun 2017 13:47:36 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>general | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CUSTOM ROMDAN STOCK ROMA GEÇİŞ</title>
+		<link>https://bilisimkurdu.github.io/custom-romdan-gecis/</link>
+					<comments>https://bilisimkurdu.github.io/custom-romdan-gecis/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2017 07:32:46 +0000</pubDate>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[bilişim]]></category>
+		<category><![CDATA[bilişim kurdu]]></category>
+		<category><![CDATA[bilişim kurdu youtube kanalı]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[bloglama]]></category>
+		<category><![CDATA[bloglandırma]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[custom rom]]></category>
+		<category><![CDATA[cynagenmod]]></category>
+		<category><![CDATA[general]]></category>
+		<category><![CDATA[general mobile]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[rom]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[stock]]></category>
+		<category><![CDATA[stock rom]]></category>
+		<category><![CDATA[trend]]></category>
+		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=96</guid>
+
+					<description><![CDATA[<p>&#160; Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım. Stock Rom : Android cihazınızın üretici&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/custom-romdan-gecis/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/custom-romdan-gecis/">CUSTOM ROMDAN STOCK ROMA GEÇİŞ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım.</p>
+<p><span id="more-96"></span></p>
+<p>Stock Rom : Android cihazınızın üretici firma tarafından ve modele uygun stabil Android yazılımıdır.</p>
+<p>Custom Rom : Android cihazınızın üretici firma tarafından üretilmeyen ve modele uygun stabil olma ihtimali yüksek olmayan Android yazılımıdır.</p>
+<p>Eğer telefononuzda custom rom varsa CWM veya TWRP yüklüdür. Çünkü custom rom CWM veya TWRP olmadan yüklemez.</p>
+<ol>
+<li>CWM veya TWRP&#8217;Yİ açınız. (Samsung Galaxy Home+Power+Volume on tuşları Dİğer cihazlar Power+Volume on tuşları)</li>
+<li>(TWRPiçin) &#8220;Wipe Data&#8221; menüsünden &#8220;Dalvik&#8221;,&#8221;Wipe Data&#8221;,&#8221;Wipe Cache&#8221;,&#8221;Internal Storage&#8221; seçeneklerini işaretleyip işareti kaydırınız.</li>
+<li>(CWM için) Ekrandan &#8220;wipe cache partition&#8221; sonasında , &#8220;wipe data/factory reset&#8221; yazılarını seçiniz ve Wipe işlemi bitti.</li>
+<li>(CWM için)&#8221;Mount&#8221; seçeneğine seçerek &#8220;/system&#8221;,&#8221;/data&#8221; yazılarını seçiniz.</li>
+<li>Cihazınızın yükleyicisiyle Stock Rom&#8217;unuzu kurabilirsiniz.</li>
+</ol>The post <a href="https://bilisimkurdu.github.io/custom-romdan-gecis/">CUSTOM ROMDAN STOCK ROMA GEÇİŞ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/custom-romdan-gecis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

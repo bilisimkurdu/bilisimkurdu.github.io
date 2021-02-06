@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>aşama &#8211; Bilişim Kurdu</title>
+	<title>aşama | Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/asama/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>aşama &#8211; Bilişim Kurdu</title>
+	<title>aşama | Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
 
 					<description><![CDATA[<p>Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/" target="_blank">Genel Programlama Mantığı - 3</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Genel Programlama Mantığı – 3</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 <p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
 <p><img src="http://www.robotiksistem.com/program_adimlari.jpg" alt="Program Yazma Aşamaları" /></p>
@@ -56,7 +56,7 @@
 • Algoritma : Çözüme götüren yolların belirlenmesi yani programlamanın algoritması oluşturulması<br />
 • Akış diyagramı : Algoritmanın anlaşılacak şekilde yani akış diyagramı ile gösterilmesi<br />
 • Programın yazımı ve hataların düzeltilmesi : Algoritmanın bir programlama dili ile program haline getirilmesi ve hataların düzeltilmesi<br />
-• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/" target="_blank">Genel Programlama Mantığı - 3</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Genel Programlama Mantığı – 3</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

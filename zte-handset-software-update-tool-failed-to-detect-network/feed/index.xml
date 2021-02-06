@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	ZTE Handset software update tool yazılımı &#8220;Failed to detect network&#8221; hatası yazısına yapılan yorumlar	</title>
+	<atom:link href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sun, 16 Sep 2018 20:23:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+</channel>
+</rss>

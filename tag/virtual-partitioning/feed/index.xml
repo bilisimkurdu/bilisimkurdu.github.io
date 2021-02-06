@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>virtual partitioning | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/virtual-partitioning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 13 Apr 2020 09:49:08 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>virtual partitioning | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Android Güncellemesinde yeni dönem 2020</title>
+		<link>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/</link>
+					<comments>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 09:49:05 +0000</pubDate>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[A/B sanal disk bölümleme]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[android 11]]></category>
+		<category><![CDATA[android A/B sanal disk bölümleme]]></category>
+		<category><![CDATA[Android Güncellemesinde yeni dönem]]></category>
+		<category><![CDATA[Android Güncellemesinde yeni dönem 2020]]></category>
+		<category><![CDATA[android işletim sistemi]]></category>
+		<category><![CDATA[android virtual partitioning]]></category>
+		<category><![CDATA[google A/B sanal disk bölümleme]]></category>
+		<category><![CDATA[virtual partitioning]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=785</guid>
+
+					<description><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak. Android güncellemelerini yüklerken cihazı kullanmanıza izin verecek. Google&#8217;ın A/B sanal disk bölümleme (virtual partitioning)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak.</p>
+
+
+
+<span id="more-785"></span>
+
+
+
+<p>Android güncellemelerini yüklerken cihazı kullanmanıza izin verecek. Google&#8217;ın <strong>A/B sanal disk bölümleme</strong> (virtual partitioning) desteği ile sunulan işlevin yeni cihazların tümünde yer alacak. Sanal bölümleme ilk olarak Android 7 Nougat&#8217;ta kullanılmıştı ancak diskte ek yer harcadığından ötürü çoğu üretici, bu özelliği kullanmamıştı.</p>
+
+
+
+<p>A/B bölümleri, telefondaki salt okunur bölümlere benzer bir yapıya sahipler ve sistem, üretici, ön yükleme ve ürün gibi sistem seviyesindeki bölümlere ev sahipliği yapıyorlar. Telefonun sistemi, bir defada yalnızca bir bölümü kullandığından diğer bölümler, pasif kalıyor. İşletim sistemi indirilip yüklendikten sonra telefon, fark edilmeden ikinci bölümden ön yükleme yapıyor.</p>
+
+
+
+<p>Yeni sürümde bir sorun çıkması halinde, ilk bölümde duran eski işletim sisteminden ön yükleme yapılabiliyor. Seamless Update ile tüm yazılım güncelleme süresi, birkaç dakikadan <strong>birkaç saniyeye düşüyor</strong>.</p>
+
+
+
+<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" aria-label="CHIP (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">CHIP</a></p>The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

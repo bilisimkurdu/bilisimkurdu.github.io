@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Guid should contain 32 digits and 4 dashes error | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/guid-should-contain-32-digits-and-4-dashes-error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 21 Mar 2019 20:19:37 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Guid should contain 32 digits and 4 dashes error | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MySQL for Visual Studio guid error</title>
+		<link>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/</link>
+					<comments>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2019 20:19:35 +0000</pubDate>
+				<category><![CDATA[ADO.NET]]></category>
+		<category><![CDATA[C#]]></category>
+		<category><![CDATA[MYSQL]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.NET connector and getting the error “Guid should contain 32 digits and 4 dashes]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes çözümü]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes error]]></category>
+		<category><![CDATA[Guid should contain 32 digits and 4 dashes hatası]]></category>
+		<category><![CDATA[MySQL for Visual Studio guid error]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Dostlar,</p>
+
+
+
+<p>Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım.</p>
+
+
+
+<span id="more-451"></span>
+
+
+
+<p>Hata iletisi:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/RrzLVn.jpg" alt=""/></figure>
+
+
+
+<p>Çözümü :</p>
+
+
+
+<ul><li>Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. </li><li>&#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir.</li><li> &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır.</li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/ZXBrLk.jpg" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/k9d3Ly.jpg" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ubuntu high cpu usage | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/ubuntu-high-cpu-usage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Wed, 07 Aug 2019 10:32:12 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>ubuntu high cpu usage | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu systemd-udevd yoğun CPU kullanımı</title>
+		<link>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/</link>
+					<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[ubuntu high cpu usage]]></category>
+		<category><![CDATA[ubuntu high cpu used]]></category>
+		<category><![CDATA[Ubuntu systemd-udevd high cpu usage]]></category>
+		<category><![CDATA[Ubuntu systemd-udevd high cpu used]]></category>
+		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
+
+					<description><![CDATA[<p>Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak.</p>
+
+
+
+<span id="more-489"></span>
+
+
+
+<p>Bu sorun Ubuntu ve türevlerinde (Kubuntu,Xubuntu,Ubuntu Studio&#8230;) 18.04 sürümlerinde yaşanan Wifi sürücülerin ve Bluetooth sürücülerin birbirleriyle çakışmasından kaynaklanmaktadır.</p>
+
+
+
+<p>Sorunun çözümü BIOS ayarlarında Bluetooth devredışı bırakılması olup geçici bir çözümdür.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>SQL &#8211; Bilişim Kurdu</title>
+	<title>SQL | Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/sql/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>SQL &#8211; Bilişim Kurdu</title>
+	<title>SQL | Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -57,7 +57,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=811</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/" target="_blank">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -183,7 +183,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/" target="_blank">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -215,7 +215,7 @@ cntx.Test</code></pre>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -312,7 +312,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -338,7 +338,7 @@ cntx.Test</code></pre>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
@@ -363,7 +363,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/" target="_blank">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi Akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -390,7 +390,7 @@ cntx.Test</code></pre>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=451</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Dostlar, Bu yazımda MySQL for Visual Studio ile veritabanına bağlanırken alınan guid hatasının çözümünü anlatacağım. Hata iletisi: Çözümü&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/" target="_blank">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Dostlar,</p>
 
 
@@ -431,7 +431,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/" target="_blank">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/">MySQL for Visual Studio guid error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -460,7 +460,7 @@ cntx.Test</code></pre>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=445</guid>
 
 					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda MYSQL for Visual Studio kurulurken programın vermiş olduğu hatanın çözümü anlatacağım. Hata iletisi : İlk Çözüm&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
@@ -525,7 +525,7 @@ cntx.Test</code></pre>
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/">The devenv /updateconfiguration command may have failed</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -557,7 +557,7 @@ cntx.Test</code></pre>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=442</guid>
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Entity Framework&#8217;ü MYSQL&#8217;de kullanmayı anlatacağım. Öncelikle MYSQL for Visual Studio ve MYSQL Connector/NET bilgisayarımızda yüklü olması&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/" target="_blank">Entity Framework'ü MYSQL'de kullanmak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/">Entity Framework’ü MYSQL’de kullanmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
@@ -687,7 +687,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/" target="_blank">Entity Framework'ü MYSQL'de kullanmak</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/">Entity Framework’ü MYSQL’de kullanmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -718,7 +718,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=438</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda C# Entity Framework üzerinden birtakım sorguları yapılması üzerinden duracağım. Bildiğiniz üzere C# derslerini Youtube üzerinden&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/" target="_blank">C# Entity Framework üzerinden "Select" ve "Like" deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">C# Entity Framework üzerinden “Select” ve “Like” deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -806,7 +806,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/" target="_blank">C# Entity Framework üzerinden "Select" ve "Like" deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">C# Entity Framework üzerinden “Select” ve “Like” deyimleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -846,7 +846,7 @@ satir LIKE i //i = Like sorgusunda kullanılan ifadeler</code></pre>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
 
 					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
@@ -862,7 +862,7 @@ source ~/.bashrc</p>
 <p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
 <p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
 <p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
-<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/" target="_blank">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>&nbsp;</p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -899,7 +899,7 @@ source ~/.bashrc</p>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=120</guid>
 
 					<description><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/" target="_blank">PARDUS'A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım.</p>
 <p>Şu adımları uygulamaya başladım.</p>
 <p><strong>1) Public repo keyini import ediyoruz.</strong></p>
@@ -930,7 +930,7 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 <p>Kaynakça :</p>
 <blockquote class="wp-embedded-content" data-secret="m9UUkFd2Vt"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
 <p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
-<p>http://www.4s.com.tr/8523-2/</p><p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/" target="_blank">PARDUS'A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>http://www.4s.com.tr/8523-2/</p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

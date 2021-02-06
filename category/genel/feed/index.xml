@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Genel &#8211; Bilişim Kurdu</title>
+	<title>Genel | Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/category/genel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>Genel &#8211; Bilişim Kurdu</title>
+	<title>Genel | Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -54,7 +54,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/" target="_blank">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -107,7 +107,7 @@
 
 
 
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/" target="_blank">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -128,7 +128,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=574</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/" target="_blank">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -145,7 +145,7 @@
 
 
 
-<p>Bu hatanın çözümü olarak Solution Explorer -> NuGet (Sağ tık) -> Geri yükle aşamalarını takip ederek NuGet paketlerin yeniden yüklenmesi yöntemi uygulanırç </p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/" target="_blank">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Bu hatanın çözümü olarak Solution Explorer -> NuGet (Sağ tık) -> Geri yükle aşamalarını takip ederek NuGet paketlerin yeniden yüklenmesi yöntemi uygulanırç </p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -177,7 +177,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -274,7 +274,7 @@
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/" target="_blank">Cannot save'...Models\Model1.edmx': Could not load file or assembly ...</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -301,7 +301,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
 
 					<description><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/" target="_blank">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler,</p>
 
 
@@ -350,7 +350,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/" target="_blank">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -375,7 +375,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=346</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/" target="_blank">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 <p>Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi <a href="https://www.teknokizilelma.ooo/" target="_blank" rel="noopener">Tekno Kızılelma</a> adıyla birleştirdik.</p>
 <p>Tekno Kızılelma projesi kapsamında;</p>
@@ -388,7 +388,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 <p>Nice katkılarda bulunmak dileğiyle.</p>
 <p>#TÜRKİYE</p>
 <p>#TeknoKızılelma</p>
-<p>#DahaGüzelGeliyoruz</p><p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/" target="_blank">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>#DahaGüzelGeliyoruz</p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -412,7 +412,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/" target="_blank">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 <p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
 Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
@@ -421,7 +421,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <img src="https://i.hizliresim.com/Q2JgkV.jpg" /></p>
 <p>Konu ile alakalı video;</p>
 <p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
-<p>İyi okumalar dilerim.</p><p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/" target="_blank">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi okumalar dilerim.</p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -439,14 +439,14 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=191</guid>
 
 					<description><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması. Kurul açıklamasında şöyle denildi: &#8220;İnternet kafelere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/" target="_blank">Dünya Devi Microsoft'a Türkiye'de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması.</p>
 <p>Kurul açıklamasında şöyle denildi:</p>
 <p>&#8220;İnternet kafelere yönelik olarak hazırlanan “3+ Projesi” kapsamında 4054 sayılı Kanun’un ihlal edildiği iddiasını içeren şikayet başvurusunu Danıştay 13. Dairesinin kararı üzerine yeniden değerlendirdi.<img loading="lazy" class="alignnone size-medium wp-image-202" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/microsoft-300x142.jpg" alt="" width="300" height="142" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-300x142.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-768x364.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-1024x485.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>Daha önce bahse konu şikayet nedeniyle yapılan önaraştırmada, söz konusu faaliyetler incelenmiş, 07.12.2011 tarihinde 11-60/1555-550 sayı ile şikayetin reddine ve soruşturma açılmamasına karar verilmişti. Ancak anılan Kurul kararı Danıştay 13. Dairesinin, 25.10.2016 tarih, 2012/1000 E.; 2016/3413 K. sayılı kararı ile iptal edildi.</p>
 <p>Dosyada yer alan bilgi ve belgeleri 20.04.2017 tarihli toplantısında müzakere eden Kurul, ilgili mahkeme kararında belirtilen hususları dikkate alarak, 4054 sayılı Kanun&#8217;un 6. maddesini ihlal edip etmediğinin tespitine yönelik olarak aynı Kanun’un 41. maddesi uyarınca;</p>
 <p>Microsoft Bilgisayar Yazılım Hizmetleri Ltd. Şti. hakkında soruşturma açılmasına 17-13/171-M sayı ile karar verdi.</p>
-<p>Bilindiği üzere 4054 sayılı Kanun’un 6. maddesi hâkim durumun kötüye kullanılmasını yasaklamaktadır.&#8221;</p><p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/" target="_blank">Dünya Devi Microsoft'a Türkiye'de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Bilindiği üzere 4054 sayılı Kanun’un 6. maddesi hâkim durumun kötüye kullanılmasını yasaklamaktadır.&#8221;</p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -473,7 +473,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=188</guid>
 
 					<description><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/" target="_blank">Riot Games'ten Türkiye'ye yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Riot Games’ten Türkiye’ye yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu.</p>
 <p><img loading="lazy" class="alignnone size-full wp-image-194" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir.png" alt="" width="255" height="198" /></p>
 <p>Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends oyuncusuna çok daha hızlı ve kaliteli hizmet sunacağını açıkladı.</p>
@@ -484,7 +484,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <p>Bu yıl Türkiye’deki 5&#8217;inci yılını dolduran Riot Games Türkiye’nin önemli başarılara imza attığını aktaran Koçyiğit, uluslararası bir oyun yayıncısı olan Riot Games’in Türkiye’de yarattığı doğrudan istihdamın yanı sıra, fırsatlarla dolu dev bir ekosistemin gelişimine de katkıda bulunduğuna dikkat çekti. Türkiye&#8217;de oyunculara ve espor ekosistemine, bugüne kadar hiçbir oyun şirketinin yapmadığı kadar büyük yatırım yaptıklarını ifade eden Koçyiğit, şunları söyledi:</p>
 <p>“Geçtiğimiz 5 yılda oyunumuzu Türkiye için yerelleştirirken,ülkenin önde gelen seslendirme sanatçılarıyla ve stüdyolarıyla çalıştık. Oyuncuları bir araya getiren büyük çaplı organizasyonlar düzenledik. Esporu Türkiye&#8217;de kurumsal, organize ve profesyonel bir spor dalı haline getirdik. Esporda bizi dünya arenasında temsil eden, bayrağımızı dalgalandıran şampiyonların yetişmesine aracı olduk. Türkiye’de hizmete giren yeni sunucumuz,tüm oyuncularımızın faydalanabileceği yepyeni bir otoyol, bir olimpiyat stadı anlamına geliyor. Bu yatırımın oyuncularımıza daha iyi hizmet sunmanın yanı sıra, Türkiye’nin espordaki rekabet gücünü arttıracağına inanıyorum. Bu yeni yatırım sürecimizin başından sonuna kadar bize destek veren Türkiye Cumhuriyeti Başbakanlık Yatırım ve Destek Ajansı’na teşekkür ediyorum.”</p>
 <p>&#8220;GELİŞTİRİLEN ÖZEL İŞLEMCİLER DÜNYADA İLK KEZ TÜRKİYE’DE KULLANILACAK&#8221;</p>
-<p>League of Legends Sunucularında hizmet vermek üzere özel olarak geliştirilen işlemcilerinin dünyada ilk kez Türkiye&#8217;deki sunucuda kullanılacağını ifade eden Koçyiğit, &#8220;Türkiye’deki ekibin gelişimini yakından takip ettiği yeni işlemciler, League of Legends sunucularının ihtiyaçlarına uygun iyileştirmeler içeriyor. Bu sayede oyunculara daha az sayıda sunucuyla çok daha iyi hizmet vermek mümkün hale geliyor. Bu durum sunucuların enerji ve bakım giderlerinde de önemli oranda tasarruf sağlıyor&#8221; şeklinde konuştu.</p><p>The post <a href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/" target="_blank">Riot Games'ten Türkiye'ye yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>League of Legends Sunucularında hizmet vermek üzere özel olarak geliştirilen işlemcilerinin dünyada ilk kez Türkiye&#8217;deki sunucuda kullanılacağını ifade eden Koçyiğit, &#8220;Türkiye’deki ekibin gelişimini yakından takip ettiği yeni işlemciler, League of Legends sunucularının ihtiyaçlarına uygun iyileştirmeler içeriyor. Bu sayede oyunculara daha az sayıda sunucuyla çok daha iyi hizmet vermek mümkün hale geliyor. Bu durum sunucuların enerji ve bakım giderlerinde de önemli oranda tasarruf sağlıyor&#8221; şeklinde konuştu.</p>The post <a href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Riot Games’ten Türkiye’ye yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -512,7 +512,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=185</guid>
 
 					<description><![CDATA[<p>Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu. Samsung Electronics Güney Kore’deki yarı&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/" target="_blank">Samsung'tan Dev Yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Samsung’tan Dev Yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<ol>
 <li>Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu.</li>
 </ol>
@@ -520,7 +520,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <p>Samsung Electronics Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapacağını açıkladı.</p>
 <p>Tüketiciler markayı akıllı telefonlar ve televizyonlarla ilişkilendirse de, Samsung aslında dünyanın en büyük bellek çipi üreticisi. Nitekim Bloomberg’in verilerine göre, yarı iletkenler 2016 yılında şirketin işletme gelirinin hemen hemen yarısını sağladı. Bu yeni yatırım ise bu satış gelirinin daha da büyüyeceğine işaret ediyor.</p>
 <p>Samsung’tan yapılan açıklamada, şimdiye kadar 13,5 milyar dolar yatırılan Pyeongtaek’teki tesise 2021 yılına kadar toplam yatırımın 26 milyar dolara çıkacağı kaydedildi.</p>
-<p>Dünyada otomotiv endüstrisindeki ilerlemeler, yapay zeka ve Nesnelerin İnterneti’nin gelecek yıllarda yarı iletkene olan talebi artırması bekleniyor.</p><p>The post <a href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/" target="_blank">Samsung'tan Dev Yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Dünyada otomotiv endüstrisindeki ilerlemeler, yapay zeka ve Nesnelerin İnterneti’nin gelecek yıllarda yarı iletkene olan talebi artırması bekleniyor.</p>The post <a href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Samsung’tan Dev Yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -561,12 +561,12 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=163</guid>
 
 					<description><![CDATA[<p>Apple, müşterilerinin kendi cihazlarını onarma hakkına sahip olmasından gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor.&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/" target="_blank">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Apple, müşterilerinin <strong>kendi cihazlarını onarma hakkına sahip olmasından </strong>gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı.</p>
 <p>Dava, <strong>Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu)</strong> tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları durumunda ücretsiz onarım ve değişim hakkını kaybedeceklerini söylüyor. Avustralya kanununa göre, ürün &#8220;kusurlu veya kabul edilemez bir kalitede&#8221; ise, tüketiciler ücretsiz onarım ve değişim hakkına sahipler.</p>
 <p>Davalar şimdilik devam etse de bizim ülkemizde kanı teknik servis harici onarımın garanti dışı olacağına yönelik.</p>
 <p>Hayırlısı.</p>
-<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p><p>The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/" target="_blank">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p>The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -595,9 +595,9 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=35</guid>
 
 					<description><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p>
-<p>The post <a href="https://bilisimkurdu.github.io/youtube-kanalimiz/" target="_blank">YOUTUBE KANALIMIZ</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/youtube-kanalimiz/">YOUTUBE KANALIMIZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: <a>https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg</a></p>
-<p>Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p><p>The post <a href="https://bilisimkurdu.github.io/youtube-kanalimiz/" target="_blank">YOUTUBE KANALIMIZ</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p>The post <a href="https://bilisimkurdu.github.io/youtube-kanalimiz/">YOUTUBE KANALIMIZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/youtube-kanalimiz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -622,12 +622,12 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=6</guid>
 
 					<description><![CDATA[<p>&#160; &#160; Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/hos-geldiniz/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/hos-geldiniz/" target="_blank">Hoş Geldiniz</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/hos-geldiniz/">Hoş Geldiniz</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili gelişmeler ve yazılar bulunacaktır.</p>
 <p>Size şimdiden iyi okumalar dilerim.</p>
-<p><strong> Bilişim Kurdu Ekibi</strong></p><p>The post <a href="https://bilisimkurdu.github.io/hos-geldiniz/" target="_blank">Hoş Geldiniz</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p><strong> Bilişim Kurdu Ekibi</strong></p>The post <a href="https://bilisimkurdu.github.io/hos-geldiniz/">Hoş Geldiniz</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/hos-geldiniz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

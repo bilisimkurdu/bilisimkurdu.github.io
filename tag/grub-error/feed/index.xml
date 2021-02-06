@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>grub error | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/grub-error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 28 Nov 2019 12:49:37 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>grub error | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</title>
+		<link>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/</link>
+					<comments>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2019 12:24:05 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[does not boot from GRUB boot loader]]></category>
+		<category><![CDATA[grub error]]></category>
+		<category><![CDATA[grub hatası]]></category>
+		<category><![CDATA[GRUB önyükleyiciden önyükleme yapmıyor]]></category>
+		<category><![CDATA[grub rescue]]></category>
+		<category><![CDATA[grub rescue error]]></category>
+		<category><![CDATA[grub rescue hatası]]></category>
+		<category><![CDATA[pardus grub hatası]]></category>
+		<category><![CDATA[pardus grub rescue hatası]]></category>
+		<category><![CDATA[Windows 10 does not boot from GRUB boot loader]]></category>
+		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
+
+					<description><![CDATA[<p>Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba muhterem ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)</p>
+
+
+
+<p>Senaryomuz şu şekilde;</p>
+
+
+
+<p>Bilgisayara hem Linux tabanlı işletim sistemlerinden biri hem de Windows işletim sistemlerinden biri kurulmuş olsun. Belli bir süre sonra (güncelleme,sistem yapılandırma,arıza) gibi nedenlerle işletim sistemlerinden biri açılırken &#8220;grub rescue&#8221; hatası versin.</p>
+
+
+
+<span id="more-650"></span>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://www.easytechstutorials.com/wp-content/uploads/2019/05/grub1.png" alt=""/></figure>
+
+
+
+<p>Çözüm önerileri şunlardır;</p>
+
+
+
+<p>1)Windows&#8217;u açılmasını sağlayıp <a rel="noreferrer noopener" aria-label="Rufus (yeni sekmede açılır)" href="https://rufus.ie/" target="_blank">Rufus</a> yazılımı aracılığı ile <a rel="noreferrer noopener" aria-label="Boot Repair (yeni sekmede açılır)" href="https://sourceforge.net/projects/boot-repair-cd/files/" target="_blank">Boot Repair</a> iso dosyasıyla bootable diski hazırlamak.</p>
+
+
+
+<p>Grub hatasında Windows&#8217;un açılmasını sağlamak amacıyla Windows kurulum cd&#8217;si\diski -&gt; Kurtarma Seçenekleri -&gt; Komut istemi yolunu takip ederek aşağıdaki komutlar girilir.</p>
+
+
+
+<pre class="wp-block-code"><code>bootrec.exe /fixmbr
+bootrec.exe /fixboot  
+bootrec.exe /rebuildbcd</code></pre>
+
+
+
+<p>2)<a rel="noreferrer noopener" aria-label=" (yeni sekmede açılır)" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank">Android cihaz</a> ile  <a rel="noreferrer noopener" href="https://sourceforge.net/projects/boot-repair-cd/files/" target="_blank">Boot Repair</a> iso dosyasıyla bootable diski hazırlamak.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Konuyla ilişkin yazımız:</p><p><a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank" rel="noreferrer noopener" aria-label="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/ (yeni sekmede açılır)">https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</a></p></blockquote>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>döngüler &#8211; Bilişim Kurdu</title>
+	<title>döngüler | Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/donguler/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>döngüler &#8211; Bilişim Kurdu</title>
+	<title>döngüler | Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
 
 					<description><![CDATA[<p>Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/" target="_blank">Genel Programlama Mantığı - 3</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Genel Programlama Mantığı – 3</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 <p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
 <p><img src="http://www.robotiksistem.com/program_adimlari.jpg" alt="Program Yazma Aşamaları" /></p>
@@ -56,7 +56,7 @@
 • Algoritma : Çözüme götüren yolların belirlenmesi yani programlamanın algoritması oluşturulması<br />
 • Akış diyagramı : Algoritmanın anlaşılacak şekilde yani akış diyagramı ile gösterilmesi<br />
 • Programın yazımı ve hataların düzeltilmesi : Algoritmanın bir programlama dili ile program haline getirilmesi ve hataların düzeltilmesi<br />
-• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/" target="_blank">Genel Programlama Mantığı - 3</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+• Programın test edilmesi : Hazırlanan programın tespit edilen probleme çözüm olup olmadığını test etmek ve programın stabilitesinin test edilmesidir.</p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Genel Programlama Mantığı – 3</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -80,7 +80,7 @@
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=247</guid>
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/" target="_blank">Genel Programlamlama Mantığı - 2</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Genel Programlamlama Mantığı – 2</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>Bu yazımda akış şemasını göstereceğim.</p>
 <p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
@@ -129,7 +129,7 @@ Adım 11-DUR</pre>
 </table>
 <p>Genel Programlama Mantığını (Programlama Temelleri) iki yazımda klavyemin döndüğünce anlatmaya çalıştım.</p>
 <p>İyi akşamlar dilerim.</p>
-<p>Referens alınmıştır :&nbsp;<a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener noreferrer">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/" target="_blank">Genel Programlamlama Mantığı - 2</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Referens alınmıştır :&nbsp;<a href="http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm" target="_blank" rel="noopener noreferrer">http://www.yildiz.edu.tr/~wwwhid/TR/algoritma3.htm</a></p>The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Genel Programlamlama Mantığı – 2</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -153,7 +153,7 @@ Adım 11-DUR</pre>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=235</guid>
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/" target="_blank">Genel Programlama Mantığı - 1</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></description>
+The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Genel Programlama Mantığı – 1</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım.</p>
 <p>Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz.</p>
 <p>Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz.</p>
@@ -283,7 +283,7 @@ Adım 11-DUR</pre>
 <p>A4 x&#8217;i yazdır.</p>
 <p>A5 : Bitir.</p></blockquote>
 <p>Ve böylece algoritmayı tanımlayıp klavyemizin döndüğünce anlatmaya çalıştım.</p>
-<p>Kısmetse diğer yazımda konuyu devam ettirmenin arzusundayım.</p><p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/" target="_blank">Genel Programlama Mantığı - 1</a> first appeared on <a href="https://bilisimkurdu.github.io/" target="_blank">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Kısmetse diğer yazımda konuyu devam ettirmenin arzusundayım.</p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Genel Programlama Mantığı – 1</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows 10 update 0x80070522 error | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/windows-10-update-0x80070522-error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 13 Feb 2020 08:53:51 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Windows 10 update 0x80070522 error | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Required Privilege Is Not Held By The Client Error</title>
+		<link>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/</link>
+					<comments>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 08:49:38 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[0x80070522]]></category>
+		<category><![CDATA[0x80070522 error]]></category>
+		<category><![CDATA[0x80070522 hatası]]></category>
+		<category><![CDATA[Gerekli Ayrıcalık İstemci Hatası Tarafından Tutulmuyor]]></category>
+		<category><![CDATA[Required Privilege Is Not Held By The Client Error]]></category>
+		<category><![CDATA[Windows 10 update 0x80070522 error]]></category>
+		<category><![CDATA[Windows 10 upgrade 0x80070522 error]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=694</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
+
+
+
+<p>Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221;  hatasının çözümü ile ilgili olacak.</p>
+
+
+
+<span id="more-694"></span>
+
+
+
+<p>Hatanın çözümü ile ilgili uygulanabilecek yöntemler;</p>
+
+
+
+<p><strong><em>Local Securty Policies ayarları</em></strong></p>
+
+
+
+<p>Windows +R tuşlarına basarak <strong>secpol.msc</strong> yazılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/03/secpol.msc-in-run.png" alt="Secpol to open Local Security Policy"/></figure>
+
+
+
+<p><strong>Security Settings > Local Policies > Security Options</strong> aşamaları takip edilir.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Navigate-to-Security-Options-in-secpol.png" alt="Navigate to Security Settings &gt; Local Policies &gt; Security Options in secpol.msc "/></figure>
+
+
+
+<p>“<strong>User Account Control: Run all administrators in Admin Approval Mode.</strong>“ ifadesini bulup çift tık ile durumunu <strong>disable</strong> hale getiriyoruz.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Find-User-Account-Control-Run-all-administrators-in-Admin-Approval-Mode.png" alt="Find User Account Control: Run all administrators in Admin Approval Mode in Security Options"/><figcaption><br></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Disable-The-Admin-Approval-Mode.jpg" alt="Disable The Admin Approval Mode"/></figure>
+
+
+
+<p>cmd açılarak <code>gpupdate /force</code> komutu girilir ve bilgisayar yeniden başlatılır.</p>
+
+
+
+<p><strong><em>Regedit ayarları</em></strong></p>
+
+
+
+<p>Windows+R tuşlarına basılarak regedit yazılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2016/06/Run-command-regedit.png" alt="Run command regedit"/><figcaption><br></figcaption></figure>
+
+
+
+<p><strong>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system</strong></p>
+
+
+
+<p><strong>HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\system</strong></p>
+
+
+
+<p>yolları takip edilerek her iki register anahtarlarına &#8220;<strong>EnableLUA</strong>&#8221; DWORD değerini bulup çift tıklatınca &#8220;Value data&#8221; kısmına &#8220;0&#8221; değeri girilir.</p>
+
+
+
+<p>Bilgisayar yeniden başlatılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Change-the-value-of-EnableLUA-to-0-in-order-to-disable-it.png" alt="Change the value of EnableLUA to 0 in order to disable it"/></figure>
+
+
+
+<p><strong>Local admistrator hesabı aktifleştirme</strong></p>
+
+
+
+<p>cmd yönetici olarak açılarak <code>net user administrator /active:yes</code> komutu girilir. Mevcut kullanıcıdan çıkış yapılarak Administrator hesabı üzerinden güncelleme işlemi yapılır.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/search-for-cmd.jpg" alt="Search for CMD"/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/run-as-administrator.jpg" alt="Run as Administrator"/><figcaption><br></figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/command-prompt-enable.jpg" alt="Enable Command Prompt"/></figure>
+
+
+
+<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/built-in-administrator-login.jpg" alt="Login built-in administrator account"/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
