@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lineage OS 15 file manager | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/lineage-os-15-file-manager/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sat, 06 Feb 2021 13:35:36 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>Lineage OS 15 file manager | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lineage OS CM File manager yüklemek</title>
+		<link>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/</link>
+					<comments>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Sat, 06 Feb 2021 13:33:24 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Lineage OS]]></category>
+		<category><![CDATA[Lineage OS 14 file manager]]></category>
+		<category><![CDATA[Lineage OS 15 file manager]]></category>
+		<category><![CDATA[Lineage OS 16 file manager]]></category>
+		<category><![CDATA[Lineage OS 17 file manager]]></category>
+		<category><![CDATA[Lineage OS CM File manager]]></category>
+		<category><![CDATA[Lineage OS dosya yöneticisi]]></category>
+		<category><![CDATA[Lineage OS File Manager]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=845</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
+
+
+
+<p>Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve yüklemek isteyenler için yöntem var.</p>
+
+
+
+<span id="more-845"></span>
+
+
+
+<p><a href="http://bc.vc/8PlYyJ2" target="_blank" rel="noreferrer noopener">CM 12 ve  LineageOS 13 ve üstü</a></p>
+
+
+
+<p><a href="http://bc.vc/J4DcXtq" target="_blank" rel="noreferrer noopener">CM 12 altı</a></p>
+
+
+
+<p><a href="http://bc.vc/2Kn0Cs5" target="_blank" rel="noreferrer noopener">CM 11 ve altı</a></p>
+
+
+
+<p>CyanogenMod / Lineage OS Dosya Yöneticisi Nasıl Kurulur</p>
+
+
+
+<p>Yapmanız gereken ilk şey, Android sürümünüzü kontrol etmektir. Android&#8217;in daha eski bir sürümünü çalıştırıyorsanız, dosya yöneticisinin en son sürümü çalışmayabilir. Bu gibi durumlarda eski sürümlerden birini deneyin.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-1.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-1.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-2.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-2.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-3.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-3.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-4.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-4.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-5.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-5.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-6.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-6.png" alt=""/></a></figure>
+
+
+
+<p class="has-text-align-center">Android cihazınızı recovery modda başlatınız.</p>
+
+
+
+<p class="has-text-align-center">Recovery moda alındıkta sonra Yükle\Install&#8217;a dokununuz.</p>
+
+
+
+<p class="has-text-align-center">İndirmiş olduğuunuz zip dosyasını dokunun ve yükleyiniz.</p>
+
+
+
+<p class="has-text-align-center">Cihazınızı yeniden başlatınız.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

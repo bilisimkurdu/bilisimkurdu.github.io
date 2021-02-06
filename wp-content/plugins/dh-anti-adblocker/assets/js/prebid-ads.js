@@ -1,0 +1,1 @@
+var DHAntiAdBlocker = true;
