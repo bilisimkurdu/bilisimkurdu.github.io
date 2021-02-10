@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored. yazısına yapılan yorumlar	</title>
-	<atom:link href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/</link>
+	MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik. yazısına yapılan yorumlar	</title>
+	<atom:link href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 07 Nov 2019 12:33:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Sep 2019 06:24:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
