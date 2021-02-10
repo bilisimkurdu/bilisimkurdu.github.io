@@ -877,4 +877,14 @@
 			<image:title><![CDATA[lineage-os-cyanogenmod-file-manager-apk-for-all-devices]]></image:title>
 		</image:image>
 	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/flash-player-calistirma-2021/]]></loc>
+		<lastmod><![CDATA[2021-02-10T12:18:06+00:00]]></lastmod>
+		<changefreq><![CDATA[daily]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://bilisimkurdu.github.io/wp-content/uploads/2021/02/5f9a5eea554287008ca832ca.jpg]]></image:loc>
+			<image:title><![CDATA[5f9a5eea554287008ca832ca]]></image:title>
+		</image:image>
+	</url>
 </urlset>

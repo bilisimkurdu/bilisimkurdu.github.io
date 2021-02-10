@@ -5,10 +5,16 @@
 		<title>Bilişim Kurdu</title>
 		<link><![CDATA[http://localhost/bilisimkurdu]]></link>
 		<description><![CDATA[Bilişim Kurdu]]></description>
-		<lastBuildDate><![CDATA[2021-02-06T13:35:36+00:00]]></lastBuildDate>
+		<lastBuildDate><![CDATA[2021-02-10T12:18:06+00:00]]></lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 		<ttl>0</ttl>
 
+		<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/flash-player-calistirma-2021/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/flash-player-calistirma-2021/]]></link>
+			<title>Flash  Player çalıştırma 2021</title>
+			<pubDate><![CDATA[2021-02-10T12:18:06+00:00]]></pubDate>
+		</item>
 		<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></link>
@@ -302,12 +308,6 @@
 			<link><![CDATA[https://bilisimkurdu.github.io/entity-frameworku-mysqlde-kullanmak/]]></link>
 			<title>Entity Framework&#8217;ü MYSQL&#8217;de kullanmak</title>
 			<pubDate><![CDATA[2019-03-21T19:59:00+00:00]]></pubDate>
-		</item>
-		<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/windows-10-1803-dil-paketleri/]]></link>
-			<title>Windows 10 1803 dil paketleri</title>
-			<pubDate><![CDATA[2019-03-13T19:21:06+00:00]]></pubDate>
 		</item>
 	</channel>
 </rss>
