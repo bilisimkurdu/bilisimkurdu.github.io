@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 10 Feb 2021 12:18:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Feb 2021 11:21:20 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
@@ -28,6 +28,160 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bütün android cihazlarda root işlemi [Marka model farketmez]</title>
+		<link>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/</link>
+					<comments>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2021 11:21:18 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[android root]]></category>
+		<category><![CDATA[android root apk]]></category>
+		<category><![CDATA[android root atma]]></category>
+		<category><![CDATA[android root atma 2020]]></category>
+		<category><![CDATA[android root atma 2021]]></category>
+		<category><![CDATA[android root atma apk]]></category>
+		<category><![CDATA[android root atma programı]]></category>
+		<category><![CDATA[android root atma programları]]></category>
+		<category><![CDATA[android root atma uygulamaları]]></category>
+		<category><![CDATA[android root kaldırma]]></category>
+		<category><![CDATA[android root ne işe yarar]]></category>
+		<category><![CDATA[android root nedir]]></category>
+		<category><![CDATA[android root programı]]></category>
+		<category><![CDATA[android root tool]]></category>
+		<category><![CDATA[android root yapma]]></category>
+		<category><![CDATA[what is root and how to root android]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak.</p>
+
+
+
+<p>Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir.</p>
+
+
+
+<span id="more-856"></span>
+
+
+
+<p><a href="http://bc.vc/iJe5H8Y" target="_blank" rel="noreferrer noopener">Magisk Manager</a></p>
+
+
+
+<p>Magisk Manager ile yükleme aşamaları</p>
+
+
+
+<p>Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız.</p>
+
+
+
+<p>Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz.</p>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4002837437256869"
+     data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/VPOw6c.png" alt=""/></figure>
+
+
+
+<p>ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/6WqFfg.png" alt=""/></figure>
+
+
+
+<p>&#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip karşımıza açılan pencereden cihazımıza aktardğımız boot.img dosyasını seçiyoruz.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/0VDfyi.png" alt=""/></figure>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4002837437256869"
+     data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/o53Tbu.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/GWtlRN.png" alt=""/></figure>
+
+
+
+<p>&#8220;Devam Et&#8221; dokunarak patch işlemini başlayacak. &#8220;All done&#8221; ibraseni gördükten sonra (/scdard/Download) dizini veya Downloads klasöründeki  bilgisayarınıza patched&#8230; ile başlayam img dosyasını aktarınız.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/aikMsr.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/0XElwA.png" alt=""/></figure>
+
+
+
+<p>Bilgisayarınıza atardıktan sonra dosyanın ismini boot.img olarak değiştiriniz.</p>
+
+
+
+<p>Sonra aşağıdaki linkteki işlemi yapınız.</p>
+
+
+
+<p><a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/</a></p>
+
+
+
+<p>Sonra cd komutu ile boot.img dosyasının bulunduğu dizine gelip aşağıdaki komutları yazınız.</p>
+
+
+
+<pre class="wp-block-code"><code>fastboot flash boot boot.img
+fastboot reboot</code></pre>
+
+
+
+<p>İşlemimiz tamamlanmıştır.</p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Flash  Player çalıştırma 2021</title>
 		<link>https://bilisimkurdu.github.io/flash-player-calistirma-2021/</link>
 					<comments>https://bilisimkurdu.github.io/flash-player-calistirma-2021/#respond</comments>
@@ -298,7 +452,7 @@ The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-o
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -1385,7 +1539,7 @@ The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first app
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -4664,7 +4818,7 @@ The post <a href="https://bilisimkurdu.github.io/the-net-core-sdk-is-installed-i
 
 
 
-<blockquote class="wp-block-quote"><p>x86 :32bit işletim sistemleri</p><p>x64 :64bit işletim sistemleri</p><cite>Ufak bir hatırlatma <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></cite></blockquote>
+<blockquote class="wp-block-quote"><p>x86 :32bit işletim sistemleri</p><p>x64 :64bit işletim sistemleri</p><cite>Ufak bir hatırlatma <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></cite></blockquote>
 
 
 
@@ -5052,7 +5206,7 @@ The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti
 
 
 
-<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -5510,7 +5664,7 @@ The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">G
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Okumaya devam et</a></p>
 The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Genel Programlamlama Mantığı – 2</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>Bu yazımda akış şemasını göstereceğim.</p>
 <p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
 <p>Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır.<br />
@@ -5978,7 +6132,7 @@ The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">A
 
 					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
 The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>

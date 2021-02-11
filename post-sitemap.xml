@@ -887,4 +887,14 @@
 			<image:title><![CDATA[5f9a5eea554287008ca832ca]]></image:title>
 		</image:image>
 	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/]]></loc>
+		<lastmod><![CDATA[2021-02-11T11:21:20+00:00]]></lastmod>
+		<changefreq><![CDATA[daily]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://bilisimkurdu.github.io/wp-content/uploads/2021/02/root-nedir-ve-android-cihazda-nasil-yapilir.jpg]]></image:loc>
+			<image:title><![CDATA[root-nedir-ve-android-cihazda-nasil-yapilir]]></image:title>
+		</image:image>
+	</url>
 </urlset>

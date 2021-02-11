@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>android root nedir | Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/android-root-nedir/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 11 Feb 2021 11:21:20 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
+	<title>android root nedir | Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bütün android cihazlarda root işlemi [Marka model farketmez]</title>
+		<link>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/</link>
+					<comments>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2021 11:21:18 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[android root]]></category>
+		<category><![CDATA[android root apk]]></category>
+		<category><![CDATA[android root atma]]></category>
+		<category><![CDATA[android root atma 2020]]></category>
+		<category><![CDATA[android root atma 2021]]></category>
+		<category><![CDATA[android root atma apk]]></category>
+		<category><![CDATA[android root atma programı]]></category>
+		<category><![CDATA[android root atma programları]]></category>
+		<category><![CDATA[android root atma uygulamaları]]></category>
+		<category><![CDATA[android root kaldırma]]></category>
+		<category><![CDATA[android root ne işe yarar]]></category>
+		<category><![CDATA[android root nedir]]></category>
+		<category><![CDATA[android root programı]]></category>
+		<category><![CDATA[android root tool]]></category>
+		<category><![CDATA[android root yapma]]></category>
+		<category><![CDATA[what is root and how to root android]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Okumaya devam et</a></p>
+The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak.</p>
+
+
+
+<p>Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir.</p>
+
+
+
+<span id="more-856"></span>
+
+
+
+<p><a href="http://bc.vc/iJe5H8Y" target="_blank" rel="noreferrer noopener">Magisk Manager</a></p>
+
+
+
+<p>Magisk Manager ile yükleme aşamaları</p>
+
+
+
+<p>Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız.</p>
+
+
+
+<p>Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz.</p>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4002837437256869"
+     data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/VPOw6c.png" alt=""/></figure>
+
+
+
+<p>ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/6WqFfg.png" alt=""/></figure>
+
+
+
+<p>&#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip karşımıza açılan pencereden cihazımıza aktardğımız boot.img dosyasını seçiyoruz.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/0VDfyi.png" alt=""/></figure>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4002837437256869"
+     data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/o53Tbu.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/GWtlRN.png" alt=""/></figure>
+
+
+
+<p>&#8220;Devam Et&#8221; dokunarak patch işlemini başlayacak. &#8220;All done&#8221; ibraseni gördükten sonra (/scdard/Download) dizini veya Downloads klasöründeki  bilgisayarınıza patched&#8230; ile başlayam img dosyasını aktarınız.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/aikMsr.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/0XElwA.png" alt=""/></figure>
+
+
+
+<p>Bilgisayarınıza atardıktan sonra dosyanın ismini boot.img olarak değiştiriniz.</p>
+
+
+
+<p>Sonra aşağıdaki linkteki işlemi yapınız.</p>
+
+
+
+<p><a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/</a></p>
+
+
+
+<p>Sonra cd komutu ile boot.img dosyasının bulunduğu dizine gelip aşağıdaki komutları yazınız.</p>
+
+
+
+<pre class="wp-block-code"><code>fastboot flash boot boot.img
+fastboot reboot</code></pre>
+
+
+
+<p>İşlemimiz tamamlanmıştır.</p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
