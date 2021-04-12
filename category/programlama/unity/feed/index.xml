@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Unity | Bilişim Kurdu</title>
+	<title>Unity - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/unity/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 28 Mar 2020 13:16:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Mar 2020 13:16:14 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>Unity | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Unity - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
 					<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Genel]]></category>
@@ -54,7 +54,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -107,7 +107,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmu
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -119,7 +119,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmu
 		<link>https://bilisimkurdu.github.io/linux-unity-yukleme/</link>
 					<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Programlama]]></category>
@@ -140,7 +140,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmu
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
 
 					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 
 
@@ -174,7 +174,7 @@ The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Uni
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<figure class="wp-block-image"><img src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure><p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

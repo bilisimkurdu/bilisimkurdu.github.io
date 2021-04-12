@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>ubuntu high cpu used | Bilişim Kurdu</title>
+	<title>ubuntu high cpu used - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/ubuntu-high-cpu-used/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 07 Aug 2019 10:32:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Aug 2019 10:32:11 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>ubuntu high cpu used | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>ubuntu high cpu used - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/</link>
 					<comments>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Wed, 07 Aug 2019 10:32:11 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[ubuntu high cpu usage]]></category>
@@ -43,7 +43,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
 
 					<description><![CDATA[<p>Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -68,7 +68,7 @@ The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

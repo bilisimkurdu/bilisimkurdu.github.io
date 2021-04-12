@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>wsl linux programlarını çalıştırma | Bilişim Kurdu</title>
+	<title>wsl linux programlarını çalıştırma - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/wsl-linux-programlarini-calistirma/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 01 Apr 2020 16:48:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Apr 2020 16:48:21 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>wsl linux programlarını çalıştırma | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>wsl linux programlarını çalıştırma - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/wsl-gui/</link>
 					<comments>https://bilisimkurdu.github.io/wsl-gui/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Wed, 01 Apr 2020 16:48:21 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
@@ -48,7 +48,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -57,7 +57,7 @@ The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first app
 
 
 
-<span id="more-760"></span>
+<span id="more-860"></span>
 
 
 
@@ -116,7 +116,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

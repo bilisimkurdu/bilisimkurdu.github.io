@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>microsoft | Bilişim Kurdu</title>
+	<title>microsoft - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 16 Apr 2019 19:49:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Apr 2019 19:49:02 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>microsoft | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>microsoft - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -46,7 +46,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
@@ -71,7 +71,7 @@ The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/"
 
 
 
-<p>İyi Akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -83,7 +83,7 @@ The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/"
 		<link>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/</link>
 					<comments>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sun, 21 Oct 2018 15:05:53 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[Intel]]></category>
@@ -105,11 +105,11 @@ The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/"
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
 
 					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
 <span id="more-362"></span><br />
 Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.</p>
-<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Microsoft, şimdi aynı çözümü kendi işletim sisteminde kullanmak istiyor. Bu çözüm, Windows 10&#8217;un bir sonraki işlev güncellemesiyle (kod adı 19H1) işletim sistemine ilave edilecek.</p><p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -121,7 +121,7 @@ Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#821
 		<link>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/</link>
 					<comments>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 02 May 2017 10:32:42 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[MSSQL]]></category>
@@ -149,7 +149,7 @@ Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#821
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
 
 					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
@@ -165,7 +165,7 @@ source ~/.bashrc</p>
 <p>systemctl status mssql-server komutu ile MSSQL servislerini kontrol edebilirsiniz.</p>
 <p>sqlcmd -S localhost -U SA -P &#8216;sifreniz&#8217;    komutu ile bağlanabilirsiniz.</p>
 <p>(sifreniz=mssql kurarken belirlediğiniz şifre)</p>
-<p>&nbsp;</p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -177,7 +177,7 @@ source ~/.bashrc</p>
 		<link>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/</link>
 					<comments>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2017 12:40:20 +0000</pubDate>
 				<category><![CDATA[MSSQL]]></category>
 		<category><![CDATA[PC]]></category>
@@ -202,7 +202,7 @@ source ~/.bashrc</p>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=120</guid>
 
 					<description><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım.</p>
 <p>Şu adımları uygulamaya başladım.</p>
 <p><strong>1) Public repo keyini import ediyoruz.</strong></p>
@@ -232,8 +232,8 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 <p>İyi Çalışmalar ve İyi Günler dilerim.</p>
 <p>Kaynakça :</p>
 <blockquote class="wp-embedded-content" data-secret="m9UUkFd2Vt"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
-<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
-<p>http://www.4s.com.tr/8523-2/</p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p><iframe loading="lazy" title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>http://www.4s.com.tr/8523-2/</p><p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -245,7 +245,7 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 		<link>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/</link>
 					<comments>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 20 Jan 2017 13:59:01 +0000</pubDate>
 				<category><![CDATA[PC]]></category>
 		<category><![CDATA[10]]></category>
@@ -263,12 +263,12 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=87</guid>
 
 					<description><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak.</p>
 <p><span id="more-87"></span></p>
 <p>Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli <strong>Windows 10 Enterprise E3</strong> ve E5 (Secure Procuctive sürümleri) hali hazırda Windows 7 – Windows 8.1 kurumsal kullanıcılara ücretsiz olarak gelecek.</p>
 <p>Yani işletmeler kurumsal Win 7,8.1 enterprise e3 ve e5 sürümlerini Windows 10 gerekli sürümlerini ücretsiz olarak indirip kurabilir.</p>
-<p>Bu sürümler özellikle kurumsal işletmeler için oldukça yüklü meblağlara güncelleniyordu. Üstelik ücretsiz güncelleme olanağı kurumsal işletim sistemleri içinde sağlanmamıştı. <strong>Microsoft</strong> bu noktada daha önce ücretsiz yükseltme olanağı tanımadığı kurumsal yapıların da gönlünü alıyor. Microsoft daha önce Windows 7 Kurumsal ve Windows 8/8.1 Kurumsal için Windows 10’a ücretsiz yükseltme imkanının bulunmayacağını dile getirmişti.</p>The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Bu sürümler özellikle kurumsal işletmeler için oldukça yüklü meblağlara güncelleniyordu. Üstelik ücretsiz güncelleme olanağı kurumsal işletim sistemleri içinde sağlanmamıştı. <strong>Microsoft</strong> bu noktada daha önce ücretsiz yükseltme olanağı tanımadığı kurumsal yapıların da gönlünü alıyor. Microsoft daha önce Windows 7 Kurumsal ve Windows 8/8.1 Kurumsal için Windows 10’a ücretsiz yükseltme imkanının bulunmayacağını dile getirmişti.</p><p>The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

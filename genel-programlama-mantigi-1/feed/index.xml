@@ -11,11 +11,11 @@
 	<atom:link href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io/genel-programlama-mantigi-1/</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 02 Nov 2017 18:39:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Oct 2017 20:39:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 </channel>
 </rss>

@@ -11,11 +11,11 @@
 	<atom:link href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 13 Feb 2020 08:54:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2020 08:10:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 </channel>
 </rss>

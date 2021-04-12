@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>paketi işlenirken sorun yaşandı (--install): | Bilişim Kurdu</title>
+	<title>paketi işlenirken sorun yaşandı (--install): - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/paketi-islenirken-sorun-yasandi-install/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 07 Oct 2019 13:39:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Oct 2019 13:39:20 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>paketi işlenirken sorun yaşandı (--install): | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>paketi işlenirken sorun yaşandı (--install): - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/</link>
 					<comments>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Mon, 07 Oct 2019 13:39:20 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[paketi işlenirken sorun yaşandı (--install):]]></category>
@@ -42,7 +42,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=583</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">deb paketi yüklenirken “paketi işlenirken sorun yaşandı (–install)”</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">deb paketi yüklenirken “paketi işlenirken sorun yaşandı (–install)”</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -69,7 +69,7 @@ sudo apt --fix-broken install</code></pre>
 
 
 
-<p>Akabinden .deb paketi tekrardan yüklenir.</p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">deb paketi yüklenirken “paketi işlenirken sorun yaşandı (–install)”</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Akabinden .deb paketi tekrardan yüklenir.</p><p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">deb paketi yüklenirken “paketi işlenirken sorun yaşandı (–install)”</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>cep telefonu bootable usb yapma | Bilişim Kurdu</title>
+	<title>cep telefonu bootable usb yapma - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/cep-telefonu-bootable-usb-yapma/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 28 Nov 2019 12:50:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Nov 2019 10:47:03 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>cep telefonu bootable usb yapma | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>cep telefonu bootable usb yapma - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</link>
 					<comments>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Wed, 20 Nov 2019 10:47:03 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
@@ -46,7 +46,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -80,7 +80,7 @@ The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -90,7 +90,7 @@ The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="ISO2USB ile Windows ISO bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="ISO2USB ile Windows ISO bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -100,7 +100,7 @@ The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="1140" height="641" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="1140" height="641" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -109,7 +109,7 @@ The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

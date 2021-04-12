@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android SDK Tools are empty VS 2019 - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/android-sdk-tools-are-empty-vs-2019/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 12 Apr 2021 12:44:05 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Android SDK Tools are empty VS 2019 - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Xamarin Forms and Xamarin Android Android SDK is empty &#8211; no platforms or tools</title>
+		<link>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/</link>
+					<comments>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 12 Apr 2021 12:44:04 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Android SDK is empty]]></category>
+		<category><![CDATA[Android SDK is empty - no platforms or tools]]></category>
+		<category><![CDATA[Android SDK Tools are empty]]></category>
+		<category><![CDATA[Android SDK Tools are empty VS]]></category>
+		<category><![CDATA[Android SDK Tools are empty VS 2019]]></category>
+		<category><![CDATA[Xamarin Forms and Xamarin Android Android SDK is empty - no platforms or tools]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=889</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;</p>
+
+
+
+<p>Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android SDK boş sayfa vermesi ile karşılaşılması durumunda neler yapılması  gerektiği hususunda olacak.</p>
+
+
+
+<span id="more-889"></span>
+
+
+
+<p>Hata görseli;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
+
+
+
+<p>Çözüm yöntemi (Bende işe yaradı.)</p>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4002837437256869"
+     data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<p>Android SDK Tools penceresinin sağ altta Ayar simgesi ->Reposity -> Full List (Unsupported) seçeneğini seçiyoruz. Sayfa otomatik olarak yenilecek ve sdk ve toolar görünecektir.</p>
+
+
+
+<p>Bu konuyla ilgili videomuz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1140" height="641" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Anlaşılmadıysa yorumlarda belirtebilirsiniz.</p><p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

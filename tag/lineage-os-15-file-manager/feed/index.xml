@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Lineage OS 15 file manager | Bilişim Kurdu</title>
+	<title>Lineage OS 15 file manager - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/lineage-os-15-file-manager/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 06 Feb 2021 13:35:36 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Feb 2021 13:33:24 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>Lineage OS 15 file manager | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Lineage OS 15 file manager - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/</link>
 					<comments>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sat, 06 Feb 2021 13:33:24 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[Lineage OS]]></category>
@@ -46,7 +46,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=845</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 
 
@@ -123,7 +123,7 @@ The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yukl
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

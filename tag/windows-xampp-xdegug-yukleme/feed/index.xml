@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>windows xampp xdegug yükleme | Bilişim Kurdu</title>
+	<title>windows xampp xdegug yükleme - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/windows-xampp-xdegug-yukleme/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 15 Feb 2020 18:58:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2020 08:52:02 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>windows xampp xdegug yükleme | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>windows xampp xdegug yükleme - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/</link>
 					<comments>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Thu, 13 Feb 2020 08:52:02 +0000</pubDate>
 				<category><![CDATA[PHP]]></category>
 		<category><![CDATA[Programlama]]></category>
@@ -52,7 +52,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=698</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -140,7 +140,7 @@ xdebug.show_local_vars = 9</code></pre>
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/xampp-xdebug-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

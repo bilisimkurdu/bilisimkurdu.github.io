@@ -8,31 +8,107 @@
 	>
 
 <channel>
-	<title>Genel | Bilişim Kurdu</title>
+	<title>Genel - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/category/genel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 11 Feb 2021 11:21:20 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Apr 2021 12:44:05 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>Genel | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Genel - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Xamarin Forms and Xamarin Android Android SDK is empty &#8211; no platforms or tools</title>
+		<link>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/</link>
+					<comments>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 12 Apr 2021 12:44:04 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<category><![CDATA[Android SDK is empty]]></category>
+		<category><![CDATA[Android SDK is empty - no platforms or tools]]></category>
+		<category><![CDATA[Android SDK Tools are empty]]></category>
+		<category><![CDATA[Android SDK Tools are empty VS]]></category>
+		<category><![CDATA[Android SDK Tools are empty VS 2019]]></category>
+		<category><![CDATA[Xamarin Forms and Xamarin Android Android SDK is empty - no platforms or tools]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=889</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Okumaya devam et</a></p>
+<p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;</p>
+
+
+
+<p>Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android SDK boş sayfa vermesi ile karşılaşılması durumunda neler yapılması  gerektiği hususunda olacak.</p>
+
+
+
+<span id="more-889"></span>
+
+
+
+<p>Hata görseli;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
+
+
+
+<p>Çözüm yöntemi (Bende işe yaradı.)</p>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4002837437256869"
+     data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<p>Android SDK Tools penceresinin sağ altta Ayar simgesi ->Reposity -> Full List (Unsupported) seçeneğini seçiyoruz. Sayfa otomatik olarak yenilecek ve sdk ve toolar görünecektir.</p>
+
+
+
+<p>Bu konuyla ilgili videomuz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1140" height="641" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Anlaşılmadıysa yorumlarda belirtebilirsiniz.</p><p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bütün android cihazlarda root işlemi [Marka model farketmez]</title>
 		<link>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/</link>
 					<comments>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Thu, 11 Feb 2021 11:21:18 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[android root]]></category>
@@ -54,7 +130,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -174,7 +250,7 @@ fastboot reboot</code></pre>
 
 
 
-<p>İşlemimiz tamamlanmıştır.</p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İşlemimiz tamamlanmıştır.</p><p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -186,7 +262,7 @@ fastboot reboot</code></pre>
 		<link>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/</link>
 					<comments>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sat, 06 Feb 2021 13:33:24 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[Lineage OS]]></category>
@@ -200,7 +276,7 @@ fastboot reboot</code></pre>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=845</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 
 
@@ -277,7 +353,7 @@ The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yukl
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -289,7 +365,7 @@ The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yukl
 		<link>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/</link>
 					<comments>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sat, 28 Mar 2020 13:16:14 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[Genel]]></category>
@@ -311,7 +387,7 @@ The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yukl
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -364,7 +440,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmu
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -376,7 +452,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmu
 		<link>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/</link>
 					<comments>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Thu, 26 Sep 2019 06:24:40 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[MonoDevelop]]></category>
@@ -385,7 +461,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmu
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=574</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -402,7 +478,7 @@ The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekl
 
 
 
-<p>Bu hatanın çözümü olarak Solution Explorer -> NuGet (Sağ tık) -> Geri yükle aşamalarını takip ederek NuGet paketlerin yeniden yüklenmesi yöntemi uygulanırç </p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Bu hatanın çözümü olarak Solution Explorer -> NuGet (Sağ tık) -> Geri yükle aşamalarını takip ederek NuGet paketlerin yeniden yüklenmesi yöntemi uygulanırç </p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -414,7 +490,7 @@ The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekl
 		<link>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/</link>
 					<comments>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 03 May 2019 18:38:21 +0000</pubDate>
 				<category><![CDATA[ADO.NET]]></category>
 		<category><![CDATA[C#]]></category>
@@ -434,7 +510,7 @@ The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekl
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -531,7 +607,7 @@ The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-c
 
 
 
-<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -543,7 +619,7 @@ The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-c
 		<link>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/</link>
 					<comments>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Wed, 27 Feb 2019 17:40:29 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -558,7 +634,7 @@ The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-c
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
 
 					<description><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler,</p>
 
 
@@ -607,7 +683,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -619,7 +695,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<link>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/</link>
 					<comments>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 04 Sep 2018 13:40:15 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[bilişim]]></category>
@@ -632,7 +708,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=346</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 <p>Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi <a href="https://www.teknokizilelma.ooo/" target="_blank" rel="noopener">Tekno Kızılelma</a> adıyla birleştirdik.</p>
 <p>Tekno Kızılelma projesi kapsamında;</p>
@@ -645,7 +721,7 @@ The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜ
 <p>Nice katkılarda bulunmak dileğiyle.</p>
 <p>#TÜRKİYE</p>
 <p>#TeknoKızılelma</p>
-<p>#DahaGüzelGeliyoruz</p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>#DahaGüzelGeliyoruz</p><p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/daha-guzel-geliyoruz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -657,7 +733,7 @@ The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜ
 		<link>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/</link>
 					<comments>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 05 Jun 2018 09:53:54 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[İnternet]]></category>
@@ -669,7 +745,7 @@ The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜ
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 <p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
 Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
@@ -677,8 +753,8 @@ Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalış
 Adblock eklentileri şu şekilde çalışır;<br />
 <img src="https://i.hizliresim.com/Q2JgkV.jpg" /></p>
 <p>Konu ile alakalı video;</p>
-<p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
-<p>İyi okumalar dilerim.</p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p><iframe loading="lazy" width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
+<p>İyi okumalar dilerim.</p><p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -696,197 +772,16 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=191</guid>
 
 					<description><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması. Kurul açıklamasında şöyle denildi: &#8220;İnternet kafelere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması.</p>
 <p>Kurul açıklamasında şöyle denildi:</p>
-<p>&#8220;İnternet kafelere yönelik olarak hazırlanan “3+ Projesi” kapsamında 4054 sayılı Kanun’un ihlal edildiği iddiasını içeren şikayet başvurusunu Danıştay 13. Dairesinin kararı üzerine yeniden değerlendirdi.<img loading="lazy" class="alignnone size-medium wp-image-202" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/microsoft-300x142.jpg" alt="" width="300" height="142" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-300x142.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-768x364.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/microsoft-1024x485.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&#8220;İnternet kafelere yönelik olarak hazırlanan “3+ Projesi” kapsamında 4054 sayılı Kanun’un ihlal edildiği iddiasını içeren şikayet başvurusunu Danıştay 13. Dairesinin kararı üzerine yeniden değerlendirdi.<img loading="lazy" class="alignnone size-medium wp-image-202" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/microsoft-300x142.jpg" alt="" width="300" height="142" /></p>
 <p>Daha önce bahse konu şikayet nedeniyle yapılan önaraştırmada, söz konusu faaliyetler incelenmiş, 07.12.2011 tarihinde 11-60/1555-550 sayı ile şikayetin reddine ve soruşturma açılmamasına karar verilmişti. Ancak anılan Kurul kararı Danıştay 13. Dairesinin, 25.10.2016 tarih, 2012/1000 E.; 2016/3413 K. sayılı kararı ile iptal edildi.</p>
 <p>Dosyada yer alan bilgi ve belgeleri 20.04.2017 tarihli toplantısında müzakere eden Kurul, ilgili mahkeme kararında belirtilen hususları dikkate alarak, 4054 sayılı Kanun&#8217;un 6. maddesini ihlal edip etmediğinin tespitine yönelik olarak aynı Kanun’un 41. maddesi uyarınca;</p>
 <p>Microsoft Bilgisayar Yazılım Hizmetleri Ltd. Şti. hakkında soruşturma açılmasına 17-13/171-M sayı ile karar verdi.</p>
-<p>Bilindiği üzere 4054 sayılı Kanun’un 6. maddesi hâkim durumun kötüye kullanılmasını yasaklamaktadır.&#8221;</p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Bilindiği üzere 4054 sayılı Kanun’un 6. maddesi hâkim durumun kötüye kullanılmasını yasaklamaktadır.&#8221;</p><p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Riot Games&#8217;ten Türkiye&#8217;ye yatırım</title>
-		<link>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/</link>
-					<comments>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 14 Jul 2017 08:35:48 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[PC]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[game]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[kurdu]]></category>
-		<category><![CDATA[oyun]]></category>
-		<category><![CDATA[riot]]></category>
-		<category><![CDATA[riot games]]></category>
-		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=188</guid>
-
-					<description><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Riot Games’ten Türkiye’ye yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Los Angeles/California merkezli bir oyun yapım ve dağıtım şirketi olan Riot Games, League of Legends sunucusunu Türkiye’ye getirerek 10 milyon TL&#8217;lik yatırım yaptığını duyurdu.</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-194" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir.png" alt="" width="255" height="198" /></p>
-<p>Dünyanın en oyuncu odaklı şirketlerinden olmayı ilke edinen Riot Games, 10 Milyon TL’lik yatırımla League of Legends Sunucusunu Türkiye’ye getirdiğini ve bu sayede Türkiye’nin dört bir köşesindeki milyonlarca League of Legends oyuncusuna çok daha hızlı ve kaliteli hizmet sunacağını açıkladı.</p>
-<p>League of Legends Türkiye Sunucusunun devreye girmesiyle Türkiye’deki League of Legends oyuncularının mevcut bağlantı hızlarına bağlı olarak yaşadıkları gecikme sürelerinin (ping) daha da azalmasının hedeflendiği bildirildi.</p>
-<p>&#8220;BU YATIRIM TÜRKİYE&#8217;DEKİ OYUNCULARIMIZA OLAN İNANCIN GÖSTERGESİDİR&#8221;</p>
-<p>Riot Games Türkiye Ülke Müdürü Bora Koçyiğit, yapılan bu yatırımın Türkiye&#8217;de milyonlarca oyuncu için 5 yıldır değer üretmeye devam eden ve kendi sektöründe dev bir ekosistemin şekillenmesine yol açan şirketin, Türkiye&#8217;ye yatırım yapma konusundaki kararlılığına işaret ettiğini söyledi.Riot Games Türkiye olarak SunucununTürkiye&#8217;ye getirilmesi yönünde büyük çaba harcadıklarını belirten Koçyiğit, “Birçok yabancı şirketin Türkiye’deki yatırımlarını gözden geçirdiği bir dönemde yaptığımız bu yatırım, Türkiye’ye ve Türkiye’deki oyuncularımıza olan inancımızın ve verdiğimiz değerin göstergesidir” dedi.</p>
-<p>&#8220;5 YILDA DEV BİR EKOSİSTEMİN OLUŞUMUNA ÖNCÜLÜK ETTİK&#8221;</p>
-<p>Bu yıl Türkiye’deki 5&#8217;inci yılını dolduran Riot Games Türkiye’nin önemli başarılara imza attığını aktaran Koçyiğit, uluslararası bir oyun yayıncısı olan Riot Games’in Türkiye’de yarattığı doğrudan istihdamın yanı sıra, fırsatlarla dolu dev bir ekosistemin gelişimine de katkıda bulunduğuna dikkat çekti. Türkiye&#8217;de oyunculara ve espor ekosistemine, bugüne kadar hiçbir oyun şirketinin yapmadığı kadar büyük yatırım yaptıklarını ifade eden Koçyiğit, şunları söyledi:</p>
-<p>“Geçtiğimiz 5 yılda oyunumuzu Türkiye için yerelleştirirken,ülkenin önde gelen seslendirme sanatçılarıyla ve stüdyolarıyla çalıştık. Oyuncuları bir araya getiren büyük çaplı organizasyonlar düzenledik. Esporu Türkiye&#8217;de kurumsal, organize ve profesyonel bir spor dalı haline getirdik. Esporda bizi dünya arenasında temsil eden, bayrağımızı dalgalandıran şampiyonların yetişmesine aracı olduk. Türkiye’de hizmete giren yeni sunucumuz,tüm oyuncularımızın faydalanabileceği yepyeni bir otoyol, bir olimpiyat stadı anlamına geliyor. Bu yatırımın oyuncularımıza daha iyi hizmet sunmanın yanı sıra, Türkiye’nin espordaki rekabet gücünü arttıracağına inanıyorum. Bu yeni yatırım sürecimizin başından sonuna kadar bize destek veren Türkiye Cumhuriyeti Başbakanlık Yatırım ve Destek Ajansı’na teşekkür ediyorum.”</p>
-<p>&#8220;GELİŞTİRİLEN ÖZEL İŞLEMCİLER DÜNYADA İLK KEZ TÜRKİYE’DE KULLANILACAK&#8221;</p>
-<p>League of Legends Sunucularında hizmet vermek üzere özel olarak geliştirilen işlemcilerinin dünyada ilk kez Türkiye&#8217;deki sunucuda kullanılacağını ifade eden Koçyiğit, &#8220;Türkiye’deki ekibin gelişimini yakından takip ettiği yeni işlemciler, League of Legends sunucularının ihtiyaçlarına uygun iyileştirmeler içeriyor. Bu sayede oyunculara daha az sayıda sunucuyla çok daha iyi hizmet vermek mümkün hale geliyor. Bu durum sunucuların enerji ve bakım giderlerinde de önemli oranda tasarruf sağlıyor&#8221; şeklinde konuştu.</p>The post <a href="https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/">Riot Games’ten Türkiye’ye yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/riot-gamesten-turkiyeye-yatirim/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Samsung&#8217;tan Dev Yatırım</title>
-		<link>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/</link>
-					<comments>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 14 Jul 2017 08:29:53 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[galaxy]]></category>
-		<category><![CDATA[kurdu]]></category>
-		<category><![CDATA[kurulu]]></category>
-		<category><![CDATA[Rekabet]]></category>
-		<category><![CDATA[rekabet kurulu]]></category>
-		<category><![CDATA[samsung]]></category>
-		<category><![CDATA[soruşturma]]></category>
-		<category><![CDATA[Türkiye]]></category>
-		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=185</guid>
-
-					<description><![CDATA[<p>Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu. Samsung Electronics Güney Kore’deki yarı&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Samsung’tan Dev Yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<ol>
-<li>Samsung, Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapabileceklerini duyurdu.</li>
-</ol>
-<p><img loading="lazy" class="alignnone size-medium wp-image-196" src="https://www.bilisimkurdu.cf/wp-content/uploads/2017/07/indir-300x158.jpg" alt="" width="300" height="158" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2017/07/indir-300x158.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2017/07/indir.jpg 310w" sizes="(max-width: 300px) 100vw, 300px" /></p>
-<p>Samsung Electronics Güney Kore’deki yarı iletken üretim tesislerine 18 milyar dolarlık yeni bir yatırım yapacağını açıkladı.</p>
-<p>Tüketiciler markayı akıllı telefonlar ve televizyonlarla ilişkilendirse de, Samsung aslında dünyanın en büyük bellek çipi üreticisi. Nitekim Bloomberg’in verilerine göre, yarı iletkenler 2016 yılında şirketin işletme gelirinin hemen hemen yarısını sağladı. Bu yeni yatırım ise bu satış gelirinin daha da büyüyeceğine işaret ediyor.</p>
-<p>Samsung’tan yapılan açıklamada, şimdiye kadar 13,5 milyar dolar yatırılan Pyeongtaek’teki tesise 2021 yılına kadar toplam yatırımın 26 milyar dolara çıkacağı kaydedildi.</p>
-<p>Dünyada otomotiv endüstrisindeki ilerlemeler, yapay zeka ve Nesnelerin İnterneti’nin gelecek yıllarda yarı iletkene olan talebi artırması bekleniyor.</p>The post <a href="https://bilisimkurdu.github.io/samsungun-dev-yatirimi/">Samsung’tan Dev Yatırım</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/samsungun-dev-yatirimi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Apple yeni garanti problemi</title>
-		<link>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/</link>
-					<comments>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
-		<pubDate>Thu, 08 Jun 2017 09:11:30 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[PC]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[apple garanti problemi]]></category>
-		<category><![CDATA[Avustralya]]></category>
-		<category><![CDATA[Avustralya Rekabet ve Tüketici Komisyonu]]></category>
-		<category><![CDATA[bilgisayar]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[dışı]]></category>
-		<category><![CDATA[garanti]]></category>
-		<category><![CDATA[garanti dışı]]></category>
-		<category><![CDATA[hak]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[Komisyonu]]></category>
-		<category><![CDATA[macintosh]]></category>
-		<category><![CDATA[problem]]></category>
-		<category><![CDATA[Rekabet]]></category>
-		<category><![CDATA[tamir]]></category>
-		<category><![CDATA[Tüketici]]></category>
-		<category><![CDATA[ücretsiz]]></category>
-		<category><![CDATA[ücretsiz tamir hakkı]]></category>
-		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=163</guid>
-
-					<description><![CDATA[<p>Apple, müşterilerinin kendi cihazlarını onarma hakkına sahip olmasından gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor.&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Apple, müşterilerinin <strong>kendi cihazlarını onarma hakkına sahip olmasından </strong>gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı.</p>
-<p>Dava, <strong>Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu)</strong> tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları durumunda ücretsiz onarım ve değişim hakkını kaybedeceklerini söylüyor. Avustralya kanununa göre, ürün &#8220;kusurlu veya kabul edilemez bir kalitede&#8221; ise, tüketiciler ücretsiz onarım ve değişim hakkına sahipler.</p>
-<p>Davalar şimdilik devam etse de bizim ülkemizde kanı teknik servis harici onarımın garanti dışı olacağına yönelik.</p>
-<p>Hayırlısı.</p>
-<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p>The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>YOUTUBE KANALIMIZ</title>
-		<link>https://bilisimkurdu.github.io/youtube-kanalimiz/</link>
-					<comments>https://bilisimkurdu.github.io/youtube-kanalimiz/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 29 Oct 2016 09:34:27 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[bilişim kurdu youtube kanalı]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[bloglama]]></category>
-		<category><![CDATA[bloglandırma]]></category>
-		<category><![CDATA[hoşgeldiniz]]></category>
-		<category><![CDATA[kanal]]></category>
-		<category><![CDATA[kurt]]></category>
-		<category><![CDATA[youtube]]></category>
-		<category><![CDATA[youtube kanalı]]></category>
-		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=35</guid>
-
-					<description><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p>
-The post <a href="https://bilisimkurdu.github.io/youtube-kanalimiz/">YOUTUBE KANALIMIZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Youtube kanalımız Bilişim Kurdu: <a>https://www.youtube.com/channel/UCy3pdtWBHgUO7qgHZ83Yzjg</a></p>
-<p>Sitemizi ve kanalımızı ziyaret ettiğiniz için teşekkür ederiz.</p>The post <a href="https://bilisimkurdu.github.io/youtube-kanalimiz/">YOUTUBE KANALIMIZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/youtube-kanalimiz/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hoş Geldiniz</title>
-		<link>https://bilisimkurdu.github.io/hos-geldiniz/</link>
-					<comments>https://bilisimkurdu.github.io/hos-geldiniz/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 27 Oct 2016 14:24:54 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[bloglama]]></category>
-		<category><![CDATA[bloglandırma]]></category>
-		<category><![CDATA[hoşgeldiniz]]></category>
-		<category><![CDATA[kurt]]></category>
-		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=6</guid>
-
-					<description><![CDATA[<p>&#160; &#160; Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/hos-geldiniz/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/hos-geldiniz/">Hoş Geldiniz</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Web sitemize hoş geldiniz. Biz elden geldiğimizde en güncel içeriği size sunmaya çalışacağız. Web sitemizde Programlama,haber,mobil ile ilgili gelişmeler ve yazılar bulunacaktır.</p>
-<p>Size şimdiden iyi okumalar dilerim.</p>
-<p><strong> Bilişim Kurdu Ekibi</strong></p>The post <a href="https://bilisimkurdu.github.io/hos-geldiniz/">Hoş Geldiniz</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/hos-geldiniz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>laptop arızalı | Bilişim Kurdu</title>
+	<title>laptop arızalı - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/laptop-arizali/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 18 Apr 2020 13:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Apr 2020 13:07:29 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>laptop arızalı | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>laptop arızalı - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/</link>
 					<comments>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sat, 18 Apr 2020 13:07:29 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[PC]]></category>
@@ -48,7 +48,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=794</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -86,7 +86,7 @@ The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1140" height="641" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1140" height="641" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -111,7 +111,7 @@ The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

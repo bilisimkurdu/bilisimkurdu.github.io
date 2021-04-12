@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>İnternet | Bilişim Kurdu</title>
+	<title>İnternet - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/category/internet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 10 Feb 2021 12:18:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Feb 2021 12:09:52 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>İnternet | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>İnternet - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/flash-player-calistirma-2021/</link>
 					<comments>https://bilisimkurdu.github.io/flash-player-calistirma-2021/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Wed, 10 Feb 2021 12:09:52 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[adobe flash player]]></category>
@@ -66,7 +66,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=851</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Flash Player&#8217;ı browserlarda nasıl çalıştırılabileceğini anlatmaya çalışacağım.. 2021 yılına girişiyle beraber Adobe tarafından Flash desteği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -93,7 +93,7 @@ The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Google Chrome, Firefox ve Opera Flash Player çalıştırma 2021 [%100 çalışıyor.]" width="1140" height="641" src="https://www.youtube.com/embed/8d1wP0Mwqzw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Google Chrome, Firefox ve Opera Flash Player çalıştırma 2021 [%100 çalışıyor.]" width="1140" height="641" src="https://www.youtube.com/embed/8d1wP0Mwqzw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -102,7 +102,7 @@ The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">
 
 
 
-<p><a href="http://bc.vc/5Ady5pv" target="_blank" rel="noreferrer noopener">UC Browser</a></p>The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p><a href="http://bc.vc/5Ady5pv" target="_blank" rel="noreferrer noopener">UC Browser</a></p><p>The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/flash-player-calistirma-2021/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -114,7 +114,7 @@ The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">
 		<link>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/</link>
 					<comments>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Wed, 24 Jun 2020 05:30:00 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
@@ -145,7 +145,7 @@ The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -262,7 +262,7 @@ jobs:
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -274,7 +274,7 @@ jobs:
 		<link>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/</link>
 					<comments>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 03 Apr 2020 09:25:19 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Windows]]></category>
@@ -287,7 +287,7 @@ jobs:
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=771</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -316,7 +316,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-pr
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -328,7 +328,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-pr
 		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
 					<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
@@ -343,7 +343,7 @@ The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-pr
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
 
 					<description><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">MonoDevelop Error MSB4018: “GenerateDepsFile” görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">MonoDevelop Error MSB4018: “GenerateDepsFile” görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler,</p>
 
 
@@ -380,7 +380,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">MonoDevelop Error MSB4018: “GenerateDepsFile” görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">MonoDevelop Error MSB4018: “GenerateDepsFile” görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -392,7 +392,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<link>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/</link>
 					<comments>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2019 13:21:06 +0000</pubDate>
 				<category><![CDATA[C#]]></category>
 		<category><![CDATA[İnternet]]></category>
@@ -405,7 +405,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=476</guid>
 
 					<description><![CDATA[<p>Merthaba Arkadaşlar, Bu yazımda Linux üzerinden ASP.NET sunucusu başlatılamadı hatasının çözümünden bahsedeceğim. Eğer bilgisayarlarınızda MonoDevelop kuruluysa; Debian/Ubuntu tabanlı sistemlerde Open&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merthaba Arkadaşlar,</p>
 
 
@@ -454,7 +454,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/">MonoDevelop (Linux) ASP.NET sunucusu başlatılamadı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-linux-asp-net-sunucusu-baslatilamadi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -466,7 +466,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<link>https://bilisimkurdu.github.io/db-config-ini-php-analizi/</link>
 					<comments>https://bilisimkurdu.github.io/db-config-ini-php-analizi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Mon, 11 Jun 2018 14:02:32 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[Wordpress]]></category>
@@ -483,7 +483,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=298</guid>
 
 					<description><![CDATA[<p>Merhabalar, Bugün yapmış olduğum analizi paylaşmak istiyorum. Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim. USOM&#8217;u bilenler bilir ama&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">“db-config-ini.php” analizi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">“db-config-ini.php” analizi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhabalar,</p>
 <p>Bugün yapmış olduğum analizi paylaşmak istiyorum.</p>
 <p>Ama pek ayrıntılı analiz yapabilmiş değilim dikkatinizi çekmek isterim.</p>
@@ -513,7 +513,7 @@ Linkteki bilgiye göre iki farklı antivirüs tarafından tespit edilmiş (Malci
 <p>Yani diyeceğim o ki temaya beleşe alacağım diye nulled tema yüklemeyiniz. Nulled temaların çoğunda exploit(zaafiyeti kullanmak) oluşturacak açıklar meydana getirir ve web siteniz zarar görme ihtimali yüksektir.<br />
 USOM zararlı link listesi : <a href="https://www.usom.gov.tr/zararli-baglantilar/1.html">https://www.usom.gov.tr/zararli-baglantilar/1.html</a></p>
 <p>En ulvi saygılarmla.<br />
-Lisanı sürç ettiysek affola.</p>The post <a href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">“db-config-ini.php” analizi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+Lisanı sürç ettiysek affola.</p><p>The post <a href="https://bilisimkurdu.github.io/db-config-ini-php-analizi/">“db-config-ini.php” analizi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/db-config-ini-php-analizi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -525,7 +525,7 @@ Lisanı sürç ettiysek affola.</p>The post <a href="https://bilisimkurdu.github
 		<link>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/</link>
 					<comments>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 05 Jun 2018 09:53:54 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
 		<category><![CDATA[İnternet]]></category>
@@ -537,7 +537,7 @@ Lisanı sürç ettiysek affola.</p>The post <a href="https://bilisimkurdu.github
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 <p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
 Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir.<br />
@@ -545,8 +545,8 @@ Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalış
 Adblock eklentileri şu şekilde çalışır;<br />
 <img src="https://i.hizliresim.com/Q2JgkV.jpg" /></p>
 <p>Konu ile alakalı video;</p>
-<p><iframe width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
-<p>İyi okumalar dilerim.</p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p><iframe loading="lazy" width="1536" height="864" src="https://www.youtube.com/embed/5rObm6C6NbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
+<p>İyi okumalar dilerim.</p><p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -558,7 +558,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<link>https://bilisimkurdu.github.io/vpn-guvenli-mi/</link>
 					<comments>https://bilisimkurdu.github.io/vpn-guvenli-mi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2017 06:32:13 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[güvenlik]]></category>
@@ -571,14 +571,14 @@ Adblock eklentileri şu şekilde çalışır;<br />
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=130</guid>
 
 					<description><![CDATA[<p>Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir. Çünkü VPN olarak&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir.</p>
 <p>Çünkü VPN olarak ağına bağlandığımız kişiler ağ trafiklerimizi kontrol edebililr, özellikle iyi yapılandırılmamışsa ip adreslerimiz sızabilmektedir.</p>
 <p><span id="more-130"></span></p>
 <p>Reklamları engellemeye gelince reklam izleme aracı ip adreslerine değilde browserlardaki cookie&#8217;lerden faydalanırlar.</p>
 <p>Cihazımızdan VPN bağlantısına kadar verileri şifrelediği için hız bir miktar da olmak üzere azalır.</p>
 <p>Bazı VPN&#8217;ler güvenliğe odaklanırken bazıları yerel engelleri aşmaya, bazıları ise gizliliğe odaklanıyor.</p>
-<p>Bir VPN hizmeti üyeliği almadan önce günlük tutma ilkelerine, sunucuların konumlarına ve başkalarının yorumlarına bakın.</p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Bir VPN hizmeti üyeliği almadan önce günlük tutma ilkelerine, sunucuların konumlarına ve başkalarının yorumlarına bakın.</p><p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vpn-guvenli-mi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -631,12 +631,12 @@ The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ 
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=42</guid>
 
 					<description><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor. İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması,&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor.<br />
 İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik bir kaynak ayrıldığı bildiriliyor.<br />
 <span id="more-42"></span><br />
 Ancak uygulamadan herkesin yararlanması söz konusu değil, bedava internet erişimi, sadece düşük gelirli ailelere sunulacak. Sosyal Yardımlaşma ve Dayanışma Vakıfları tarafından belirlenecek olan 300.000 vatandaş, bedava internet erişimine sahip olacak.</p>
-<p>Sunulacak internetin kotası henüz açıklanmamış olup bağlantı aile koruma şifresiyle korunması beklenmekte.</p>The post <a href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Sunulacak internetin kotası henüz açıklanmamış olup bağlantı aile koruma şifresiyle korunması beklenmekte.</p><p>The post <a href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

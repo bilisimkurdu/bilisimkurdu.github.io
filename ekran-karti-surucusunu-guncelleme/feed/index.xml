@@ -11,11 +11,11 @@
 	<atom:link href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 28 Mar 2020 14:25:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Mar 2020 14:21:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 </channel>
 </rss>

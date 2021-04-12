@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>vpn | Bilişim Kurdu</title>
+	<title>vpn - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/tag/vpn/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 03 Jul 2017 13:13:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Apr 2017 06:32:13 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>vpn | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>vpn - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/vpn-guvenli-mi/</link>
 					<comments>https://bilisimkurdu.github.io/vpn-guvenli-mi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2017 06:32:13 +0000</pubDate>
 				<category><![CDATA[İnternet]]></category>
 		<category><![CDATA[güvenlik]]></category>
@@ -45,14 +45,14 @@
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=130</guid>
 
 					<description><![CDATA[<p>Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir. Çünkü VPN olarak&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Malum vpn sisteminin güvenli olduğu hakkında bilgimizin olması aşikardır ama Vpn sistemlerinin güvenli olamayacağı kanaati de olabilir.</p>
 <p>Çünkü VPN olarak ağına bağlandığımız kişiler ağ trafiklerimizi kontrol edebililr, özellikle iyi yapılandırılmamışsa ip adreslerimiz sızabilmektedir.</p>
 <p><span id="more-130"></span></p>
 <p>Reklamları engellemeye gelince reklam izleme aracı ip adreslerine değilde browserlardaki cookie&#8217;lerden faydalanırlar.</p>
 <p>Cihazımızdan VPN bağlantısına kadar verileri şifrelediği için hız bir miktar da olmak üzere azalır.</p>
 <p>Bazı VPN&#8217;ler güvenliğe odaklanırken bazıları yerel engelleri aşmaya, bazıları ise gizliliğe odaklanıyor.</p>
-<p>Bir VPN hizmeti üyeliği almadan önce günlük tutma ilkelerine, sunucuların konumlarına ve başkalarının yorumlarına bakın.</p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Bir VPN hizmeti üyeliği almadan önce günlük tutma ilkelerine, sunucuların konumlarına ve başkalarının yorumlarına bakın.</p><p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vpn-guvenli-mi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -11,11 +11,11 @@
 	<atom:link href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Tue, 06 Jun 2017 13:44:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Apr 2017 12:40:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 </channel>
 </rss>

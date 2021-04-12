@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Mobil | Bilişim Kurdu</title>
+	<title>Mobil - Bilişim Kurdu</title>
 	<atom:link href="https://bilisimkurdu.github.io/category/mobil/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Fri, 09 Oct 2020 05:45:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Oct 2020 13:39:23 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>https://bilisimkurdu.github.io/wp-content/uploads/2018/05/cropped-indir-32x32.png</url>
-	<title>Mobil | Bilişim Kurdu</title>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Mobil - Bilişim Kurdu</title>
 	<link>https://bilisimkurdu.github.io</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/</link>
 					<comments>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2020 13:39:23 +0000</pubDate>
 				<category><![CDATA[Donanım]]></category>
 		<category><![CDATA[Mobil]]></category>
@@ -56,7 +56,7 @@
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=835</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -118,7 +118,7 @@ The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-o
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -127,7 +127,7 @@ The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-o
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -139,7 +139,7 @@ The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-o
 		<link>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/</link>
 					<comments>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Mon, 13 Apr 2020 09:49:05 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[A/B sanal disk bölümleme]]></category>
@@ -155,7 +155,7 @@ The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-o
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=785</guid>
 
 					<description><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak. Android güncellemelerini yüklerken cihazı kullanmanıza izin verecek. Google&#8217;ın A/B sanal disk bölümleme (virtual partitioning)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak.</p>
 
 
@@ -176,7 +176,7 @@ The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-do
 
 
 
-<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" aria-label="CHIP (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">CHIP</a></p>The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" aria-label="CHIP (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">CHIP</a></p><p>The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -188,7 +188,7 @@ The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-do
 		<link>https://bilisimkurdu.github.io/google-photos-stopped-2020/</link>
 					<comments>https://bilisimkurdu.github.io/google-photos-stopped-2020/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sun, 05 Apr 2020 09:49:38 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[fotoğraflar durdu]]></category>
@@ -206,7 +206,7 @@ The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-do
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=773</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Google &#8220;Fotoğraflar durdu&#8221; hatasının çözülmesiyle ilgili  olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Google Photos stopped – 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Google Photos stopped – 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
 
@@ -220,7 +220,7 @@ The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Go
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Google Fotoğraflar durdu hatasının çözümü 2020" width="1140" height="855" src="https://www.youtube.com/embed/Ke1O1_LmrHk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Google Fotoğraflar durdu hatasının çözümü 2020" width="1140" height="855" src="https://www.youtube.com/embed/Ke1O1_LmrHk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -233,7 +233,7 @@ The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Go
 
 
 
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Google Photos stopped – 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Google Photos stopped – 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/google-photos-stopped-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -245,7 +245,7 @@ The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Go
 		<link>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/</link>
 					<comments>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sun, 29 Mar 2020 09:15:50 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[Android oem kilidi]]></category>
@@ -257,7 +257,7 @@ The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Go
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=738</guid>
 
 					<description><![CDATA[<p>Merhaba Değerli Ziyaretçilerimiz, Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak. Ayarlar&#160;&#8211;&#62;&#160;Telefon Hakkında&#160;&#8211;&#62; Derleme numarasına&#160;birkaç defa hızlıca dokunun. Artık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Android cihazlarda OEM kilidi açmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Android cihazlarda OEM kilidi açmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Değerli Ziyaretçilerimiz,</p>
 
 
@@ -285,7 +285,7 @@ fastboot oem unlock-go
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Android cihazlarda OEM kilidi açmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Android cihazlarda OEM kilidi açmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -297,7 +297,7 @@ fastboot oem unlock-go
 		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
 					<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
 				<category><![CDATA[Intel]]></category>
 		<category><![CDATA[İşlemci]]></category>
@@ -317,7 +317,7 @@ fastboot oem unlock-go
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
 
 					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
 
@@ -384,7 +384,7 @@ The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-t
 
 
 
-<p>İyi günler.</p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -396,7 +396,7 @@ The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-t
 		<link>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/</link>
 					<comments>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 10 Sep 2019 11:36:40 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[Android oem kilidi]]></category>
@@ -409,7 +409,7 @@ The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-t
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=543</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM Kilidi nedir? (Android)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM Kilidi nedir? (Android)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -442,7 +442,7 @@ The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM 
 
 
 
-<p>2.yöntem olarak Google hesaplarınızı kaldırabilirsiniz.</p>The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM Kilidi nedir? (Android)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>2.yöntem olarak Google hesaplarınızı kaldırabilirsiniz.</p><p>The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM Kilidi nedir? (Android)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/oem-kilidi-nedir-android/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -454,7 +454,7 @@ The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM 
 		<link>https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/</link>
 					<comments>https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Tue, 05 Mar 2019 15:56:06 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[hadi bilgi yarışması dondu]]></category>
@@ -469,7 +469,7 @@ The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM 
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=427</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Hadi gibi uygulamalarda telefonun teknik özellikleri hem de boşta RAM oranı ve internet hızınız yeterliyken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Hadi bilgi yarışması Android uygulamasında donması\kasması</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Hadi bilgi yarışması Android uygulamasında donması\kasması</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
 
@@ -526,7 +526,7 @@ The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uy
 
 
 
-<p>İyi akşamlar.</p>The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Hadi bilgi yarışması Android uygulamasında donması\kasması</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>İyi akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Hadi bilgi yarışması Android uygulamasında donması\kasması</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -538,7 +538,7 @@ The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uy
 		<link>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/</link>
 					<comments>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Mon, 07 Jan 2019 20:41:31 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[ekran]]></category>
@@ -550,7 +550,7 @@ The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uy
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=382</guid>
 
 					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, En başında yeni yılın bütün insanlık için hayırlı olmasını temenni eder, neşeli bir yıl olmasını temenni ederim.&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 
 
@@ -575,7 +575,7 @@ The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti
 
 
 
-<ul><li></li></ul>The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<ul><li></li></ul><p>The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -587,7 +587,7 @@ The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti
 		<link>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/</link>
 					<comments>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Sun, 16 Sep 2018 20:23:50 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[cmd]]></category>
@@ -608,7 +608,7 @@ The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=355</guid>
 
 					<description><![CDATA[<p>Merhaba arkadaşlar, Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">ZTE Handset software update tool yazılımı “Failed to detect network” hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">ZTE Handset software update tool yazılımı “Failed to detect network” hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p data-xf-p="1">Merhaba arkadaşlar,</p>
 <p data-xf-p="1">Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221; hatasının sebebi yazılımın cndms.ztems.com (113.98.59.187) adresine erişilememesidir.</p>
 <p data-xf-p="1"><span id="more-355"></span></p>
@@ -628,7 +628,7 @@ The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-too
 <div data-xf-p="1">İstek zaman aşımına uğradı.</div>
 <p data-xf-p="1">&#8220;İstek zaman aşımına uğradı&#8221; hatası alınca web siteye ulaşılamamakta olduğu anlaşılmıştı.</p>
 <p data-xf-p="1">Selâmetle.</p>
-<p data-xf-p="1">The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">ZTE Handset software update tool yazılımı “Failed to detect network” hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p data-xf-p="1"><p>The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">ZTE Handset software update tool yazılımı “Failed to detect network” hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -640,7 +640,7 @@ The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-too
 		<link>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/</link>
 					<comments>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/#respond</comments>
 		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
 		<pubDate>Mon, 03 Jul 2017 13:09:16 +0000</pubDate>
 				<category><![CDATA[Mobil]]></category>
 		<category><![CDATA[android]]></category>
@@ -657,7 +657,7 @@ The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-too
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=171</guid>
 
 					<description><![CDATA[<p>Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
+<p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçilerimiz,</p>
 <p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>
 <p>Şu linkte fastboot yazılımını ve fastboot flash yazılımını <a href="http://en.miui.com/a-234.html" target="_blank" rel="noopener">indiriyoruz</a>.</p>
@@ -666,206 +666,9 @@ The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazil
 <p>Miflash programını açarak resimdeki modda ayarlıyoruz.</p>
 <p>Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten sonra refresh&#8217;e tıkladıktan sonra flash&#8217;a tıklayınız.</p>
 <p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
-<p>&nbsp;</p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Apple yeni garanti problemi</title>
-		<link>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/</link>
-					<comments>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
-		<pubDate>Thu, 08 Jun 2017 09:11:30 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[PC]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[apple garanti problemi]]></category>
-		<category><![CDATA[Avustralya]]></category>
-		<category><![CDATA[Avustralya Rekabet ve Tüketici Komisyonu]]></category>
-		<category><![CDATA[bilgisayar]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[dışı]]></category>
-		<category><![CDATA[garanti]]></category>
-		<category><![CDATA[garanti dışı]]></category>
-		<category><![CDATA[hak]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[Komisyonu]]></category>
-		<category><![CDATA[macintosh]]></category>
-		<category><![CDATA[problem]]></category>
-		<category><![CDATA[Rekabet]]></category>
-		<category><![CDATA[tamir]]></category>
-		<category><![CDATA[Tüketici]]></category>
-		<category><![CDATA[ücretsiz]]></category>
-		<category><![CDATA[ücretsiz tamir hakkı]]></category>
-		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=163</guid>
-
-					<description><![CDATA[<p>Apple, müşterilerinin kendi cihazlarını onarma hakkına sahip olmasından gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor.&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Apple, müşterilerinin <strong>kendi cihazlarını onarma hakkına sahip olmasından </strong>gerçekten hoşlanmıyor. Avustralya&#8217;nın tüketici gözlemcileri ise, Apple&#8217;ın kasten tüketicileri kendi hakları konusunda yanılttığını düşünüyor. Bu konuda operasyon düzenlendiğine dair detaylı bilgiler içeren mahkeme belgeleri The Guardian&#8217;da yayınlandı.</p>
-<p>Dava, <strong>Avustralian Competition and Consumer Commission (ACCC) (Avustralya Rekabet ve Tüketici Komisyonu)</strong> tarafından mahkemeye götürülüyor. Davadaki iddiaya göre Apple, tüketicileri yetkisiz bir yerde tamir yaptırmaları durumunda ücretsiz onarım ve değişim hakkını kaybedeceklerini söylüyor. Avustralya kanununa göre, ürün &#8220;kusurlu veya kabul edilemez bir kalitede&#8221; ise, tüketiciler ücretsiz onarım ve değişim hakkına sahipler.</p>
-<p>Davalar şimdilik devam etse de bizim ülkemizde kanı teknik servis harici onarımın garanti dışı olacağına yönelik.</p>
-<p>Hayırlısı.</p>
-<p>Kaynak : <a href="https://www.chip.com.tr/" target="_blank" rel="noopener noreferrer">Chip</a></p>The post <a href="https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/">Apple yeni garanti problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/apple-yeni-garanti-problemi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>CYANOGENMOD İSİM DEĞİŞTİRDİ</title>
-		<link>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/</link>
-					<comments>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
-		<pubDate>Thu, 23 Feb 2017 14:01:02 +0000</pubDate>
-				<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[android]]></category>
-		<category><![CDATA[apk]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[cynogenmod]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[kurdu]]></category>
-		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=104</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım. Bilindiği üzere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/">CYANOGENMOD İSİM DEĞİŞTİRDİ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler, size daha önce cynogenmod hakkında yazdığım yazının devamını getirmeyi planladım ve bu acizane yazımla karşınızdayım.</p>
-<p>Bilindiği üzere cynogenmod şirketi zor zamanlar geçiridi ve isim değiştirme kararı aldı ve  Lingeage OS ismi üzerinden faaliyetlerine devam edecek.</p>
-<p>&nbsp;</p>The post <a href="https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/">CYANOGENMOD İSİM DEĞİŞTİRDİ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/cyanogenmod-isim-degistirdi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>CUSTOM ROMDAN STOCK ROMA GEÇİŞ</title>
-		<link>https://bilisimkurdu.github.io/custom-romdan-gecis/</link>
-					<comments>https://bilisimkurdu.github.io/custom-romdan-gecis/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup Contarlı]]></dc:creator>
-		<pubDate>Tue, 14 Feb 2017 07:32:46 +0000</pubDate>
-				<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[android]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[bilişim kurdu youtube kanalı]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[bloglama]]></category>
-		<category><![CDATA[bloglandırma]]></category>
-		<category><![CDATA[custom]]></category>
-		<category><![CDATA[custom rom]]></category>
-		<category><![CDATA[cynagenmod]]></category>
-		<category><![CDATA[general]]></category>
-		<category><![CDATA[general mobile]]></category>
-		<category><![CDATA[mobil]]></category>
-		<category><![CDATA[plus]]></category>
-		<category><![CDATA[rom]]></category>
-		<category><![CDATA[samsung]]></category>
-		<category><![CDATA[stock]]></category>
-		<category><![CDATA[stock rom]]></category>
-		<category><![CDATA[trend]]></category>
-		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=96</guid>
-
-					<description><![CDATA[<p>&#160; Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım. Stock Rom : Android cihazınızın üretici&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/custom-romdan-gecis/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/custom-romdan-gecis/">CUSTOM ROMDAN STOCK ROMA GEÇİŞ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>&nbsp;</p>
-<p>Merhabalar, size bugünki yazımda  custom rom(harici yazılım)dan stock rom(fabrika yazılımı)na geçişi anlatmaya çalışacağım.</p>
-<p><span id="more-96"></span></p>
-<p>Stock Rom : Android cihazınızın üretici firma tarafından ve modele uygun stabil Android yazılımıdır.</p>
-<p>Custom Rom : Android cihazınızın üretici firma tarafından üretilmeyen ve modele uygun stabil olma ihtimali yüksek olmayan Android yazılımıdır.</p>
-<p>Eğer telefononuzda custom rom varsa CWM veya TWRP yüklüdür. Çünkü custom rom CWM veya TWRP olmadan yüklemez.</p>
-<ol>
-<li>CWM veya TWRP&#8217;Yİ açınız. (Samsung Galaxy Home+Power+Volume on tuşları Dİğer cihazlar Power+Volume on tuşları)</li>
-<li>(TWRPiçin) &#8220;Wipe Data&#8221; menüsünden &#8220;Dalvik&#8221;,&#8221;Wipe Data&#8221;,&#8221;Wipe Cache&#8221;,&#8221;Internal Storage&#8221; seçeneklerini işaretleyip işareti kaydırınız.</li>
-<li>(CWM için) Ekrandan &#8220;wipe cache partition&#8221; sonasında , &#8220;wipe data/factory reset&#8221; yazılarını seçiniz ve Wipe işlemi bitti.</li>
-<li>(CWM için)&#8221;Mount&#8221; seçeneğine seçerek &#8220;/system&#8221;,&#8221;/data&#8221; yazılarını seçiniz.</li>
-<li>Cihazınızın yükleyicisiyle Stock Rom&#8217;unuzu kurabilirsiniz.</li>
-</ol>The post <a href="https://bilisimkurdu.github.io/custom-romdan-gecis/">CUSTOM ROMDAN STOCK ROMA GEÇİŞ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/custom-romdan-gecis/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ANDROİD CİHAZALARA GOOGLE PLAY DIŞINDA UYGULAMA YÜKLEME</title>
-		<link>https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/</link>
-					<comments>https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 06 Dec 2016 13:39:05 +0000</pubDate>
-				<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[android]]></category>
-		<category><![CDATA[apk]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[google play]]></category>
-		<category><![CDATA[uygulama]]></category>
-		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=74</guid>
-
-					<description><![CDATA[<p>Android cihazlara google play dışında uygulama yükleme aşağıdaki videodadır. Eğer anlaşılmayan mesele olursa yorum atmayı unutmayınız.</p>
-The post <a href="https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/">ANDROİD CİHAZALARA GOOGLE PLAY DIŞINDA UYGULAMA YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>Android cihazlara google play dışında uygulama yükleme aşağıdaki videodadır.</p>
-<p>Eğer anlaşılmayan mesele olursa yorum atmayı unutmayınız.</p>
-<p><iframe src="https://www.youtube.com/embed/ZXFUBlRyYaU" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>The post <a href="https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/">ANDROİD CİHAZALARA GOOGLE PLAY DIŞINDA UYGULAMA YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/cihazalara-disinda-uygulama/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>GALAXY TREND PLUS&#8217;A NOUGAT GELDİ</title>
-		<link>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/</link>
-					<comments>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2016 11:45:15 +0000</pubDate>
-				<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[2]]></category>
-		<category><![CDATA[android]]></category>
-		<category><![CDATA[android 7.0]]></category>
-		<category><![CDATA[android 7.0 nougat]]></category>
-		<category><![CDATA[cm]]></category>
-		<category><![CDATA[cm14]]></category>
-		<category><![CDATA[cynagenmod]]></category>
-		<category><![CDATA[duos 2]]></category>
-		<category><![CDATA[galaxy]]></category>
-		<category><![CDATA[galaxy s duos 2]]></category>
-		<category><![CDATA[galaxy trend plus]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[mobil]]></category>
-		<category><![CDATA[nougat]]></category>
-		<category><![CDATA[plus]]></category>
-		<category><![CDATA[s duos]]></category>
-		<category><![CDATA[samsung]]></category>
-		<category><![CDATA[trend]]></category>
-		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=47</guid>
-
-					<description><![CDATA[<p>2013 yılında çıkan ve Cynaganmod 11,12.1 ve 13 sürümlerinde cihaza uygun romları bulunan cihazın Android 7.0 Nougat sürümü çıkmıştır. Şu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/">Okumaya devam et</a></p>
-The post <a href="https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/">GALAXY TREND PLUS’A NOUGAT GELDİ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></description>
-										<content:encoded><![CDATA[<p>2013 yılında çıkan ve Cynaganmod 11,12.1 ve 13 sürümlerinde cihaza uygun romları bulunan cihazın Android 7.0 Nougat sürümü çıkmıştır.<br />
-Şu anda CM14 sürümünü kurmayı önermemekteyiz.</p>
-<p><span id="more-47"></span></p>
-<p>Çünkü bu cihaza uygun CM14 sürümü yeni çıktı ve hatalarla boğuşma ihtimaliniz yüksek.</p>
-<p>Eğer yine de Galaxy Trend Plus cihazınıza CM14 kurmak isterseniz <a href="https://jenkins.sandpox.org/view/KYLEPROXX/job/KYLEPROXX_CM14.1/lastSuccessfulBuild/artifact/cm-14.1-20161114-UNOFFICIAL-kylepro.zip" target="_blank">tıklayınız</a>.</p>
-<p>CM14 güncelleme paneli için <a href="https://jenkins.sandpox.org/view/KYLEPROXX/job/KYLEPROXX_CM14.1/" target="_blank">tıklayınız</a>.</p>
-<p>Not:</p>
-<p>Kylepro :Galaxy  Trend plus</p>
-<p>Kyleprods : Galaxy S duos 2</p>
-<p>romlarını içerir.</p>
-<p>&nbsp;</p>The post <a href="https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/">GALAXY TREND PLUS’A NOUGAT GELDİ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/galaxy-trend-plus-nougat-cikti/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
