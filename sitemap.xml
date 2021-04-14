@@ -23,4 +23,8 @@
 		<loc><![CDATA[https://bilisimkurdu.github.io/post_tag-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-04-12T12:44:05+00:00]]></lastmod>
 	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://bilisimkurdu.github.io/date-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2021-04-12T12:44:05+00:00]]></lastmod>
+	</sitemap>
 </sitemapindex>

@@ -4,247 +4,253 @@
 <?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2016/]]></loc>
-		<lastmod><![CDATA[2017-06-07T13:27:58+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2016-10-27T14:24:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2016/10/]]></loc>
-		<lastmod><![CDATA[2017-06-07T13:27:58+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2016-10-27T14:24:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2016/11/]]></loc>
-		<lastmod><![CDATA[2017-06-06T13:50:02+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2016-11-01T14:14:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2016/12/]]></loc>
 		<lastmod><![CDATA[2016-12-03T07:41:57+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/]]></loc>
-		<lastmod><![CDATA[2017-06-06T13:49:00+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-01-20T13:59:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/01/]]></loc>
-		<lastmod><![CDATA[2017-06-06T13:49:00+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-01-20T13:59:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/02/]]></loc>
-		<lastmod><![CDATA[2017-06-06T13:47:36+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-02-14T07:32:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/04/]]></loc>
-		<lastmod><![CDATA[2017-06-06T13:44:29+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-04-27T12:40:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/05/]]></loc>
-		<lastmod><![CDATA[2017-06-06T13:43:32+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-05-02T10:32:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/06/]]></loc>
-		<lastmod><![CDATA[2017-06-08T09:12:34+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-06-08T09:11:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/07/]]></loc>
-		<lastmod><![CDATA[2017-07-03T13:10:46+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-07-03T13:09:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/10/]]></loc>
-		<lastmod><![CDATA[2017-11-02T18:39:41+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-10-20T20:39:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2017/12/]]></loc>
-		<lastmod><![CDATA[2017-12-24T19:18:21+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2017-12-10T10:12:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2018/]]></loc>
-		<lastmod><![CDATA[2018-06-05T09:55:33+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2018-06-05T09:53:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2018/06/]]></loc>
-		<lastmod><![CDATA[2018-06-05T09:55:33+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2018-06-05T09:53:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2018/09/]]></loc>
-		<lastmod><![CDATA[2018-09-06T07:14:03+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2018-09-04T13:40:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2018/10/]]></loc>
 		<lastmod><![CDATA[2018-10-21T15:05:53+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2018/11/]]></loc>
-		<lastmod><![CDATA[2019-02-20T20:42:01+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2018-11-20T20:29:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/]]></loc>
-		<lastmod><![CDATA[2019-02-20T20:45:39+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-01-07T20:41:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/01/]]></loc>
-		<lastmod><![CDATA[2019-02-20T20:45:39+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-01-07T20:41:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/02/]]></loc>
-		<lastmod><![CDATA[2019-02-25T09:06:28+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-02-23T16:19:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/03/]]></loc>
-		<lastmod><![CDATA[2019-03-05T15:57:28+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-03-01T16:54:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/04/]]></loc>
-		<lastmod><![CDATA[2019-04-08T20:12:27+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-04-08T20:09:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/05/]]></loc>
-		<lastmod><![CDATA[2019-05-03T18:38:24+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-05-03T18:38:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/07/]]></loc>
-		<lastmod><![CDATA[2019-07-12T13:19:56+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-07-12T13:05:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/08/]]></loc>
-		<lastmod><![CDATA[2019-08-07T10:32:12+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-08-07T10:32:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/09/]]></loc>
-		<lastmod><![CDATA[2019-09-10T11:36:41+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-09-10T11:36:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/10/]]></loc>
-		<lastmod><![CDATA[2019-10-04T07:48:43+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-10-04T07:48:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/11/]]></loc>
-		<lastmod><![CDATA[2019-11-07T12:33:26+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-11-07T12:33:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2019/12/]]></loc>
-		<lastmod><![CDATA[2020-08-24T07:04:17+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2019-12-17T13:53:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/]]></loc>
-		<lastmod><![CDATA[2020-01-15T11:03:46+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-01-15T11:03:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/01/]]></loc>
-		<lastmod><![CDATA[2020-01-15T11:03:46+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-01-15T11:03:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/02/]]></loc>
-		<lastmod><![CDATA[2020-02-13T08:54:02+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-02-13T08:10:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/03/]]></loc>
-		<lastmod><![CDATA[2020-03-26T16:13:00+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-03-26T10:02:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/04/]]></loc>
-		<lastmod><![CDATA[2020-04-01T16:26:39+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-04-01T16:25:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/06/]]></loc>
-		<lastmod><![CDATA[2020-06-23T13:55:08+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-06-24T05:30:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/08/]]></loc>
-		<lastmod><![CDATA[2020-08-24T09:43:53+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-08-24T09:43:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2020/10/]]></loc>
-		<lastmod><![CDATA[2020-10-09T05:45:46+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2020-10-08T13:39:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2021/]]></loc>
-		<lastmod><![CDATA[2021-02-06T13:35:36+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2021-02-06T13:33:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2021/02/]]></loc>
-		<lastmod><![CDATA[2021-02-06T13:35:36+00:00]]></lastmod>
-		<changefreq><![CDATA[daily]]></changefreq>
+		<lastmod><![CDATA[2021-02-06T13:33:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/2021/04/]]></loc>
+		<lastmod><![CDATA[2021-04-12T12:44:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 </urlset>
