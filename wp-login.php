@@ -5,11 +5,11 @@
 	<title>Giriş &lsaquo; Bilişim Kurdu &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://bilisimkurdu.github.io/wp-includes/css/dashicons.min.css?ver=5.7" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://bilisimkurdu.github.io/wp-includes/css/buttons.min.css?ver=5.7" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://bilisimkurdu.github.io/wp-admin/css/forms.min.css?ver=5.7" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://bilisimkurdu.github.io/wp-admin/css/l10n.min.css?ver=5.7" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://bilisimkurdu.github.io/wp-admin/css/login.min.css?ver=5.7" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://bilisimkurdu.github.io/wp-includes/css/dashicons.min.css?ver=5.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://bilisimkurdu.github.io/wp-includes/css/buttons.min.css?ver=5.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://bilisimkurdu.github.io/wp-admin/css/forms.min.css?ver=5.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://bilisimkurdu.github.io/wp-admin/css/l10n.min.css?ver=5.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://bilisimkurdu.github.io/wp-admin/css/login.min.css?ver=5.7.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png" sizes="32x32">
@@ -84,19 +84,19 @@ var pwsL10n = {"unknown":"Parola gücü bilinmiyor","short":"Çok zayıf","bad":
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-03-07 22:10:38+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"tr"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%2$s sürümünden bu yana %1$s devre dışı bırakılmıştır! Bunun yerine %3$s kullanın. Lütfen daha kapsamlı kod yazmayı göz önünde bulundurun."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+} )( "default", {"translation-revision-date":"2021-04-15 03:34:29+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"tr"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%2$s sürümünden bu yana %1$s devre dışı bırakılmıştır! Bunun yerine %3$s kullanın. Lütfen daha kapsamlı kod yazmayı göz önünde bulundurun."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type="text/javascript" src="https://bilisimkurdu.github.io/wp-admin/js/password-strength-meter.min.js?ver=5.7" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://bilisimkurdu.github.io/wp-admin/js/password-strength-meter.min.js?ver=5.7.1" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://bilisimkurdu.github.io/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/bilisimkurdu\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://bilisimkurdu.github.io/wp-includes/js/wp-util.min.js?ver=5.7" id="wp-util-js"></script>
+<script type="text/javascript" src="https://bilisimkurdu.github.io/wp-includes/js/wp-util.min.js?ver=5.7.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"85a7492fa4"};
+var userProfileL10n = {"user_id":"0","nonce":"fa6d29fcc1"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -104,9 +104,9 @@ var userProfileL10n = {"user_id":"0","nonce":"85a7492fa4"};
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-03-07 22:10:38+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"tr"},"Your new password has not been saved.":["Yeni parolanız kaydedilemedi."],"Hide":["Gizle"],"Show":["Göster"],"Confirm use of weak password":["Zayıf parola kullanmayı onayla"],"Hide password":["Parolayı gizle"],"Show password":["Parolayı göster"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
+} )( "default", {"translation-revision-date":"2021-04-15 03:34:29+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"tr"},"Your new password has not been saved.":["Yeni parolanız kaydedilemedi."],"Hide":["Gizle"],"Show":["Göster"],"Confirm use of weak password":["Zayıf parola kullanmayı onayla"],"Hide password":["Parolayı gizle"],"Show password":["Parolayı göster"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type="text/javascript" src="https://bilisimkurdu.github.io/wp-admin/js/user-profile.min.js?ver=5.7" id="user-profile-js"></script>
+<script type="text/javascript" src="https://bilisimkurdu.github.io/wp-admin/js/user-profile.min.js?ver=5.7.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>

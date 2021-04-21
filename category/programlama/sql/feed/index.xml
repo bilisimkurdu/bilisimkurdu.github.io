@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -929,7 +929,7 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 <p>İyi Çalışmalar ve İyi Günler dilerim.</p>
 <p>Kaynakça :</p>
 <blockquote class="wp-embedded-content" data-secret="m9UUkFd2Vt"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
-<p><iframe loading="lazy" title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
 <p>http://www.4s.com.tr/8523-2/</p><p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>

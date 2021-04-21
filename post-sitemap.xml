@@ -912,4 +912,14 @@
 			<image:title><![CDATA[jjtyb3js07ej]]></image:title>
 		</image:image>
 	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></loc>
+		<lastmod><![CDATA[2021-04-21T10:09:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://bilisimkurdu.github.io/wp-content/uploads/2021/04/cpu-mining-1.jpg]]></image:loc>
+			<image:title><![CDATA[cpu-mining-1]]></image:title>
+		</image:image>
+	</url>
 </urlset>
