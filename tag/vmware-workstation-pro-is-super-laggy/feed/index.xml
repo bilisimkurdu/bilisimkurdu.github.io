@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VMware Workstation Pro is super laggy - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/vmware-workstation-pro-is-super-laggy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Wed, 19 Jan 2022 08:52:25 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>VMware Workstation Pro is super laggy - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VMware OS X Monterey Screen Lag</title>
+		<link>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/</link>
+					<comments>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 08:51:54 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[Sanallaştırma]]></category>
+		<category><![CDATA[vmware mac os lag]]></category>
+		<category><![CDATA[vmware mac os slow performance]]></category>
+		<category><![CDATA[vmware mac os yavaş]]></category>
+		<category><![CDATA[vmware mac os yavaş çalışıyor]]></category>
+		<category><![CDATA[vmware macos screen lag]]></category>
+		<category><![CDATA[VMware suddenly very slow opening applications]]></category>
+		<category><![CDATA[VMWare Tools make my VMWare Workstation is so slow]]></category>
+		<category><![CDATA[VMWare Tools make my VMWare Workstation Mac OS is so slow]]></category>
+		<category><![CDATA[VMware Workstation Pro is super laggy]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=924</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz. Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir. Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz. Sorunu detaylıca inceleyelim. Problem :VMware Workstation sanal MacOSX Monterey&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;<br></p>
+
+
+
+<p>Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz.</p>
+
+
+
+<p>Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir.</p>
+
+
+
+<p>Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz.</p>
+
+
+
+<p>Sorunu detaylıca inceleyelim.</p>
+
+
+
+<span id="more-924"></span>
+
+
+
+<p>Problem :VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması</p>
+
+
+
+<p>Problem sebebi: VMvare Tools tools yüklenmesinden sonra DisplayResolutionEnabled bool değeri True olarak ayarlanması sonucu tam ekranda görüntü gecikmesi yaşanmaktadır.</p>
+
+
+
+<p>Çözüm: &#8220;VMware WorkStation -&gt; İlgili Sanal makine -&gt; Edit virtual machine settings -&gt; Display&#8221; aşamalarını takip ederek;</p>
+
+
+
+<p><strong>Specify monitor settings</strong> işaretlenir.</p>
+
+
+
+<ul><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
+
+
+
+<p>olarak ayarlanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img src="https://i.hizliresim.com/geojp11.png" alt=""/></figure>
+
+
+
+<p>Daha rahat anlaşılması için video içeriğimiz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="VMWare Tools make my VMWare Workstation is so slow." width="1180" height="664" src="https://www.youtube.com/embed/-orImLtKjJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

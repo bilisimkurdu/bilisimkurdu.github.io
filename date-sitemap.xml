@@ -253,4 +253,16 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/2022/]]></loc>
+		<lastmod><![CDATA[2022-01-19T08:52:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/2022/01/]]></loc>
+		<lastmod><![CDATA[2022-01-19T08:52:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
 </urlset>

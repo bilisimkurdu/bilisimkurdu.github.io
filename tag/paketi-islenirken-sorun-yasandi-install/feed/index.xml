@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -41,7 +41,7 @@
 		<category><![CDATA[problem while processing package (--install): fix]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=583</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, .deb uzantılı paketleri yüklerken bazı problemler meydana gelmektedir. Bu yazımda da yaşanan sorunların birinden bahsedeceğim. paketi işlenirken sorun yaşandı (&#8211;install): hatası bağımlılık gerektiren paketlerin bilgisayarda yüklü bulunmamasından kaynaklanmaktadır. Sorunun çözümü için aşağıdaki komutlar sırasıyla girilir: Akabinden .deb paketi tekrardan yüklenir.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/">deb paketi yüklenirken “paketi işlenirken sorun yaşandı (–install)”</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

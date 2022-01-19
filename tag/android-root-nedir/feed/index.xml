@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -53,7 +53,7 @@
 		<category><![CDATA[what is root and how to root android]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir. Magisk Manager Magisk Manager ile yükleme aşamaları Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız. Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz. ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz. &#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 

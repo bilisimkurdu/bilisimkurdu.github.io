@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -42,7 +42,7 @@
 		<category><![CDATA[ubuntu yoğun cpu kullanımı]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=489</guid>
 
-					<description><![CDATA[<p>Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Muhterem Ziyaretçilerimiz, Bu yazımda başlıkta belirtilen Ubuntu sistemlerinde systemd-udevd uygulamasının yüksek oranda CPU kullanımı ile ilişkin olacak. Bu sorun Ubuntu ve türevlerinde (Kubuntu,Xubuntu,Ubuntu Studio&#8230;) 18.04 sürümlerinde yaşanan Wifi sürücülerin ve Bluetooth sürücülerin birbirleriyle çakışmasından kaynaklanmaktadır. Sorunun çözümü BIOS ayarlarında Bluetooth devredışı bırakılması olup geçici bir çözümdür. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/">Ubuntu systemd-udevd yoğun CPU kullanımı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem Ziyaretçilerimiz,</p>
 

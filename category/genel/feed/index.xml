@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -43,7 +43,7 @@
 		<category><![CDATA[Xamarin Forms and Xamarin Android Android SDK is empty - no platforms or tools]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=889</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android SDK boş sayfa vermesi ile karşılaşılması durumunda neler yapılması gerektiği hususunda olacak. Hata görseli; Çözüm yöntemi (Bende işe yaradı.) Android SDK Tools penceresinin sağ altta Ayar simgesi ->Reposity -> Full List (Unsupported) seçeneğini seçiyoruz. Sayfa&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;</p>
 
@@ -91,7 +91,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1140" height="641" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -129,7 +129,7 @@
 		<category><![CDATA[what is root and how to root android]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir. Magisk Manager Magisk Manager ile yükleme aşamaları Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız. Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz. ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz. &#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -275,7 +275,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[Lineage OS File Manager]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=845</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve yüklemek isteyenler için yöntem var. CM 12 ve LineageOS 13 ve üstü CM 12 altı CM 11 ve altı CyanogenMod / Lineage OS Dosya Yöneticisi Nasıl Kurulur Yapmanız gereken ilk şey, Android sürümünüzü kontrol etmektir.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 
@@ -386,7 +386,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -460,7 +460,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[MonoDevelop NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=574</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda MonoDevelop ASP.NET MVC Core projesi açılırken &#8220;Derlemeden önce NuGet paketlerinin geri yüklenmesi gerekiyor. Derleme için gerekli olan NuGet MSBuild hedefleri eksik. NuGet MSBuild hedefleri NuGet paketleri geri yüklendiğinde oluşturulur.&#8221; hatasının çözümüyle ilişkin olacak. Error : NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/">MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -509,7 +509,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[provider]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=464</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Visual Studio ile çalışırken zaman zaman aldığımız bir hata üzerine olacak. Model klasörüne oluşturulan EntitiyFramework dosyası açılırken &#8220;Cannot save&#8217;…Models\Model1.edmx&#8217;: Could not load file or assembly …&#8221; alıyorsanız; ComponentModelCache temizliği Visual Studio programını kapalı halde aşağıda uygun olan versiyona göre dizin yoluna gelerek içindeki bütün dosyaları siliyoruz. Visual Studio 2017 için;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/cannot-save-modelsmodel1-edmx-could-not-load-file-or-assembly/">Cannot save’…Models\Model1.edmx’: Could not load file or assembly …</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -633,7 +633,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[VMware Workstation Linux virtual machine not working sharing folder]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=417</guid>
 
-					<description><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler, Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. Bu yazımda VMware Workstation ile oluşturulan linux sanal makinelerde klasör paylaşımı problemini çözümü konusunda yöntemleri sıralayacağım. open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması. VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz; https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html Aşağıdaki komutları&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/vmware-workstation-linux-virtual-machine-not-working-sharing-folder/">VMware Workstation Linux virtual machine not working sharing folder</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhabalar Muhterem Ziyaretçiler,</p>
 
@@ -707,7 +707,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[teknoloji]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=346</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi Tekno Kızılelma adıyla birleştirdik. Tekno Kızılelma projesi kapsamında; Blog Bilişim eğitim\bilgilendirme\destek içerikleri Web site barındırma servisleri oluşturduk. Nice katkılarda bulunmak dileğiyle. #TÜRKİYE #TeknoKızılelma #DahaGüzelGeliyoruz</p>
 <p>The post <a href="https://bilisimkurdu.github.io/daha-guzel-geliyoruz/">DAHA GÜZEL GELİYORUZ</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 <p>Bilişim Kurdu gibi gerçekleştirdiğimiz projelerimizi birleştirerek projelerimizi daha kolay yönetimini sağlayıp başta güzel TÜRKİYE&#8217;miz sonrasında bütün insanlık için katkıda bulunmayı amaçlayarak projelerimizi <a href="https://www.teknokizilelma.ooo/" target="_blank" rel="noopener">Tekno Kızılelma</a> adıyla birleştirdik.</p>
@@ -744,7 +744,7 @@ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazın
 		<category><![CDATA[reklam engelleme]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=289</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız. Adblock eklentileri in çalışma mantığı antivirüs yazılımların çalışma mantığına benzerdir. Adblock eklentileri şu şekilde çalışır; Konu ile alakalı video; İyi okumalar dilerim.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/adblock-yazilimlarin-calisma-mantigi/">Adblock yazılımların çalışma mantığı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 <p>Bu yazımda Ablock eklentilerinin çalışma mantığı üzerine duracağız.<br />
@@ -771,7 +771,7 @@ Adblock eklentileri şu şekilde çalışır;<br />
 				<category><![CDATA[Genel]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=191</guid>
 
-					<description><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması. Kurul açıklamasında şöyle denildi: &#8220;İnternet kafelere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması. Kurul açıklamasında şöyle denildi: &#8220;İnternet kafelere yönelik olarak hazırlanan “3+ Projesi” kapsamında 4054 sayılı Kanun’un ihlal edildiği iddiasını içeren şikayet başvurusunu Danıştay 13. Dairesinin kararı üzerine yeniden değerlendirdi. Daha önce bahse konu şikayet nedeniyle yapılan önaraştırmada, söz konusu faaliyetler incelenmiş, 07.12.2011&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/dunya-devi-microsofta-turkiyede-sorusturma-acildi/">Dünya Devi Microsoft’a Türkiye’de soruşturma açıldı</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Rekabet Kurulu, dünya devi Microsoft hakkında soruşturma başlatıldığını duyurdu. Gerekçe ise, rekabeti ihlal suçlaması.</p>
 <p>Kurul açıklamasında şöyle denildi:</p>

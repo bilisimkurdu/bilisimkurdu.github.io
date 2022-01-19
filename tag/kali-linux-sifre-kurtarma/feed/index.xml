@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -48,7 +48,7 @@
 		<category><![CDATA[xubuntu password reset]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=666</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır. Kali linux yazan seçeneğe gelir F10 tuşuna basılır. GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221; kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın. &#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Kali Linux şifre sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 21 Apr 2021 11:15:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jan 2022 08:52:25 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,101 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>VMware OS X Monterey Screen Lag</title>
+		<link>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/</link>
+					<comments>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 08:51:54 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[Sanallaştırma]]></category>
+		<category><![CDATA[vmware mac os lag]]></category>
+		<category><![CDATA[vmware mac os slow performance]]></category>
+		<category><![CDATA[vmware mac os yavaş]]></category>
+		<category><![CDATA[vmware mac os yavaş çalışıyor]]></category>
+		<category><![CDATA[vmware macos screen lag]]></category>
+		<category><![CDATA[VMware suddenly very slow opening applications]]></category>
+		<category><![CDATA[VMWare Tools make my VMWare Workstation is so slow]]></category>
+		<category><![CDATA[VMWare Tools make my VMWare Workstation Mac OS is so slow]]></category>
+		<category><![CDATA[VMware Workstation Pro is super laggy]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=924</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz. Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir. Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz. Sorunu detaylıca inceleyelim. Problem :VMware Workstation sanal MacOSX Monterey&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;<br></p>
+
+
+
+<p>Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz.</p>
+
+
+
+<p>Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir.</p>
+
+
+
+<p>Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz.</p>
+
+
+
+<p>Sorunu detaylıca inceleyelim.</p>
+
+
+
+<span id="more-924"></span>
+
+
+
+<p>Problem :VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması</p>
+
+
+
+<p>Problem sebebi: VMvare Tools tools yüklenmesinden sonra DisplayResolutionEnabled bool değeri True olarak ayarlanması sonucu tam ekranda görüntü gecikmesi yaşanmaktadır.</p>
+
+
+
+<p>Çözüm: &#8220;VMware WorkStation -&gt; İlgili Sanal makine -&gt; Edit virtual machine settings -&gt; Display&#8221; aşamalarını takip ederek;</p>
+
+
+
+<p><strong>Specify monitor settings</strong> işaretlenir.</p>
+
+
+
+<ul><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
+
+
+
+<p>olarak ayarlanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img src="https://i.hizliresim.com/geojp11.png" alt=""/></figure>
+
+
+
+<p>Daha rahat anlaşılması için video içeriğimiz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="VMWare Tools make my VMWare Workstation is so slow." width="1180" height="664" src="https://www.youtube.com/embed/-orImLtKjJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>CPU ile mining nasıl yapılır?</title>
 		<link>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/</link>
 					<comments>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/#respond</comments>
@@ -60,7 +155,7 @@
 		<category><![CDATA[işlemci mining]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=900</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda CPU ile nasıl mining yapılabileceği hususunda olacak. Hâliyle mining bitcoin ve alt coinlerin değerin artışı&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda CPU ile nasıl mining yapılabileceği hususunda olacak. Hâliyle mining bitcoin ve alt coinlerin değerin artışı ile yeniden hızlandı ve ekran kartı fiyatları bir hayli yükseldi. Ekran kartı yetersiz sistemlerin imdadına CPU ile mining tooları yetişiyor. Şimdi başlayalım. Kullanabileceğimiz iki yöntem var. 1)unMinable yazılımını indirerek. unMinable yazılımını indirdikten sonra resimdeki aşamaları&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/">CPU ile mining nasıl yapılır?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -185,7 +280,7 @@
 		<category><![CDATA[Xamarin Forms and Xamarin Android Android SDK is empty - no platforms or tools]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=889</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android SDK boş sayfa vermesi ile karşılaşılması durumunda neler yapılması gerektiği hususunda olacak. Hata görseli; Çözüm yöntemi (Bende işe yaradı.) Android SDK Tools penceresinin sağ altta Ayar simgesi ->Reposity -> Full List (Unsupported) seçeneğini seçiyoruz. Sayfa&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;</p>
 
@@ -233,7 +328,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1140" height="641" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -271,7 +366,7 @@
 		<category><![CDATA[what is root and how to root android]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir. Magisk Manager Magisk Manager ile yükleme aşamaları Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız. Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz. ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz. &#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -437,7 +532,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[flash player opera 2021]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=851</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Flash Player&#8217;ı browserlarda nasıl çalıştırılabileceğini anlatmaya çalışacağım.. 2021 yılına girişiyle beraber Adobe tarafından Flash desteği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Flash Player&#8217;ı browserlarda nasıl çalıştırılabileceğini anlatmaya çalışacağım.. 2021 yılına girişiyle beraber Adobe tarafından Flash desteği kesilmişti. Hâliyle Google Chrome, Mozilla Firefox ve Opera Flash Player desteklememeye başladı. Bunun için UC Browser&#8217;ı kullanabilirsiniz. UC Browser</p>
 <p>The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -465,7 +560,7 @@ fastboot reboot</code></pre>
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Google Chrome, Firefox ve Opera Flash Player çalıştırma 2021 [%100 çalışıyor.]" width="1140" height="641" src="https://www.youtube.com/embed/8d1wP0Mwqzw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Google Chrome, Firefox ve Opera Flash Player çalıştırma 2021 [%100 çalışıyor.]" width="1180" height="664" src="https://www.youtube.com/embed/8d1wP0Mwqzw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -499,7 +594,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[Lineage OS File Manager]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=845</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz. Bu yazımızda Cynogenmod OS kullanırken CM File Manager kullanırdık ama Linegeage OS ile birlikte yazılım kayboldu ve yüklemek isteyenler için yöntem var. CM 12 ve LineageOS 13 ve üstü CM 12 altı CM 11 ve altı CyanogenMod / Lineage OS Dosya Yöneticisi Nasıl Kurulur Yapmanız gereken ilk şey, Android sürümünüzü kontrol etmektir.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/">Lineage OS CM File manager yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz.</p>
 
@@ -612,7 +707,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[Telefonda usb sorunu çözüldü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=835</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını indirip açıyoruz. Uygulamayı açtıktan sonra &#8220;Detail&#8221; butonuna dokunup hangisinin eksik olduğunu buluyoruz. USB Host solunda çarpı işaretı varsa Önce cihazın rootlu olduğundan emin oluyoruz. android.hardware.usb.host.xml dosyası root erişimini destekleyen dosya yöneticisi aracılığı ile &#160;&#8220;/system/etc/permissions&#8221; yoluna&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -670,12 +765,12 @@ fastboot reboot</code></pre>
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1180" height="664" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -713,7 +808,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=831</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi Ayarları …&#62;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -844,7 +939,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=823</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -999,7 +1094,7 @@ fastboot reboot</code></pre>
 		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
 
-					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek; Program işaretli&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
 
@@ -1072,169 +1167,6 @@ fastboot reboot</code></pre>
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
-		<link>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/</link>
-					<comments>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2020 07:14:48 +0000</pubDate>
-				<category><![CDATA[ADO.NET]]></category>
-		<category><![CDATA[C#]]></category>
-		<category><![CDATA[MYSQL]]></category>
-		<category><![CDATA[Programlama]]></category>
-		<category><![CDATA[SQL]]></category>
-		<category><![CDATA[.net core EF]]></category>
-		<category><![CDATA[.Net Core Entity Framework]]></category>
-		<category><![CDATA[ado.net]]></category>
-		<category><![CDATA[bağlantı]]></category>
-		<category><![CDATA[bağlantısı]]></category>
-		<category><![CDATA[c#]]></category>
-		<category><![CDATA[connect]]></category>
-		<category><![CDATA[EF core]]></category>
-		<category><![CDATA[Entity]]></category>
-		<category><![CDATA[Framework]]></category>
-		<category><![CDATA[like]]></category>
-		<category><![CDATA[mysql]]></category>
-		<category><![CDATA[query]]></category>
-		<category><![CDATA[select]]></category>
-		<category><![CDATA[sorguları]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=811</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım.</p>
-
-
-
-<span id="more-811"></span>
-
-
-
-<p>Proje Visual Studio ilr oluşturulmuşsa;</p>
-
-
-
-<p>Visual Studio ile projeyi açtıktan sonra Tools -&gt; NuGet Package Manager -&gt; Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir.</p>
-
-
-
-<pre class="wp-block-code"><code>Install-Package Microsoft.EntityFrameworkCore.Design
-Install-Package Microsoft.EntityFrameworkCore.Tools</code></pre>
-
-
-
-<p>Eğer Console ile oluşturulmuşsa;</p>
-
-
-
-<pre class="wp-block-code"><code>dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet add package Microsoft.EntityFrameworkCore.Tools</code></pre>
-
-
-
-<p>.NET Core versiyonu 3.0&#8217;ın altındaysa (&lt;.NET Core 3.0)</p>
-
-
-
-<p>Visual Studio:</p>
-
-
-
-<pre class="wp-block-code"><code>Install-Package Pomelo.EntityFrameworkCore.MySql
-
-Scaffold-DbContext "Server=serverIPorName;Database=databaseName;User=userName;Password=pass;TreatTinyAsBoolean=true" Pomelo.EntityFrameworkCore.MySql -OutputDir Models-f
-</code></pre>
-
-
-
-<p>Console:</p>
-
-
-
-<pre class="wp-block-code"><code>dotnet add package Pomelo.EntityFrameworkCore.MySql
-
-dotnet ef dbcontext scaffold "Server=serverIPorName;Database=databaseName;User=userName;Password=password;TreatTinyAsBoolean=true;" "Pomelo.EntityFrameworkCore.MySql"
- -o Models -f
-
-//veya
-dotnet add package Pomelo.EntityFrameworkCore.MySql
-
-dotnet ef dbcontext scaffold "server=serverIPorName;port=3306;user=root;password=mypass;database=database" Pomelo.EntityFrameworkCore.MySql -o Models -f
-</code></pre>
-
-
-
-<p>.NET Core 3.0 ve üzeri ise:</p>
-
-
-
-<p>Visual Studio:</p>
-
-
-
-<pre class="wp-block-code"><code>Install-Package MySql.Data.EntityFrameworkCore
-
-Scaffold-DbContext "server=serverIPorAdress;port=3306;user=userName;password=mypass;database=databaseName" MySql.Data.EntityFrameworkCore -OutputDir Models -f</code></pre>
-
-
-
-<p>Console:</p>
-
-
-
-<pre class="wp-block-code"><code>dotnet add package MySql.Data.EntityFrameworkCore
-
-dotnet ef dbcontext scaffold "server=serverIPorAdress;port=3306;user=userName;password=mypass;database=databaseName" MySql.Data.EntityFrameworkCore -o Models -f</code></pre>
-
-
-
-<p>komutları girilerek gerekli paketler yüklenip bağlantı sağlanır.</p>
-
-
-
-<p>Sorgu işlemleri için aşağıdaki linkleri inceleyebilirsiniz.</p>
-
-
-
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="C# ile MYSQL veri tabanına bağlanmaya çalıştık" width="1140" height="641" src="https://www.youtube.com/embed/7phgYQiaXzM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p><a href="https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/">https://bilisimkurdu.github.io/c-entity-framework-uzerinden-select-ve-like-deyimleri/</a></p>
-
-
-
-<p>Not : Context oluşturduktan sonra .NET Core Entitiy framework sorgu işlemleri şu şekilde yapılır:</p>
-
-
-
-<pre class="wp-block-code"><code>contextName.TableName
-
-//Örnek Context1 contexti ve cntx nesnesi ve Test tablosu olduğunu düşünürsek.
-
-Context1 cntx = new Context1 ();
-cntx.Test</code></pre>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -48,7 +48,7 @@
 		<category><![CDATA[Temel]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=686</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle yapılacak işlem (bölüm oluşturma,kapasite arttırımı,bölümleme,hacim işlemleri gibi) önemli farklar oluşturabilmektedir. İşte bu iki disk türü arasındaki farklar. Özellik Temel disk Dinamik disk Bölümleri ve birimleri izleme Bir bölüm tablosu kullanır Gizli bir mantıksal disk yöneticisi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/">Temel ve dinamik diskler arasındaki farklar.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

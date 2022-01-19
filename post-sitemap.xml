@@ -914,12 +914,22 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></loc>
-		<lastmod><![CDATA[2021-04-21T10:09:40+00:00]]></lastmod>
+		<lastmod><![CDATA[2021-04-21T11:15:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc><![CDATA[https://bilisimkurdu.github.io/wp-content/uploads/2021/04/cpu-mining-1.jpg]]></image:loc>
 			<image:title><![CDATA[cpu-mining-1]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></loc>
+		<lastmod><![CDATA[2022-01-19T08:52:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://bilisimkurdu.github.io/wp-content/uploads/2022/01/VmWareMacOS.jpg]]></image:loc>
+			<image:title><![CDATA[VmWareMacOS]]></image:title>
 		</image:image>
 	</url>
 </urlset>

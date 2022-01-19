@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -55,7 +55,7 @@
 		<category><![CDATA[Telefonda usb sorunu çözüldü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=835</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını indirip açıyoruz. Uygulamayı açtıktan sonra &#8220;Detail&#8221; butonuna dokunup hangisinin eksik olduğunu buluyoruz. USB Host solunda çarpı işaretı varsa Önce cihazın rootlu olduğundan emin oluyoruz. android.hardware.usb.host.xml dosyası root erişimini destekleyen dosya yöneticisi aracılığı ile &#160;&#8220;/system/etc/permissions&#8221; yoluna&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -113,12 +113,12 @@
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1180" height="664" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -154,7 +154,7 @@
 		<category><![CDATA[power tuşu arızalı bilgisayarı açma]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=794</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır. Sorun 1: Statik elektrik birikmiş olabilir. Çözüm 1 :Bilgisayarınızda takilı bütün aygıtları (USB,Kulaklık,Mikrofon,Klavye,Mouse,&#8230;) ,bataryayı ve güç adaptörünü çıkarınız ve&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -193,7 +193,7 @@
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1140" height="641" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1180" height="664" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -247,7 +247,7 @@
 		<category><![CDATA[windows ekran kartı güncelleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Ekran kartı sürücüsü güncelleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -262,7 +262,7 @@
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1140" height="641" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1180" height="664" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -303,7 +303,7 @@
 		<category><![CDATA[Temel]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=686</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Temel ve dinamik diskler arasındaki farklar hususunda olacak. Dİsklerin dinamikliği veya temel birimde oluşu diskle yapılacak işlem (bölüm oluşturma,kapasite arttırımı,bölümleme,hacim işlemleri gibi) önemli farklar oluşturabilmektedir. İşte bu iki disk türü arasındaki farklar. Özellik Temel disk Dinamik disk Bölümleri ve birimleri izleme Bir bölüm tablosu kullanır Gizli bir mantıksal disk yöneticisi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/">Temel ve dinamik diskler arasındaki farklar.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -356,7 +356,7 @@
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
 
-					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
@@ -442,7 +442,7 @@
 		<category><![CDATA[PC]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=377</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı&#160;çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı:&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, Bugün BlueStacks (Windows Android Sanal Makine yazılımı)’nın “Motor başlatılamadı hatası”nı&#160;çözüme kavuşturmanın ipuçlarını anlatmaya çalışacağım. Uygulama Hata ayrıntısı: Hata Tipi : AppCrash Dosya Adı : HD-Player.exe CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..bcdedit&#160;/set&#160;{current}&#160;nx&#160;AlwaysOff BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim- Settings -&#62; Engiene sekmesinde resimdeki gibi ayarlıyoruz. Verdiğim önerileri uygulamanız&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bluestacks-4-motor-baslatilamadi-hatasi/">BlueStacks 4 Motor başlatılamadı hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 
@@ -517,7 +517,7 @@
 		<category><![CDATA[yamaları]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
 
-					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
 <span id="more-362"></span><br />

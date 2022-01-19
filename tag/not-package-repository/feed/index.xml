@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -47,7 +47,7 @@
 		<category><![CDATA[ubuntu paket yüklenmiyor]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=654</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir?&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir? /etc/apt/sources.list dosyasını root hakları ile açıp aşağıdaki satırı ekleyiniz. Sonra aşağıdaki komutları giriniz. Eğer deb uzantılı dosyaları yüklerken almışsanız. komutların girilmesi yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Debian tabanlı işletim sistemlerinde depolarda bulunmayan paketleri yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

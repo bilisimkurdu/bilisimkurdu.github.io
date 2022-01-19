@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -49,7 +49,7 @@
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=831</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi Ayarları …&#62;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -180,7 +180,7 @@
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=823</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -335,7 +335,7 @@
 		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
 
-					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek; Program işaretli&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
 
@@ -447,7 +447,7 @@
 		<category><![CDATA[yaz]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221; klasörüne Dockerfile ve .circlei klasörünü ekliyoruz. Dockerfile içeriği .circleci\config.yml içeriği değerleri ile yazıldıktan sonra github ile pushlayıp heroku uygulaması ve circleci projesi oluşturuyoruz. CircleiCI projesi oluşturuken resimdeki gibi uyguluyoruz. Bulid işlemlemine başlayacaktır fakat hata verecektir.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -600,7 +600,7 @@ jobs:
 		<category><![CDATA[Windows 7’de Bluetooth sorununun çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=780</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu bilgisayarda bluetooth ile bir aygıt bağlanıyor fakat bütün sürücülerin kurulu olmasına rağmen sürücüleri tanıyamamakta. Sorunun çözümü olarak Intel Bletooth Driver&#8217;ı indirip yükledikten sonra bilgisayarınızı yeniden başlatmanızdır. Intel Bluetooth Driver: https://downloadcenter.intel.com/download/29330/Intel-Wireless-Bluetooth-for-Windows-7- Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -658,7 +658,7 @@ jobs:
 		<category><![CDATA[windows 10 internete bağlanmıyor 2020]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=771</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi 27/02/2020 tarihinde KB4535996 toplu güncellemesinde ortaya çıkan WinHTTP veya WinInet&#8217;i kullanan tüm yazılımların sorun yaşayabilmekte. Yaşanan sorunun şirket ağına bağlanırken VPN bağlantısı yapılırken veya VPN bağlantısı kesilirken yaşandığı belirtilmekte. Geçici çözüm olarak bilgisayarın yeniden başlatılması. Microsoft, bu&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -715,7 +715,7 @@ jobs:
 		<category><![CDATA[WSL run gui software]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup stabil çalışmayabilir. Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa tıklayınız 🙂 Öncelikle Xming yazılımın indiriyoruz. https://sourceforge.net/projects/xming Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz. Çalıştıracağımız uygulamanın paket&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -733,7 +733,7 @@ jobs:
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -811,7 +811,7 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[wsl nedir]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&#62; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak komutunu giriyoruz. Bilgisayarı yeniden&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -990,7 +990,7 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[windows ekran kartı güncelleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=731</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Windows üzerinde bütün ekran katların sürücülerin nasıl güncelleneceği hususunda olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/">Ekran kartı sürücüsü güncelleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -1005,7 +1005,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1140" height="641" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1180" height="664" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1051,7 +1051,7 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[Windows 8.1 Visual Studio kurulmuyor.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=727</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazım Visual Studio 2017-2019 sürümleri kurulurken veya güncellenirken Installer güncellemesinden sonra açılmasıyla ilişkin olacak. Hatanın sebebi Windows Microsoft&#8217;a ait bazı sertifikalara tanıyamaması veya güvenememesinden kaynaklanmaktadır. Hatanın çözümü olarak aşağıdaki güncellemeleri işletim sisteminize ve bitine uygun olarak indirip yüklemeniz gerekmektedir. Windows 7 32 bit: https://www.microsoft.com/tr-tr/download/details.aspx?id=45588&#38;fbclid=IwAR0qHM6JOelBh9D8OuAY2XGP_YKXD9sJqWSSTniRgt8AaPaSr9O0JAch2LE Windows 7 64 bit: https://www.microsoft.com/en-us/download/details.aspx?id=45633 Windows 8&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/">Windows 7 Visual Studio kurulmuyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 

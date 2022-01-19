@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -55,7 +55,7 @@
 		<category><![CDATA[Telefonda usb sorunu çözüldü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=835</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını indirip açıyoruz. Uygulamayı açtıktan sonra &#8220;Detail&#8221; butonuna dokunup hangisinin eksik olduğunu buluyoruz. USB Host solunda çarpı işaretı varsa Önce cihazın rootlu olduğundan emin oluyoruz. android.hardware.usb.host.xml dosyası root erişimini destekleyen dosya yöneticisi aracılığı ile &#160;&#8220;/system/etc/permissions&#8221; yoluna&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -113,12 +113,12 @@
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1180" height="664" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -154,7 +154,7 @@
 		<category><![CDATA[virtual partitioning]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=785</guid>
 
-					<description><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak. Android güncellemelerini yüklerken cihazı kullanmanıza izin verecek. Google&#8217;ın A/B sanal disk bölümleme (virtual partitioning)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak. Android güncellemelerini yüklerken cihazı kullanmanıza izin verecek. Google&#8217;ın A/B sanal disk bölümleme (virtual partitioning) desteği ile sunulan işlevin yeni cihazların tümünde yer alacak. Sanal bölümleme ilk olarak Android 7 Nougat&#8217;ta kullanılmıştı ancak diskte ek yer harcadığından ötürü çoğu üretici, bu özelliği kullanmamıştı. A/B bölümleri, telefondaki salt okunur bölümlere benzer&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/">Android Güncellemesinde yeni dönem 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Google Android 11 sürümünden itibaren güncelleme işlemlerini kolaylaştıracak.</p>
 
@@ -205,7 +205,7 @@
 		<category><![CDATA[photo stopped 2020]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=773</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Google &#8220;Fotoğraflar durdu&#8221; hatasının çözülmesiyle ilgili  olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Google &#8220;Fotoğraflar durdu&#8221; hatasının çözülmesiyle ilgili  olup daha rahat anlaşılabilmesi adına video içeriği olarak sizlere sunuyoruz. Eğer Google Fotoğraflar sistem uygulamanız değilse yüklü Google Fotoğraflar uygulamasını kaldırıp aşağıdaki linkten cihazınıza uygun olanı indirdikten sonra yüklemenizi tavsiye ederiz. https://www.apkmirror.com/apk/google-inc/photos/photos-3-5-0-168703624-release/ Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/google-photos-stopped-2020/">Google Photos stopped – 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -220,7 +220,7 @@
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Google Fotoğraflar durdu hatasının çözümü 2020" width="1140" height="855" src="https://www.youtube.com/embed/Ke1O1_LmrHk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Google Fotoğraflar durdu hatasının çözümü 2020" width="1180" height="664" src="https://www.youtube.com/embed/Ke1O1_LmrHk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -256,7 +256,7 @@
 		<category><![CDATA[oem kilidi kaldırma]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=738</guid>
 
-					<description><![CDATA[<p>Merhaba Değerli Ziyaretçilerimiz, Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak. Ayarlar&#160;&#8211;&#62;&#160;Telefon Hakkında&#160;&#8211;&#62; Derleme numarasına&#160;birkaç defa hızlıca dokunun. Artık&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Değerli Ziyaretçilerimiz, Bu yazımızda android cihazların OEM kilidinin kaldırılmasıyla ilişkin olacak. Ayarlar&#160;&#8211;&#62;&#160;Telefon Hakkında&#160;&#8211;&#62; Derleme numarasına&#160;birkaç defa hızlıca dokunun. Artık Geliştiricisiniz mesajını aldıktan sonra Ayarlar&#160;&#8211;&#62;&#160;Sistem&#160;&#8211;&#62;&#160;Gelişmiş&#160;&#8211;&#62;&#160;Geliştirici Seçeneklerine gidin &#8220;OEM kilit açma&#8221;&#160;Seçeneğini bulun ve etkinleştirin.&#160; Cihazı kapatın Ses kısma ve güç tuşuna&#160;aynı anda basılı tutun. Ekranda&#160;Fastboot mode&#160;yazısı belirince bırakın. Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/">Android cihazlarda OEM kilidi açmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Değerli Ziyaretçilerimiz,</p>
 
@@ -316,7 +316,7 @@ fastboot oem unlock-go
 		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
 
-					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
@@ -408,7 +408,7 @@ fastboot oem unlock-go
 		<category><![CDATA[OEM Kilit Açma Nedir? Android Oem Kilit Açma Nasıl Yapılır?]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=543</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımds Android 5.0 sürümünden sonra kazanılan OEM kilidinden bahsedeceğim. OEM kilidi, üçüncü kişilerin telefono ele geçirip telefonu sıfırlaması sonucunda cihazın kullanılmasını engellemektedir. Sistem telefona girdiğiniz Google hesabı ile birlikte çalışmakta olup formatlama işleminden sonra telefon kurulum ekranında Google Hesabınızı girmenizi istemektedir.  OEM kilidinin bypass yöntemleri bulunsa da telefonunuzu sıfırlamak isterseniz OEM kilidini&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/oem-kilidi-nedir-android/">OEM Kilidi nedir? (Android)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -468,7 +468,7 @@ fastboot oem unlock-go
 		<category><![CDATA[instagram yarışması dondu]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=427</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Hadi gibi uygulamalarda telefonun teknik özellikleri hem de boşta RAM oranı ve internet hızınız yeterliyken&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Hadi gibi uygulamalarda telefonun teknik özellikleri hem de boşta RAM oranı ve internet hızınız yeterliyken telefonun aniden kasması veya donma hatasının çözümünü anlatacağım. Önce telefonumuzun &#8220;Developer Options&#8221; yani Geliştirici Seçeneklerini aktif ediyoruz. Ama nasıl geliştirici seçeneğini aktif ederim? Ayarlar -&#62; Telefon Hakkında\Cihaz Hakkında -&#62; Özel Derleme Sürümü\Yapım Numarası(Build Number)&#8217;na 5&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/hadi-bilgi-yarismasi-android-uygulamasinda-donmasikasmasi/">Hadi bilgi yarışması Android uygulamasında donması\kasması</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -549,7 +549,7 @@ fastboot oem unlock-go
 		<category><![CDATA[tv]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=382</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, En başında yeni yılın bütün insanlık için hayırlı olmasını temenni eder, neşeli bir yıl olmasını temenni ederim.&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem ziyaretçiler, En başında yeni yılın bütün insanlık için hayırlı olmasını temenni eder, neşeli bir yıl olmasını temenni ederim. Telefonların tabletlerin TV kablosuz olarak Televizyonlara bağlanamama problemi konusunda yardımcı olacağım. Bildiğiniz üzere Android 7.0’dan sonra Google tarafından Miracast desteği kesilmiş durumdadır. Sebebi ise Google Cast’ların yaygınlaştırma politikası olarak düşünebilir miyiz? İyi Akşamlar 🙂</p>
 <p>The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem ziyaretçiler,</p>
 
@@ -571,7 +571,7 @@ fastboot oem unlock-go
 
 
 
-<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -607,7 +607,7 @@ fastboot oem unlock-go
 		<category><![CDATA[ZTE Handset software update tool yazılımı "Failed to detect network" hatası]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=355</guid>
 
-					<description><![CDATA[<p>Merhaba arkadaşlar, Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221; hatasının sebebi yazılımın cndms.ztems.com (113.98.59.187) adresine erişilememesidir. Bu sonuca nasıl ulaştım? TURKCELL T50 cihazını kurtatmaya çalışırken ZTE Handset software update tool yazılımını kurup çalıştırdığımda &#8220;Failed to detect network&#8221; hatası aldım. (İnternet bağlantısı var.) Firewall ayarlarına bakıtm&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/zte-handset-software-update-tool-failed-to-detect-network/">ZTE Handset software update tool yazılımı “Failed to detect network” hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p data-xf-p="1">Merhaba arkadaşlar,</p>
 <p data-xf-p="1">Zte ve türevi cihazların yazılım kurtarma aracı olan ZTE Handset software update tool yazılımının &#8220;Failed to detect network&#8221; hatasının sebebi yazılımın cndms.ztems.com (113.98.59.187) adresine erişilememesidir.</p>
@@ -656,7 +656,7 @@ fastboot oem unlock-go
 		<category><![CDATA[xiaomi rom]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=171</guid>
 
-					<description><![CDATA[<p>Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Muhterem ziyaretçilerimiz, Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için bootloader işlemi yapılması gerekmekte. Şu linkte fastboot yazılımını ve fastboot flash yazılımını indiriyoruz. Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz. Miflash programını açarak resimdeki modda ayarlıyoruz. Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçilerimiz,</p>
 <p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>

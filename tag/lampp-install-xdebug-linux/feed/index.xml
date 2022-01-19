@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -51,7 +51,7 @@
 		<category><![CDATA[yükleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=698</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Xampp kurulu bilgisayara PHP eklentilerinden biri olan Xdebug nasıl yükleneceği üzere olacak. Xdebug eklentisi bilindiği üzere PHP kodlarını Debug (Ayrıştırma) işlevini görmekte. Geçelim Xdebug yüklemeye: Windows için; Xdebug dll dosyasını indirdikten sonra dosyanın ismi &#8220;debug.dll&#8221; olarak değiştirilir. Xdebug Windows dll dosyasını https://xdebug.org/download adresinden indirebilirsiniz debug.dll dosyasını &#8220;C:\xampp\php\ext&#8221; dizinine yapıştırılır. &#8220;C:\xampp\php\&#8221;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/xampp-xdebug-yukleme/">Xampp Xdebug yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -47,7 +47,7 @@
 		<category><![CDATA[wsl nedir]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&#62; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak komutunu giriyoruz. Bilgisayarı yeniden&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 

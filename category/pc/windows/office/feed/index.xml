@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -49,7 +49,7 @@
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=831</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi Ayarları …&#62;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -180,7 +180,7 @@
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=823</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 

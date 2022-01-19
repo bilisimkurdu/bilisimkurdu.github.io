@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -61,7 +61,7 @@
 		<category><![CDATA[Windows update hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=691</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Windows güncellemelerinde alınan hata kodlarından bahsedeceğim. Windows güncellemelerinde güncelleme sırasında veya Event Viever -&#62; Sysytem yolunu takip edilerek hata kodu tespit edilebilir. Upgrade esnasında &#8220;Installation has failed&#8221; hatası alınıp &#8220;C:\Windows\Logs\MoSetup\BlueBox.log&#8221; dosyasını inceleyerek bulunabilir. Hata kodları ve açıklamaları aşağıdaki tablodadır. Hata Ne anlama gelir ve nasıl düzeltilir 0xc1900223 Bu, seçilen güncelleştirmeyi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/">Windows güncelleme hata kodları</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

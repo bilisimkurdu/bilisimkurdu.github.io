@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 08 Oct 2020 13:39:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jan 2022 08:52:25 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,101 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>VMware OS X Monterey Screen Lag</title>
+		<link>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/</link>
+					<comments>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 08:51:54 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[Sanallaştırma]]></category>
+		<category><![CDATA[vmware mac os lag]]></category>
+		<category><![CDATA[vmware mac os slow performance]]></category>
+		<category><![CDATA[vmware mac os yavaş]]></category>
+		<category><![CDATA[vmware mac os yavaş çalışıyor]]></category>
+		<category><![CDATA[vmware macos screen lag]]></category>
+		<category><![CDATA[VMware suddenly very slow opening applications]]></category>
+		<category><![CDATA[VMWare Tools make my VMWare Workstation is so slow]]></category>
+		<category><![CDATA[VMWare Tools make my VMWare Workstation Mac OS is so slow]]></category>
+		<category><![CDATA[VMware Workstation Pro is super laggy]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=924</guid>
+
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz. Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir. Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz. Sorunu detaylıca inceleyelim. Problem :VMware Workstation sanal MacOSX Monterey&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;<br></p>
+
+
+
+<p>Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz.</p>
+
+
+
+<p>Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir.</p>
+
+
+
+<p>Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz.</p>
+
+
+
+<p>Sorunu detaylıca inceleyelim.</p>
+
+
+
+<span id="more-924"></span>
+
+
+
+<p>Problem :VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması</p>
+
+
+
+<p>Problem sebebi: VMvare Tools tools yüklenmesinden sonra DisplayResolutionEnabled bool değeri True olarak ayarlanması sonucu tam ekranda görüntü gecikmesi yaşanmaktadır.</p>
+
+
+
+<p>Çözüm: &#8220;VMware WorkStation -&gt; İlgili Sanal makine -&gt; Edit virtual machine settings -&gt; Display&#8221; aşamalarını takip ederek;</p>
+
+
+
+<p><strong>Specify monitor settings</strong> işaretlenir.</p>
+
+
+
+<ul><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
+
+
+
+<p>olarak ayarlanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img src="https://i.hizliresim.com/geojp11.png" alt=""/></figure>
+
+
+
+<p>Daha rahat anlaşılması için video içeriğimiz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="VMWare Tools make my VMWare Workstation is so slow." width="1180" height="664" src="https://www.youtube.com/embed/-orImLtKjJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Android telefon ve tabletlere OTG özelliği kazandırma</title>
 		<link>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/</link>
 					<comments>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/#respond</comments>
@@ -55,7 +150,7 @@
 		<category><![CDATA[Telefonda usb sorunu çözüldü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=835</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımız USB aygıtları görmemeyen cihazlarda nasıl USB aygıtlarını görebileceği hakkında olacak. Öncelikle USB Otg Checker uygulamasını indirip açıyoruz. Uygulamayı açtıktan sonra &#8220;Detail&#8221; butonuna dokunup hangisinin eksik olduğunu buluyoruz. USB Host solunda çarpı işaretı varsa Önce cihazın rootlu olduğundan emin oluyoruz. android.hardware.usb.host.xml dosyası root erişimini destekleyen dosya yöneticisi aracılığı ile &#160;&#8220;/system/etc/permissions&#8221; yoluna&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -113,12 +208,12 @@
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1140" height="641" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Android telefon ve tabletlerde otg çalışmıyor sorunu [ÇÖZÜLDÜ %100 çalışıyor]" width="1180" height="664" src="https://www.youtube.com/embed/2hE2BcraMYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -156,7 +251,7 @@
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=831</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi Ayarları …&#62;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -287,7 +382,7 @@
 		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=823</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
 
@@ -442,7 +537,7 @@
 		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
 
-					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek; Program işaretli&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
 
@@ -554,7 +649,7 @@
 		<category><![CDATA[yaz]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221; klasörüne Dockerfile ve .circlei klasörünü ekliyoruz. Dockerfile içeriği .circleci\config.yml içeriği değerleri ile yazıldıktan sonra github ile pushlayıp heroku uygulaması ve circleci projesi oluşturuyoruz. CircleiCI projesi oluşturuken resimdeki gibi uyguluyoruz. Bulid işlemlemine başlayacaktır fakat hata verecektir.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -699,7 +794,7 @@ jobs:
 		<category><![CDATA[power tuşu arızalı bilgisayarı açma]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=794</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır. Sorun 1: Statik elektrik birikmiş olabilir. Çözüm 1 :Bilgisayarınızda takilı bütün aygıtları (USB,Kulaklık,Mikrofon,Klavye,Mouse,&#8230;) ,bataryayı ve güç adaptörünü çıkarınız ve&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -738,7 +833,7 @@ jobs:
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1140" height="641" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1180" height="664" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -798,7 +893,7 @@ jobs:
 		<category><![CDATA[Windows 7’de Bluetooth sorununun çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=780</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu bilgisayarda bluetooth ile bir aygıt bağlanıyor fakat bütün sürücülerin kurulu olmasına rağmen sürücüleri tanıyamamakta. Sorunun çözümü olarak Intel Bletooth Driver&#8217;ı indirip yükledikten sonra bilgisayarınızı yeniden başlatmanızdır. Intel Bluetooth Driver: https://downloadcenter.intel.com/download/29330/Intel-Wireless-Bluetooth-for-Windows-7- Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -856,7 +951,7 @@ jobs:
 		<category><![CDATA[windows 10 internete bağlanmıyor 2020]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=771</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda bahsedeceğimiz konu Windows 10 son gelen güncellemelerden sonra yaşanan internet bağlantı sorununa değineceğiz. Sorunun sebebi 27/02/2020 tarihinde KB4535996 toplu güncellemesinde ortaya çıkan WinHTTP veya WinInet&#8217;i kullanan tüm yazılımların sorun yaşayabilmekte. Yaşanan sorunun şirket ağına bağlanırken VPN bağlantısı yapılırken veya VPN bağlantısı kesilirken yaşandığı belirtilmekte. Geçici çözüm olarak bilgisayarın yeniden başlatılması. Microsoft, bu&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -913,7 +1008,7 @@ jobs:
 		<category><![CDATA[WSL run gui software]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup stabil çalışmayabilir. Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa tıklayınız 🙂 Öncelikle Xming yazılımın indiriyoruz. https://sourceforge.net/projects/xming Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz. Çalıştıracağımız uygulamanın paket&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -931,7 +1026,7 @@ jobs:
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -985,183 +1080,6 @@ blockout2 //çalıştırma</code></pre>
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>WSL (Linux için Windows Alt Sistemi) kurulumu</title>
-		<link>https://bilisimkurdu.github.io/wsl-kurulumu/</link>
-					<comments>https://bilisimkurdu.github.io/wsl-kurulumu/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 01 Apr 2020 16:25:51 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[linuxu windowsta kullanma]]></category>
-		<category><![CDATA[windows 10 debian]]></category>
-		<category><![CDATA[windows 10 linux]]></category>
-		<category><![CDATA[windows 10 pardus]]></category>
-		<category><![CDATA[windows 10 ubunutu]]></category>
-		<category><![CDATA[wsl]]></category>
-		<category><![CDATA[wsl kurulumu]]></category>
-		<category><![CDATA[WSL Linux için Windows Alt Sistem]]></category>
-		<category><![CDATA[wsl nedir]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a></p>
-<p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz.</p>
-
-
-
-<p>WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir.</p>
-
-
-
-<span id="more-756"></span>
-
-
-
-<blockquote class="wp-block-quote"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
-
-
-
-<p>Şimdi geçelim kuruluma;</p>
-
-
-
-<p>Başlat -&gt; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak</p>
-
-
-
-<pre class="wp-block-code"><code>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux</code></pre>
-
-
-
-<p>komutunu giriyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt=""/></figure>
-
-
-
-<p>Bilgisayarı yeniden başlatma için onay isteyecek. Klavyeden &#8220;Y&#8221; tuşuna basıyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt=""/></figure>
-
-
-
-<p>Bilgisayar yeniden başlatıldıktan sonra Windows Store&#8217;yi açarak &#8220;Ubuntu&#8221; yazılımını kuruyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt=""/><figcaption><br><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png"></figcaption></figure>
-
-
-
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt=""/><figcaption><br></figcaption></figure>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" alt="" class="wp-image-30579"/></figure></div>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" alt="" class="wp-image-30580"/></figure></div>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" alt="" class="wp-image-30581"/></figure></div>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" alt="" class="wp-image-30582"/></figure></div>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" alt="" class="wp-image-30583"/></figure></div>
-
-
-
-<ul><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" alt="" class="wp-image-30584"/></figure></div>
-
-
-
-<ul><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" alt="" class="wp-image-30585"/></figure></div>
-
-
-
-<ul><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" alt="" class="wp-image-30586"/></figure></div>
-
-
-
-<ul><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" alt="" class="wp-image-30587"/></figure></div>
-
-
-
-<ul><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" alt="" class="wp-image-30588"/></figure></div>
-
-
-
-<ul><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" alt="" class="wp-image-30589"/></figure></div>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" alt="" class="wp-image-30590"/></figure></div>
-
-
-
-<ul><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
-
-
-
-<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-kurulumu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -48,7 +48,7 @@
 		<category><![CDATA[utf-8]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=454</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda RSS Data çekerken bazı harflerin (ş,ü,ö,İ,ğ,ı,ç) tam olarak görünmemesi hakkında olacak. Eğer RSS dosyasını aşağıdaki gibi veya benzer bir kodlarla alıyorsanız; Aşağıdaki gibi düzenlemeniz gerekmektedir. Açıklarsak,WebClient türünde webClient nesnesini oluşturarak using deyimi içinde utf-8 uyumlu olacak şekilde parse ettik. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/c-sharp-rss-reader-utf-8-problemi/">C# RSS Reader UTF-8 problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -144,7 +144,7 @@ WebClient wclient = new WebClient();
 		<category><![CDATA[programlama]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=268</guid>
 
-					<description><![CDATA[<p>Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba arkadaşlar, Bugün yazımda size programlama aşamalarını yazmaya çalışacağım. Nasıl bir ekip çalışması yapılırken, bilimsel araştırma yapılırken belli bir aşamaları varsa programlama eyleminin de aşamaları vardır. • Problem : Problemin belirlenmesi. • Problem analizi : Problem analizi yapılarak çözüm aranmaya çalışılır. • Çözüm : Problemi en kısa sürede ve en doğru biçimde çözen yöntemdir. •&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-3/">Genel Programlama Mantığı – 3</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
 <p>Bugün yazımda size programlama aşamalarını yazmaya çalışacağım.</p>
@@ -179,9 +179,9 @@ WebClient wclient = new WebClient();
 		<category><![CDATA[programlama]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=247</guid>
 
-					<description><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır 🙂 Bu yazımda akış şemasını göstereceğim. Akış şeması algoritmanın şekil bulmuş halidir. Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır. Örnek bir algoritma örneği verirsek; Algoritma Adım 1-Başla Adım 2-I18=0 I19=0 I20=0 I21=0 I22=0 IYOS=0 Adım 3-OSA oku Adım 4-OSA=18 ise I18'i arttır, Adım&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/genel-programlamlama-mantigi-2/">Genel Programlamlama Mantığı – 2</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bugün Genel Programlama Mantığının ikinci ve son yazım arzınızdadır <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>Bu yazımda akış şemasını göstereceğim.</p>
 <p>Akış şeması algoritmanın şekil bulmuş halidir.</p>
 <p>Akış şemalarının hazırlanmasında aşağıda yer alan simgeler kullanılır.<br />
@@ -252,7 +252,7 @@ Adım 11-DUR</pre>
 		<category><![CDATA[programlama]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=235</guid>
 
-					<description><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım. Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz. Programlama dillerini algoritmayı bilgisayarın anlayacak şekilde standartlarşmış notasyon olarak belirtebiliriz. Algoritma Başla komutuyla başlar Bitir komutyla biter. Örnekler verirsek; A1 : Başla. A2 : &#8220;Merhaba Dünya&#8221; yazdır. A3 : Bitir. Bahsettiğimiz&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/genel-programlama-mantigi-1/">Genel Programlama Mantığı – 1</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar, bu yazımda programlama mantığını anlatmaya çalışacağım.</p>
 <p>Programlamada önce algoritmayı bilmek gerekmektedir. Algoritmayı, belli bir problemi çözüme kavuşturmak amacıyla tasarlanan yol olarak belirtebiliriz.</p>

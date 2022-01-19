@@ -5,15 +5,21 @@
 		<title>Bilişim Kurdu</title>
 		<link><![CDATA[https://bilisimkurdu.github.io]]></link>
 		<description><![CDATA[Bilişim Kurdu]]></description>
-		<lastBuildDate><![CDATA[2021-04-21T10:09:40+00:00]]></lastBuildDate>
+		<lastBuildDate><![CDATA[2022-01-19T08:52:25+00:00]]></lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 		<ttl>0</ttl>
 
 		<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></link>
+			<title>VMware OS X Monterey Screen Lag</title>
+			<pubDate><![CDATA[2022-01-19T08:52:25+00:00]]></pubDate>
+		</item>
+		<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></link>
 			<title>CPU ile mining nasıl yapılır?</title>
-			<pubDate><![CDATA[2021-04-21T10:09:40+00:00]]></pubDate>
+			<pubDate><![CDATA[2021-04-21T11:15:35+00:00]]></pubDate>
 		</item>
 		<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/]]></guid>
@@ -302,12 +308,6 @@
 			<link><![CDATA[https://bilisimkurdu.github.io/mysql-for-visual-studio-guid-error/]]></link>
 			<title>MySQL for Visual Studio guid error</title>
 			<pubDate><![CDATA[2019-03-21T20:19:35+00:00]]></pubDate>
-		</item>
-		<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/]]></link>
-			<title>The devenv /updateconfiguration command may have failed</title>
-			<pubDate><![CDATA[2019-03-21T19:52:25+00:00]]></pubDate>
 		</item>
 	</channel>
 </rss>

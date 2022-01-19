@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -42,7 +42,7 @@
 		<category><![CDATA[sudo dolphin sudo dolphin:Executing Dolphin as root is not possible.]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=492</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda sudo dolphin komutu uygulanırken Executing Dolphin as root is not possible. hatasıyla ilişkin olacak. Bu hata KDE framework 5.34 sürümünde yapılan güncellemeden ötürü kaynaklanmaktadır. Problemin çözümü nautilus dosya yöneticisinin yüklenip sudo komutu ile çalıştırılması ile çözülür. Nautilus yüklemek için; Nautilus&#8217;u sudo olarak çalıştırmak için; komutlarını terminal üzerinden yürütebilirirsiniz. Eğer bu&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/">sudo dolphin:Executing Dolphin as root is not possible.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

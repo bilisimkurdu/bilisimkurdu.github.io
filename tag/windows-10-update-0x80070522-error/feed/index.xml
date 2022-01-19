@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -45,7 +45,7 @@
 		<category><![CDATA[Windows 10 upgrade 0x80070522 error]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=694</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda &#8220;0x80070522&#8243; hata kodu ile anılan &#8221; Required Privilege Is Not Held By The Client Error&#8221; hatasının çözümü ile ilgili olacak. Hatanın çözümü ile ilgili uygulanabilecek yöntemler; Local Securty Policies ayarları Windows +R tuşlarına basarak secpol.msc yazılır. Security Settings > Local Policies > Security Options aşamaları takip edilir. “User Account Control: Run&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/">Required Privilege Is Not Held By The Client Error</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 

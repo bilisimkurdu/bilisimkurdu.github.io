@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -62,7 +62,7 @@
 		<category><![CDATA[yaz]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221;&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221; klasörüne Dockerfile ve .circlei klasörünü ekliyoruz. Dockerfile içeriği .circleci\config.yml içeriği değerleri ile yazıldıktan sonra github ile pushlayıp heroku uygulaması ve circleci projesi oluşturuyoruz. CircleiCI projesi oluşturuken resimdeki gibi uyguluyoruz. Bulid işlemlemine başlayacaktır fakat hata verecektir.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -207,7 +207,7 @@ jobs:
 		<category><![CDATA[WSL run gui software]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-gui/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup stabil çalışmayabilir. Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa tıklayınız 🙂 Öncelikle Xming yazılımın indiriyoruz. https://sourceforge.net/projects/xming Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz. Çalıştıracağımız uygulamanın paket&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -225,7 +225,7 @@ jobs:
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -303,7 +303,7 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[wsl nedir]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=756</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/wsl-kurulumu/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&#62; &#8220;PowerShell&#8221; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#8217;i açarak komutunu giriyoruz. Bilgisayarı yeniden&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/wsl-kurulumu/">WSL (Linux için Windows Alt Sistemi) kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -478,7 +478,7 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[nested virtualization]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=719</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud üzerinden oluşturulan sunucu sanal olup sanal makine üzerinden başka bir sanal makine oluşturulması iç içe sanallaştırma senaryosudur. Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz. https://cloud.google.com/sdk/install Aşağıdaki komut ile Console&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Enable nested virtualization on Google Cloud</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -560,7 +560,7 @@ blockout2 //çalıştırma</code></pre>
 		<category><![CDATA[vps]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=711</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntu Server Debian tabanlı server işletim sistemlerine sahip sunuculara TightVNC sunucusu nasıl kurulacağını bahsedeceğim. Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir. Eğer Ubuntu Server için;&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/ubuntu-debian-ve-debian-tabanli-sunuculara-vncserver-kurulumu/">Ubuntu,Debian ve debian tabanlı sunuculara VNCServer kurulumu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -719,7 +719,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 		<category><![CDATA[xubuntu password reset]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=666</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Kali linux&#8217;da nasıl şifre sıfırlandığı hususunda olacak. Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır. Kali linux yazan seçeneğe gelir F10 tuşuna basılır. GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221; kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın. &#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/">Kali Linux şifre sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -790,7 +790,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 		<category><![CDATA[xubuntu password reset]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=663</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda Ubuntuda unutulan şifrenin sıfırlanması hakkında olacak. Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın. Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız. Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz. Bu menüden çoğunlukla 2. sırada yer alan Recovery Mode satırını seçin ve içine giriniz. Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz. Karşınıza çıkacak shell ekranında&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/ubuntu-sifresi-sifirlama/">Ubuntu şifresi sıfırlama</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -881,7 +881,7 @@ exit</code></pre>
 		<category><![CDATA[ubuntu paket yüklenmiyor]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=654</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir?&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda debian tabanlı işletim sistemlerinin depolarında bulunmayan eksik paketlerin yüklenmesiyle ilişkin olacak. Eksik paketler nasıl yüklenir? /etc/apt/sources.list dosyasını root hakları ile açıp aşağıdaki satırı ekleyiniz. Sonra aşağıdaki komutları giriniz. Eğer deb uzantılı dosyaları yüklerken almışsanız. komutların girilmesi yeterlidir. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz. İyi günler.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/debian-tabanli-isletim-sistemlerinde-eksik-paketi-yuklemek/">Debian tabanlı işletim sistemlerinde depolarda bulunmayan paketleri yüklemek</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -964,7 +964,7 @@ sudo gdebi paketAdi.deb</code></pre>
 		<category><![CDATA[Windows 7 does not boot from GRUB boot loader]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=650</guid>
 
-					<description><![CDATA[<p>Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue)&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba muhterem ziyaretçiler, Bu yazımda birden fazla işletim sistemi kurulan bilgisayarlarda işletim sistemi açılmama probleminin çözümü üzerinde duracağız. (grub rescue) Senaryomuz şu şekilde; Bilgisayara hem Linux tabanlı işletim sistemlerinden biri hem de Windows işletim sistemlerinden biri kurulmuş olsun. Belli bir süre sonra (güncelleme,sistem yapılandırma,arıza) gibi nedenlerle işletim sistemlerinden biri açılırken &#8220;grub rescue&#8221; hatası versin. Çözüm&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/birden-fazla-isletim-sistemi-kurulan-bilgisayarda-grub-rescue-acilmama-sorunu/">Birden fazla işletim sistemi kurulan bilgisayarda grub rescue açılmama sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba muhterem ziyaretçiler,</p>
 
@@ -1045,7 +1045,7 @@ bootrec.exe /rebuildbcd</code></pre>
 		<category><![CDATA[rufus apk]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=646</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda bilgisayar yoksa yahut bilgisayarınızda işletim sistemi kurulmamış veya işletim sisteminiz çökmüşse bir yolu var. Öncelikle gereksinimlerin bulunması gerekmektedir; Android Cihazınızın OTG desteği olması En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek OTG kablo Kurmak istediğiniz işletim sistemini içerek iso dosyasını telefona kopyalanır veya indirilir. Eğer işletim sistemi&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/">Android cihazlarda Bootable USB oluşturma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
 
@@ -1080,7 +1080,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="EtchDroid ile Linux tabanlı işletim sistemleri için bootable USB hazırlama" width="1180" height="664" src="https://www.youtube.com/embed/DziZ7w4gVoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1090,7 +1090,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="ISO2USB ile Windows ISO bootable USB hazırlama" width="1140" height="855" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="ISO2USB ile Windows ISO bootable USB hazırlama" width="1180" height="664" src="https://www.youtube.com/embed/QalJSJU1OJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1100,7 +1100,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos 2019" width="1140" height="641" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Como CRIAR um PENDRIVE Bootável DO WINDOWS 10 pelo CELULAR sem erros de aplicativos! SEM ERROS!" width="1180" height="664" src="https://www.youtube.com/embed/QFvZ4_C3qps?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 

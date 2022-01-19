@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -56,7 +56,7 @@
 		<category><![CDATA[sorguları]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=811</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda .NET Core projesi üzerinden Entity Framework ile MYSQL veritabanı ile işlem yapmayı anlatmaya çalışacağım. Proje Visual Studio ilr oluşturulmuşsa; Visual Studio ile projeyi açtıktan sonra Tools -&#62; NuGet Package Manager -&#62; Package Manager Console aşamalarını takip ederek aşağıdaki komutları girerek Entitiy Framework paketleri yüklenir. Eğer Console ile oluşturulmuşsa; .NET Core&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/">.NET Core EF ile MYSQL veritabanı işlemleri</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 
@@ -157,7 +157,7 @@ dotnet ef dbcontext scaffold "server=serverIPorAdress;port=3306;user=userName;pa
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="C# ile MYSQL veri tabanına bağlanmaya çalıştık" width="1140" height="641" src="https://www.youtube.com/embed/7phgYQiaXzM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="C# ile MYSQL veri tabanına bağlanmaya çalıştık" width="1180" height="664" src="https://www.youtube.com/embed/7phgYQiaXzM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -218,7 +218,7 @@ cntx.Test</code></pre>
 		<category><![CDATA[Windows 7’de Bluetooth sorununun çözümü]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=780</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmaması ile ilişkin olacak. Windows 7 kurulu bilgisayarda bluetooth ile bir aygıt bağlanıyor fakat bütün sürücülerin kurulu olmasına rağmen sürücüleri tanıyamamakta. Sorunun çözümü olarak Intel Bletooth Driver&#8217;ı indirip yükledikten sonra bilgisayarınızı yeniden başlatmanızdır. Intel Bluetooth Driver: https://downloadcenter.intel.com/download/29330/Intel-Wireless-Bluetooth-for-Windows-7- Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 

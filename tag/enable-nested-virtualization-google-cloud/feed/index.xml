@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -45,7 +45,7 @@
 		<category><![CDATA[nested virtualization]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=719</guid>
 
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Google Cloud üzerinden Nested virtualization (iç içe sanallaştırma) aktifleştirme üzerine olacak. Bilindiği üzere Google Cloud üzerinden oluşturulan sunucu sanal olup sanal makine üzerinden başka bir sanal makine oluşturulması iç içe sanallaştırma senaryosudur. Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz. https://cloud.google.com/sdk/install Aşağıdaki komut ile Console&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/enable-nested-virtualization-on-google-cloud/">Enable nested virtualization on Google Cloud</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -45,7 +45,7 @@
 		<category><![CDATA[mva]]></category>
 		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=460</guid>
 
-					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Merhaba Arkadaşlar, 30 Nisan&#8217;da Microsoft MVA programı sona erecek olup, MVA servisiyle sunduğu ücretsiz e-book kaynaklara erişim kapanacaktır. Ücretsiz e kitaplara aşağıdaki linke ulaşabilirsiniz. https://yadi.sk/d/WgEStyM6iSdkvA (Eğer telif hakkı olarak düşünüyorsanız sitede bulunan sohbet kısmına veya yorumlarda kaldırılmasını talep edebilirsiniz.) İyi Akşamlar.</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsoft-free-ebook-giveaway/">Microsoft Free eBook Giveaway</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
 
@@ -104,7 +104,7 @@
 		<category><![CDATA[yamaları]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=362</guid>
 
-					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek. Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#8217;ın bulut sistemleri, bir mühendisin çalışmaları sayesinde neredeyse hiç etkilenmedi. Google&#8217;dan Paul Turner, Spectre ve Meltdown&#8217;un etkilerini azaltmak için Retpoline adını verdiği, neredeyse hiç performans kaybına yol açmayan alternatif bir çözüm geliştirdi.&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/microsofttan-guncelleme-mujdesi/">Microsoft’tan güncelleme müjdesi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Microsoft Intel işlemcilerde bulunan Spectre ve Meltdown açıkları için yayımlanan yamalardan dolayı oluşan performans kaybı giderilecek.<br />
 <span id="more-362"></span><br />
@@ -148,9 +148,9 @@ Bazı firmalar sunucularında ciddi performans kayıpları yaşarken Google&#821
 		<category><![CDATA[ubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=134</guid>
 
-					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle sudo apt-get install curl ile curl paketini yüklüyoruz. curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz. sudo apt-get update sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz. sudo /opt/mssql/bin/sqlservr-setup&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>
@@ -201,7 +201,7 @@ source ~/.bashrc</p>
 		<category><![CDATA[ubuntu]]></category>
 		<guid isPermaLink="false">https://www.bilisimkurdu.cf/?p=120</guid>
 
-					<description><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım. Şu adımları uygulamaya başladım. 1) Public repo keyini import ediyoruz. sudo sh -c “curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add -“ 2) Microsoft SQL Server Ubuntu repositorysini ekliyoruz. sudo sh -c “echo deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial main&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Muhterem ziyaretçiler, bugün aklımda Pardus sistemime Microsoft SQL Server kurmaya karar verdim ve sistemime Microsoft SQL Server kurmaya başladım.</p>
 <p>Şu adımları uygulamaya başladım.</p>
@@ -231,8 +231,7 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 <p>Belki de Pardus depolarında güncel paketler olsaydı kararlı bir şekilde Mssql Server&#8217;ı Pardus&#8217;a kurmuş olurdum.</p>
 <p>İyi Çalışmalar ve İyi Günler dilerim.</p>
 <p>Kaynakça :</p>
-<blockquote class="wp-embedded-content" data-secret="m9UUkFd2Vt"><p><a href="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html">Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları</a></p></blockquote>
-<p><iframe title="&#8220;Linux (Ubuntu) Üzerine Microsoft SQL Server Kurulumu ve SQL Araçları&#8221; &#8212; MSHOWTO Topluluğu ve Bilişim Portalı" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html/embed#?secret=m9UUkFd2Vt" data-secret="m9UUkFd2Vt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>http://www.mshowto.org/linux-ubuntu-uzerine-microsoft-sql-server-kurulumu-ve-sql-araclari.html</p>
 <p>http://www.4s.com.tr/8523-2/</p><p>The post <a href="https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/">PARDUS’A MSSQL SERVER KURMA HAKKINDA KİŞİSEL TECRÜBEM</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/pardusa-msserver-setup-tecrubem/feed/</wfw:commentRss>
@@ -262,7 +261,7 @@ Yani Mssql server Pardus&#8217;a kurulamayacağını göstermiş oldu.</p>
 		<category><![CDATA[windows 10 enterprise]]></category>
 		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=87</guid>
 
-					<description><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş&#8230; <a class="read-more" href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">Okumaya devam et</a></p>
+					<description><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak. Microsoft Cloud Solution Provider (CSP) üzerinden kurumsal Windows 10 sürümleri olan Windows 10 Enterprise E3 ve E5 ile beraber, Güvenli Windows 10 Enterprise E3 ve E5 (Secure Procuctive sürümleri) hali&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/bedava-windows10-icin-son-sans/">BEDAVA WİNDOWS 10 İÇİN SON ŞANS</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>29 Temmuz 2016&#8217;da sona eren ücretsiz Windows 10&#8217;a geçiş için Microsoft&#8217;tan son defa fırsatını son defa sunuyor.Ama Windows 10&#8217;a geçiş sadece kurumsal sürümlerde geçerli olacak.</p>
 <p><span id="more-87"></span></p>
