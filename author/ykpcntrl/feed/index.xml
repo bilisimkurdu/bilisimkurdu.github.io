@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/author/ykpcntrl/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 19 Jan 2022 08:52:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Mar 2022 08:44:07 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,139 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>backgroundTaskHost.exe &#8211; Sistem Hatası</title>
+		<link>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/</link>
+					<comments>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2022 08:42:17 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[backgroundTaskHost.exe]]></category>
+		<category><![CDATA[Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.]]></category>
+		<category><![CDATA[The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=934</guid>
+
+					<description><![CDATA[<p>Merhabalar, Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar,</p>
+
+
+
+<p>Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application.&#8221; hatası ile karşılaşılabilmektedir. </p>
+
+
+
+<span id="more-934"></span>
+
+
+
+<p>Hatanın çözümü için;</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;cmd yazınız ve karşınıza çıkan ifadeyi sağ tık Yönetici olarak çalıştır seçeneğini tıklayınız.</p>
+
+
+
+<p>-&gt;Aşağıdaki komutları sırasıyla giriniz.</p>
+
+
+
+<pre class="wp-block-code"><code>SFC /scannow
+DISM /Online /Cleanup-Image /RestoreHealth
+</code></pre>
+
+
+
+<p>İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
+
+
+
+<p>-&gt;Eğer aynı hata devam ederse;</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;Windows Update yazarak güncellemeleri denetleyip güncellemeleri yapınız.</p>
+
+
+
+<p>-&gt;İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
+
+
+
+<p>Yine çözülmezse sistem</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;Denetim Masası yazınız. </p>
+
+
+
+<p>-&gt;Kurtarma -&gt; Sistem geri yükleme aşamalarını takip ediniz.</p>
+
+
+
+<p>-&gt;Karşınıza geri çıkan sihirbazı takip ederek hatadan önceki güne dönüş sağlanır.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-15.png?width=1500" alt="" class="wp-image-102541"/></figure>
+
+
+
+<p>After that, locate and click on the ‘Recovery’ tile from the grid of options to continue.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-14.png?width=1500" alt="" class="wp-image-102539"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-16.png?width=1500" alt="" class="wp-image-102542"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-17.png?width=1500" alt="" class="wp-image-102544"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>VMware OS X Monterey Screen Lag</title>
 		<link>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/</link>
 					<comments>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/#respond</comments>
@@ -1076,97 +1209,6 @@ fastboot reboot</code></pre>
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</title>
-		<link>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</link>
-					<comments>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2020 09:43:51 +0000</pubDate>
-				<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[güvenlik duvarı]]></category>
-		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
-
-					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek; Program işaretli&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak.</p>
-
-
-
-<span id="more-826"></span>
-
-
-
-<p>Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek;</p>
-
-
-
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc93410ea84.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.YHj4SyqcFs.png" alt=""/></figure>
-
-
-
-<p>Program işaretli olmalıdır.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc94d48dbd1.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.QLozTsF7Zu.png" alt=""/></figure>
-
-
-
-<p>İleri (Next)&#8217;e tıklanır.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dcb3b3674ee.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sV9uf1i_2J.png" alt=""/></figure>
-
-
-
-<p>This program path (Programın yolu) kısmında erişimini engellemek istediğiniz programın yolunu seçiyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc9692b3220.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sFQ4Bdm76X.png" alt=""/></figure>
-
-
-
-<p>Block the connection (Bağlantıyı engelle)&#8217;yi işaretliyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dca4250ece4.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.n5oVczAXC5.png" alt=""/></figure>
-
-
-
-<p>Domain,Private,Public işaretli olduğundan emin oluyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/08/img_55dca50653bb5.png" alt=""/></figure>
-
-
-
-<p>Kurala isim verip Finish (Son) tıklıyoruz.</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

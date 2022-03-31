@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir. - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/sistem-bu-uygulamada-yigin-tabanli-bir-arabellegin-tastigini-algiladi-bu-tasma-kotu-niyetli-bir-kullanicinin-bu-uygulamanin-denetimini-ele-gecirmesine-olanak-verebilir/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Thu, 31 Mar 2022 08:44:07 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir. - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>backgroundTaskHost.exe &#8211; Sistem Hatası</title>
+		<link>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/</link>
+					<comments>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2022 08:42:17 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[backgroundTaskHost.exe]]></category>
+		<category><![CDATA[Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.]]></category>
+		<category><![CDATA[The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=934</guid>
+
+					<description><![CDATA[<p>Merhabalar, Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar,</p>
+
+
+
+<p>Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application.&#8221; hatası ile karşılaşılabilmektedir. </p>
+
+
+
+<span id="more-934"></span>
+
+
+
+<p>Hatanın çözümü için;</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;cmd yazınız ve karşınıza çıkan ifadeyi sağ tık Yönetici olarak çalıştır seçeneğini tıklayınız.</p>
+
+
+
+<p>-&gt;Aşağıdaki komutları sırasıyla giriniz.</p>
+
+
+
+<pre class="wp-block-code"><code>SFC /scannow
+DISM /Online /Cleanup-Image /RestoreHealth
+</code></pre>
+
+
+
+<p>İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
+
+
+
+<p>-&gt;Eğer aynı hata devam ederse;</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;Windows Update yazarak güncellemeleri denetleyip güncellemeleri yapınız.</p>
+
+
+
+<p>-&gt;İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
+
+
+
+<p>Yine çözülmezse sistem</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;Denetim Masası yazınız. </p>
+
+
+
+<p>-&gt;Kurtarma -&gt; Sistem geri yükleme aşamalarını takip ediniz.</p>
+
+
+
+<p>-&gt;Karşınıza geri çıkan sihirbazı takip ederek hatadan önceki güne dönüş sağlanır.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-15.png?width=1500" alt="" class="wp-image-102541"/></figure>
+
+
+
+<p>After that, locate and click on the ‘Recovery’ tile from the grid of options to continue.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-14.png?width=1500" alt="" class="wp-image-102539"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-16.png?width=1500" alt="" class="wp-image-102542"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-17.png?width=1500" alt="" class="wp-image-102544"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

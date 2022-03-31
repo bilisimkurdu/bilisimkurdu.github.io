@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 19 Jan 2022 08:52:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Mar 2022 08:44:07 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,139 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>backgroundTaskHost.exe &#8211; Sistem Hatası</title>
+		<link>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/</link>
+					<comments>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2022 08:42:17 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[backgroundTaskHost.exe]]></category>
+		<category><![CDATA[Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.]]></category>
+		<category><![CDATA[The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=934</guid>
+
+					<description><![CDATA[<p>Merhabalar, Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhabalar,</p>
+
+
+
+<p>Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application.&#8221; hatası ile karşılaşılabilmektedir. </p>
+
+
+
+<span id="more-934"></span>
+
+
+
+<p>Hatanın çözümü için;</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;cmd yazınız ve karşınıza çıkan ifadeyi sağ tık Yönetici olarak çalıştır seçeneğini tıklayınız.</p>
+
+
+
+<p>-&gt;Aşağıdaki komutları sırasıyla giriniz.</p>
+
+
+
+<pre class="wp-block-code"><code>SFC /scannow
+DISM /Online /Cleanup-Image /RestoreHealth
+</code></pre>
+
+
+
+<p>İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
+
+
+
+<p>-&gt;Eğer aynı hata devam ederse;</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;Windows Update yazarak güncellemeleri denetleyip güncellemeleri yapınız.</p>
+
+
+
+<p>-&gt;İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
+
+
+
+<p>Yine çözülmezse sistem</p>
+
+
+
+<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
+
+
+
+<p>-&gt;Denetim Masası yazınız. </p>
+
+
+
+<p>-&gt;Kurtarma -&gt; Sistem geri yükleme aşamalarını takip ediniz.</p>
+
+
+
+<p>-&gt;Karşınıza geri çıkan sihirbazı takip ederek hatadan önceki güne dönüş sağlanır.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-15.png?width=1500" alt="" class="wp-image-102541"/></figure>
+
+
+
+<p>After that, locate and click on the ‘Recovery’ tile from the grid of options to continue.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-14.png?width=1500" alt="" class="wp-image-102539"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-16.png?width=1500" alt="" class="wp-image-102542"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-17.png?width=1500" alt="" class="wp-image-102544"/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>VMware OS X Monterey Screen Lag</title>
 		<link>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/</link>
 					<comments>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/#respond</comments>
@@ -984,102 +1117,6 @@ jobs:
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/">Windows 10 İnternet bağlantı problemi 2020</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>WSL GUI</title>
-		<link>https://bilisimkurdu.github.io/wsl-gui/</link>
-					<comments>https://bilisimkurdu.github.io/wsl-gui/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 01 Apr 2020 16:48:21 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[wsl gui programlarını çalıştırma]]></category>
-		<category><![CDATA[wsl gui uygulamalarını çalıştırma]]></category>
-		<category><![CDATA[wsl gui yazılımlarını çalıştırma]]></category>
-		<category><![CDATA[wsl linux programlarını çalıştırma]]></category>
-		<category><![CDATA[wsl linux uygulamalarını çalıştırma]]></category>
-		<category><![CDATA[wsl linux yazılımlarını çalıştırma]]></category>
-		<category><![CDATA[WSL run gui]]></category>
-		<category><![CDATA[WSL run gui apps]]></category>
-		<category><![CDATA[WSL run gui software]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=760</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçiler, Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım. WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup stabil çalışmayabilir. Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa tıklayınız 🙂 Öncelikle Xming yazılımın indiriyoruz. https://sourceforge.net/projects/xming Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz. Çalıştıracağımız uygulamanın paket&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçiler,</p>
-
-
-
-<p>Bu yazımda WSL kurulu olan bilgisayarda GUI gerektiren Linux uygulamalarını nasıl çalıştırılacağını anlatmaya çalışacağım.</p>
-
-
-
-<span id="more-860"></span>
-
-
-
-<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
-
-
-
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<p>Öncelikle Xming yazılımın indiriyoruz.</p>
-
-
-
-<p><a href="https://sourceforge.net/projects/xming">https://sourceforge.net/projects/xming</a></p>
-
-
-
-<p>Ubuntu Linux yazılımını açıyoruz ve aşağıdaki komutları sırasıyla giriyoruz.</p>
-
-
-
-<pre class="wp-block-code"><code>sudo apt-get install x11-apps
-export DISPLAY=:0
-xeyes</code></pre>
-
-
-
-<p>Çalıştıracağımız uygulamanın paket ismini (<code>sudo apt-get paketAdi</code> ile yükleyip) yazarak çalıştırınız.</p>
-
-
-
-<p>Örnek:</p>
-
-
-
-<pre class="wp-block-code"><code>sudo apt-get install blockout2 //yükleme
-blockout2 //çalıştırma</code></pre>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
-
-
-
-<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/wsl-gui/">WSL GUI</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/wsl-gui/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html amp lang="tr">
 <head>
-<script custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-latest.js" async></script>
+<script custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-latest.js" async></script><script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-latest.js" async></script>
 	<meta charset="utf-8">
-	<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
-</script>
-	    <link rel="dns-prefetch" href="//cdn.ampproject.org">
-	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes">
-	<link rel="icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png" sizes="32x32">
+	    <link rel="preconnect" href="//cdn.ampproject.org">
+	<meta name="viewport" content="width=device-width">
+<link rel="icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png" sizes="32x32">
 <link rel="icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1.png">
 <meta name="msapplication-TileImage" content="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1.png">
@@ -234,40 +232,42 @@
 </script>
 
 	<title>WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu</title>
-			<meta name="generator" content="AMP for WP 1.0.76.15">
+			<meta name="generator" content="AMP for WP 1.0.77.38">
 			<link rel="preload" as="font" href="https://bilisimkurdu.github.io/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/design-3/fonts/icomoon.ttf" type="font/ttf" crossorigin>
 		<link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
-				<script custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js" async></script>
-			<script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script>
+						<link rel="preload" href="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg" as="image">
+							
+			
 			<script custom-element="amp-addthis" src="https://cdn.ampproject.org/v0/amp-addthis-0.1.js" async></script>
 			<script custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-latest.js" async></script>
 			<script custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js" async></script>
 			
 			<script custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" async></script>
 			<script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async></script>
-			<script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async></script>
 			<script custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js" async></script>
 		<script src="https://cdn.ampproject.org/v0.js" async></script>
-		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+		
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
 <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 	
-		<!-- All in One SEO 4.1.0.3 -->
-		<meta name="description" content="Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10’un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&gt; “PowerShell” yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell’i açarak komutunu giriyoruz. Bilgisayarı yeniden…">
+		<!-- All in One SEO 4.1.9.4 -->
+		<meta name="description" content="Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10&#039;un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&gt; &quot;PowerShell&quot; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#039;i açarak Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux">
+		<meta name="robots" content="max-image-preview:large">
 		<link rel="canonical" href="https://bilisimkurdu.github.io/wsl-kurulumu/">
+		<meta property="og:locale" content="tr_TR">
 		<meta property="og:site_name" content="Bilişim Kurdu - Bilişim Hakkında Her Şey">
 		<meta property="og:type" content="article">
 		<meta property="og:title" content="WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu">
-		<meta property="og:description" content="Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10’un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&gt; “PowerShell” yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell’i açarak komutunu giriyoruz. Bilgisayarı yeniden…">
+		<meta property="og:description" content="Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10&#039;un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&gt; &quot;PowerShell&quot; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#039;i açarak Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux">
 		<meta property="og:url" content="https://bilisimkurdu.github.io/wsl-kurulumu/">
-		<meta property="article:published_time" content="2020-04-01T16:25:51Z">
-		<meta property="article:modified_time" content="2020-04-01T16:25:51Z">
+		<meta property="article:published_time" content="2020-04-01T16:25:51+00:00">
+		<meta property="article:modified_time" content="2020-04-01T16:25:51+00:00">
 		<meta property="article:author" content="ykpcntrl">
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:domain" content="localhost">
 		<meta name="twitter:title" content="WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu">
-		<meta name="twitter:description" content="Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10’un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&gt; “PowerShell” yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell’i açarak komutunu giriyoruz. Bilgisayarı yeniden…">
+		<meta name="twitter:description" content="Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10&#039;un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -&gt; &quot;PowerShell&quot; yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell&#039;i açarak Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux">
 		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/bilisimkurdu.github.io\/#website","url":"https:\/\/bilisimkurdu.github.io\/","name":"Bilişim Kurdu","description":"Bilişim Hakkında Her Şey","publisher":{"@id":"https:\/\/bilisimkurdu.github.io\/#organization"}},{"@type":"Organization","@id":"https:\/\/bilisimkurdu.github.io\/#organization","name":"Bilişim Kurdu","url":"https:\/\/bilisimkurdu.github.io\/","logo":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/#organizationLogo","url":"https:\/\/bilisimkurdu.github.io\/wp-content\/uploads\/2021\/04\/Logo-2_112x112.jpg","width":"112","height":"112"},"image":{"@id":"https:\/\/bilisimkurdu.github.io\/#organizationLogo"}},{"@type":"BreadcrumbList","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/bilisimkurdu.github.io\/#listItem","position":"1","item":{"@id":"https:\/\/bilisimkurdu.github.io\/#item","name":"Ev","description":"Bilişim Hakkında Her Şey","url":"https:\/\/bilisimkurdu.github.io\/"},"nextItem":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#listItem"},{"@type":"ListItem","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#listItem","position":"2","item":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#item","name":"WSL (Linux için Windows Alt Sistemi) kurulumu","description":"Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10’un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -> “PowerShell” yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell’i açarak komutunu giriyoruz. Bilgisayarı yeniden…","url":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/"},"previousItem":"https:\/\/bilisimkurdu.github.io\/#listItem"}]},{"@type":"Person","@id":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/#author","url":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/","name":"Yakup CONTARLI","image":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#authorImage","url":"http:\/\/2.gravatar.com\/avatar\/e26bcf3b78439c1a3430942ebb7e279f?s=96&d=mm&r=g","width":"96","height":"96","caption":"Yakup CONTARLI"},"sameAs":["ykpcntrl"]},{"@type":"WebPage","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#webpage","url":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/","name":"WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu","description":"Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10’un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -> “PowerShell” yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell’i açarak komutunu giriyoruz. Bilgisayarı yeniden…","inLanguage":"tr","isPartOf":{"@id":"https:\/\/bilisimkurdu.github.io\/#website"},"breadcrumb":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#breadcrumblist"},"author":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#author","creator":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#author","image":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/#mainImage","url":"https:\/\/bilisimkurdu.github.io\/wp-content\/uploads\/2020\/04\/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg","width":"1280","height":"720"},"primaryImageOfPage":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#mainImage"},"datePublished":"2020-04-01T16:25:51+03:00","dateModified":"2020-04-01T16:25:51+03:00"},{"@type":"BlogPosting","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#blogposting","name":"WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu","description":"Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10’un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -> “PowerShell” yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell’i açarak komutunu giriyoruz. Bilgisayarı yeniden…","headline":"WSL (Linux için Windows Alt Sistemi) kurulumu","author":{"@id":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/#author"},"publisher":{"@id":"https:\/\/bilisimkurdu.github.io\/#organization"},"datePublished":"2020-04-01T16:25:51+03:00","dateModified":"2020-04-01T16:25:51+03:00","articleSection":"Linux, Windows, linuxu windowsta kullanma, windows 10 debian, windows 10 linux, windows 10 pardus, windows 10 ubunutu, wsl, wsl kurulumu, WSL Linux için Windows Alt Sistem, wsl nedir","mainEntityOfPage":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#webpage"},"isPartOf":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#webpage"},"image":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/#articleImage","url":"https:\/\/bilisimkurdu.github.io\/wp-content\/uploads\/2020\/04\/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg","width":"1280","height":"720"}}]}
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/bilisimkurdu.github.io\/#website","url":"https:\/\/bilisimkurdu.github.io\/","name":"Bilişim Kurdu","description":"Bilişim Hakkında Her Şey","inLanguage":"tr-TR","publisher":{"@id":"https:\/\/bilisimkurdu.github.io\/#organization"}},{"@type":"Organization","@id":"https:\/\/bilisimkurdu.github.io\/#organization","name":"Bilişim Kurdu","url":"https:\/\/bilisimkurdu.github.io\/","logo":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/#organizationLogo","url":"https:\/\/bilisimkurdu.github.io\/wp-content\/uploads\/2021\/04\/Logo-2_112x112.jpg","width":112,"height":112},"image":{"@id":"https:\/\/bilisimkurdu.github.io\/#organizationLogo"}},{"@type":"BreadcrumbList","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/bilisimkurdu.github.io\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/bilisimkurdu.github.io\/","name":"Ev","description":"Bilişim Hakkında Her Şey","url":"https:\/\/bilisimkurdu.github.io\/"},"nextItem":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#listItem"},{"@type":"ListItem","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/","name":"WSL (Linux için Windows Alt Sistemi) kurulumu","description":"Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10'un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -> \"PowerShell\" yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell'i açarak Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux","url":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/"},"previousItem":"https:\/\/bilisimkurdu.github.io\/#listItem"}]},{"@type":"Person","@id":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/#author","url":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/","name":"Yakup CONTARLI","image":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#authorImage","url":"http:\/\/2.gravatar.com\/avatar\/e26bcf3b78439c1a3430942ebb7e279f?s=96&d=mm&r=g","width":96,"height":96,"caption":"Yakup CONTARLI"},"sameAs":["ykpcntrl"]},{"@type":"WebPage","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#webpage","url":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/","name":"WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu","description":"Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10'un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -> \"PowerShell\" yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell'i açarak Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux","inLanguage":"tr-TR","isPartOf":{"@id":"https:\/\/bilisimkurdu.github.io\/#website"},"breadcrumb":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#breadcrumblist"},"author":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/#author","creator":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/#author","image":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/#mainImage","url":"https:\/\/bilisimkurdu.github.io\/wp-content\/uploads\/2020\/04\/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg","width":1280,"height":720},"primaryImageOfPage":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#mainImage"},"datePublished":"2020-04-01T16:25:51+03:00","dateModified":"2020-04-01T16:25:51+03:00"},{"@type":"BlogPosting","@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#blogposting","name":"WSL (Linux için Windows Alt Sistemi) kurulumu - Bilişim Kurdu","description":"Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda WSL (Linux için Windows Alt Sistemi) kurulumunu işleyeceğiz. WSL, Sanal makine veya dual boota gerek olmadan Windows üzerinden Ubuntu çalıştırmasını sağlayan özelliktir. WSL için Windows 10'un 1709 sürümüne sahip olmanız gerekmektedir. Şimdi geçelim kuruluma; Başlat -> \"PowerShell\" yazarak karşımıza çıkan ilk sonuca yönetici tıklayarak Powershell'i açarak Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux","inLanguage":"tr-TR","headline":"WSL (Linux için Windows Alt Sistemi) kurulumu","author":{"@id":"https:\/\/bilisimkurdu.github.io\/author\/ykpcntrl\/#author"},"publisher":{"@id":"https:\/\/bilisimkurdu.github.io\/#organization"},"datePublished":"2020-04-01T16:25:51+03:00","dateModified":"2020-04-01T16:25:51+03:00","articleSection":"Linux, Windows, linuxu windowsta kullanma, windows 10 debian, windows 10 linux, windows 10 pardus, windows 10 ubunutu, wsl, wsl kurulumu, WSL Linux için Windows Alt Sistem, wsl nedir","mainEntityOfPage":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#webpage"},"isPartOf":{"@id":"https:\/\/bilisimkurdu.github.io\/wsl-kurulumu\/#webpage"},"image":{"@type":"ImageObject","@id":"https:\/\/bilisimkurdu.github.io\/#articleImage","url":"https:\/\/bilisimkurdu.github.io\/wp-content\/uploads\/2020\/04\/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg","width":1280,"height":720}}]}
 		</script>
 		<!-- All in One SEO -->
 
@@ -770,6 +770,13 @@ amp-facebook-like{
 	sub {vertical-align: sub;font-size: small;}
 	sup {vertical-align: super;font-size: small;}
 	amp-call-tracking a {display: none;}
+	@media only screen and (max-width: 480px) {
+	svg {max-width: 250px;max-height: 250px;}
+	}
+	h2.amp-post-title {
+    word-break: break-word;
+    word-wrap: break-word;
+	}
 	 
    
 					
@@ -842,14 +849,8 @@ amp-facebook-like{
     .amp-logo amp-img{width:190px}
  	 	.amp-menu input{display:none;}.amp-menu li.menu-item-has-children ul{display:none;}.amp-menu li{position:relative;display:block;}.amp-menu > li a{display:block;}</style>
 </head>
-<body data-amp-auto-lightbox-disable class="body single-post 756 post-id-756 singular-756 design_3_wrapper post 1.0.76.15"> 
-	<amp-auto-ads type="adsense" data-ad-client="ca-pub-4002837437256869">
-</amp-auto-ads>
+<body data-amp-auto-lightbox-disable class="body single-post 756 post-id-756 singular-756 design_3_wrapper post 1.0.77.38"> 
 <div id="backtotop"></div>
-		<div id="marker">
-	      <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay">
-	      </amp-position-observer>
-	    </div>
 <amp-sidebar id="sidebar" layout="nodisplay" side="left">
         <div class="toggle-navigationv2">
 
@@ -901,7 +902,7 @@ amp-facebook-like{
                 <div class="headerlogo">
                   <div class="amp-logo">
                        <a href="https://bilisimkurdu.github.io/amp/" title="Bilişim Kurdu">
-             <amp-img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/03/rsz_indir-1.png" width="190" height="36" alt="" class="amp-logo" layout="responsive"></amp-img></a>
+             <amp-img data-hero src="https://bilisimkurdu.github.io/wp-content/uploads/2020/03/rsz_indir-1.png" width="190" height="36" alt="" class="amp-logo" layout="responsive"></amp-img></a>
                                </div>
          </div>
                         <div class="searchmenu">
@@ -943,7 +944,7 @@ amp-facebook-like{
 			<div class="amp-wp-article-featured-image amp-wp-content featured-image-content">
 				<div class="post-featured-img">
 					<figure class="amp-wp-article-featured-image wp-caption">
-						<amp-img width="1024" height="576" src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-1024x576.jpg" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes" alt="" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-1024x576.jpg 1024w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-300x169.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-768x432.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg 1280w" layout="intrinsic"><amp-img fallback width="1024" height="576" src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes" alt="" srcset="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png 1024w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-300x169.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-768x432.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg 1280w" layout="intrinsic"></amp-img></amp-img>						 
+						<amp-img data-hero width="1024" height="576" src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-1024x576.jpg" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes" alt="" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-1024x576.jpg 1024w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-300x169.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-768x432.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg 1280w" layout="intrinsic"><amp-img fallback data-hero width="1024" height="576" src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes" alt="" srcset="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png 1024w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-300x169.jpg 300w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-768x432.jpg 768w, https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg 1280w" layout="intrinsic"></amp-img></amp-img>						 
 					</figure>
 				</div>
 			</div> <div class="amp-wp-article-content">
@@ -986,7 +987,7 @@ amp-facebook-like{
 
 
 
-<figure class="wp-block-image"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt="" width="700" height="282" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="700" height="282" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figure>
+<figure class="wp-block-image"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt="" width="700" height="282" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="700" height="282" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figure>
 
 
 
@@ -994,7 +995,7 @@ amp-facebook-like{
 
 
 
-<figure class="wp-block-image"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt="" width="600" height="242" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="600" height="242" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figure>
+<figure class="wp-block-image"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt="" width="600" height="242" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="600" height="242" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figure>
 
 
 
@@ -1002,35 +1003,35 @@ amp-facebook-like{
 
 
 
-<figure class="wp-block-image"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt="" width="593" height="332" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="593" height="332" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figure>
+<figure class="wp-block-image"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt="" width="593" height="332" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="593" height="332" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figure>
 
 
 
-<figure class="wp-block-image"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img><figcaption><br><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figcaption></figure>
+<figure class="wp-block-image"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img><figcaption><br><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img></figcaption></figure>
 
 
 
-<figure class="wp-block-image"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img><figcaption><br></figcaption></figure>
+<figure class="wp-block-image"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="802" height="634" class=" amp-wp-enforced-sizes" layout="intrinsic"></amp-img></amp-img><figcaption><br></figcaption></figure>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" class="wp-image-30579 amp-wp-enforced-sizes" width="797" height="632" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30579 amp-wp-enforced-sizes" width="797" height="632" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" class="wp-image-30579 amp-wp-enforced-sizes" width="797" height="632" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30579 amp-wp-enforced-sizes" width="797" height="632" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" class="wp-image-30580 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30580 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" class="wp-image-30580 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30580 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" class="wp-image-30581 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30581 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" class="wp-image-30581 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30581 amp-wp-enforced-sizes" width="802" height="634" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" class="wp-image-30582 amp-wp-enforced-sizes" width="793" height="629" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30582 amp-wp-enforced-sizes" width="793" height="629" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" class="wp-image-30582 amp-wp-enforced-sizes" width="793" height="629" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30582 amp-wp-enforced-sizes" width="793" height="629" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" class="wp-image-30583 amp-wp-enforced-sizes" width="644" height="667" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30583 amp-wp-enforced-sizes" width="644" height="667" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" class="wp-image-30583 amp-wp-enforced-sizes" width="644" height="667" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30583 amp-wp-enforced-sizes" width="644" height="667" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1039,7 +1040,7 @@ amp-facebook-like{
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" class="wp-image-30584 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30584 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" class="wp-image-30584 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30584 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1047,7 +1048,7 @@ amp-facebook-like{
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" class="wp-image-30585 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30585 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" class="wp-image-30585 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30585 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1055,7 +1056,7 @@ amp-facebook-like{
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" class="wp-image-30586 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30586 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" class="wp-image-30586 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30586 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1063,7 +1064,7 @@ amp-facebook-like{
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" class="wp-image-30587 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30587 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" class="wp-image-30587 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30587 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1071,7 +1072,7 @@ amp-facebook-like{
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" class="wp-image-30588 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30588 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" class="wp-image-30588 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30588 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1079,11 +1080,11 @@ amp-facebook-like{
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" class="wp-image-30589 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30589 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" class="wp-image-30589 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30589 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><amp-img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" class="wp-image-30590 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30590 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><amp-img data-hero src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" class="wp-image-30590 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" class="wp-image-30590 amp-wp-enforced-sizes" width="979" height="512" layout="intrinsic"></amp-img></amp-img></figure></div>
 
 
 
@@ -1091,7 +1092,7 @@ amp-facebook-like{
 
 
 
-<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer sponsored" class="aioseop-link">TeknoDestek</a>‘ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
+<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>‘ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
 
 
 
@@ -1164,8 +1165,18 @@ amp-facebook-like{
 					<ol class="clearfix">
 													<li class="has_related_thumbnail">
 								<div class="related-post_image">
+	                            <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/amp/" rel="bookmark" title="backgroundTaskHost.exe &#8211; Sistem Hatası">
+							<amp-img data-hero src="https://bilisimkurdu.github.io/wp-content/uploads/2022/03/4i9K4w-640x296.png" alt="" width="640" height="296" layout="responsive"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="640" height="296" layout="responsive"></amp-img></amp-img>	                  		</a>
+	                  	</div>
+			                <div class="related_link">
+			                    			                    <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/amp/" title="backgroundTaskHost.exe &#8211; Sistem Hatası">backgroundTaskHost.exe &#8211; Sistem Hatası</a>
+			                      
+			                </div>
+		            		</li>
+		            							<li class="has_related_thumbnail">
+								<div class="related-post_image">
 	                            <a href="https://bilisimkurdu.github.io/wsl-gui/amp/" rel="bookmark" title="WSL GUI">
-							<amp-img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-300x169.jpg" alt="" width="300" height="169" layout="responsive"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="300" height="169" layout="responsive"></amp-img></amp-img>	                  		</a>
+							<amp-img data-hero src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4-300x169.jpg" alt="" width="300" height="169" layout="responsive"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="300" height="169" layout="responsive"></amp-img></amp-img>	                  		</a>
 	                  	</div>
 			                <div class="related_link">
 			                    			                    <a href="https://bilisimkurdu.github.io/wsl-gui/amp/" title="WSL GUI">WSL GUI</a>
@@ -1175,20 +1186,10 @@ amp-facebook-like{
 		            							<li class="has_related_thumbnail">
 								<div class="related-post_image">
 	                            <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/amp/" rel="bookmark" title="ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak">
-							<amp-img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/06/netcore3_heroku_titulo-1-300x143.jpg" alt="" width="300" height="143" layout="responsive"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="300" height="143" layout="responsive"></amp-img></amp-img>	                  		</a>
+							<amp-img data-hero src="https://bilisimkurdu.github.io/wp-content/uploads/2020/06/netcore3_heroku_titulo-1-300x143.jpg" alt="" width="300" height="143" layout="responsive"><amp-img fallback data-hero src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="300" height="143" layout="responsive"></amp-img></amp-img>	                  		</a>
 	                  	</div>
 			                <div class="related_link">
 			                    			                    <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/amp/" title="ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a>
-			                      
-			                </div>
-		            		</li>
-		            							<li class="has_related_thumbnail">
-								<div class="related-post_image">
-	                            <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/amp/" rel="bookmark" title="Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor">
-							<amp-img src="https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Windows-Server-Does-Not-Support-Bluetooth-1-300x300.png" alt="" width="300" height="300" layout="responsive"><amp-img fallback src="https://bilisimkurdu.github.ioTest/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png" alt="" width="300" height="300" layout="responsive"></amp-img></amp-img>	                  		</a>
-	                  	</div>
-			                <div class="related_link">
-			                    			                    <a href="https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/amp/" title="Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor">Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</a>
 			                      
 			                </div>
 		            		</li>
@@ -1255,7 +1256,7 @@ amp-facebook-like{
 </form>						    <button on="tap:search-icon.close" class="closebutton">X</button>
 						    <i class="icono-cross"></i>
 						</amp-lightbox>
-	<!--Plugin Version :1.0.76.15 -->
+	<!--Plugin Version :1.0.77.38 -->
 	<!-- Thanks to @nicholasgriffintn for Cookie Notification Code-->
   <amp-user-notification layout="nodisplay" id="amp-user-notification1">
        <p>This website uses cookies.</p>
@@ -1280,41 +1281,7 @@ amp-facebook-like{
 																											
 	</div> 
 	        <a id="scrollToTopButton" title="back to top" on="tap:backtotop.scrollTo(duration=500)" class="btt" href="#"></a>
-                <amp-animation id="showAnim" layout="nodisplay">
-		  <script type="application/json">
-		    {
-		      "duration": "400ms",
-		      "fill": "both",
-		      "iterations": "1",
-		      "direction": "alternate",
-		      "animations": [{
-		        "selector": "#scrollToTopButton",
-		        "keyframes": [{
-		          "opacity": "1",
-		          "visibility": "visible"
-		        }]
-		      }]
-		    }
-		  </script>
-		</amp-animation>
-		<amp-animation id="hideAnim" layout="nodisplay">
-		  <script type="application/json">
-		    {
-		      "duration": "400ms",
-		      "fill": "both",
-		      "iterations": "1",
-		      "direction": "alternate",
-		      "animations": [{
-		        "selector": "#scrollToTopButton",
-		        "keyframes": [{
-		          "opacity": "0",
-		          "visibility": "hidden"
-		        }]
-		      }]
-		    }
-		  </script>
-		</amp-animation>
-				<amp-analytics type="gtag" id="analytics1" data-credentials="include">
+        			<amp-analytics type="gtag" id="analytics1" data-credentials="include">
 				<script type="application/json">
 					{"vars":{"gtag_id":"UA-161465791-1","config":{"UA-161465791-1":{"groups":"default"}},"anonymizeIP":"true"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}				</script>
 			</amp-analytics>
