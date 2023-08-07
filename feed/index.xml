@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Thu, 31 Mar 2022 08:44:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Aug 2023 18:56:25 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,135 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mac bilgisayarlarında ikinci diske windows kurmak</title>
+		<link>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/</link>
+					<comments>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 18:56:24 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Boot Camp]]></category>
+		<category><![CDATA[bootcamp]]></category>
+		<category><![CDATA[HOW TO USE BOOT CAMP ON AN EXTERNAL DRIVE TO RUN WINDOWS ON A MAC]]></category>
+		<category><![CDATA[imac ikinci diske windows kurmak]]></category>
+		<category><![CDATA[install windows on mac os second disk]]></category>
+		<category><![CDATA[Installing Boot Camp and Windows on the 2nd Internal Drive?]]></category>
+		<category><![CDATA[Installing Windows on Mac with 2nd SSD and Bootcamp]]></category>
+		<category><![CDATA[installing windows on second disk with bootcamp]]></category>
+		<category><![CDATA[mac ikinci diske windows kurmak]]></category>
+		<category><![CDATA[mac os]]></category>
+		<category><![CDATA[mac os ikinci diske windows kurmak]]></category>
+		<category><![CDATA[macbook ikinci diske windows kurmak]]></category>
+		<category><![CDATA[Two Bootcamp installations: first one on Internal HDD and second one on external Thunderbolt 2 SSD]]></category>
+		<category><![CDATA[Using BootCamp and insalling it on second drive of system.]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=940</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Biraz meşguliyet,bilgisayar değişimi hem de siteye erişimi kaybettiğim için (github mail erişimi) siteye yazı yazmak nasip olmamıştı. Anlayışınıza sığınırım artık 🙂 Bu yazımızda Mac sistemlerine (iMac,Macbook Air,Macbook Pro,Mac Mini,Mac Studio) sistemlerinde takılan ikinci diske windows kurulumunu anlatmaya çalışacağım. Not :Bu işlem için PCI-E ve Sata girişli Mac sistemi bulunması gerekmektedir. Disk bölümü&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Biraz meşguliyet,bilgisayar değişimi hem de siteye erişimi kaybettiğim için (github mail erişimi) siteye yazı yazmak nasip olmamıştı.</p>
+
+
+
+<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Bu yazımızda Mac sistemlerine (iMac,Macbook Air,Macbook Pro,Mac Mini,Mac Studio) sistemlerinde takılan ikinci diske windows kurulumunu anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-940"></span>
+
+
+
+<p>Not :Bu işlem için PCI-E ve Sata girişli Mac sistemi bulunması gerekmektedir.</p>
+
+
+
+<p>Disk bölümü seçeneğine geldiğimizde Windows&#8217;a kısıtlı alan verip Boot Camp ile Windows isosunu yazdırıp Apple Windows Destek yazılımını yüklediğimimizde &#8220;Disk İzlencesi&#8221; ni açalım.</p>
+
+
+
+<p>Diskimizde bölüm olan &#8220;BOOTCAMP&#8221; bölümünü silip ana diski birleştirelim.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/2kafgy0.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://i.hizliresim.com/eyti510.png" alt="" width="840" height="409"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/pn87ukq.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/eccfn12.png" alt=""/></figure>
+
+
+
+<p></p>
+
+
+
+<p>İkinci defa Boot Camp&#8217;i açalım ve disk bölüm aşamasına geldiğimizde &#8220;Etkinlik Monitörü&#8221; üzerinden bootcamp&#8217;i sonlandıralım.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/is81zqd.png" alt=""/></figure>
+
+
+
+<p>Ayarlar-> Genel -> Başlangıç Diski aşamalarını takip ederek Windows&#8217;u seçerek &#8220;Yeniden Başlat&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/5x7nx6m.png" alt=""/></figure>
+
+
+
+<p>Windows kurulum aşamasına geldiğimizde disk seçim aşamasına gelip;</p>
+
+
+
+<p>Klavyeden Shift ve F10 tuşlarına basıyoruz. Karşımıza çıkan cmd penceresine aşağıdaki komutları yazıyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>diskpart
+list disk
+select disk 1 (Anasistem olan Mac OS kurulu olmayan diski seçiyoruz.)
+clean</code></pre>
+
+
+
+<p>Akabinde &#8220;Yenile&#8221; ye tıklayarak Windows kurulacak disk seçilir.</p>
+
+
+
+<p>Windows kurulduktan sonra Boot Camp asistan yüklenir.</p>
+
+
+
+<p>Windows ile Mac OS arasında geçiş yapmak için klavyeden Option ve R veya Alt ve R tuşuna basıyoruz.</p>
+
+
+
+<p></p><p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>backgroundTaskHost.exe &#8211; Sistem Hatası</title>
 		<link>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/</link>
 					<comments>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/#respond</comments>
@@ -121,7 +250,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-15.png?width=1500" alt="" class="wp-image-102541"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-15.png?width=1500" alt="" class="wp-image-102541"/></figure>
 
 
 
@@ -129,7 +258,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-14.png?width=1500" alt="" class="wp-image-102539"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-14.png?width=1500" alt="" class="wp-image-102539"/></figure>
 
 
 
@@ -137,7 +266,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-16.png?width=1500" alt="" class="wp-image-102542"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-16.png?width=1500" alt="" class="wp-image-102542"/></figure>
 
 
 
@@ -145,7 +274,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-17.png?width=1500" alt="" class="wp-image-102544"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-17.png?width=1500" alt="" class="wp-image-102544"/></figure>
 
 
 
@@ -153,7 +282,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image"><img src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -230,7 +359,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-full"><img src="https://i.hizliresim.com/geojp11.png" alt=""/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/geojp11.png" alt=""/></figure>
 
 
 
@@ -334,15 +463,15 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://resimyukle.imageupload.workers.dev/zSozMWWD_1.1.PNG" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/zSozMWWD_1.1.PNG" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://resimyukle.imageupload.workers.dev/niRL6iIi_1.2.PNG" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/niRL6iIi_1.2.PNG" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://resimyukle.imageupload.workers.dev/aNZ8J2Ab_1.3.PNG" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/aNZ8J2Ab_1.3.PNG" alt=""/></figure>
 
 
 
@@ -354,11 +483,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://resimyukle.imageupload.workers.dev/mdGesDNp_1.4.PNG" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/mdGesDNp_1.4.PNG" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://resimyukle.imageupload.workers.dev/d9BYUIkG_1.5.PNG" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/d9BYUIkG_1.5.PNG" alt=""/></figure>
 
 
 
@@ -378,7 +507,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://resimyukle.imageupload.workers.dev/aoZvyYA7_2.1.PNG" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/aoZvyYA7_2.1.PNG" alt=""/></figure>
 
 
 
@@ -431,7 +560,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
 
 
 
@@ -546,7 +675,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/VPOw6c.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/VPOw6c.png" alt=""/></figure>
 
 
 
@@ -554,7 +683,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/6WqFfg.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/6WqFfg.png" alt=""/></figure>
 
 
 
@@ -562,7 +691,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/0VDfyi.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/0VDfyi.png" alt=""/></figure>
 
 
 
@@ -579,11 +708,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/o53Tbu.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/o53Tbu.png" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/GWtlRN.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/GWtlRN.png" alt=""/></figure>
 
 
 
@@ -591,11 +720,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/aikMsr.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/aikMsr.png" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/0XElwA.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/0XElwA.png" alt=""/></figure>
 
 
 
@@ -761,27 +890,27 @@ fastboot reboot</code></pre>
 
 
 
-<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-1.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-1.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-1.png"><img decoding="async" src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-1.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-2.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-2.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-2.png"><img decoding="async" src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-2.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-3.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-3.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-3.png"><img decoding="async" src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-3.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-4.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-4.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-4.png"><img decoding="async" src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-4.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-5.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-5.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-5.png"><img decoding="async" src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-5.png" alt="lineage-os-cyanogenmod-file-manager-all-devices"/></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-6.png"><img src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-6.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-6.png"><img decoding="async" src="https://cdn.themefoxx.com/wp-content/uploads/2017/06/lineage-os-cyanogenmod-file-manager-all-devices-6.png" alt=""/></a></figure>
 
 
 
@@ -898,7 +1027,7 @@ fastboot reboot</code></pre>
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -959,7 +1088,7 @@ fastboot reboot</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/OfficeClient-1-814x571.jpg" alt="" class="wp-image-832"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/OfficeClient-1-814x571.jpg" alt="" class="wp-image-832"/></figure>
 
 
 
@@ -1042,173 +1171,6 @@ fastboot reboot</code></pre>
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Office Connecting proxy server for store.office.com</title>
-		<link>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/</link>
-					<comments>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2020 10:06:33 +0000</pubDate>
-				<category><![CDATA[Office]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Connecting proxy server for store.office.com]]></category>
-		<category><![CDATA[Connecting proxy server for store.office.com error]]></category>
-		<category><![CDATA[excel 2013 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<category><![CDATA[excel 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<category><![CDATA[office 2013 Connecting proxy server for store.office.com error]]></category>
-		<category><![CDATA[office 2013 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<category><![CDATA[office 2016 Connecting proxy server for store.office.com error]]></category>
-		<category><![CDATA[office 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<category><![CDATA[proxy sunucusuna bağlanıyor store.office.com]]></category>
-		<category><![CDATA[proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<category><![CDATA[Proxy sunucusuna bağlanmaya çalışıyor store.office.com]]></category>
-		<category><![CDATA[proxy sunucusuna bağlanmaya çalışıyor store.office.com hatası]]></category>
-		<category><![CDATA[store.office.com]]></category>
-		<category><![CDATA[word 2013 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor store.office.com hatası]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=823</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
-
-
-
-<p>Bu yazımda Microsoft Office 2013 ve 2016&#8217;da yaşanan Connecting proxy server for store.office.com  hatasından bahsedeceğim.</p>
-
-
-
-<span id="more-823"></span>
-
-
-
-<p>Hata resmi aşağıdadır:</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="443" height="233" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg" alt="" class="wp-image-824" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg 443w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1-300x158.jpg 300w" sizes="(max-width: 443px) 100vw, 443px" /></figure>
-
-
-
-<p>Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir.</p>
-
-
-
-<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
-
-
-
-<p>(İmgilizce) FILE&gt;Options&gt;Trust Center&gt;Trust Center Settings&#8230;&gt;Privacy Options -&gt;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır.</p>
-
-
-
-<p>(Türkçe)DOSYA&gt; Seçenekler&gt; Güven Merkezi&gt; Güven Merkezi Ayarları …&gt; Gizlilik Seçenekleri -&gt; &#8220;Office&#8217;in İnternet&#8217;e bağlanmasına izin ver&#8221; seçeneği kaldırılmalıdır.</p>
-
-
-
-<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
-
-
-
-<p>Control Panel -&gt;Windows Firewall -&gt;Advandec Settings aşamalarını takip ederek;</p>
-
-
-
-<p>Inbound Rules ve Outbound Rules kısmında aşağıda belirtilen office programların engellenmesi gerekmektedir.</p>
-
-
-
-<p>Güvenlik duvarından program nasıl engelleneceğiyle ilişkin yazımız;</p>
-
-
-
-<p><a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</a></p>
-
-
-
-<p>Office 2013;</p>
-
-
-
-<p>(32 bit)</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office15\WINWORD.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office15\EXCEL.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office15\POWERPNT.exe</p>
-
-
-
-<p>(64 bit)</p>
-
-
-
-<p>C:\Program&nbsp;File&nbsp;\Microsoft&nbsp;Office\Office15\WINWORD.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office15\EXCEL.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office15\POWERPNT.exe</p>
-
-
-
-<p>Office 2016</p>
-
-
-
-<p>(32 bit)</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\POWERPNT.exe</p>
-
-
-
-<p>(64 bit)</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
-
-
-
-<p>C:\Program Files\Microsoft Office\Office16\POWERPNT.exe</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

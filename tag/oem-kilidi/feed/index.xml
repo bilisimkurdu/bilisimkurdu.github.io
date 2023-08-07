@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -53,7 +53,7 @@
 
 
 
-<ol><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img src="https://i.hizliresim.com/Y20d7H.jpg" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
+<ol><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img decoding="async" src="https://i.hizliresim.com/Y20d7H.jpg" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
 
 
 

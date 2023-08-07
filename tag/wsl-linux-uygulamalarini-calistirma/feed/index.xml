@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -65,7 +65,7 @@
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -100,11 +100,11 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
 
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -103,10 +103,10 @@
 <p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>
 <p>Şu linkte fastboot yazılımını ve fastboot flash yazılımını <a href="http://en.miui.com/a-234.html" target="_blank" rel="noopener">indiriyoruz</a>.</p>
 <p>Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz.</p>
-<p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong-fastboot.jpg" alt="点击收起图片" /></p>
+<p><img decoding="async" src="http://en.miui.com/static/article/innerimg/tongyong/tongyong-fastboot.jpg" alt="点击收起图片" /></p>
 <p>Miflash programını açarak resimdeki modda ayarlıyoruz.</p>
 <p>Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten sonra refresh&#8217;e tıkladıktan sonra flash&#8217;a tıklayınız.</p>
-<p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
+<p><img decoding="async" src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
 <p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>

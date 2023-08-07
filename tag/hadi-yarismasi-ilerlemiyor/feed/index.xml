@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -72,11 +72,11 @@
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/r5agD7.png" alt=""/><figcaption>1.Adım</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/r5agD7.png" alt=""/><figcaption>1.Adım</figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/7apoL5.png" alt=""/><figcaption>2.adım</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/7apoL5.png" alt=""/><figcaption>2.adım</figcaption></figure>
 
 
 
@@ -88,11 +88,11 @@
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/P1A5V9.png" alt=""/><figcaption>Gpu oluşturmayı zorla : Aktif</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/P1A5V9.png" alt=""/><figcaption>Gpu oluşturmayı zorla : Aktif</figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/grDkG3.png" alt=""/><figcaption>4x MSAA&#8217;yı zorla : Aktif<br>Donanım katmanlarını devre dışı bırak : Aktif</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/grDkG3.png" alt=""/><figcaption>4x MSAA&#8217;yı zorla : Aktif<br>Donanım katmanlarını devre dışı bırak : Aktif</figcaption></figure>
 
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -72,7 +72,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/NGVRa5.jpg" alt=""/><figcaption>Minimum Android Version :Android 5.0<br>Target Android Version :Android 9.0</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/NGVRa5.jpg" alt=""/><figcaption>Minimum Android Version :Android 5.0<br>Target Android Version :Android 9.0</figcaption></figure>
 
 
 

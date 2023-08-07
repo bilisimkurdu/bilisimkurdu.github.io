@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Using BootCamp and insalling it on second drive of system. - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/using-bootcamp-and-insalling-it-on-second-drive-of-system/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 07 Aug 2023 18:56:25 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Using BootCamp and insalling it on second drive of system. - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mac bilgisayarlarında ikinci diske windows kurmak</title>
+		<link>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/</link>
+					<comments>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 18:56:24 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Boot Camp]]></category>
+		<category><![CDATA[bootcamp]]></category>
+		<category><![CDATA[HOW TO USE BOOT CAMP ON AN EXTERNAL DRIVE TO RUN WINDOWS ON A MAC]]></category>
+		<category><![CDATA[imac ikinci diske windows kurmak]]></category>
+		<category><![CDATA[install windows on mac os second disk]]></category>
+		<category><![CDATA[Installing Boot Camp and Windows on the 2nd Internal Drive?]]></category>
+		<category><![CDATA[Installing Windows on Mac with 2nd SSD and Bootcamp]]></category>
+		<category><![CDATA[installing windows on second disk with bootcamp]]></category>
+		<category><![CDATA[mac ikinci diske windows kurmak]]></category>
+		<category><![CDATA[mac os]]></category>
+		<category><![CDATA[mac os ikinci diske windows kurmak]]></category>
+		<category><![CDATA[macbook ikinci diske windows kurmak]]></category>
+		<category><![CDATA[Two Bootcamp installations: first one on Internal HDD and second one on external Thunderbolt 2 SSD]]></category>
+		<category><![CDATA[Using BootCamp and insalling it on second drive of system.]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=940</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Biraz meşguliyet,bilgisayar değişimi hem de siteye erişimi kaybettiğim için (github mail erişimi) siteye yazı yazmak nasip olmamıştı. Anlayışınıza sığınırım artık 🙂 Bu yazımızda Mac sistemlerine (iMac,Macbook Air,Macbook Pro,Mac Mini,Mac Studio) sistemlerinde takılan ikinci diske windows kurulumunu anlatmaya çalışacağım. Not :Bu işlem için PCI-E ve Sata girişli Mac sistemi bulunması gerekmektedir. Disk bölümü&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Biraz meşguliyet,bilgisayar değişimi hem de siteye erişimi kaybettiğim için (github mail erişimi) siteye yazı yazmak nasip olmamıştı.</p>
+
+
+
+<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Bu yazımızda Mac sistemlerine (iMac,Macbook Air,Macbook Pro,Mac Mini,Mac Studio) sistemlerinde takılan ikinci diske windows kurulumunu anlatmaya çalışacağım.</p>
+
+
+
+<span id="more-940"></span>
+
+
+
+<p>Not :Bu işlem için PCI-E ve Sata girişli Mac sistemi bulunması gerekmektedir.</p>
+
+
+
+<p>Disk bölümü seçeneğine geldiğimizde Windows&#8217;a kısıtlı alan verip Boot Camp ile Windows isosunu yazdırıp Apple Windows Destek yazılımını yüklediğimimizde &#8220;Disk İzlencesi&#8221; ni açalım.</p>
+
+
+
+<p>Diskimizde bölüm olan &#8220;BOOTCAMP&#8221; bölümünü silip ana diski birleştirelim.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/2kafgy0.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://i.hizliresim.com/eyti510.png" alt="" width="840" height="409"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/pn87ukq.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/eccfn12.png" alt=""/></figure>
+
+
+
+<p></p>
+
+
+
+<p>İkinci defa Boot Camp&#8217;i açalım ve disk bölüm aşamasına geldiğimizde &#8220;Etkinlik Monitörü&#8221; üzerinden bootcamp&#8217;i sonlandıralım.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/is81zqd.png" alt=""/></figure>
+
+
+
+<p>Ayarlar-> Genel -> Başlangıç Diski aşamalarını takip ederek Windows&#8217;u seçerek &#8220;Yeniden Başlat&#8221; butonuna tıklıyoruz.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/5x7nx6m.png" alt=""/></figure>
+
+
+
+<p>Windows kurulum aşamasına geldiğimizde disk seçim aşamasına gelip;</p>
+
+
+
+<p>Klavyeden Shift ve F10 tuşlarına basıyoruz. Karşımıza çıkan cmd penceresine aşağıdaki komutları yazıyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>diskpart
+list disk
+select disk 1 (Anasistem olan Mac OS kurulu olmayan diski seçiyoruz.)
+clean</code></pre>
+
+
+
+<p>Akabinde &#8220;Yenile&#8221; ye tıklayarak Windows kurulacak disk seçilir.</p>
+
+
+
+<p>Windows kurulduktan sonra Boot Camp asistan yüklenir.</p>
+
+
+
+<p>Windows ile Mac OS arasında geçiş yapmak için klavyeden Option ve R veya Alt ve R tuşuna basıyoruz.</p>
+
+
+
+<p></p><p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

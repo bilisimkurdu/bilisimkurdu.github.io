@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -70,7 +70,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/02-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://linuxconfig.org/images/02-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/03-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://linuxconfig.org/images/03-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
 
 
 
@@ -145,7 +145,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2012/07/new-grub-menu-ubuntu.png?w=637&amp;ssl=1" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2012/07/new-grub-menu-ubuntu.png?w=637&amp;ssl=1" alt=""/></figure>
 
 
 
@@ -153,7 +153,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/1.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/1.png" alt=""/></figure>
 
 
 
@@ -161,7 +161,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/2.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/2.png" alt=""/></figure>
 
 
 

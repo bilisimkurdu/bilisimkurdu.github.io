@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -77,7 +77,7 @@
 
 
 
-<figure class="wp-block-image is-resized"><img src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
+<figure class="wp-block-image is-resized"><img decoding="async" src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
 
 
 
@@ -85,7 +85,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://i1.wp.com/www.itechtics.com/wp-content/uploads/2017/10/1-Install-language-pack-in-Windows-10-version-1709.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i1.wp.com/www.itechtics.com/wp-content/uploads/2017/10/1-Install-language-pack-in-Windows-10-version-1709.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
 
 
 
@@ -93,7 +93,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://i2.wp.com/www.itechtics.com/wp-content/uploads/2017/10/2-Select-display-language-to-install.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i2.wp.com/www.itechtics.com/wp-content/uploads/2017/10/2-Select-display-language-to-install.jpg?resize=614%2C454&amp;ssl=1" alt=""/></figure>
 
 
 
@@ -109,7 +109,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://media.chip.com.tr/images/temp/user/aa97f139396743b51c9944cf7740a8c2.jpg" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://media.chip.com.tr/images/temp/user/aa97f139396743b51c9944cf7740a8c2.jpg" alt=""/></figure>
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/xLanguage-pack-with-additional-options-in-Windows-10-650x452.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.hc7o8pIL75.png" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/10/xLanguage-pack-with-additional-options-in-Windows-10-650x452.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.hc7o8pIL75.png" alt=""/></figure>
 
 
 
@@ -129,11 +129,11 @@
 
 
 
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Control-Panel-and-Region-in-Windows-10-650x467.png" alt=""/><figcaption><br><br></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/10/Control-Panel-and-Region-in-Windows-10-650x467.png" alt=""/><figcaption><br><br></figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Copy-settings-to-other-screens-in-Windows-10.png" alt=""/><figcaption><br><br></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/10/Copy-settings-to-other-screens-in-Windows-10.png" alt=""/><figcaption><br><br></figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://www.howtogeek.com/wp-content/uploads/2015/10/Change-language-to-different-screens.png" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/10/Change-language-to-different-screens.png" alt=""/></figure>
 
 
 
@@ -211,9 +211,9 @@
 										<content:encoded><![CDATA[<p>Windows 10&#8217;u güncelleyip dil paketi yüklediyseniz ve display olarak ayarladığınız dili değiştirmek istemiyorsanız;<br />
 <span id="more-365"></span></p>
 <p>Ayarlar -&gt; Dil ve Bölgeler -&gt; Varsayılan olarak ayarlanan dilin altına kullandığınız klavye dilini seçebilmeniz mümkündür.</p>
-<p><img src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
-<img src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
-<img src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Windows 10 version 1803 varsayılan klavye dil ayarları</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p><img decoding="async" src="https://i.hizliresim.com/zM6M0g.jpg" alt="" /><br />
+<img decoding="async" src="https://i.hizliresim.com/yqBq0M.jpg" alt="" /><br />
+<img decoding="async" src="https://i.hizliresim.com/6NoNJk.jpg" alt="" /></p><p>The post <a href="https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/">Windows 10 version 1803 varsayılan klavye dil ayarları</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/windows-10-version-1803-varsayilan-klavye-dil-ayarlari/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

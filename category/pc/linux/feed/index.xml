@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -140,11 +140,11 @@ jobs:
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/I9ZqIA.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/I9ZqIA.png" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/L8GAGK.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/L8GAGK.png" alt=""/></figure>
 
 
 
@@ -225,7 +225,7 @@ jobs:
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -260,11 +260,11 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://virtualizationreview.com/articles/2018/01/30/~/media/ECG/virtualizationreview/Images/2018/HandsonWSL_part4_Fig4.ashx" alt=""/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/ippsTm.png" alt=""/></figure>
 
 
 
@@ -341,7 +341,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-3.png" alt=""/></figure>
 
 
 
@@ -349,7 +349,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-4.png" alt=""/></figure>
 
 
 
@@ -357,35 +357,35 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt=""/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-11.png" alt=""/></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt=""/><figcaption><br><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png"></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-12.png" alt=""/><figcaption><br><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-13.png"></figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt=""/><figcaption><br></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-14.png" alt=""/><figcaption><br></figcaption></figure>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" alt="" class="wp-image-30579"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-15.png" alt="" class="wp-image-30579"/></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" alt="" class="wp-image-30580"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-16.png" alt="" class="wp-image-30580"/></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" alt="" class="wp-image-30581"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-17.png" alt="" class="wp-image-30581"/></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" alt="" class="wp-image-30582"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-18.png" alt="" class="wp-image-30582"/></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" alt="" class="wp-image-30583"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-19.png" alt="" class="wp-image-30583"/></figure></div>
 
 
 
@@ -393,7 +393,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" alt="" class="wp-image-30584"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-20.png" alt="" class="wp-image-30584"/></figure></div>
 
 
 
@@ -401,7 +401,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" alt="" class="wp-image-30585"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-21.png" alt="" class="wp-image-30585"/></figure></div>
 
 
 
@@ -409,7 +409,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" alt="" class="wp-image-30586"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-22.png" alt="" class="wp-image-30586"/></figure></div>
 
 
 
@@ -417,7 +417,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" alt="" class="wp-image-30587"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-23.png" alt="" class="wp-image-30587"/></figure></div>
 
 
 
@@ -425,7 +425,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" alt="" class="wp-image-30588"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-24.png" alt="" class="wp-image-30588"/></figure></div>
 
 
 
@@ -433,11 +433,11 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" alt="" class="wp-image-30589"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-25.png" alt="" class="wp-image-30589"/></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" alt="" class="wp-image-30590"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://teknodestek.com.tr/wp-content/uploads/2019/03/Windows-10da-Linux-i%C3%A7in-Windows-Alt-Sistemi-Kurulumu-ve-Linuxu-%C3%87al%C4%B1%C5%9Ft%C4%B1rma-_-26.png" alt="" class="wp-image-30590"/></figure></div>
 
 
 
@@ -741,7 +741,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/02-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://linuxconfig.org/images/02-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
 
 
 
@@ -749,7 +749,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://linuxconfig.org/images/03-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://linuxconfig.org/images/03-how-to-reset-root-password-kali-linux.png" alt=""/></figure>
 
 
 
@@ -816,7 +816,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2012/07/new-grub-menu-ubuntu.png?w=637&amp;ssl=1" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2012/07/new-grub-menu-ubuntu.png?w=637&amp;ssl=1" alt=""/></figure>
 
 
 
@@ -824,7 +824,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/1.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/1.png" alt=""/></figure>
 
 
 
@@ -832,7 +832,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/2.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://www.muratyazici.com/wp-content/yazilar/resetpasswd/2.png" alt=""/></figure>
 
 
 
@@ -986,7 +986,7 @@ sudo gdebi paketAdi.deb</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.easytechstutorials.com/wp-content/uploads/2019/05/grub1.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.easytechstutorials.com/wp-content/uploads/2019/05/grub1.png" alt=""/></figure>
 
 
 

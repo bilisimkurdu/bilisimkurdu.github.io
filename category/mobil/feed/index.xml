@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -113,7 +113,7 @@
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -266,7 +266,7 @@
 
 
 
-<ol><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img src="https://i.hizliresim.com/Y20d7H.jpg" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
+<ol><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img decoding="async" src="https://i.hizliresim.com/Y20d7H.jpg" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
 
 
 
@@ -494,11 +494,11 @@ fastboot oem unlock-go
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/r5agD7.png" alt=""/><figcaption>1.Adım</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/r5agD7.png" alt=""/><figcaption>1.Adım</figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/7apoL5.png" alt=""/><figcaption>2.adım</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/7apoL5.png" alt=""/><figcaption>2.adım</figcaption></figure>
 
 
 
@@ -510,11 +510,11 @@ fastboot oem unlock-go
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/P1A5V9.png" alt=""/><figcaption>Gpu oluşturmayı zorla : Aktif</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/P1A5V9.png" alt=""/><figcaption>Gpu oluşturmayı zorla : Aktif</figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://i.hizliresim.com/grDkG3.png" alt=""/><figcaption>4x MSAA&#8217;yı zorla : Aktif<br>Donanım katmanlarını devre dışı bırak : Aktif</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/grDkG3.png" alt=""/><figcaption>4x MSAA&#8217;yı zorla : Aktif<br>Donanım katmanlarını devre dışı bırak : Aktif</figcaption></figure>
 
 
 
@@ -571,7 +571,7 @@ fastboot oem unlock-go
 
 
 
-<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -662,10 +662,10 @@ fastboot oem unlock-go
 <p>Yazımda xiaomi telefonlarına yazılım yüklemeyi anlatmaya çalışacağım. Yazılım yükleme işlemini yapmak için <a href="https://droidim.com/2016/01/17/xiaomi-cihazlarda-bootloader-kilidini-acma/" target="_blank" rel="noopener">bootloader </a>işlemi yapılması gerekmekte.</p>
 <p>Şu linkte fastboot yazılımını ve fastboot flash yazılımını <a href="http://en.miui.com/a-234.html" target="_blank" rel="noopener">indiriyoruz</a>.</p>
 <p>Sonra tefefonu kapatıp ses kısma ve power tuşuna basılı tutarak resimdeki moda getiriyoruz.</p>
-<p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong-fastboot.jpg" alt="点击收起图片" /></p>
+<p><img decoding="async" src="http://en.miui.com/static/article/innerimg/tongyong/tongyong-fastboot.jpg" alt="点击收起图片" /></p>
 <p>Miflash programını açarak resimdeki modda ayarlıyoruz.</p>
 <p>Usb ara kablosunu telefona bağladıktan sonra rom dosyasını seçtikten sonra refresh&#8217;e tıkladıktan sonra flash&#8217;a tıklayınız.</p>
-<p><img src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
+<p><img decoding="async" src="http://en.miui.com/static/article/innerimg/tongyong/tongyong3-4.jpg" alt="点击收起图片" /></p>
 <p>&nbsp;</p><p>The post <a href="https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/">MIUI TELEFONLARINA GLOBAL YAZILIM YÜKLEME</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/miui-telefonlarina-global-yazilim-yukleme/feed/</wfw:commentRss>

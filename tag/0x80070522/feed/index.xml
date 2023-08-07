@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -71,7 +71,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/03/secpol.msc-in-run.png" alt="Secpol to open Local Security Policy"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://troubleshooter.xyz/wp-content/uploads/2017/03/secpol.msc-in-run.png" alt="Secpol to open Local Security Policy"/></figure>
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Navigate-to-Security-Options-in-secpol.png" alt="Navigate to Security Settings &gt; Local Policies &gt; Security Options in secpol.msc "/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Navigate-to-Security-Options-in-secpol.png" alt="Navigate to Security Settings &gt; Local Policies &gt; Security Options in secpol.msc "/></figure>
 
 
 
@@ -87,11 +87,11 @@
 
 
 
-<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Find-User-Account-Control-Run-all-administrators-in-Admin-Approval-Mode.png" alt="Find User Account Control: Run all administrators in Admin Approval Mode in Security Options"/><figcaption><br></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Find-User-Account-Control-Run-all-administrators-in-Admin-Approval-Mode.png" alt="Find User Account Control: Run all administrators in Admin Approval Mode in Security Options"/><figcaption><br></figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Disable-The-Admin-Approval-Mode.jpg" alt="Disable The Admin Approval Mode"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Disable-The-Admin-Approval-Mode.jpg" alt="Disable The Admin Approval Mode"/></figure>
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2016/06/Run-command-regedit.png" alt="Run command regedit"/><figcaption><br></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://troubleshooter.xyz/wp-content/uploads/2016/06/Run-command-regedit.png" alt="Run command regedit"/><figcaption><br></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Change-the-value-of-EnableLUA-to-0-in-order-to-disable-it.png" alt="Change the value of EnableLUA to 0 in order to disable it"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://troubleshooter.xyz/wp-content/uploads/2017/07/Change-the-value-of-EnableLUA-to-0-in-order-to-disable-it.png" alt="Change the value of EnableLUA to 0 in order to disable it"/></figure>
 
 
 
@@ -139,19 +139,19 @@
 
 
 
-<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/search-for-cmd.jpg" alt="Search for CMD"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/search-for-cmd.jpg" alt="Search for CMD"/></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/run-as-administrator.jpg" alt="Run as Administrator"/><figcaption><br></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/run-as-administrator.jpg" alt="Run as Administrator"/><figcaption><br></figcaption></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/command-prompt-enable.jpg" alt="Enable Command Prompt"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/command-prompt-enable.jpg" alt="Enable Command Prompt"/></figure>
 
 
 
-<figure class="wp-block-image"><img src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/built-in-administrator-login.jpg" alt="Login built-in administrator account"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="https://assets.hongkiat.com/uploads/enable-windows-built-in-administrator-account/built-in-administrator-login.jpg" alt="Login built-in administrator account"/></figure>
 
 
 
