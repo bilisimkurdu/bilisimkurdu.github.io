@@ -6,7 +6,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bilişim Kurdu</title>
-		<link><![CDATA[http://localhost/bilisimkurdu]]></link>
+		<link><![CDATA[https://bilisimkurdu.github.io]]></link>
 		<description><![CDATA[Bilişim Kurdu]]></description>
 		<lastBuildDate><![CDATA[Wed, 21 Apr 2021 11:15:35 +0000]]></lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
