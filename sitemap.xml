@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dinamik generated on 31 Mart 2022 at 12:45 by All in One SEO - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dinamik generated on 7 Ağustos 2023 at 22:29 by All in One SEO - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default.xsl?sitemap=root"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc><![CDATA[https://bilisimkurdu.github.io/addl-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2022-03-31T08:44:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://bilisimkurdu.github.io/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2022-03-31T08:44:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://bilisimkurdu.github.io/page-sitemap.xml]]></loc>
@@ -20,14 +20,14 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://bilisimkurdu.github.io/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2022-03-31T08:44:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://bilisimkurdu.github.io/post_tag-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2022-03-31T08:44:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://bilisimkurdu.github.io/date-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2022-03-31T08:44:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
