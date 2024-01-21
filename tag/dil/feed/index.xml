@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -77,7 +77,7 @@
 
 
 
-<figure class="wp-block-image is-resized"><img decoding="async" src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
+<figure class="wp-block-image is-resized"><img fetchpriority="high" decoding="async" src="https://i.hizliresim.com/16b29A.png" alt="" width="466" height="241"/></figure>
 
 
 

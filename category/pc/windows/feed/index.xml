@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -331,7 +331,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="443" height="233" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg" alt="" class="wp-image-824" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg 443w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1-300x158.jpg 300w" sizes="(max-width: 443px) 100vw, 443px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="443" height="233" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg" alt="" class="wp-image-824" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg 443w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1-300x158.jpg 300w" sizes="(max-width: 443px) 100vw, 443px" /></figure>
 
 
 
@@ -1138,7 +1138,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1180" height="664" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Ekran Kartı sürücüsü güncelleme - Her marka için geçerli" width="1180" height="664" src="https://www.youtube.com/embed/fl4TKw5BthU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 

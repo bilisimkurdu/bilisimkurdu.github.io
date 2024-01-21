@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -61,7 +61,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
