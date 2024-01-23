@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dinamik generated on 7 Ağustos 2023 at 22:27 by All in One SEO - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dinamik generated on 23 Ocak 2024 at 20:17 by All in One SEO - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default.xsl?sitemap=date"?>
 <urlset
@@ -273,13 +273,25 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2023/]]></loc>
-		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-01-22T19:40:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/2023/08/]]></loc>
-		<lastmod><![CDATA[2023-08-07T18:56:25+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-01-22T19:40:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/2024/]]></loc>
+		<lastmod><![CDATA[2024-01-22T19:39:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/2024/01/]]></loc>
+		<lastmod><![CDATA[2024-01-22T19:39:17+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>

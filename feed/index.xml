@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sun, 21 Jan 2024 19:04:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jan 2024 19:40:11 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,144 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenCore Legacy Patcher Csrutil Disable</title>
+		<link>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/</link>
+					<comments>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 19:26:26 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[OpenCore]]></category>
+		<category><![CDATA[OpenCore csrutil disable]]></category>
+		<category><![CDATA[OpenCore Lagacy Patcher not SIP disable]]></category>
+		<category><![CDATA[OpenCore Lagacy Patcher SIP disable]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher SIP]]></category>
+		<category><![CDATA[OpenCore SIP]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=945</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim 🙂 Bu yazımız OpenCore ile SIP sistemini nasıl devredışı bırakacağımız üzerinde olacak. OpenCore Legacy Patcher&#8217;ın 1.2.0 ve 1.3.0 sürümünden kaynaklı bugtan ötürü Recovery&#8217;u ulaşılamaması sebebiyle kurtarmaya erişilememektedir. Konuyla alakalı bilgi; O sebeple OpenCore üzerinden System&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Bu yazımız OpenCore ile SIP sistemini nasıl devredışı bırakacağımız üzerinde olacak.</p>
+
+
+
+<span id="more-945"></span>
+
+
+
+<p>OpenCore Legacy Patcher&#8217;ın 1.2.0 ve 1.3.0 sürümünden kaynaklı bugtan ötürü Recovery&#8217;u ulaşılamaması sebebiyle kurtarmaya erişilememektedir.</p>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<p>Konuyla alakalı bilgi;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Is Broken - Black Screen Issue!!!" width="1180" height="664" src="https://www.youtube.com/embed/0x8pVFdmsp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="OpenCore Legacy Patcher 1.3.0 Update - Warning for 2012-2014 Macs! + macOS Recovery Issues" width="1180" height="664" src="https://www.youtube.com/embed/zkO1KMT2NTc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>O sebeple OpenCore üzerinden System Integrity Protection&#8217;u devredışı bırakacağız.</p>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<ul>
+<li>OpenCore Legacy Patcher ->Settings ->Securty aşamalarını takip ederek aşağıdaki tablodaki seçenekleri işaratleyiniz.</li>
+</ul>
+
+
+
+<p>SIP Etkin;</p>
+
+
+
+<p><img decoding="async" src="https://dortania.github.io/OpenCore-Legacy-Patcher/assets/img/OCLP-GUI-Settings-SIP-Enabled.f95aadf0.png" alt=""></p>
+
+
+
+<p>SIP Düşürülmüş (Root Patching)</p>
+
+
+
+<p><img decoding="async" src="https://dortania.github.io/OpenCore-Legacy-Patcher/assets/img/OCLP-GUI-Settings-SIP-Root-Patch.b983af09.png" alt=""></p>
+
+
+
+<p>SIP devredışı</p>
+
+
+
+<p><img decoding="async" src="https://dortania.github.io/OpenCore-Legacy-Patcher/assets/img/OCLP-GUI-Settings-SIP-Disabled.960a27d1.png" alt=""></p>
+
+
+
+<ul>
+<li>Akabinde &#8220;Return&#8221; butonuna tıklayınız.</li>
+</ul>
+
+
+
+<ul>
+<li>&#8220;Build and Install OpenCore&#8221; butonuna tıklayayarak OpenCore build edilir.</li>
+</ul>
+
+
+
+<ul>
+<li>Sistem yeniden başlatılır.</li>
+</ul>
+
+
+
+<p>Kaynak;</p>
+
+
+
+<p><a href="https://dortania.github.io/OpenCore-Legacy-Patcher/TROUBLESHOOTING.html#cannot-boot-macos-without-the-usb" target="_blank" rel="noopener" title="">https://dortania.github.io/OpenCore-Legacy-Patcher/TROUBLESHOOTING.html#cannot-boot-macos-without-the-usb</a></p>
+
+
+
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Mac bilgisayarlarında ikinci diske windows kurmak</title>
 		<link>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/</link>
 					<comments>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/#respond</comments>
@@ -576,7 +714,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
 
 
 
@@ -606,7 +744,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1060,133 +1198,6 @@ fastboot reboot</code></pre>
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/">Android telefon ve tabletlere OTG özelliği kazandırma</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</title>
-		<link>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/</link>
-					<comments>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2020 10:16:16 +0000</pubDate>
-				<category><![CDATA[Office]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Connecting proxy server for office15client.microsoft.com]]></category>
-		<category><![CDATA[Connecting proxy server for office15client.microsoft.com error]]></category>
-		<category><![CDATA[excel 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
-		<category><![CDATA[office 2016 Connecting proxy server for office15client.microsoft.com error]]></category>
-		<category><![CDATA[office 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
-		<category><![CDATA[office15client.microsoft.com]]></category>
-		<category><![CDATA[proxy sunucusuna bağlanıyor office15client.microsoft.com]]></category>
-		<category><![CDATA[proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
-		<category><![CDATA[Proxy sunucusuna bağlanmaya çalışıyor office15client.microsoft.com]]></category>
-		<category><![CDATA[proxy sunucusuna bağlanmaya çalışıyor office15client.microsoft.com hatası]]></category>
-		<category><![CDATA[word 2016 proxy sunucusuna bağlanıyor office15client.microsoft.com hatası]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=831</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz, Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com hatasından bahsedeceğim. Hata resmi aşağıdadır: Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir. Office ayarlarından internet erişimini kısıtlamak. (İmgilizce) FILE&#62;Options&#62;Trust Center&#62;Trust Center Settings&#8230;&#62;Privacy Options -&#62;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır. (Türkçe)DOSYA&#62; Seçenekler&#62; Güven Merkezi&#62; Güven Merkezi Ayarları …&#62;&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyarerçilerimiz,</p>
-
-
-
-<p>Bu yazımda Microsoft Office 2016&#8217;da yaşanan Connecting proxy server for office15client.microsoft.com  hatasından bahsedeceğim.</p>
-
-
-
-<span id="more-831"></span>
-
-
-
-<p>Hata resmi aşağıdadır:</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/OfficeClient-1-814x571.jpg" alt="" class="wp-image-832"/></figure>
-
-
-
-<p>Hatanının giderilmesi için iki farklı çözüm önerisi uygulanabilir.</p>
-
-
-
-<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
-
-
-
-<p>(İmgilizce) FILE&gt;Options&gt;Trust Center&gt;Trust Center Settings&#8230;&gt;Privacy Options -&gt;&#8221;Allow Office to connect to the Internet&#8221; seçeneği kaldırılmalıdır.</p>
-
-
-
-<p>(Türkçe)DOSYA&gt; Seçenekler&gt; Güven Merkezi&gt; Güven Merkezi Ayarları …&gt; Gizlilik Seçenekleri -&gt; &#8220;Office&#8217;in İnternet&#8217;e bağlanmasına izin ver&#8221; seçeneği kaldırılmalıdır.</p>
-
-
-
-<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
-
-
-
-<p>Control Panel -&gt;Windows Firewall -&gt;Advandec Settings aşamalarını takip ederek;</p>
-
-
-
-<p>Inbound Rules ve Outbound Rules kısmında aşağıda belirtilen office programların engellenmesi gerekmektedir.</p>
-
-
-
-<p>Güvenlik duvarından program nasıl engelleneceğiyle ilişkin yazımız;</p>
-
-
-
-<p><a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</a></p>
-
-
-
-<p>Office 2016</p>
-
-
-
-<p>(32 bit)</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files&nbsp;(x86)\Microsoft&nbsp;Office\Office16\POWERPNT.exe</p>
-
-
-
-<p>(64 bit)</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\WINWORD.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\EXCEL.exe</p>
-
-
-
-<p>C:\Program&nbsp;Files\Microsoft&nbsp;Office\Office16\POWERPNT.exe</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/">Microsoft Office 2016 Connecting proxy server for office15client.microsoft.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

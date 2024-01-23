@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenCore Legacy Patcher SIP - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/opencore-legacy-patcher-sip/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 22 Jan 2024 19:39:17 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>OpenCore Legacy Patcher SIP - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenCore Legacy Patcher Csrutil Disable</title>
+		<link>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/</link>
+					<comments>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 19:26:26 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[OpenCore]]></category>
+		<category><![CDATA[OpenCore csrutil disable]]></category>
+		<category><![CDATA[OpenCore Lagacy Patcher not SIP disable]]></category>
+		<category><![CDATA[OpenCore Lagacy Patcher SIP disable]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher SIP]]></category>
+		<category><![CDATA[OpenCore SIP]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=945</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim 🙂 Bu yazımız OpenCore ile SIP sistemini nasıl devredışı bırakacağımız üzerinde olacak. OpenCore Legacy Patcher&#8217;ın 1.2.0 ve 1.3.0 sürümünden kaynaklı bugtan ötürü Recovery&#8217;u ulaşılamaması sebebiyle kurtarmaya erişilememektedir. Konuyla alakalı bilgi; O sebeple OpenCore üzerinden System&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Bu yazımız OpenCore ile SIP sistemini nasıl devredışı bırakacağımız üzerinde olacak.</p>
+
+
+
+<span id="more-945"></span>
+
+
+
+<p>OpenCore Legacy Patcher&#8217;ın 1.2.0 ve 1.3.0 sürümünden kaynaklı bugtan ötürü Recovery&#8217;u ulaşılamaması sebebiyle kurtarmaya erişilememektedir.</p>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<p>Konuyla alakalı bilgi;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Is Broken - Black Screen Issue!!!" width="1180" height="664" src="https://www.youtube.com/embed/0x8pVFdmsp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="OpenCore Legacy Patcher 1.3.0 Update - Warning for 2012-2014 Macs! + macOS Recovery Issues" width="1180" height="664" src="https://www.youtube.com/embed/zkO1KMT2NTc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>O sebeple OpenCore üzerinden System Integrity Protection&#8217;u devredışı bırakacağız.</p>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<ul>
+<li>OpenCore Legacy Patcher ->Settings ->Securty aşamalarını takip ederek aşağıdaki tablodaki seçenekleri işaratleyiniz.</li>
+</ul>
+
+
+
+<p>SIP Etkin;</p>
+
+
+
+<p><img decoding="async" src="https://dortania.github.io/OpenCore-Legacy-Patcher/assets/img/OCLP-GUI-Settings-SIP-Enabled.f95aadf0.png" alt=""></p>
+
+
+
+<p>SIP Düşürülmüş (Root Patching)</p>
+
+
+
+<p><img decoding="async" src="https://dortania.github.io/OpenCore-Legacy-Patcher/assets/img/OCLP-GUI-Settings-SIP-Root-Patch.b983af09.png" alt=""></p>
+
+
+
+<p>SIP devredışı</p>
+
+
+
+<p><img decoding="async" src="https://dortania.github.io/OpenCore-Legacy-Patcher/assets/img/OCLP-GUI-Settings-SIP-Disabled.960a27d1.png" alt=""></p>
+
+
+
+<ul>
+<li>Akabinde &#8220;Return&#8221; butonuna tıklayınız.</li>
+</ul>
+
+
+
+<ul>
+<li>&#8220;Build and Install OpenCore&#8221; butonuna tıklayayarak OpenCore build edilir.</li>
+</ul>
+
+
+
+<ul>
+<li>Sistem yeniden başlatılır.</li>
+</ul>
+
+
+
+<p>Kaynak;</p>
+
+
+
+<p><a href="https://dortania.github.io/OpenCore-Legacy-Patcher/TROUBLESHOOTING.html#cannot-boot-macos-without-the-usb" target="_blank" rel="noopener" title="">https://dortania.github.io/OpenCore-Legacy-Patcher/TROUBLESHOOTING.html#cannot-boot-macos-without-the-usb</a></p>
+
+
+
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
