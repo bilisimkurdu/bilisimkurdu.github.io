@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>klavye türünü değişltir yok - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/klavye-turunu-degisltir-yok/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sat, 09 Mar 2024 16:52:20 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>klavye türünü değişltir yok - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MacOS klavye türü değiştirme sorunu</title>
+		<link>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/</link>
+					<comments>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 09 Mar 2024 16:47:43 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[klavye türünü değişltir yok]]></category>
+		<category><![CDATA[klavye türünü değiştir görünmüyor]]></category>
+		<category><![CDATA[Looking for "Change Keyboard Type"-Button]]></category>
+		<category><![CDATA[Mac OS "Klavye Türünü Değiştir" olmaması]]></category>
+		<category><![CDATA[mac os klavye türünü değiştir]]></category>
+		<category><![CDATA[mac os klavye türünü değiştir görünmüyor]]></category>
+		<category><![CDATA[mac os klavye türünü değiştir yok]]></category>
+		<category><![CDATA[Mac OS Looking for "Change Keyboard Type" Button]]></category>
+		<category><![CDATA[macos change keyboard type not showing]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=954</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz; Mac OS klavyelerinde istendiği bazı karakterlerin istendiği tuş kombinasyonlarda çalışmaması ve durumun düzeltilmeye çalışılırken Sistem Tercihleri&#8217;nden Klavye ayarlarıda &#8220;Klavye Türünü Değiştir&#8221; butonu olmaması hususunda olacak. Hata resimdeki gibi olacaktır. Problemin çözümü olarak; En son Sistem tercihleri&#8217;ndeki Klavye ayarlarındaki seçeneklerde &#8220;Klavye Türünü Değiştir&#8221; görünmüş olur. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/">MacOS klavye türü değiştirme sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz;</p>
+
+
+
+<p>Mac OS klavyelerinde istendiği bazı karakterlerin istendiği tuş kombinasyonlarda çalışmaması ve durumun düzeltilmeye çalışılırken Sistem Tercihleri&#8217;nden Klavye ayarlarıda &#8220;Klavye Türünü Değiştir&#8221; butonu olmaması hususunda olacak.</p>
+
+
+
+<span id="more-954"></span>
+
+
+
+<p>Hata resimdeki gibi olacaktır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/16stoe0.png" alt=""/></figure>
+
+
+
+<p>Problemin çözümü olarak;</p>
+
+
+
+<ul>
+<li>Lauchpad&#8217;i açınız.</li>
+
+
+
+<li>Terminal uygulamasını bulunuz</li>
+
+
+
+<li>Karşımıza açılan pecerede aşağıdaki komutu yazınız;</li>
+</ul>
+
+
+
+<pre class="wp-block-code"><code>sudo rm /Library/Preferences/com.apple.keyboardtype.plist</code></pre>
+
+
+
+<ul>
+<li>Bilgisayarınızı yeniden başlatınız.</li>
+
+
+
+<li>Bilgisayarınız yeniden açıldığı zaman karşınıza çıkan Klavye Ayarlama Yardımcısı penceresindeki adımları uygulayınız.</li>
+</ul>
+
+
+
+<p>En son Sistem tercihleri&#8217;ndeki Klavye ayarlarındaki seçeneklerde &#8220;Klavye Türünü Değiştir&#8221; görünmüş olur.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/1seq2i3.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="MacOS &quot;Klavye Türünü Değiştir&quot; butonu yok - No MacOS &quot;Change Keyboard Type&quot; button" width="1180" height="664" src="https://www.youtube.com/embed/Pp4zfXZU_9c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/">MacOS klavye türü değiştirme sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

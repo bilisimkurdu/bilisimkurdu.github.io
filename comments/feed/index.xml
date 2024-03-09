@@ -11,11 +11,11 @@
 	<atom:link href="https://bilisimkurdu.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 22 Jan 2024 19:40:11 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Mar 2024 16:52:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

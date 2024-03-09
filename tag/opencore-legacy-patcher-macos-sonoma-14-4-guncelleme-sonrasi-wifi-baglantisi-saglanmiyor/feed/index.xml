@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenCore Legacy Patcher MacOS Sonoma 14.4 güncelleme sonrası Wifi bağlantısı sağlanmıyor - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/opencore-legacy-patcher-macos-sonoma-14-4-guncelleme-sonrasi-wifi-baglantisi-saglanmiyor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sat, 09 Mar 2024 16:46:04 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>OpenCore Legacy Patcher MacOS Sonoma 14.4 güncelleme sonrası Wifi bağlantısı sağlanmıyor - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</title>
+		<link>https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/</link>
+					<comments>https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 09 Mar 2024 16:46:02 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[olcp sonoma update after wifi problem]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher mac güncellemesi sonrası wifi bağlanmıyor]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher MacOS Sonoma 14.4 güncelleme sonrası Wifi bağlantısı sağlanmıyor]]></category>
+		<category><![CDATA[Opencore macos güncelleme sonrası wifi problemi]]></category>
+		<category><![CDATA[Opencore wifi problemi]]></category>
+		<category><![CDATA[Wifi connection is not after OLCP Sonoma 14.4 update]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=957</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda OpenCore Legacy Patcher ile kurulan Mac bilgisayarlar için Sonoma 14.4 güncellemesinden sonra Wifi bağlantı sağlanamaması alakalı olacak. Sorunumuzun çözüm aşamaları; Eğer problem çözüme kavuşmazsa OpenCore Legacy Patcher -> Post-Install Root Patch ->Start Root Patching aşamalarını takip ederek yamalayıp bilgisayarınızı yeniden başlattıktan sonra çözüm yöntemlerini yeniden uygulamayı deneyin. Bu yöntem sadece&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/">OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda OpenCore Legacy Patcher ile kurulan Mac bilgisayarlar için Sonoma 14.4 güncellemesinden sonra Wifi bağlantı sağlanamaması alakalı olacak.</p>
+
+
+
+<span id="more-957"></span>
+
+
+
+<p>Sorunumuzun çözüm aşamaları;</p>
+
+
+
+<ul>
+<li>Wifi&#8217;yi açıp kapatınız.</li>
+
+
+
+<li>Kaydedilen bütün kablosuz ağları unutmasını sağlayınız.</li>
+
+
+
+<li>Yeniden kablosuz bağlantıyı sağlayınız.</li>
+</ul>
+
+
+
+<p>Eğer problem çözüme kavuşmazsa OpenCore Legacy Patcher -> Post-Install Root Patch ->Start Root Patching aşamalarını takip ederek yamalayıp bilgisayarınızı yeniden başlattıktan sonra çözüm yöntemlerini yeniden uygulamayı deneyin.</p>
+
+
+
+<p>Bu yöntem sadece çözüm aşamalarından biri olmakta olup başka çözüm yöntemleri için detaylı araştırma gerekebilir.</p>
+
+
+
+<p>Çözüm yöntemiyle alakalı videomuz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="OLCP Sonoma 14.4 update sonrası Wifi problem Wifi problem is not after OLCP Sonoma 14.4 update" width="1180" height="664" src="https://www.youtube.com/embed/Ev2Lf0dxA2U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Selametle kalınız.</p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/">OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

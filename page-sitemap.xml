@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dinamik generated on 23 Ocak 2024 at 20:17 by All in One SEO - the original SEO plugin for WordPress. -->
+<!-- Bu site haritası dinamik 9 Mart 2024 tarihinde saat 21:19 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.5.8 kullanılarak oluşturulmuştur. -->
 
-<?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default.xsl?sitemap=page"?>
+<?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default-sitemap.xsl?sitemap=page"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/privacy-policy/]]></loc>

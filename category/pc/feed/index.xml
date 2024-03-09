@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 22 Jan 2024 19:40:11 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Mar 2024 16:52:20 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,177 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>MacOS klavye türü değiştirme sorunu</title>
+		<link>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/</link>
+					<comments>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 09 Mar 2024 16:47:43 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[klavye türünü değişltir yok]]></category>
+		<category><![CDATA[klavye türünü değiştir görünmüyor]]></category>
+		<category><![CDATA[Looking for "Change Keyboard Type"-Button]]></category>
+		<category><![CDATA[Mac OS "Klavye Türünü Değiştir" olmaması]]></category>
+		<category><![CDATA[mac os klavye türünü değiştir]]></category>
+		<category><![CDATA[mac os klavye türünü değiştir görünmüyor]]></category>
+		<category><![CDATA[mac os klavye türünü değiştir yok]]></category>
+		<category><![CDATA[Mac OS Looking for "Change Keyboard Type" Button]]></category>
+		<category><![CDATA[macos change keyboard type not showing]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=954</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz; Mac OS klavyelerinde istendiği bazı karakterlerin istendiği tuş kombinasyonlarda çalışmaması ve durumun düzeltilmeye çalışılırken Sistem Tercihleri&#8217;nden Klavye ayarlarıda &#8220;Klavye Türünü Değiştir&#8221; butonu olmaması hususunda olacak. Hata resimdeki gibi olacaktır. Problemin çözümü olarak; En son Sistem tercihleri&#8217;ndeki Klavye ayarlarındaki seçeneklerde &#8220;Klavye Türünü Değiştir&#8221; görünmüş olur. Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/">MacOS klavye türü değiştirme sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz;</p>
+
+
+
+<p>Mac OS klavyelerinde istendiği bazı karakterlerin istendiği tuş kombinasyonlarda çalışmaması ve durumun düzeltilmeye çalışılırken Sistem Tercihleri&#8217;nden Klavye ayarlarıda &#8220;Klavye Türünü Değiştir&#8221; butonu olmaması hususunda olacak.</p>
+
+
+
+<span id="more-954"></span>
+
+
+
+<p>Hata resimdeki gibi olacaktır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/16stoe0.png" alt=""/></figure>
+
+
+
+<p>Problemin çözümü olarak;</p>
+
+
+
+<ul>
+<li>Lauchpad&#8217;i açınız.</li>
+
+
+
+<li>Terminal uygulamasını bulunuz</li>
+
+
+
+<li>Karşımıza açılan pecerede aşağıdaki komutu yazınız;</li>
+</ul>
+
+
+
+<pre class="wp-block-code"><code>sudo rm /Library/Preferences/com.apple.keyboardtype.plist</code></pre>
+
+
+
+<ul>
+<li>Bilgisayarınızı yeniden başlatınız.</li>
+
+
+
+<li>Bilgisayarınız yeniden açıldığı zaman karşınıza çıkan Klavye Ayarlama Yardımcısı penceresindeki adımları uygulayınız.</li>
+</ul>
+
+
+
+<p>En son Sistem tercihleri&#8217;ndeki Klavye ayarlarındaki seçeneklerde &#8220;Klavye Türünü Değiştir&#8221; görünmüş olur.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/1seq2i3.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="MacOS &quot;Klavye Türünü Değiştir&quot; butonu yok - No MacOS &quot;Change Keyboard Type&quot; button" width="1180" height="664" src="https://www.youtube.com/embed/Pp4zfXZU_9c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/">MacOS klavye türü değiştirme sorunu</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</title>
+		<link>https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/</link>
+					<comments>https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 09 Mar 2024 16:46:02 +0000</pubDate>
+				<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[olcp sonoma update after wifi problem]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher mac güncellemesi sonrası wifi bağlanmıyor]]></category>
+		<category><![CDATA[OpenCore Legacy Patcher MacOS Sonoma 14.4 güncelleme sonrası Wifi bağlantısı sağlanmıyor]]></category>
+		<category><![CDATA[Opencore macos güncelleme sonrası wifi problemi]]></category>
+		<category><![CDATA[Opencore wifi problemi]]></category>
+		<category><![CDATA[Wifi connection is not after OLCP Sonoma 14.4 update]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=957</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda OpenCore Legacy Patcher ile kurulan Mac bilgisayarlar için Sonoma 14.4 güncellemesinden sonra Wifi bağlantı sağlanamaması alakalı olacak. Sorunumuzun çözüm aşamaları; Eğer problem çözüme kavuşmazsa OpenCore Legacy Patcher -> Post-Install Root Patch ->Start Root Patching aşamalarını takip ederek yamalayıp bilgisayarınızı yeniden başlattıktan sonra çözüm yöntemlerini yeniden uygulamayı deneyin. Bu yöntem sadece&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/">OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda OpenCore Legacy Patcher ile kurulan Mac bilgisayarlar için Sonoma 14.4 güncellemesinden sonra Wifi bağlantı sağlanamaması alakalı olacak.</p>
+
+
+
+<span id="more-957"></span>
+
+
+
+<p>Sorunumuzun çözüm aşamaları;</p>
+
+
+
+<ul>
+<li>Wifi&#8217;yi açıp kapatınız.</li>
+
+
+
+<li>Kaydedilen bütün kablosuz ağları unutmasını sağlayınız.</li>
+
+
+
+<li>Yeniden kablosuz bağlantıyı sağlayınız.</li>
+</ul>
+
+
+
+<p>Eğer problem çözüme kavuşmazsa OpenCore Legacy Patcher -> Post-Install Root Patch ->Start Root Patching aşamalarını takip ederek yamalayıp bilgisayarınızı yeniden başlattıktan sonra çözüm yöntemlerini yeniden uygulamayı deneyin.</p>
+
+
+
+<p>Bu yöntem sadece çözüm aşamalarından biri olmakta olup başka çözüm yöntemleri için detaylı araştırma gerekebilir.</p>
+
+
+
+<p>Çözüm yöntemiyle alakalı videomuz;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="OLCP Sonoma 14.4 update sonrası Wifi problem Wifi problem is not after OLCP Sonoma 14.4 update" width="1180" height="664" src="https://www.youtube.com/embed/Ev2Lf0dxA2U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Selametle kalınız.</p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/">OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>OpenCore Legacy Patcher Csrutil Disable</title>
 		<link>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/</link>
 					<comments>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/#respond</comments>
@@ -85,7 +256,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="OpenCore Legacy Patcher 1.3.0 Update - Warning for 2012-2014 Macs! + macOS Recovery Issues" width="1180" height="664" src="https://www.youtube.com/embed/zkO1KMT2NTc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="OpenCore Legacy Patcher 1.3.0 Update - Warning for 2012-2014 Macs! + macOS Recovery Issues" width="1180" height="664" src="https://www.youtube.com/embed/zkO1KMT2NTc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -522,7 +693,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="VMWare Tools make my VMWare Workstation is so slow." width="1180" height="664" src="https://www.youtube.com/embed/-orImLtKjJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="VMWare Tools make my VMWare Workstation is so slow." width="1180" height="664" src="https://www.youtube.com/embed/-orImLtKjJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1026,257 +1197,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</title>
-		<link>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/</link>
-					<comments>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2020 05:30:00 +0000</pubDate>
-				<category><![CDATA[C#]]></category>
-		<category><![CDATA[İnternet]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Programlama]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[.net 3.1 heroku publish]]></category>
-		<category><![CDATA[.net core 3.1]]></category>
-		<category><![CDATA[.net core 3.1 heroku]]></category>
-		<category><![CDATA[.net core heroku]]></category>
-		<category><![CDATA[asp]]></category>
-		<category><![CDATA[asp.net 3.1 heroku publish]]></category>
-		<category><![CDATA[ASP.NET Core 3.1]]></category>
-		<category><![CDATA[asp.net core 3.1 heroku]]></category>
-		<category><![CDATA[ASP.NET Core 3.1 Uygulamasını Heroku ile Ücretsiz Yayınlamak]]></category>
-		<category><![CDATA[aspnet 3.1 heroku publish]]></category>
-		<category><![CDATA[aspnet core 3.1 heroku]]></category>
-		<category><![CDATA[bir]]></category>
-		<category><![CDATA[circleci]]></category>
-		<category><![CDATA[core]]></category>
-		<category><![CDATA[dotnet 3.1 heroku publish]]></category>
-		<category><![CDATA[github]]></category>
-		<category><![CDATA[heroku]]></category>
-		<category><![CDATA[https]]></category>
-		<category><![CDATA[ile]]></category>
-		<category><![CDATA[olu]]></category>
-		<category><![CDATA[yaz]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=807</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım. Visual Studio üzerinden hazırlanmışsa: &#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221; klasörüne Dockerfile ve .circlei klasörünü ekliyoruz. Dockerfile içeriği .circleci\config.yml içeriği değerleri ile yazıldıktan sonra github ile pushlayıp heroku uygulaması ve circleci projesi oluşturuyoruz. CircleiCI projesi oluşturuken resimdeki gibi uyguluyoruz. Bulid işlemlemine başlayacaktır fakat hata verecektir.&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımda Heroku ile .NET CORE Web uygulamasına nasıl yayımlanacağını anlatmaya çalışacağım.</p>
-
-
-
-<p>Visual Studio üzerinden hazırlanmışsa:</p>
-
-
-
-<p>&#8220;%UserProfile%\kullaniciAdi\source\repos\projeAdi\projeAdi&#8221; klasörüne Dockerfile ve .circlei klasörünü ekliyoruz.</p>
-
-
-
-<span id="more-807"></span>
-
-
-
-<p><strong>Dockerfile</strong> içeriği</p>
-
-
-
-<pre class="wp-block-code"><code>FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
-WORKDIR /app
-
-# Copy csproj and restore as distinct layers
-COPY *.csproj ./
-RUN dotnet restore
-
-# Copy everything else and build
-COPY . ./
-RUN dotnet publish -c Release -o out
-
-# Build runtime image
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
-WORKDIR /app
-COPY --from=build-env /app/out .
-CMD ASPNETCORE_URLS= ./projeAdi</code></pre>
-
-
-
-<p><strong>.circleci\config.yml</strong> içeriği</p>
-
-
-
-<pre class="wp-block-code"><code>version: 2
-jobs:
- build:
-   machine: true
-   steps:
-     - checkout 
-
-     # build image
-     - run: |         
-         docker info
-         docker build -t aspnetapp -f Dockerfile .
-     # deploy the image
-     - run: |         
-         docker login --username=$HEROKU_USERNAME --password=$HEROKU_API_KEY registry.heroku.com
-         docker tag aspnetapp registry.heroku.com/$HEROKU_APP_NAME/web
-         docker push registry.heroku.com/$HEROKU_APP_NAME/web                
-         curl https://cli-assets.heroku.com/install.sh | sh
-         heroku container:release web -a $HEROKU_APP_NAME</code></pre>
-
-
-
-<p>değerleri ile yazıldıktan sonra github ile pushlayıp heroku uygulaması ve circleci projesi oluşturuyoruz.</p>
-
-
-
-<p>CircleiCI projesi oluşturuken resimdeki gibi uyguluyoruz.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/I9ZqIA.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/L8GAGK.png" alt=""/></figure>
-
-
-
-<p>Bulid işlemlemine başlayacaktır fakat hata verecektir.</p>
-
-
-
-<p>Hatanın çözmek ve heroku ile siteyi yayınlanması için &#8220;Project Settings&#8221; -&gt; &#8220;Environment Variables&#8221; yolunu takip ederek aşağıdaki değişkenler eklenir.</p>
-
-
-
-<p>HEROKU_APP_NAME :Heroku üzerinden oluşturduğunuz uygulamanın adı</p>
-
-
-
-<p>HEROKU_API_KEY :<a href="https://dashboard.heroku.com/account" target="_blank" rel="noreferrer noopener">https://dashboard.heroku.com/account&nbsp;</a>adresinden (&#8220;Reveal&#8221; butonuna tıklayarak) erişebilirsiniz.</p>
-
-
-
-<p>HEROKU_USERNAME :Heroku kayıt olurken kullandığınız e-posta adresi <a href="https://dashboard.heroku.com/account" target="_blank" rel="noreferrer noopener">https://dashboard.heroku.com/account</a>&nbsp;adresinden erişebilirsiniz.</p>
-
-
-
-<p>Şimdi tekrar build edebiliriz. Build etmek için sol menüden builds sekmesine gidip son fail olan builde tıklayıp sağ üste bulunan&nbsp;<strong>Rerun workflow&nbsp;</strong>butonuna basıyoruz ve build işlemimiz tekrar başlıyor.</p>
-
-
-
-<p>Bulid işlemi başarılı ise heroku üzerinden site yayınlanmış olur.</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/">ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Laptop açılmaya çalışıldığında tepki vermiyor.</title>
-		<link>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/</link>
-					<comments>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Sat, 18 Apr 2020 13:07:29 +0000</pubDate>
-				<category><![CDATA[Donanım]]></category>
-		<category><![CDATA[PC]]></category>
-		<category><![CDATA[açılmayan laptobu açma]]></category>
-		<category><![CDATA[açma tuşu bozuk bilgisayarı açma]]></category>
-		<category><![CDATA[laptop açılmıyor]]></category>
-		<category><![CDATA[laptop arızalı]]></category>
-		<category><![CDATA[laptop çalışmıyor]]></category>
-		<category><![CDATA[Laptop ekran açılmama problemi]]></category>
-		<category><![CDATA[Laptop ekran açılmama problemi nasıl çözülür? Kesin Çözüm!!!]]></category>
-		<category><![CDATA[laptop ekran açılmıyor]]></category>
-		<category><![CDATA[power tuşu arızalı bilgisayarı açma]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=794</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır. Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır. Sorun 1: Statik elektrik birikmiş olabilir. Çözüm 1 :Bilgisayarınızda takilı bütün aygıtları (USB,Kulaklık,Mikrofon,Klavye,Mouse,&#8230;) ,bataryayı ve güç adaptörünü çıkarınız ve&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Eğer bilgisayarınızın adaptörü sağlam olup açılmıyorsa sebepleri ve çözümleri şunlardır.</p>
-
-
-
-<span id="more-794"></span>
-
-
-
-<blockquote class="wp-block-quote"><p>Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır.</p></blockquote>
-
-
-
-<p>Sorun 1: Statik elektrik birikmiş olabilir.</p>
-
-
-
-<p>Çözüm 1 :Bilgisayarınızda takilı bütün aygıtları (USB,Kulaklık,Mikrofon,Klavye,Mouse,&#8230;) ,bataryayı ve güç adaptörünü çıkarınız ve güç tuşuna 20-30 saniye basılı tutulduktan sonra sadece güç adaptörü bağlanarak açılmaya çalışılır.</p>
-
-
-
-<p>Sorun 2 :Power tuşu arızalıdır.</p>
-
-
-
-<p>Çözüm 2 :Power kablosundaki flex kablosunu VGA girişindeki demire temas ederek ve sürterek açma (Geçici çözüm.) veya Laptobunuzun modeline göre power tuşu temini (Kalıcı Çözüm.)</p>
-
-
-
-<p>Peki bu işlem nasıl yapılır?</p>
-
-
-
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Açma-Kapama Düğmesi (power) Bozulan Laptopu Şase Yaparak Açma %100 Çözüm" width="1180" height="664" src="https://www.youtube.com/embed/fEcapV7kv48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Sorun 3 :Power tuşu ile anakart arasındaki flex kablosu arızalıdır.</p>
-
-
-
-<p>Çözüm 3: Mousepad kablosundaki flex kablosu sökülüp önce power tuşu ile anakart bağlantısı yapılarak denenir olmazsa Çözüm 2&#8217;deki adımlar uygulanır sonra tekrardan mousepad bağlantısı yapılır.</p>
-
-
-
-<p>Sorun 4 :Yukarıdaki çözüm önerisi hiç biri olmadı.</p>
-
-
-
-<p>Çözüm 4 :Bazı bilgisayar modellerinde Sorun 1&#8217;in çözümü yapıldıktan sonra 1 gün ile 7 gün arası bilgisayara hiç bir işlem yapılmadan durur. Beklemeden sonra laptop tetiklenmezse anakart veya chip arızasıdır ve teknik servis tarafından onarım gerekmektedir.</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/">Laptop açılmaya çalışıldığında tepki vermiyor.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
