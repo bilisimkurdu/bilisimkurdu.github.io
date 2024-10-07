@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 24 Jun 2020 07:14:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Oct 2024 17:26:19 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
+		<link>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/</link>
+					<comments>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 17:26:16 +0000</pubDate>
+				<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[0x8024000b]]></category>
+		<category><![CDATA[KB5042211]]></category>
+		<category><![CDATA[KB5042211 0x8024000b]]></category>
+		<category><![CDATA[mssql 0x8024000b]]></category>
+		<category><![CDATA[mssql 2022 0x8024000b]]></category>
+		<category><![CDATA[Security Update for SQL Server 2022 RTM GDR (KB5042211) update 0x8024000b]]></category>
+		<category><![CDATA[sql 0x8024000b]]></category>
+		<category><![CDATA[sql server]]></category>
+		<category><![CDATA[sql server 0x8024000b]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=964</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,             Bu yazımızda Security Update for SQL Server 2022 RTM GDR (KB5042211) güncelemesinde alınan 0x8024000b kodlu hatanın çözümünü belirteceğim. Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir 🙂 Şimdi geçelim çözümümüze; SQL Server 2022 Configuration Manager açılarak aşağıdaki SQL Servisler açık ise kapatılır ve tekrardan Windows Update ile güncellenir.&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>            Bu yazımızda Security Update for SQL Server 2022 RTM GDR (KB5042211) güncelemesinde alınan 0x8024000b kodlu hatanın çözümünü belirteceğim.</p>
+
+
+
+<span id="more-964"></span>
+
+
+
+<p>Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/yyep1c9.jpg" alt=""/></figure>
+
+
+
+<p>Şimdi geçelim çözümümüze;</p>
+
+
+
+<p>SQL Server 2022 Configuration Manager açılarak aşağıdaki SQL Servisler açık ise kapatılır ve tekrardan Windows Update ile güncellenir.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/79fqzle.png" alt=""/></figure>
+
+
+
+<ul class="wp-block-list">
+<li>SQL Server Analysis Services (MSSQLSERVER)</li>
+
+
+
+<li>SQL Server (MSSQLSERVER)</li>
+
+
+
+<li>SQL Full-text Filter Daemon Launcher (MSSQLSERVER)</li>
+</ul>
+
+
+
+<p>Güncelleme tamamlandıktan sonra servisler tekrardan açılır.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
 		<link>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/</link>
 					<comments>https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/#respond</comments>
@@ -898,70 +981,6 @@ xdebug.show_local_vars = 9</code></pre>
 <figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure><p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
-		<link>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/</link>
-					<comments>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Tue, 16 Jul 2019 13:55:04 +0000</pubDate>
-				<category><![CDATA[C#]]></category>
-		<category><![CDATA[İnternet]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Programlama]]></category>
-		<category><![CDATA[.NET Core]]></category>
-		<category><![CDATA[.NET Core v2.2.105]]></category>
-		<category><![CDATA[dotnet MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
-		<category><![CDATA[dotnet MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
-		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu.]]></category>
-		<category><![CDATA[MonoDevelop Error MSB4018: "GenerateDepsFile" görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The "GenerateDepsFile" task failed unexpectedly.]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=481</guid>
-
-					<description><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler, Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu. / MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly. hatasının çözümü konusunda olacak. 1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi. 2-)Birinci adım olmazsa ; .NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için tıklayınız.) gerekmektedir.&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">MonoDevelop Error MSB4018: “GenerateDepsFile” görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhtererem Ziyeretçiler,</p>
-
-
-
-<p>Bu yazımda Linux MonoDevelop .NET Core Web uygulaması derlenirken <strong>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</strong> / <strong>MonoDevelop Error MSB4018: The &#8220;GenerateDepsFile&#8221; task failed unexpectedly.</strong> hatasının çözümü konusunda olacak.</p>
-
-
-
-<span id="more-481"></span>
-
-
-
-<p>1-) MonoDevelop &#8220;Debug&#8221; yerinne &#8220;Release&#8221; olarak derlenmesi.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/jqnQZW.png" alt=""/></figure>
-
-
-
-<p>2-)Birinci adım olmazsa ;</p>
-
-
-
-<p>.NET Core v2.2.105 yüklenmesi (.NET Core V2.2.105 için <a rel="noreferrer noopener" aria-label="tıklayınız (yeni sekmede açılır)" href="https://dotnet.microsoft.com/download/linux-package-manager/debian9/sdk-2.2.105" target="_blank">tıklayınız</a>.) gerekmektedir.</p>
-
-
-
-<p>
-
-Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.
-
-</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/">MonoDevelop Error MSB4018: “GenerateDepsFile” görevi beklenmedik biçimde başarısız oldu.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

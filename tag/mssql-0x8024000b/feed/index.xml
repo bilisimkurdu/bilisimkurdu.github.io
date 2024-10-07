@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mssql 0x8024000b - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/mssql-0x8024000b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 07 Oct 2024 17:26:19 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>mssql 0x8024000b - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
+		<link>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/</link>
+					<comments>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 17:26:16 +0000</pubDate>
+				<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[0x8024000b]]></category>
+		<category><![CDATA[KB5042211]]></category>
+		<category><![CDATA[KB5042211 0x8024000b]]></category>
+		<category><![CDATA[mssql 0x8024000b]]></category>
+		<category><![CDATA[mssql 2022 0x8024000b]]></category>
+		<category><![CDATA[Security Update for SQL Server 2022 RTM GDR (KB5042211) update 0x8024000b]]></category>
+		<category><![CDATA[sql 0x8024000b]]></category>
+		<category><![CDATA[sql server]]></category>
+		<category><![CDATA[sql server 0x8024000b]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=964</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,             Bu yazımızda Security Update for SQL Server 2022 RTM GDR (KB5042211) güncelemesinde alınan 0x8024000b kodlu hatanın çözümünü belirteceğim. Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir 🙂 Şimdi geçelim çözümümüze; SQL Server 2022 Configuration Manager açılarak aşağıdaki SQL Servisler açık ise kapatılır ve tekrardan Windows Update ile güncellenir.&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>            Bu yazımızda Security Update for SQL Server 2022 RTM GDR (KB5042211) güncelemesinde alınan 0x8024000b kodlu hatanın çözümünü belirteceğim.</p>
+
+
+
+<span id="more-964"></span>
+
+
+
+<p>Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/yyep1c9.jpg" alt=""/></figure>
+
+
+
+<p>Şimdi geçelim çözümümüze;</p>
+
+
+
+<p>SQL Server 2022 Configuration Manager açılarak aşağıdaki SQL Servisler açık ise kapatılır ve tekrardan Windows Update ile güncellenir.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/79fqzle.png" alt=""/></figure>
+
+
+
+<ul class="wp-block-list">
+<li>SQL Server Analysis Services (MSSQLSERVER)</li>
+
+
+
+<li>SQL Server (MSSQLSERVER)</li>
+
+
+
+<li>SQL Full-text Filter Daemon Launcher (MSSQLSERVER)</li>
+</ul>
+
+
+
+<p>Güncelleme tamamlandıktan sonra servisler tekrardan açılır.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

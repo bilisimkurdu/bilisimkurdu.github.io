@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -61,11 +61,11 @@
 
 
 
-<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -108,7 +108,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
+<blockquote class="wp-block-quote is-style-large is-layout-flow wp-block-quote-is-layout-flow"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
 
 
 

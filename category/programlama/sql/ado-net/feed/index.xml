@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -364,7 +364,7 @@ cntx.Test</code></pre>
 
 
 
-<ul><li>Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. </li><li>&#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir.</li><li> &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır.</li></ul>
+<ul class="wp-block-list"><li>Yeni bir veritabanı bağlantısı eklenirken veya düzenlenirken Advanced butonuna tıklanır. </li><li>&#8220;Old guids&#8221; ifadesine &#8220;True&#8221; değeri verilir.</li><li> &#8220;OK&#8221; butonuna tıklandıktan sonra &#8220;Connection Properties&#8221; penceresinden &#8220;OK&#8221; butonuna tıklanarak çıkılır.</li></ul>
 
 
 
@@ -446,7 +446,7 @@ cntx.Test</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
 
 
 
@@ -458,7 +458,7 @@ cntx.Test</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
 
 
 
@@ -535,7 +535,7 @@ cntx.Test</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>MYSQL for Visual Studio kurarken  &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun.</p><p><a rel="noreferrer noopener" aria-label="The devenv /usipdate configuration command may have failed
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>MYSQL for Visual Studio kurarken  &#8220;Warning : The devenv /updateconfiguration command may have failed&#8221; hatası alıyorsanız buyurun.</p><p><a rel="noreferrer noopener" aria-label="The devenv /usipdate configuration command may have failed
  (yeni sekmede açılır)" href="http://bilisimkurdu.github.io/the-devenv-update-configuration-command-may-have-failed/" target="_blank">The devenv /updateconfiguration command may have failed</a><br></p></blockquote>
 
 

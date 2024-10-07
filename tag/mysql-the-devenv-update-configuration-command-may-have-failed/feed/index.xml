@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -86,7 +86,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Not : Windows 7 kullanyorsanız bu hatayı vermesi normaldir. Eğer çözüm yöntemlerini gerçekleştirmişseniz sıkıntı doğurmayacaktır.</p></blockquote>
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Özellikle SQL Server Managment Studio kullanıyorsanız kontrol etmenizi öneririz.  Çünkü SQL Server Managment Studio kurulurken Visual Studio Shell (Isolated) kurulur.</p></blockquote>
 
 
 

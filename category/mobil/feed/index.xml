@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -113,7 +113,7 @@
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -266,7 +266,7 @@
 
 
 
-<ol><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img decoding="async" src="https://i.hizliresim.com/Y20d7H.jpg" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
+<ol class="wp-block-list"><li>Ayarlar&nbsp;<strong>&#8211;&gt;</strong>&nbsp;Telefon Hakkında&nbsp;<strong>&#8211;&gt; Derleme numarasına&nbsp;</strong>birkaç defa hızlıca dokunun.</li><li>Artık Geliştiricisiniz mesajını aldıktan sonra</li><li>Ayarlar&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Sistem&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Gelişmiş&nbsp;<strong>&#8211;&gt;&nbsp;</strong>Geliştirici Seçeneklerine gidin</li><li><strong>&#8220;OEM kilit açma&#8221;&nbsp;</strong>Seçeneğini bulun ve etkinleştirin.&nbsp;<img decoding="async" src="https://i.hizliresim.com/Y20d7H.jpg" alt=""></li><li>Cihazı kapatın</li><li><strong>Ses kısma ve güç tuşuna</strong>&nbsp;aynı anda basılı tutun. Ekranda<strong>&nbsp;Fastboot mode</strong>&nbsp;yazısı belirince bırakın.</li><li>Windows işletim sistemini kullananlar için CMD&#8217;yi Linux işletim sistemini kullananlar için gerekli terminali açarak aşağıdaki komutu yazması gerekmektedir.</li></ol>
 
 
 
@@ -277,7 +277,7 @@ fastboot oem unlock-go
 
 
 
-<blockquote class="wp-block-quote"><p>Windows için <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">ADB toolu</a> indirerek CMD&#8217;yi açarak <code>cd ADBToolDizini</code>ne geliniz. Linux için ilgili paket yöneticisinden <a href="https://dl.google.com/android/repository/platform-tools-latest-darwin.zip">ADB Tool</a> yüklenmesi sağlanmalıdır.</p><cite><a href="https://www.xda-developers.com/install-adb-windows-macos-linux/" target="_blank" rel="noreferrer noopener">https://www.xda-developers.com/install-adb-windows-macos-linux/</a></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Windows için <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">ADB toolu</a> indirerek CMD&#8217;yi açarak <code>cd ADBToolDizini</code>ne geliniz. Linux için ilgili paket yöneticisinden <a href="https://dl.google.com/android/repository/platform-tools-latest-darwin.zip">ADB Tool</a> yüklenmesi sağlanmalıdır.</p><cite><a href="https://www.xda-developers.com/install-adb-windows-macos-linux/" target="_blank" rel="noreferrer noopener">https://www.xda-developers.com/install-adb-windows-macos-linux/</a></cite></blockquote>
 
 
 
@@ -571,11 +571,11 @@ fastboot oem unlock-go
 
 
 
-<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
-<ul><li></li></ul><p>The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<ul class="wp-block-list"><li></li></ul><p>The post <a href="https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/">Mobil Cihazla Smart TV bağlantı problemi</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/mobil-cihazla-smart-tv-baglanti-problemi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

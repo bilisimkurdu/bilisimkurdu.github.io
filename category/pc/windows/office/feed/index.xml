@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -75,7 +75,7 @@
 
 
 
-<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
+<ul class="wp-block-list"><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
+<ul class="wp-block-list"><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
 
 
 
@@ -206,7 +206,7 @@
 
 
 
-<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
+<ul class="wp-block-list"><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
 
 
 
@@ -218,7 +218,7 @@
 
 
 
-<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
+<ul class="wp-block-list"><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
 
 
 

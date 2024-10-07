@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -113,7 +113,7 @@
 
 
 
-<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Konuyla ilgili videomuz <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -168,7 +168,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Not : Eğer bilgisayarınızın garantisi varsa garantinin devamı için direkt üreticinin sağladığı teknik servis tarafından onarımı gerekmektedir.Çünkü sökme işlemi laptopları garanti dışı bırakır.</p></blockquote>
 
 
 
@@ -468,7 +468,7 @@
 
 
 
-<ol><li>CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..<br><strong><em>bcdedit&nbsp;/set&nbsp;{current}&nbsp;nx&nbsp;AlwaysOff</em></strong></li><li>BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.<br><a href="https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-">https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim-</a></li><li>Settings -&gt; Engiene sekmesinde resimdeki gibi ayarlıyoruz.<br></li></ol>
+<ol class="wp-block-list"><li>CMD’yi Yönetici olarak çalıştırarak aşağıdaki komutu yazarak bilgisayarı yeniden başlatıyoruz..<br><strong><em>bcdedit&nbsp;/set&nbsp;{current}&nbsp;nx&nbsp;AlwaysOff</em></strong></li><li>BIOS ayarlarında VT (Virtualization Technology) aktif ediyoruz.<br><a href="https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-">https://support.bluestacks.com/hc/tr/articles/115003174386-Bilgisayarımda-Sanallaştırmayı-VT-Nasıl-Etkinleştirebilirim-</a></li><li>Settings -&gt; Engiene sekmesinde resimdeki gibi ayarlıyoruz.<br></li></ol>
 
 
 

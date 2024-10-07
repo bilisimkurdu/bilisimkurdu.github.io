@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -63,7 +63,7 @@
 
 
 
-<ul><li>Android Cihazınızın OTG desteği olması</li><li>En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek</li><li>OTG kablo</li></ul>
+<ul class="wp-block-list"><li>Android Cihazınızın OTG desteği olması</li><li>En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek</li><li>OTG kablo</li></ul>
 
 
 

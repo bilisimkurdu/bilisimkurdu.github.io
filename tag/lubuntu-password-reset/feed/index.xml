@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -62,11 +62,11 @@
 
 
 
-<ul><li>Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır.</li></ul>
+<ul class="wp-block-list"><li>Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır.</li></ul>
 
 
 
-<ul><li>Kali linux yazan seçeneğe gelir F10 tuşuna basılır.</li></ul>
+<ul class="wp-block-list"><li>Kali linux yazan seçeneğe gelir F10 tuşuna basılır.</li></ul>
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-<ul><li>GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221;  kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın.</li></ul>
+<ul class="wp-block-list"><li>GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221;  kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın.</li></ul>
 
 
 
@@ -82,11 +82,11 @@
 
 
 
-<ul><li>&#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna &#8220;init=/bin/bash&#8221; ifadesi eklenir.</li></ul>
+<ul class="wp-block-list"><li>&#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna &#8220;init=/bin/bash&#8221; ifadesi eklenir.</li></ul>
 
 
 
-<ul><li>Karşınıza çıkan shell ekranında &#8220;passwd&#8221; komutu yazılır.Yeni şifrenizi giriniz. Doğrulamak için tekrar root şifresini girin. ENTER tuşuna basın ve şifre sıfırlamanın başarılı olduğunu onaylayın.</li></ul>
+<ul class="wp-block-list"><li>Karşınıza çıkan shell ekranında &#8220;passwd&#8221; komutu yazılır.Yeni şifrenizi giriniz. Doğrulamak için tekrar root şifresini girin. ENTER tuşuna basın ve şifre sıfırlamanın başarılı olduğunu onaylayın.</li></ul>
 
 
 
@@ -133,15 +133,15 @@
 
 
 
-<ul><li>Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın.</li></ul>
+<ul class="wp-block-list"><li>Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın.</li></ul>
 
 
 
-<ul><li>Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız.</li></ul>
+<ul class="wp-block-list"><li>Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız.</li></ul>
 
 
 
-<ul><li>Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz.</li></ul>
+<ul class="wp-block-list"><li>Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz.</li></ul>
 
 
 
@@ -149,7 +149,7 @@
 
 
 
-<ul><li>Bu menüden çoğunlukla 2. sırada yer alan <strong>Recovery Mode</strong> satırını seçin ve içine giriniz.</li></ul>
+<ul class="wp-block-list"><li>Bu menüden çoğunlukla 2. sırada yer alan <strong>Recovery Mode</strong> satırını seçin ve içine giriniz.</li></ul>
 
 
 
@@ -157,7 +157,7 @@
 
 
 
-<ul><li>Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz.</li></ul>
+<ul class="wp-block-list"><li>Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz.</li></ul>
 
 
 
@@ -165,7 +165,7 @@
 
 
 
-<ul><li>Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız.</li></ul>
+<ul class="wp-block-list"><li>Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız.</li></ul>
 
 
 
@@ -175,7 +175,7 @@ exit</code></pre>
 
 
 
-<ul><li>&lt;kullaniciadi> yerine sitemi kurarken belirlediğiniz kullanıcı adı.</li><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
+<ul class="wp-block-list"><li>&lt;kullaniciadi> yerine sitemi kurarken belirlediğiniz kullanıcı adı.</li><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
 
 
 

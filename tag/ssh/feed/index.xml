@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -62,7 +62,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir.</p></blockquote>
 
 
 
@@ -171,7 +171,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Eğer farklı çözünürlük ile çalışmak isterseniz VNC Server&#8217;ı <code>vncserver -geometry cozunulukDegeri</code> komutu ile çalıştırabilisiniz. </p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Eğer farklı çözünürlük ile çalışmak isterseniz VNC Server&#8217;ı <code>vncserver -geometry cozunulukDegeri</code> komutu ile çalıştırabilisiniz. </p></blockquote>
 
 
 

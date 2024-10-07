@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 09 Mar 2024 16:52:20 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Oct 2024 17:26:19 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
+		<link>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/</link>
+					<comments>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 17:26:16 +0000</pubDate>
+				<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[0x8024000b]]></category>
+		<category><![CDATA[KB5042211]]></category>
+		<category><![CDATA[KB5042211 0x8024000b]]></category>
+		<category><![CDATA[mssql 0x8024000b]]></category>
+		<category><![CDATA[mssql 2022 0x8024000b]]></category>
+		<category><![CDATA[Security Update for SQL Server 2022 RTM GDR (KB5042211) update 0x8024000b]]></category>
+		<category><![CDATA[sql 0x8024000b]]></category>
+		<category><![CDATA[sql server]]></category>
+		<category><![CDATA[sql server 0x8024000b]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=964</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,             Bu yazımızda Security Update for SQL Server 2022 RTM GDR (KB5042211) güncelemesinde alınan 0x8024000b kodlu hatanın çözümünü belirteceğim. Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir 🙂 Şimdi geçelim çözümümüze; SQL Server 2022 Configuration Manager açılarak aşağıdaki SQL Servisler açık ise kapatılır ve tekrardan Windows Update ile güncellenir.&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>            Bu yazımızda Security Update for SQL Server 2022 RTM GDR (KB5042211) güncelemesinde alınan 0x8024000b kodlu hatanın çözümünü belirteceğim.</p>
+
+
+
+<span id="more-964"></span>
+
+
+
+<p>Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/yyep1c9.jpg" alt=""/></figure>
+
+
+
+<p>Şimdi geçelim çözümümüze;</p>
+
+
+
+<p>SQL Server 2022 Configuration Manager açılarak aşağıdaki SQL Servisler açık ise kapatılır ve tekrardan Windows Update ile güncellenir.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/79fqzle.png" alt=""/></figure>
+
+
+
+<ul class="wp-block-list">
+<li>SQL Server Analysis Services (MSSQLSERVER)</li>
+
+
+
+<li>SQL Server (MSSQLSERVER)</li>
+
+
+
+<li>SQL Full-text Filter Daemon Launcher (MSSQLSERVER)</li>
+</ul>
+
+
+
+<p>Güncelleme tamamlandıktan sonra servisler tekrardan açılır.</p>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>MacOS klavye türü değiştirme sorunu</title>
 		<link>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/</link>
 					<comments>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/#respond</comments>
@@ -72,7 +155,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Lauchpad&#8217;i açınız.</li>
 
 
@@ -90,7 +173,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Bilgisayarınızı yeniden başlatınız.</li>
 
 
@@ -159,7 +242,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Wifi&#8217;yi açıp kapatınız.</li>
 
 
@@ -221,7 +304,7 @@
 
 
 
-<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -273,7 +356,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>OpenCore Legacy Patcher ->Settings ->Securty aşamalarını takip ederek aşağıdaki tablodaki seçenekleri işaratleyiniz.</li>
 </ul>
 
@@ -303,19 +386,19 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Akabinde &#8220;Return&#8221; butonuna tıklayınız.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>&#8220;Build and Install OpenCore&#8221; butonuna tıklayayarak OpenCore build edilir.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Sistem yeniden başlatılır.</li>
 </ul>
 
@@ -329,7 +412,7 @@
 
 
 
-<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -371,7 +454,7 @@
 
 
 
-<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -676,7 +759,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<ul><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
+<ul class="wp-block-list"><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
 
 
 
@@ -1077,88 +1160,6 @@ fastboot reboot</code></pre>
 <p>İşlemimiz tamamlanmıştır.</p><p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Flash  Player çalıştırma 2021</title>
-		<link>https://bilisimkurdu.github.io/flash-player-calistirma-2021/</link>
-					<comments>https://bilisimkurdu.github.io/flash-player-calistirma-2021/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 10 Feb 2021 12:09:52 +0000</pubDate>
-				<category><![CDATA[İnternet]]></category>
-		<category><![CDATA[adobe flash player]]></category>
-		<category><![CDATA[adobe flash player 2021]]></category>
-		<category><![CDATA[adobe flash player 2021 alternative]]></category>
-		<category><![CDATA[adobe flash player 2021 chrome]]></category>
-		<category><![CDATA[adobe flash player 2021 download]]></category>
-		<category><![CDATA[adobe flash player 2021 free download]]></category>
-		<category><![CDATA[adobe flash player 2021 gezginler]]></category>
-		<category><![CDATA[adobe flash player 2021 güncelle]]></category>
-		<category><![CDATA[adobe flash player 2021 indir]]></category>
-		<category><![CDATA[adobe flash player 2021 kaldırma]]></category>
-		<category><![CDATA[adobe flash player 2021 nasıl etkinleştirilir]]></category>
-		<category><![CDATA[adobe flash player 2021 tam indir]]></category>
-		<category><![CDATA[adobe flash player 2021 windows 10]]></category>
-		<category><![CDATA[adobe flash player 2021 yerine ne kullanılabilir]]></category>
-		<category><![CDATA[adobe flash player 2021 yükle]]></category>
-		<category><![CDATA[adobe flash player 64 bit 2021]]></category>
-		<category><![CDATA[adobe flash player ab 2021]]></category>
-		<category><![CDATA[adobe flash player actualizar 2021]]></category>
-		<category><![CDATA[adobe flash player after 2021]]></category>
-		<category><![CDATA[adobe flash player blocked 2021]]></category>
-		<category><![CDATA[adobe flash player changes 2021]]></category>
-		<category><![CDATA[adobe flash player firefox 2021]]></category>
-		<category><![CDATA[adobe flash player google chrome 2021]]></category>
-		<category><![CDATA[adobe flash player is blocked how to unblock 2021]]></category>
-		<category><![CDATA[adobe flash player is blocked january 2021]]></category>
-		<category><![CDATA[adobe flash player work around 2021]]></category>
-		<category><![CDATA[flash player chrome 2021]]></category>
-		<category><![CDATA[flash player opera 2021]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=851</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Flash Player&#8217;ı browserlarda nasıl çalıştırılabileceğini anlatmaya çalışacağım.. 2021 yılına girişiyle beraber Adobe tarafından Flash desteği kesilmişti. Hâliyle Google Chrome, Mozilla Firefox ve Opera Flash Player desteklememeye başladı. Bunun için UC Browser&#8217;ı kullanabilirsiniz. UC Browser</p>
-<p>The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımızda Flash Player&#8217;ı browserlarda nasıl çalıştırılabileceğini anlatmaya çalışacağım..</p>
-
-
-
-<span id="more-851"></span>
-
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4002837437256869"
-     data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Google Chrome, Firefox ve Opera Flash Player çalıştırma 2021 [%100 çalışıyor.]" width="1180" height="664" src="https://www.youtube.com/embed/8d1wP0Mwqzw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>2021 yılına girişiyle beraber Adobe tarafından Flash desteği kesilmişti. Hâliyle Google Chrome, Mozilla Firefox ve Opera Flash Player desteklememeye başladı. Bunun için UC Browser&#8217;ı kullanabilirsiniz.</p>
-
-
-
-<p><a href="http://bc.vc/5Ady5pv" target="_blank" rel="noreferrer noopener">UC Browser</a></p><p>The post <a href="https://bilisimkurdu.github.io/flash-player-calistirma-2021/">Flash  Player çalıştırma 2021</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/flash-player-calistirma-2021/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

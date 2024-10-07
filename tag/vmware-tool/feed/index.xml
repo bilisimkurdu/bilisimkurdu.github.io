@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -64,15 +64,15 @@
 
 
 
-<ul><li>open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması.</li></ul>
+<ul class="wp-block-list"><li>open-vm-tool paketlerin kaldırılarak programda bulunan VM tool paketinin kurulması.</li></ul>
 
 
 
-<blockquote class="wp-block-quote"><p>VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz;</p><p><a href="https://www.vmware.com/support/ws5/doc/ws_newguest_tools_linux.html">https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html</a></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>VMware Tool linux sistemlerinde kurulum için göz atabilirsiniz;</p><p><a href="https://www.vmware.com/support/ws5/doc/ws_newguest_tools_linux.html">https://www.vmware.com/support/ws5/do/ws_newguest_tools_linux.html</a></p></blockquote>
 
 
 
-<ul><li>Aşağıdaki komutları sırasıyla giriniz ve /mnt/hgfs klasörünü kontrol edebilirsiniz.</li></ul>
+<ul class="wp-block-list"><li>Aşağıdaki komutları sırasıyla giriniz ve /mnt/hgfs klasörünü kontrol edebilirsiniz.</li></ul>
 
 
 

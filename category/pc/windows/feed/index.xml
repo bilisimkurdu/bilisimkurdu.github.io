@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -208,7 +208,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
+<ul class="wp-block-list"><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
 
 
 
@@ -220,7 +220,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
+<ul class="wp-block-list"><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
 
 
 
@@ -339,7 +339,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<ul><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
+<ul class="wp-block-list"><li>Office ayarlarından internet erişimini kısıtlamak.</li></ul>
 
 
 
@@ -351,7 +351,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<ul><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
+<ul class="wp-block-list"><li>Güvenlik duvarı ile office programlarının internet erişimini engelleme</li></ul>
 
 
 
@@ -862,11 +862,11 @@ jobs:
 
 
 
-<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -909,7 +909,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
+<blockquote class="wp-block-quote is-style-large is-layout-flow wp-block-quote-is-layout-flow"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
 
 
 
@@ -962,7 +962,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
 
 
 
@@ -1030,7 +1030,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
+<ul class="wp-block-list"><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
 
 
 
@@ -1038,7 +1038,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
+<ul class="wp-block-list"><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
 
 
 
@@ -1046,7 +1046,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
+<ul class="wp-block-list"><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
 
 
 
@@ -1054,7 +1054,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
+<ul class="wp-block-list"><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
 
 
 
@@ -1062,7 +1062,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
+<ul class="wp-block-list"><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
 
 
 
@@ -1070,7 +1070,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
+<ul class="wp-block-list"><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
 
 
 
@@ -1082,11 +1082,11 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
+<ul class="wp-block-list"><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
 
 
 
-<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
+<blockquote class="wp-block-quote is-style-large is-layout-flow wp-block-quote-is-layout-flow"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
 
 
 

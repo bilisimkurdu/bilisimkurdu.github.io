@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -72,7 +72,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Lauchpad&#8217;i açınız.</li>
 
 
@@ -90,7 +90,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Bilgisayarınızı yeniden başlatınız.</li>
 
 
@@ -159,7 +159,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Wifi&#8217;yi açıp kapatınız.</li>
 
 
@@ -221,7 +221,7 @@
 
 
 
-<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -273,7 +273,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>OpenCore Legacy Patcher ->Settings ->Securty aşamalarını takip ederek aşağıdaki tablodaki seçenekleri işaratleyiniz.</li>
 </ul>
 
@@ -303,19 +303,19 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Akabinde &#8220;Return&#8221; butonuna tıklayınız.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>&#8220;Build and Install OpenCore&#8221; butonuna tıklayayarak OpenCore build edilir.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Sistem yeniden başlatılır.</li>
 </ul>
 
@@ -329,7 +329,7 @@
 
 
 
-<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -371,7 +371,7 @@
 
 
 
-<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -543,7 +543,7 @@ clean</code></pre>
 
 
 
-<ul><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
+<ul class="wp-block-list"><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
 
 
 

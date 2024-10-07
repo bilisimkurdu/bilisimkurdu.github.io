@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -221,11 +221,11 @@ jobs:
 
 
 
-<blockquote class="wp-block-quote"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>WSL üzerinden resmi olarak GUI uygulamalarını çalıştırmak şuanda mümkün olmamakta olup <strong><em>stabil </em>çalışmayabilir</strong>.</p></blockquote>
 
 
 
-<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Eğer Windows 10 bilgisayarınıza WSL kurulmadıysa <a aria-label="tıklayınız  (opens in a new tab)" href="https://bilisimkurdu.github.io/wsl-kurulumu" target="_blank" rel="noreferrer noopener" class="aioseop-link">tıklayınız </a><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -268,7 +268,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote is-style-large"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
+<blockquote class="wp-block-quote is-style-large is-layout-flow wp-block-quote-is-layout-flow"><p><em>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar </em><a aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a><em>‘ten alıntı yapılmıştır. </em><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link"></a><a rel="noreferrer noopener" href="https://virtualizationreview.com/" target="_blank" class="aioseop-link">VirtualizationReview</a> <em>ekibinden anlayışla karşılayacağını umarız.</em></p></blockquote>
 
 
 
@@ -321,7 +321,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>WSL için Windows 10&#8217;un 1709 sürümüne sahip olmanız gerekmektedir.</p></blockquote>
 
 
 
@@ -389,7 +389,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
+<ul class="wp-block-list"><li><strong>Ubuntu Linux’un ilk kurulum ve yükleme işlemi </strong> birkaç dakika alacak.</li></ul>
 
 
 
@@ -397,7 +397,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
+<ul class="wp-block-list"><li>Bir kullanıcı hesabı oluşturmak bir kullanıcı adı girin.</li></ul>
 
 
 
@@ -405,7 +405,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
+<ul class="wp-block-list"><li>Kullanıcı adını girdikten sonra&nbsp;<strong>Enter</strong>’a basın.</li></ul>
 
 
 
@@ -413,7 +413,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
+<ul class="wp-block-list"><li>Oluşturulacak kullanıcı hesabı için bir şifre girin ve&nbsp;<strong>Enter</strong>’a basın (yazdığınız şifre ekranda görünmeyecek).</li></ul>
 
 
 
@@ -421,7 +421,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
+<ul class="wp-block-list"><li>Kullanıcı hesabı şifresini tekrar girin.</li></ul>
 
 
 
@@ -429,7 +429,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
+<ul class="wp-block-list"><li>Kullanıcı hesabı şifresi de oluşturulduktan sonra&nbsp;<strong>Windows 10</strong>’da&nbsp;<strong>Ubuntu Linux</strong>&nbsp;kullanıma hazır!</li></ul>
 
 
 
@@ -441,11 +441,11 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<ul><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
+<ul class="wp-block-list"><li>Sisteminizi güncelleyip, istediğiniz paketleri (yazılımları) kurarak&nbsp;<strong>Windows 10</strong> için Ubuntu sistemimiz hazır :-).</li></ul>
 
 
 
-<blockquote class="wp-block-quote is-style-large"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
+<blockquote class="wp-block-quote is-style-large is-layout-flow wp-block-quote-is-layout-flow"><p>Windows 10 uyumlu sistemim bulunmadığı için görseller ve bazı ipuçlar <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a>&#8216;ten alıntı yapılmıştır. <a href="https://teknodestek.com.tr/" target="_blank" aria-label="TeknoDestek (opens in a new tab)" rel="noreferrer noopener sponsored" class="aioseop-link">TeknoDestek</a> ekibinden anlayışla karşılayacağını umarız.</p></blockquote>
 
 
 
@@ -496,7 +496,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz.</p><p><a href="https://cloud.google.com/sdk/install" target="_blank" rel="noreferrer noopener">https://cloud.google.com/sdk/install</a></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Belirteceğimiz işlemlerin yapılabilmesi için Google Cloud SDK&#8217;nın yüklü olması gerekmektedir. Aşağıdaki adresten indirebilirsiniz.</p><p><a href="https://cloud.google.com/sdk/install" target="_blank" rel="noreferrer noopener">https://cloud.google.com/sdk/install</a></p></blockquote>
 
 
 
@@ -574,7 +574,7 @@ blockout2 //çalıştırma</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir.</p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Eğer Google Cloud benzeri servisten sunucu kiramışsanız VPC ağ ayarları veya ilgili ayarlara erişerek TCP 5901-5910 portlarına izin verilmesi, bir işletmeye ait sunucuya kurulacaksa firewall üzerinden TCP 5901-5910 portlarına izin vermeniz gerekmektedir.</p></blockquote>
 
 
 
@@ -683,7 +683,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Eğer farklı çözünürlük ile çalışmak isterseniz VNC Server&#8217;ı <code>vncserver -geometry cozunulukDegeri</code> komutu ile çalıştırabilisiniz. </p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Eğer farklı çözünürlük ile çalışmak isterseniz VNC Server&#8217;ı <code>vncserver -geometry cozunulukDegeri</code> komutu ile çalıştırabilisiniz. </p></blockquote>
 
 
 
@@ -733,11 +733,11 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır.</li></ul>
+<ul class="wp-block-list"><li>Bilgisayarı yeniden başlattığınızda F10&#8217;a tuşuna basılı tutarak GRUB ekranına ulaşılır.</li></ul>
 
 
 
-<ul><li>Kali linux yazan seçeneğe gelir F10 tuşuna basılır.</li></ul>
+<ul class="wp-block-list"><li>Kali linux yazan seçeneğe gelir F10 tuşuna basılır.</li></ul>
 
 
 
@@ -745,7 +745,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221;  kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın.</li></ul>
+<ul class="wp-block-list"><li>GRUB menüsü düzenleme moduna girdikten sonra, aşağıdaki pencereyle karşılaşacaksınız. &#8220;linux &#8221;  kelimeyle başlayan satıra ulaşana kadar aşağı kaydırın.</li></ul>
 
 
 
@@ -753,11 +753,11 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>&#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna &#8220;init=/bin/bash&#8221; ifadesi eklenir.</li></ul>
+<ul class="wp-block-list"><li>&#8220;ro&#8221; yerine &#8220;rw&#8221; ve &#8220;/gtk/initrd.gz&#8221; ifadesinin sonuna &#8220;init=/bin/bash&#8221; ifadesi eklenir.</li></ul>
 
 
 
-<ul><li>Karşınıza çıkan shell ekranında &#8220;passwd&#8221; komutu yazılır.Yeni şifrenizi giriniz. Doğrulamak için tekrar root şifresini girin. ENTER tuşuna basın ve şifre sıfırlamanın başarılı olduğunu onaylayın.</li></ul>
+<ul class="wp-block-list"><li>Karşınıza çıkan shell ekranında &#8220;passwd&#8221; komutu yazılır.Yeni şifrenizi giriniz. Doğrulamak için tekrar root şifresini girin. ENTER tuşuna basın ve şifre sıfırlamanın başarılı olduğunu onaylayın.</li></ul>
 
 
 
@@ -804,15 +804,15 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın.</li></ul>
+<ul class="wp-block-list"><li>Öncelikle Ubuntu kurulu bilgisayarınızı yeniden başlatın.</li></ul>
 
 
 
-<ul><li>Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız.</li></ul>
+<ul class="wp-block-list"><li>Bilgisayarınız açılırken (Firma logosu) Shift tuşuna basınız.</li></ul>
 
 
 
-<ul><li>Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz.</li></ul>
+<ul class="wp-block-list"><li>Grub ekranı karşınıza çıktığında &#8220;Advanced options for Ubuntu&#8221; seçiniz.</li></ul>
 
 
 
@@ -820,7 +820,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>Bu menüden çoğunlukla 2. sırada yer alan <strong>Recovery Mode</strong> satırını seçin ve içine giriniz.</li></ul>
+<ul class="wp-block-list"><li>Bu menüden çoğunlukla 2. sırada yer alan <strong>Recovery Mode</strong> satırını seçin ve içine giriniz.</li></ul>
 
 
 
@@ -828,7 +828,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz.</li></ul>
+<ul class="wp-block-list"><li>Karşınıza çıkan ekranda &#8220;root&#8221; seçeneğini seçiniz.</li></ul>
 
 
 
@@ -836,7 +836,7 @@ Log file is /home/$USER/.vnc/578e1bb09561:1.log</code></pre>
 
 
 
-<ul><li>Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız.</li></ul>
+<ul class="wp-block-list"><li>Karşınıza çıkacak shell ekranında aşağıdaki kodları yazınız.</li></ul>
 
 
 
@@ -846,7 +846,7 @@ exit</code></pre>
 
 
 
-<ul><li>&lt;kullaniciadi> yerine sitemi kurarken belirlediğiniz kullanıcı adı.</li><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
+<ul class="wp-block-list"><li>&lt;kullaniciadi> yerine sitemi kurarken belirlediğiniz kullanıcı adı.</li><li>Yeni parolanın istemede olmasını istediğiniz şeyi seçin. Başarılı olduktan sonra makineyi yeniden başlatın ve kullanıcı yeni şifreleriyle giriş yapabilir.</li></ul>
 
 
 
@@ -1012,7 +1012,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<blockquote class="wp-block-quote"><p>Konuyla ilişkin yazımız:</p><p><a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank" rel="noreferrer noopener" aria-label="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/ (yeni sekmede açılır)">https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</a></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Konuyla ilişkin yazımız:</p><p><a href="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/" target="_blank" rel="noreferrer noopener" aria-label="https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/ (yeni sekmede açılır)">https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/</a></p></blockquote>
 
 
 
@@ -1063,7 +1063,7 @@ bootrec.exe /rebuildbcd</code></pre>
 
 
 
-<ul><li>Android Cihazınızın OTG desteği olması</li><li>En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek</li><li>OTG kablo</li></ul>
+<ul class="wp-block-list"><li>Android Cihazınızın OTG desteği olması</li><li>En az 8 GB boyutunda ve FAT32 olarak biçimlenmiş USB bellek</li><li>OTG kablo</li></ul>
 
 
 

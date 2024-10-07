@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Bu site haritası dinamik 9 Mart 2024 tarihinde saat 21:18 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.5.8 kullanılarak oluşturulmuştur. -->
+<!-- Bu site haritası dinamik 7 Ekim 2024 tarihinde saat 20:33 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.5.8 kullanılarak oluşturulmuştur. -->
 
 <?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -7,6 +7,12 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/]]></loc>
+		<lastmod><![CDATA[2024-10-07T17:26:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
 	<url>
 		<loc><![CDATA[https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/]]></loc>
 		<lastmod><![CDATA[2024-03-09T16:52:20+00:00]]></lastmod>
@@ -136,7 +142,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2021/02/root-nedir-ve-android-cihazda-nasil-yapilir-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2021/02/root-nedir-ve-android-cihazda-nasil-yapilir-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -145,7 +151,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2021/02/5f9a5eea554287008ca832ca-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2021/02/5f9a5eea554287008ca832ca-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -154,7 +160,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2021/02/lineage-os-cyanogenmod-file-manager-apk-for-all-devices-1-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2021/02/lineage-os-cyanogenmod-file-manager-apk-for-all-devices-1-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -163,7 +169,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/10/12757413983_b06089e6e0_b-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/10/12757413983_b06089e6e0_b-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -172,10 +178,10 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/08/OfficeClient-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/OfficeClient-1.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/08/OfficeClient-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/OfficeClient-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -184,10 +190,10 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -196,7 +202,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/08/FirewallBlockProgram-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/FirewallBlockProgram-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -205,7 +211,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/06/1_n6TOL7yLgqiYxGvB7Nh6LA-1.jpeg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/06/1_n6TOL7yLgqiYxGvB7Nh6LA-1.jpeg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -214,7 +220,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/06/netcore3_heroku_titulo-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/06/netcore3_heroku_titulo-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -223,7 +229,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/04/maxresdefault-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/04/maxresdefault-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -232,7 +238,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -241,7 +247,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/04/Windows-Server-Does-Not-Support-Bluetooth-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/04/Windows-Server-Does-Not-Support-Bluetooth-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -250,7 +256,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/04/Screenshot_2015-09-22-18-09-33-Google-Photos-Crash-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/04/Screenshot_2015-09-22-18-09-33-Google-Photos-Crash-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -259,7 +265,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/windows-10-1809-features-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/windows-10-1809-features-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -268,7 +274,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -277,7 +283,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/04/Windows-10-icin-yerlesik-Linux-cekirdegi-WSL-2-testleri-basladi-ShiftDelete.Net-4.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -286,7 +292,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -295,7 +301,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/03/cd1068e066cc4d07a779eec85366fbbc-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/03/cd1068e066cc4d07a779eec85366fbbc-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -304,7 +310,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/03/visualStudio-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/03/visualStudio-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -313,7 +319,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/03/google-cloud-041019-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/03/google-cloud-041019-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -322,7 +328,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/03/Screenshot-from-2019-07-22-12-50-44-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/03/Screenshot-from-2019-07-22-12-50-44-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -331,7 +337,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/02/xamarin-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/02/xamarin-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -340,7 +346,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/02/Screenshot_20200213_114730-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/02/Screenshot_20200213_114730-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -349,7 +355,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/02/w10-fail-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/02/w10-fail-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -358,7 +364,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/02/w10-fail-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/02/w10-fail-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -367,7 +373,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2020/01/500gb-1-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/01/500gb-1-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -376,7 +382,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/12/googleboard-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/12/googleboard-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -385,7 +391,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/12/indir-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/12/indir-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -397,7 +403,7 @@
 			<image:loc><![CDATA[https://i2.wp.com/itsfoss.com/wp-content/uploads/2012/07/new-grub-menu-ubuntu.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/12/ubuntu-logo-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/12/ubuntu-logo-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -406,7 +412,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/10/debian_package_create-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/10/debian_package_create-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -415,7 +421,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/11/4QCs7Hw-scaled-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/11/4QCs7Hw-scaled-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -424,7 +430,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/11/maxresdefault-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/11/maxresdefault-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -433,7 +439,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/09/1200px-Monodevelop_Logo.svg_-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/09/1200px-Monodevelop_Logo.svg_-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -442,7 +448,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/10/debian_package_create-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/10/debian_package_create-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -451,7 +457,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/10/687-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/10/687-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -460,7 +466,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/09/1200px-Monodevelop_Logo.svg_-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/09/1200px-Monodevelop_Logo.svg_-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -469,7 +475,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -478,7 +484,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/08/kde-logo-blue-transparent-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/08/kde-logo-blue-transparent-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -487,7 +493,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/08/ubuntu-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/08/ubuntu-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -496,7 +502,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/07/unity-image-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/07/unity-image-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -505,7 +511,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/07/1538464655_453_13-best-ide-for-linux-programmers-and-developers-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/07/1538464655_453_13-best-ide-for-linux-programmers-and-developers-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -514,7 +520,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/07/1VdXQKmgMzU3fDu_4YpRmaw-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/07/1VdXQKmgMzU3fDu_4YpRmaw-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -523,7 +529,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/07/1538464655_453_13-best-ide-for-linux-programmers-and-developers-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/07/1538464655_453_13-best-ide-for-linux-programmers-and-developers-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -532,7 +538,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/05/mysqlproblem2-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/05/mysqlproblem2-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -541,7 +547,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/04/microsoft-free-ebook-giveaway-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/04/microsoft-free-ebook-giveaway-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -550,7 +556,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/10/csharp-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/10/csharp-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -559,7 +565,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/mysql-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/mysql-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -568,7 +574,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/mysql-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/mysql-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -577,7 +583,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/mysql-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/mysql-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -586,7 +592,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/10/csharp-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/10/csharp-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -601,7 +607,7 @@
 			<image:loc><![CDATA[https://i2.wp.com/www.itechtics.com/wp-content/uploads/2017/10/2-Select-display-language-to-install.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/windows-10-1809-features-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/windows-10-1809-features-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -610,7 +616,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/030320191139547161273_2-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/030320191139547161273_2-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -619,7 +625,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/core2.0-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/core2.0-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -628,7 +634,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/03/thumb_Hard_disk_Power_Options-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/03/thumb_Hard_disk_Power_Options-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -637,7 +643,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/02/VMwareHorizon-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/02/VMwareHorizon-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -646,7 +652,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/02/VMwareHorizon-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/02/VMwareHorizon-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -655,7 +661,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/02/maxresdefault-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/02/maxresdefault-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -664,7 +670,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/02/l_10158805_001-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/02/l_10158805_001-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -673,7 +679,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/02/social_network_image-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/02/social_network_image-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -682,7 +688,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2019/02/59fde5bccfdf4_maxresdefault-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2019/02/59fde5bccfdf4_maxresdefault-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -691,7 +697,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2018/10/resize-on-screen-keyboard-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2018/10/resize-on-screen-keyboard-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -700,7 +706,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2018/10/8d8d73251c46b1388a21b8cc6e827d8b-1.jpeg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2018/10/8d8d73251c46b1388a21b8cc6e827d8b-1.jpeg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -709,7 +715,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2018/09/How-to-Save-a-Bricked-Android-Smartphone-1-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2018/09/How-to-Save-a-Bricked-Android-Smartphone-1-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -718,7 +724,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2018/09/geliyor-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2018/09/geliyor-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -727,7 +733,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2018/06/wp-featured-1.jpeg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2018/06/wp-featured-1.jpeg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -736,7 +742,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2018/06/apps.64693.13510798887413064.7dec4a64-65c8-45c3-96b8-8f8f9b2600a0-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2018/06/apps.64693.13510798887413064.7dec4a64-65c8-45c3-96b8-8f8f9b2600a0-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -745,7 +751,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/10/prog-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/10/prog-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -754,7 +760,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/10/prog-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/10/prog-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -763,7 +769,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/10/prog-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/10/prog-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -772,7 +778,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/07/microsoft-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/07/microsoft-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -781,10 +787,10 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/07/indir-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/07/indir-1.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/07/indir-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/07/indir-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -793,7 +799,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/07/indir-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/07/indir-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -802,7 +808,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/07/pardus-17-cikti-indir-sdn-2-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/07/pardus-17-cikti-indir-sdn-2-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -811,7 +817,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/07/7901B3B8-B73F-FFB1-9CD4-9307E1031DCA-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/07/7901B3B8-B73F-FFB1-9CD4-9307E1031DCA-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -820,7 +826,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/knowledge_graph_logo-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/knowledge_graph_logo-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -829,7 +835,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/112516_1302_MsSQLServer1-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/112516_1302_MsSQLServer1-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -838,7 +844,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/vpn-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/vpn-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -847,7 +853,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/pardus-isletim-sistemi.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/pardus-isletim-sistemi.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -856,7 +862,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/02/apacer-blade-fire-ddr4-ram-annonced-01-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/02/apacer-blade-fire-ddr4-ram-annonced-01-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -865,7 +871,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/stockrom-costumrom-2.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/stockrom-costumrom-2.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -874,7 +880,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/stockrom-costumrom-1-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/stockrom-costumrom-1-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -883,7 +889,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/windows-10-bedava-b_640x360-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/windows-10-bedava-b_640x360-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -892,7 +898,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/android-nougat-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -907,7 +913,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/Samsung-Galaxy-Trend-Plus-at-1stmobile.co_.uk-3-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/Samsung-Galaxy-Trend-Plus-at-1stmobile.co_.uk-3-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -916,7 +922,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2017/06/internet-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2017/06/internet-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -925,7 +931,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2016/10/indir-1.png]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2016/10/indir-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -934,7 +940,7 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/bilisimkurduTest/wp-content/uploads/2016/10/images-1.jpg]]></image:loc>
+			<image:loc><![CDATA[https://bilisimkurdu.github.ioTest/wp-content/uploads/2016/10/images-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 </urlset>
