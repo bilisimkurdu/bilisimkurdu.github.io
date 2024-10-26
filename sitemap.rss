@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Bu site haritası dinamik 7 Ekim 2024 tarihinde saat 20:32 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.5.8 kullanılarak oluşturulmuştur. -->
+<!-- Bu site haritası dinamik 26 Ekim 2024 tarihinde saat 21:44 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.5.8 kullanılarak oluşturulmuştur. -->
 
 <?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default-sitemap.xsl"?>
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bilişim Kurdu</title>
-		<link><![CDATA[https://bilisimkurdu.github.io]]></link>
+		<link><![CDATA[http://localhost/bilisimkurdu]]></link>
 		<description><![CDATA[Bilişim Kurdu]]></description>
 		<lastBuildDate><![CDATA[Wed, 21 Apr 2021 11:15:35 +0000]]></lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -32,6 +32,12 @@
 			<pubDate><![CDATA[Wed, 19 Jan 2022 08:52:25 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/]]></link>
+			<title>MacOS klavye türü değiştirme sorunu</title>
+			<pubDate><![CDATA[Sat, 09 Mar 2024 16:52:20 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/opencore-legacy-patcher-sonoma-14-4-guncelleme-sonrasi-wifi-problemi/]]></link>
 			<title>OpenCore Legacy Patcher Sonoma 14.4 güncelleme sonrası Wifi problemi</title>
@@ -48,6 +54,12 @@
 			<link><![CDATA[https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/]]></link>
 			<title>OpenCore Legacy Patcher Csrutil Disable</title>
 			<pubDate><![CDATA[Mon, 22 Jan 2024 19:39:17 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/]]></link>
+			<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
+			<pubDate><![CDATA[Mon, 07 Oct 2024 17:26:19 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/]]></guid>
@@ -68,10 +80,10 @@
 			<pubDate><![CDATA[Wed, 10 Feb 2021 12:09:52 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></link>
-			<title>Lineage OS CM File manager yüklemek</title>
-			<pubDate><![CDATA[Sat, 06 Feb 2021 13:33:24 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></link>
+			<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
+			<pubDate><![CDATA[Wed, 24 Jun 2020 07:14:48 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/]]></guid>
@@ -86,16 +98,22 @@
 			<pubDate><![CDATA[Thu, 08 Oct 2020 13:39:23 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></link>
-			<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
-			<pubDate><![CDATA[Wed, 24 Jun 2020 07:14:48 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/]]></link>
+			<title>Github Desktop&#8217;ta git müdahale etme</title>
+			<pubDate><![CDATA[Sat, 26 Oct 2024 18:34:09 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/]]></link>
 			<title>Laptop açılmaya çalışıldığında tepki vermiyor.</title>
 			<pubDate><![CDATA[Sat, 18 Apr 2020 13:07:29 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></link>
+			<title>Lineage OS CM File manager yüklemek</title>
+			<pubDate><![CDATA[Sat, 06 Feb 2021 13:33:24 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/microsoft-office-2016-connecting-proxy-server-for-office15client-microsoft-com/]]></guid>
@@ -122,12 +140,6 @@
 			<pubDate><![CDATA[Mon, 13 Apr 2020 09:49:05 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/wsl-gui/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/wsl-gui/]]></link>
-			<title>WSL GUI</title>
-			<pubDate><![CDATA[Wed, 01 Apr 2020 16:48:21 +0000]]></pubDate>
-		</item>
-					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/]]></link>
 			<title>Bluetooth aygıtları Windows 7 çalıştıran bir bilgisayarda düzgün çalışmıyor</title>
@@ -140,10 +152,28 @@
 			<pubDate><![CDATA[Sun, 05 Apr 2020 09:49:38 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/]]></link>
+			<title>sudo dolphin:Executing Dolphin as root is not possible.</title>
+			<pubDate><![CDATA[Wed, 07 Aug 2019 10:46:53 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/]]></link>
 			<title>Windows 10 İnternet bağlantı problemi 2020</title>
 			<pubDate><![CDATA[Fri, 03 Apr 2020 09:25:19 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/wsl-gui/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/wsl-gui/]]></link>
+			<title>WSL GUI</title>
+			<pubDate><![CDATA[Wed, 01 Apr 2020 16:48:21 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></link>
+			<title>Temel ve dinamik diskler arasındaki farklar.</title>
+			<pubDate><![CDATA[Wed, 15 Jan 2020 11:03:43 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/wsl-kurulumu/]]></guid>
@@ -176,24 +206,6 @@
 			<pubDate><![CDATA[Thu, 13 Feb 2020 08:52:02 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/]]></link>
-			<title>Ekran kartı sürücüsü güncelleme</title>
-			<pubDate><![CDATA[Sat, 28 Mar 2020 14:21:19 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></link>
-			<title>Windows 7 Visual Studio kurulmuyor.</title>
-			<pubDate><![CDATA[Sat, 28 Mar 2020 13:16:14 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/]]></link>
-			<title>MacOS klavye türü değiştirme sorunu</title>
-			<pubDate><![CDATA[Sat, 09 Mar 2024 16:52:20 +0000]]></pubDate>
-		</item>
-					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/]]></link>
 			<title>Required Privilege Is Not Held By The Client Error</title>
@@ -206,10 +218,22 @@
 			<pubDate><![CDATA[Thu, 13 Feb 2020 08:10:28 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></link>
-			<title>Temel ve dinamik diskler arasındaki farklar.</title>
-			<pubDate><![CDATA[Wed, 15 Jan 2020 11:03:43 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></link>
+			<title>MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</title>
+			<pubDate><![CDATA[Thu, 26 Sep 2019 06:24:40 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/]]></link>
+			<title>Android cihazlarda OEM kilidi açmak</title>
+			<pubDate><![CDATA[Sun, 29 Mar 2020 09:15:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/ekran-karti-surucusunu-guncelleme/]]></link>
+			<title>Ekran kartı sürücüsü güncelleme</title>
+			<pubDate><![CDATA[Sat, 28 Mar 2020 14:21:19 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/]]></guid>
@@ -242,16 +266,16 @@
 			<pubDate><![CDATA[Thu, 28 Nov 2019 12:24:05 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></link>
-			<title>Gboard durduruldu</title>
-			<pubDate><![CDATA[Thu, 19 Dec 2019 09:51:50 +0000]]></pubDate>
-		</item>
-					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/]]></link>
 			<title>MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</title>
 			<pubDate><![CDATA[Thu, 07 Nov 2019 12:33:24 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></link>
+			<title>Windows 7 Visual Studio kurulmuyor.</title>
+			<pubDate><![CDATA[Sat, 28 Mar 2020 13:16:14 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/]]></guid>
@@ -260,22 +284,10 @@
 			<pubDate><![CDATA[Mon, 07 Oct 2019 13:39:20 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/]]></link>
-			<title>sudo dolphin:Executing Dolphin as root is not possible.</title>
-			<pubDate><![CDATA[Wed, 07 Aug 2019 10:46:53 +0000]]></pubDate>
-		</item>
-					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/]]></link>
 			<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
 			<pubDate><![CDATA[Fri, 04 Oct 2019 07:48:00 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></link>
-			<title>MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</title>
-			<pubDate><![CDATA[Thu, 26 Sep 2019 06:24:40 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/oem-kilidi-nedir-android/]]></guid>
@@ -284,34 +296,22 @@
 			<pubDate><![CDATA[Tue, 10 Sep 2019 11:36:40 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></link>
+			<title>Gboard durduruldu</title>
+			<pubDate><![CDATA[Thu, 19 Dec 2019 09:51:50 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/]]></link>
 			<title>Ubuntu systemd-udevd yoğun CPU kullanımı</title>
 			<pubDate><![CDATA[Wed, 07 Aug 2019 10:32:11 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/]]></link>
-			<title>Android cihazlarda OEM kilidi açmak</title>
-			<pubDate><![CDATA[Sun, 29 Mar 2020 09:15:50 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/linux-unity-yukleme/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/linux-unity-yukleme/]]></link>
-			<title>Linux Unity yükleme</title>
-			<pubDate><![CDATA[Tue, 30 Jul 2019 13:57:14 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-error-msb4018-generatedepsfile-gorevi-beklenmedik-bicimde-basarisiz-oldu/]]></link>
-			<title>MonoDevelop Error MSB4018: &#8220;GenerateDepsFile&#8221; görevi beklenmedik biçimde başarısız oldu.</title>
-			<pubDate><![CDATA[Tue, 16 Jul 2019 13:55:04 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/]]></link>
-			<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
-			<pubDate><![CDATA[Mon, 07 Oct 2024 17:26:19 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/]]></link>
+			<title>Github desktop Filename too long</title>
+			<pubDate><![CDATA[Sat, 26 Oct 2024 18:42:09 +0000]]></pubDate>
 		</item>
 				</channel>
 </rss>
