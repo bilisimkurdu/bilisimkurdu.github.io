@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 07 Oct 2024 17:26:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Oct 2024 18:42:09 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,133 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Github desktop Filename too long</title>
+		<link>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/</link>
+					<comments>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2024 18:41:30 +0000</pubDate>
+				<category><![CDATA[git]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[git Filename too long]]></category>
+		<category><![CDATA[github desktop Filename too long]]></category>
+		<category><![CDATA[github desktop Filename too long error]]></category>
+		<category><![CDATA[github desktop Filename too long hatası]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=969</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Github Desktop üzerinden alınan git hatalardan biri olan nasıl çözüleceği hususunda olacak. Bir önceki yazımızda git sistemine nasıl ulaşacağımızı belirtmiştik. İlgili klasörü Cmd&#8217;den işaret ediyoruz. Sonra aşağıdaki komutu girip Entera tıklıyoruz. İyi Akşamlar.</p>
+<p>The post <a href="https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/">Github desktop Filename too long</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Github Desktop üzerinden alınan git hatalardan biri olan nasıl çözüleceği hususunda olacak.</p>
+
+
+
+<p>Bir önceki yazımızda git sistemine nasıl ulaşacağımızı belirtmiştik.</p>
+
+
+
+<span id="more-969"></span>
+
+
+
+<p>İlgili klasörü Cmd&#8217;den işaret ediyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git\cmd</code></pre>
+
+
+
+<p>Sonra aşağıdaki komutu girip Entera tıklıyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>git config --system core.longpaths true</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/2sudtav.jpg" alt=""/></figure>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/">Github desktop Filename too long</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Github Desktop&#8217;ta git müdahale etme</title>
+		<link>https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/</link>
+					<comments>https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2024 18:34:07 +0000</pubDate>
+				<category><![CDATA[git]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[github desktop git path]]></category>
+		<category><![CDATA[github desktop gitconfig path]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=971</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Github Desktop&#8217;ta bulunan git hatalarında veya git sisteminde değişiklik maksadıyla müdahale edileceği hususunda olacak, Github Desktop basit arayüz üzerinden origin ve push işlemlerini yürütse de bazı hatalarda müdahale edilmesi gerekebilmektedir. git.exe dosyasının bulunduğu path; dizinini cmd ile cd komutu ile işaret ederek git komutlarını kullanabilirsiniz. gitconfig dosyasının bulunduğu path; İyi&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/">Github Desktop’ta git müdahale etme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Github Desktop&#8217;ta bulunan git hatalarında veya git sisteminde değişiklik maksadıyla müdahale edileceği hususunda olacak,</p>
+
+
+
+<p>Github Desktop basit arayüz üzerinden origin ve push işlemlerini yürütse de bazı hatalarda müdahale edilmesi gerekebilmektedir.</p>
+
+
+
+<span id="more-971"></span>
+
+
+
+<p>git.exe dosyasının bulunduğu path;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git\cmd</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/i5a3ddk.jpg" alt=""/></figure>
+
+
+
+<p>dizinini cmd ile cd komutu ile işaret ederek git komutlarını kullanabilirsiniz.</p>
+
+
+
+<p> gitconfig dosyasının bulunduğu path;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git\etc</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/juhqe3y.jpg" alt=""/></figure>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/">Github Desktop’ta git müdahale etme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
 		<link>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/</link>
 					<comments>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/#respond</comments>
@@ -930,236 +1057,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/">CPU ile mining nasıl yapılır?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Xamarin Forms and Xamarin Android Android SDK is empty &#8211; no platforms or tools</title>
-		<link>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/</link>
-					<comments>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Mon, 12 Apr 2021 12:44:04 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[Android SDK is empty]]></category>
-		<category><![CDATA[Android SDK is empty - no platforms or tools]]></category>
-		<category><![CDATA[Android SDK Tools are empty]]></category>
-		<category><![CDATA[Android SDK Tools are empty VS]]></category>
-		<category><![CDATA[Android SDK Tools are empty VS 2019]]></category>
-		<category><![CDATA[Xamarin Forms and Xamarin Android Android SDK is empty - no platforms or tools]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=889</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android SDK boş sayfa vermesi ile karşılaşılması durumunda neler yapılması gerektiği hususunda olacak. Hata görseli; Çözüm yöntemi (Bende işe yaradı.) Android SDK Tools penceresinin sağ altta Ayar simgesi ->Reposity -> Full List (Unsupported) seçeneğini seçiyoruz. Sayfa&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;</p>
-
-
-
-<p>Bu yazımızda Visual Studio Xamarin Forms Android SDK is empty &#8211; no platforms or tools yani Android SDK boş sayfa vermesi ile karşılaşılması durumunda neler yapılması  gerektiği hususunda olacak.</p>
-
-
-
-<span id="more-889"></span>
-
-
-
-<p>Hata görseli;</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="703" height="583" src="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png" alt="" class="wp-image-890" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej.png 703w, https://bilisimkurdu.github.io/wp-content/uploads/2021/04/jjtyb3js07ej-640x531.png 640w" sizes="(max-width: 703px) 100vw, 703px" /></figure>
-
-
-
-<p>Çözüm yöntemi (Bende işe yaradı.)</p>
-
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4002837437256869"
-     data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<p>Android SDK Tools penceresinin sağ altta Ayar simgesi ->Reposity -> Full List (Unsupported) seçeneğini seçiyoruz. Sayfa otomatik olarak yenilecek ve sdk ve toolar görünecektir.</p>
-
-
-
-<p>Bu konuyla ilgili videomuz;</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Xamarin Google Android SDK ve Toolların boş çıkması [Çözüldü]" width="1180" height="664" src="https://www.youtube.com/embed/ByxPE5NcPgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Anlaşılmadıysa yorumlarda belirtebilirsiniz.</p><p>The post <a href="https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/">Xamarin Forms and Xamarin Android Android SDK is empty – no platforms or tools</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bütün android cihazlarda root işlemi [Marka model farketmez]</title>
-		<link>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/</link>
-					<comments>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Thu, 11 Feb 2021 11:21:18 +0000</pubDate>
-				<category><![CDATA[Genel]]></category>
-		<category><![CDATA[android root]]></category>
-		<category><![CDATA[android root apk]]></category>
-		<category><![CDATA[android root atma]]></category>
-		<category><![CDATA[android root atma 2020]]></category>
-		<category><![CDATA[android root atma 2021]]></category>
-		<category><![CDATA[android root atma apk]]></category>
-		<category><![CDATA[android root atma programı]]></category>
-		<category><![CDATA[android root atma programları]]></category>
-		<category><![CDATA[android root atma uygulamaları]]></category>
-		<category><![CDATA[android root kaldırma]]></category>
-		<category><![CDATA[android root ne işe yarar]]></category>
-		<category><![CDATA[android root nedir]]></category>
-		<category><![CDATA[android root programı]]></category>
-		<category><![CDATA[android root tool]]></category>
-		<category><![CDATA[android root yapma]]></category>
-		<category><![CDATA[what is root and how to root android]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=856</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak. Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir. Magisk Manager Magisk Manager ile yükleme aşamaları Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız. Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz. ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz. &#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımızda Marka Model farketmeksizin bütün android cihazlarınıza root işlemi nasıl yapılacağı hususnda olacak.</p>
-
-
-
-<p>Bunun için Magisk Manager&#8217;i yüklemek gerekmektedir.</p>
-
-
-
-<span id="more-856"></span>
-
-
-
-<p><a href="http://bc.vc/iJe5H8Y" target="_blank" rel="noreferrer noopener">Magisk Manager</a></p>
-
-
-
-<p>Magisk Manager ile yükleme aşamaları</p>
-
-
-
-<p>Cihazınızın rom dosyasını bulup boot.img dosyasını telefonunuza atınız.</p>
-
-
-
-<p>Magisk Manager&#8217;, açıp yükle\İnstall&#8217;e dokununuz.</p>
-
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4002837437256869"
-     data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/VPOw6c.png" alt=""/></figure>
-
-
-
-<p>ABV 2.0/dm-verity&#8217;i koru işaretlemeden &#8220;İleri&#8221; dokunuyoruz.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/6WqFfg.png" alt=""/></figure>
-
-
-
-<p>&#8220;Dosya seçin ve yamalayın&#8221; seçeneğini seçip karşımıza açılan pencereden cihazımıza aktardğımız boot.img dosyasını seçiyoruz.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/0VDfyi.png" alt=""/></figure>
-
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4002837437256869"
-     data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/o53Tbu.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/GWtlRN.png" alt=""/></figure>
-
-
-
-<p>&#8220;Devam Et&#8221; dokunarak patch işlemini başlayacak. &#8220;All done&#8221; ibraseni gördükten sonra (/scdard/Download) dizini veya Downloads klasöründeki  bilgisayarınıza patched&#8230; ile başlayam img dosyasını aktarınız.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/aikMsr.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://i.hizliresim.com/0XElwA.png" alt=""/></figure>
-
-
-
-<p>Bilgisayarınıza atardıktan sonra dosyanın ismini boot.img olarak değiştiriniz.</p>
-
-
-
-<p>Sonra aşağıdaki linkteki işlemi yapınız.</p>
-
-
-
-<p><a href="https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/" target="_blank" rel="noreferrer noopener">https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/</a></p>
-
-
-
-<p>Sonra cd komutu ile boot.img dosyasının bulunduğu dizine gelip aşağıdaki komutları yazınız.</p>
-
-
-
-<pre class="wp-block-code"><code>fastboot flash boot boot.img
-fastboot reboot</code></pre>
-
-
-
-<p>İşlemimiz tamamlanmıştır.</p><p>The post <a href="https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/">Bütün android cihazlarda root işlemi [Marka model farketmez]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

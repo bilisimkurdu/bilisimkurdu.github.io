@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/programlama/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 07 Oct 2024 17:26:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Oct 2024 18:42:09 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,133 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Github desktop Filename too long</title>
+		<link>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/</link>
+					<comments>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2024 18:41:30 +0000</pubDate>
+				<category><![CDATA[git]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[git Filename too long]]></category>
+		<category><![CDATA[github desktop Filename too long]]></category>
+		<category><![CDATA[github desktop Filename too long error]]></category>
+		<category><![CDATA[github desktop Filename too long hatası]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=969</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Github Desktop üzerinden alınan git hatalardan biri olan nasıl çözüleceği hususunda olacak. Bir önceki yazımızda git sistemine nasıl ulaşacağımızı belirtmiştik. İlgili klasörü Cmd&#8217;den işaret ediyoruz. Sonra aşağıdaki komutu girip Entera tıklıyoruz. İyi Akşamlar.</p>
+<p>The post <a href="https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/">Github desktop Filename too long</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Github Desktop üzerinden alınan git hatalardan biri olan nasıl çözüleceği hususunda olacak.</p>
+
+
+
+<p>Bir önceki yazımızda git sistemine nasıl ulaşacağımızı belirtmiştik.</p>
+
+
+
+<span id="more-969"></span>
+
+
+
+<p>İlgili klasörü Cmd&#8217;den işaret ediyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git\cmd</code></pre>
+
+
+
+<p>Sonra aşağıdaki komutu girip Entera tıklıyoruz.</p>
+
+
+
+<pre class="wp-block-code"><code>git config --system core.longpaths true</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/2sudtav.jpg" alt=""/></figure>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/">Github desktop Filename too long</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Github Desktop&#8217;ta git müdahale etme</title>
+		<link>https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/</link>
+					<comments>https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2024 18:34:07 +0000</pubDate>
+				<category><![CDATA[git]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[github desktop git path]]></category>
+		<category><![CDATA[github desktop gitconfig path]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=971</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Github Desktop&#8217;ta bulunan git hatalarında veya git sisteminde değişiklik maksadıyla müdahale edileceği hususunda olacak, Github Desktop basit arayüz üzerinden origin ve push işlemlerini yürütse de bazı hatalarda müdahale edilmesi gerekebilmektedir. git.exe dosyasının bulunduğu path; dizinini cmd ile cd komutu ile işaret ederek git komutlarını kullanabilirsiniz. gitconfig dosyasının bulunduğu path; İyi&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/">Github Desktop’ta git müdahale etme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Github Desktop&#8217;ta bulunan git hatalarında veya git sisteminde değişiklik maksadıyla müdahale edileceği hususunda olacak,</p>
+
+
+
+<p>Github Desktop basit arayüz üzerinden origin ve push işlemlerini yürütse de bazı hatalarda müdahale edilmesi gerekebilmektedir.</p>
+
+
+
+<span id="more-971"></span>
+
+
+
+<p>git.exe dosyasının bulunduğu path;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git\cmd</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/i5a3ddk.jpg" alt=""/></figure>
+
+
+
+<p>dizinini cmd ile cd komutu ile işaret ederek git komutlarını kullanabilirsiniz.</p>
+
+
+
+<p> gitconfig dosyasının bulunduğu path;</p>
+
+
+
+<pre class="wp-block-code"><code>%USERPROFILE%\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git\etc</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/juhqe3y.jpg" alt=""/></figure>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/">Github Desktop’ta git müdahale etme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</title>
 		<link>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/</link>
 					<comments>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/#respond</comments>
@@ -815,172 +942,6 @@ xdebug.show_local_vars = 9</code></pre>
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/">MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology</title>
-		<link>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/</link>
-					<comments>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Fri, 04 Oct 2019 07:48:00 +0000</pubDate>
-				<category><![CDATA[Intel]]></category>
-		<category><![CDATA[İşlemci]]></category>
-		<category><![CDATA[Mobil]]></category>
-		<category><![CDATA[PC]]></category>
-		<category><![CDATA[Programlama]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Android Studio HAXM This computer does not support Intel Virtualization Technology]]></category>
-		<category><![CDATA[Android studio This computer does not support Intel Virtualization Technology]]></category>
-		<category><![CDATA[haxm This computer does not support Intel Virtualization Technology]]></category>
-		<category><![CDATA[This computer does not support Intel Virtualization Technology]]></category>
-		<category><![CDATA[This computer does not support Intel Virtualization Technology çözümü]]></category>
-		<category><![CDATA[This computer does not support Intel Virtualization Technology error]]></category>
-		<category><![CDATA[This computer does not support Intel Virtualization Technology error fix]]></category>
-		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası]]></category>
-		<category><![CDATA[This computer does not support Intel Virtualization Technology hatası çözümü]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=578</guid>
-
-					<description><![CDATA[<p>Merhaba Arkadaşlar, Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım. This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır; Eğer BIOS üzerinden VT-x ayarı enable ise; 1)Hyper-V yüklü ise disable ediniz. Hyper-V disable etmek için; Control Panel-&#62;&#160;Program and&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Arkadaşlar,</p>
-
-
-
-<p>Bu yazımda Intel HAXM yüklenirken &#8220;Intel HAXM installation error &#8211; This computer does not support Intel Virtualization Technology&#8221; hatasının çözümü yöntemlerini aktaracağım.</p>
-
-
-
-<p>This computer does not support Intel Virtualization Technology hatasının çözüm yöntemleri şunlardır;</p>
-
-
-
-<span id="more-578"></span>
-
-
-
-<p><strong>Eğer BIOS üzerinden VT-x ayarı enable ise;</strong></p>
-
-
-
-<p>1)Hyper-V yüklü ise disable ediniz.</p>
-
-
-
-<p>Hyper-V disable etmek için;</p>
-
-
-
-<p>Control Panel-&gt;<em>&nbsp;Program and Feature</em> -&gt;T<em>urn Window Features on and off</em> -&gt;Hyper-V işaretliyse kaldırılıp Bilgisayar yeniden başlatılır.</p>
-
-
-
-<p>2)Windows 10 kullanıyorsanız;</p>
-
-
-
-<p>Windows Defender settings &gt; Device security &gt; Core isolation details &gt; Memory integrity &gt; Off&nbsp;konumuna getirilerek bilgisayar yeniden başlatılır.</p>
-
-
-
-<p>3)CMD yönetici olarak çalıştırarak aşağıdaki komut girilerek bilgisayar yeniden başlatılır.</p>
-
-
-<p>bcdedit /set hypervisorlaunchtype off</p>
-
-
-
-<p>4)</p>
-
-
-
-<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=53337">https://www.microsoft.com/en-us/download/details.aspx?id=53337</a> adresinden Device Guard and Credential Guard&nbsp;tool indirilir ve CMD administrator olarak çalıştıralak toolun bulunduğu klasöre işaret edilerek (cd komutuyla) aşağıdaki komut girilir.</p>
-
-
-<p>DG_Readiness_Tool_v3.6.ps1 -disable</p>
-
-
-
-<p>5) BIOS&#8217;a girilerek VT-x disable moduna alındıktan sonra bilgisayar yeniden başlatılarak BIOS&#8217;a girilerek VT-x modu enable moduna getirilir.</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/">Intel HAXM installation error – This computer does not support Intel Virtualization Technology</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/intel-haxm-installation-error-this-computer-does-not-support-intel-virtualization-technology/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Linux Unity yükleme</title>
-		<link>https://bilisimkurdu.github.io/linux-unity-yukleme/</link>
-					<comments>https://bilisimkurdu.github.io/linux-unity-yukleme/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Tue, 30 Jul 2019 13:57:14 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Programlama]]></category>
-		<category><![CDATA[Unity]]></category>
-		<category><![CDATA[debian install unity]]></category>
-		<category><![CDATA[Debian Unity yükleme]]></category>
-		<category><![CDATA[Debian Unity yükleme 2019]]></category>
-		<category><![CDATA[Linux install Unity]]></category>
-		<category><![CDATA[Linux İnstall Unity 2019]]></category>
-		<category><![CDATA[Linux Unity yükleme]]></category>
-		<category><![CDATA[Linux Unity yükleme 2019]]></category>
-		<category><![CDATA[opensuse install Unity]]></category>
-		<category><![CDATA[Suse install Unity]]></category>
-		<category><![CDATA[Ubuntu install Unity]]></category>
-		<category><![CDATA[Ubuntu Unity yükleme]]></category>
-		<category><![CDATA[Ubuntu Unity yükleme 2019]]></category>
-		<category><![CDATA[Unity Hub]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=485</guid>
-
-					<description><![CDATA[<p>Merhaba arkadaşlar, Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim. https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/ adresinden Linux için Unity Hub indirilir. UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır. Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.</p>
-<p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba arkadaşlar,</p>
-
-
-
-<p>Bu yazımda linux bilgisayarlarında Unity nasıl yükleneceği konusuna değineceğim.</p>
-
-
-
-<span id="more-485"></span>
-
-
-
-<p><a href="https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/">https://forum.unity.com/threads/unity-hub-v2-0-0-release.677485/</a> adresinden Linux için Unity Hub indirilir.</p>
-
-
-
-<p>UnityHubSetup.AppImage dosyasını indirdikten sonra aşağıdaki komutlar kullanılarak çalıştırılır.</p>
-
-
-
-<pre class="wp-block-code"><code>chmod +x UnityHubSetup.AppImage
-./UnityHubSetup.AppImage</code></pre>
-
-
-
-<p>Karşıya çıkan sayfada Installs-> Add yolunu izleyerek istenilen versiyon izlenir.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/gPqB8O.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/6D90Lv.png" alt=""/></figure><p>The post <a href="https://bilisimkurdu.github.io/linux-unity-yukleme/">Linux Unity yükleme</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/linux-unity-yukleme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
