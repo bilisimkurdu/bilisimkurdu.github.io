@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/pc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 09 Mar 2024 16:52:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Dec 2024 17:25:15 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Samsung NP530U4C not usb boot</title>
+		<link>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/</link>
+					<comments>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2024 16:55:13 +0000</pubDate>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[NP530U3C/NP530U4C BIOS NOT BOOTING]]></category>
+		<category><![CDATA[NP530U4C USB Boot Sorunu]]></category>
+		<category><![CDATA[samsumsun laptop not boot]]></category>
+		<category><![CDATA[Samsung 530U boot usb]]></category>
+		<category><![CDATA[Samsung 530U not boot usb]]></category>
+		<category><![CDATA[samsung boot menü sorunu]]></category>
+		<category><![CDATA[Samsung np530u3c (5 series) not booting and can't access the BIOS]]></category>
+		<category><![CDATA[Samsung Np530u3c BIOS sorunu]]></category>
+		<category><![CDATA[Samsung NP530U4C not usb boot]]></category>
+		<category><![CDATA[Samsung NP530U4C usb boot]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=979</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Samsung marka NP530U4C model laptoplarda boot ayarlarında USB sürücünün görünmemesi veya USB sürücü üzerinden boot edememesi konusunda olacak. Yaşanan USB boot problemi BIOS&#8217;tan kaynaklanmakta olup BIOS güncellemesi ile problem çözülmüş olacaktır. Samsung BIOS güncelleme aracı için tıklayınız. https://archive.org/details/SamsungBIOSUpdate İyi Akşamlar.</p>
+<p>The post <a href="https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/">Samsung NP530U4C not usb boot</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Samsung marka NP530U4C model laptoplarda boot ayarlarında USB sürücünün görünmemesi veya USB sürücü üzerinden boot edememesi konusunda olacak.</p>
+
+
+
+<span id="more-979"></span>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1280" height="720" data-id="980" src="https://bilisimkurdu.github.io/wp-content/uploads/2024/12/Samsung_np530u3c_NotUSBBoot.jpg" alt="" class="wp-image-980"/></figure>
+</figure>
+
+
+
+<p>Yaşanan USB boot problemi BIOS&#8217;tan kaynaklanmakta olup BIOS güncellemesi ile problem çözülmüş olacaktır.</p>
+
+
+
+<p>Samsung BIOS güncelleme aracı için <a href="http://bc.vc/UShMts1" target="_blank" rel="noopener" title="">tıklayınız</a>.</p>
+
+
+
+<p><a href="https://archive.org/details/SamsungBIOSUpdate" target="_blank" rel="noopener" title="">https://archive.org/details/SamsungBIOSUpdate</a></p>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/">Samsung NP530U4C not usb boot</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>MacOS klavye türü değiştirme sorunu</title>
 		<link>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/</link>
 					<comments>https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/#respond</comments>
@@ -250,7 +310,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Is Broken - Black Screen Issue!!!" width="1180" height="664" src="https://www.youtube.com/embed/0x8pVFdmsp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Is Broken - Black Screen Issue!!!" width="1180" height="664" src="https://www.youtube.com/embed/0x8pVFdmsp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -987,7 +1047,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="443" height="233" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg" alt="" class="wp-image-824" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg 443w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1-300x158.jpg 300w" sizes="(max-width: 443px) 100vw, 443px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="443" height="233" src="https://bilisimkurdu.github.ioTest/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg" alt="" class="wp-image-824" srcset="https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1.jpg 443w, https://bilisimkurdu.github.io/wp-content/uploads/2020/08/MS-office-pop-up_storeOfficeCom-1-300x158.jpg 300w" sizes="auto, (max-width: 443px) 100vw, 443px" /></figure>
 
 
 
@@ -1106,97 +1166,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 <p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/">Microsoft Office Connecting proxy server for store.office.com</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/microsoft-office-connecting-proxy-server-for-store-office-com/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</title>
-		<link>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/</link>
-					<comments>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2020 09:43:51 +0000</pubDate>
-				<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[güvenlik duvarı]]></category>
-		<category><![CDATA[güvenlik duvarı program engelleme]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=826</guid>
-
-					<description><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz, Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak. Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek; Program işaretli&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhrerem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımızda güvenlik duvarında bir program nasıl engelleneceği hususunda olacak.</p>
-
-
-
-<span id="more-826"></span>
-
-
-
-<p>Başlat Tuşu -> Denetim Masası (Control Panel) -> Windows Güvenlik Duvarı (Windows Firewall) (Windows 8,10 için Windows Defender Güvenlik Duvarı(Windows Defender Firewall)) ->Gelişmiş ayarlar (Advanced Settings)->Outbound Rules ve Inbound rules (Gelen ve Giden kural)->Yeni Kural (New Rules) seçeneğini takip ederek;</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc93410ea84.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.YHj4SyqcFs.png" alt=""/></figure>
-
-
-
-<p>Program işaretli olmalıdır.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc94d48dbd1.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.QLozTsF7Zu.png" alt=""/></figure>
-
-
-
-<p>İleri (Next)&#8217;e tıklanır.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dcb3b3674ee.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sV9uf1i_2J.png" alt=""/></figure>
-
-
-
-<p>This program path (Programın yolu) kısmında erişimini engellemek istediğiniz programın yolunu seçiyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dc9692b3220.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.sFQ4Bdm76X.png" alt=""/></figure>
-
-
-
-<p>Block the connection (Bağlantıyı engelle)&#8217;yi işaretliyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/08/ximg_55dca4250ece4.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.n5oVczAXC5.png" alt=""/></figure>
-
-
-
-<p>Domain,Private,Public işaretli olduğundan emin oluyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://www.howtogeek.com/wp-content/uploads/2015/08/img_55dca50653bb5.png" alt=""/></figure>
-
-
-
-<p>Kurala isim verip Finish (Son) tıklıyoruz.</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/">Bir Program Windows Güvenlik Duvarı ile Nasıl Engellenir?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/bir-program-windows-guvenlik-duvari-ile-nasil-engellenir/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

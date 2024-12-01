@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Bu site haritası dinamik 26 Ekim 2024 tarihinde saat 21:44 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.5.8 kullanılarak oluşturulmuştur. -->
+<!-- Bu site haritası dinamik 1 Aralık 2024 tarihinde saat 20:45 itibariyle WordPress için orijinal SEO eklentisi olan All in One SEO v4.7.6 kullanılarak oluşturulmuştur. -->
 
 <?xml-stylesheet type="text/xsl" href="https://bilisimkurdu.github.io/default-sitemap.xsl"?>
 
@@ -8,16 +8,16 @@
 		<title>Bilişim Kurdu</title>
 		<link><![CDATA[http://localhost/bilisimkurdu]]></link>
 		<description><![CDATA[Bilişim Kurdu]]></description>
-		<lastBuildDate><![CDATA[Wed, 21 Apr 2021 11:15:35 +0000]]></lastBuildDate>
+		<lastBuildDate><![CDATA[Wed, 24 Jun 2020 05:30:00 +0000]]></lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 		<atom:link href="https://bilisimkurdu.github.io/sitemap.rss" rel="self" type="application/rss+xml" />
 		<ttl><![CDATA[60]]></ttl>
 
 		<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></link>
-			<title>CPU ile mining nasıl yapılır?</title>
-			<pubDate><![CDATA[Wed, 21 Apr 2021 11:15:35 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/]]></link>
+			<title>ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</title>
+			<pubDate><![CDATA[Wed, 24 Jun 2020 05:30:00 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/]]></guid>
@@ -26,10 +26,28 @@
 			<pubDate><![CDATA[Thu, 31 Mar 2022 08:44:07 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></link>
-			<title>VMware OS X Monterey Screen Lag</title>
-			<pubDate><![CDATA[Wed, 19 Jan 2022 08:52:25 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></link>
+			<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
+			<pubDate><![CDATA[Wed, 24 Jun 2020 07:14:48 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/]]></link>
+			<title>Visual Studio Microsoft.NET.Sdk Not Found</title>
+			<pubDate><![CDATA[Sun, 01 Dec 2024 17:21:20 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/]]></link>
+			<title>Github desktop Filename too long</title>
+			<pubDate><![CDATA[Sat, 26 Oct 2024 18:42:09 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/]]></link>
+			<title>Github Desktop&#8217;ta git müdahale etme</title>
+			<pubDate><![CDATA[Sat, 26 Oct 2024 18:34:09 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/mac-os-klavye-turunu-degistir-olmamasi/]]></guid>
@@ -62,16 +80,16 @@
 			<pubDate><![CDATA[Mon, 07 Oct 2024 17:26:19 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/]]></link>
-			<title>Xamarin Forms and Xamarin Android Android SDK is empty &#8211; no platforms or tools</title>
-			<pubDate><![CDATA[Mon, 12 Apr 2021 12:44:05 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/]]></link>
+			<title>VMware OS X Monterey Screen Lag</title>
+			<pubDate><![CDATA[Wed, 19 Jan 2022 08:52:25 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/]]></link>
-			<title>Bütün android cihazlarda root işlemi [Marka model farketmez]</title>
-			<pubDate><![CDATA[Thu, 11 Feb 2021 11:21:18 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/]]></link>
+			<title>CPU ile mining nasıl yapılır?</title>
+			<pubDate><![CDATA[Wed, 21 Apr 2021 11:15:35 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/flash-player-calistirma-2021/]]></guid>
@@ -80,34 +98,16 @@
 			<pubDate><![CDATA[Wed, 10 Feb 2021 12:09:52 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/net-core-ef-ile-mysql-veritabani-islemleri/]]></link>
-			<title>.NET Core EF ile MYSQL veritabanı işlemleri</title>
-			<pubDate><![CDATA[Wed, 24 Jun 2020 07:14:48 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/asp-net-core-uygulamasini-heroku-ile-ucretsiz-yayinlamak/]]></link>
-			<title>ASP.NET Core Uygulamasını Heroku ile Ücretsiz Yayınlamak</title>
-			<pubDate><![CDATA[Wed, 24 Jun 2020 05:30:00 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/butun-android-cihazlarda-root-islemi-marka-model-farketmez/]]></link>
+			<title>Bütün android cihazlarda root işlemi [Marka model farketmez]</title>
+			<pubDate><![CDATA[Thu, 11 Feb 2021 11:21:18 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/android-telefon-ve-tabletlere-otg-ozelligi-kazandirma/]]></link>
 			<title>Android telefon ve tabletlere OTG özelliği kazandırma</title>
 			<pubDate><![CDATA[Thu, 08 Oct 2020 13:39:23 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/github-desktopta-git-mudahale-etme/]]></link>
-			<title>Github Desktop&#8217;ta git müdahale etme</title>
-			<pubDate><![CDATA[Sat, 26 Oct 2024 18:34:09 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/]]></link>
-			<title>Laptop açılmaya çalışıldığında tepki vermiyor.</title>
-			<pubDate><![CDATA[Sat, 18 Apr 2020 13:07:29 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/lineage-os-cm-file-manager-yuklemek/]]></guid>
@@ -134,10 +134,28 @@
 			<pubDate><![CDATA[Mon, 24 Aug 2020 09:43:51 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/laptop-acilmaya-calisildiginda-tepki-vermiyor/]]></link>
+			<title>Laptop açılmaya çalışıldığında tepki vermiyor.</title>
+			<pubDate><![CDATA[Sat, 18 Apr 2020 13:07:29 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/xamarin-forms-and-xamarin-android-android-sdk-is-empty-no-platforms-or-tools/]]></link>
+			<title>Xamarin Forms and Xamarin Android Android SDK is empty &#8211; no platforms or tools</title>
+			<pubDate><![CDATA[Mon, 12 Apr 2021 12:44:05 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/android-guncellemesinde-yeni-donem-2020/]]></link>
 			<title>Android Güncellemesinde yeni dönem 2020</title>
 			<pubDate><![CDATA[Mon, 13 Apr 2020 09:49:05 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></link>
+			<title>MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</title>
+			<pubDate><![CDATA[Thu, 26 Sep 2019 06:24:40 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/bluetooth-aygitlari-windows-7-calistiran-bir-bilgisayarda-duzgun-calismiyor/]]></guid>
@@ -152,28 +170,10 @@
 			<pubDate><![CDATA[Sun, 05 Apr 2020 09:49:38 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/sudo-dolphinexecuting-dolphin-as-root-is-not-possible/]]></link>
-			<title>sudo dolphin:Executing Dolphin as root is not possible.</title>
-			<pubDate><![CDATA[Wed, 07 Aug 2019 10:46:53 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/]]></link>
-			<title>Windows 10 İnternet bağlantı problemi 2020</title>
-			<pubDate><![CDATA[Fri, 03 Apr 2020 09:25:19 +0000]]></pubDate>
-		</item>
-					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/wsl-gui/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/wsl-gui/]]></link>
 			<title>WSL GUI</title>
 			<pubDate><![CDATA[Wed, 01 Apr 2020 16:48:21 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></link>
-			<title>Temel ve dinamik diskler arasındaki farklar.</title>
-			<pubDate><![CDATA[Wed, 15 Jan 2020 11:03:43 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/wsl-kurulumu/]]></guid>
@@ -206,24 +206,6 @@
 			<pubDate><![CDATA[Thu, 13 Feb 2020 08:52:02 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/]]></link>
-			<title>Required Privilege Is Not Held By The Client Error</title>
-			<pubDate><![CDATA[Thu, 13 Feb 2020 08:49:38 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/]]></link>
-			<title>Windows güncelleme hata kodları</title>
-			<pubDate><![CDATA[Thu, 13 Feb 2020 08:10:28 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-derleme-icin-gerekli-olan-nuget-msbuild-hedefleri-eksik/]]></link>
-			<title>MonoDevelop Derleme için gerekli olan NuGet MSBuild hedefleri eksik.</title>
-			<pubDate><![CDATA[Thu, 26 Sep 2019 06:24:40 +0000]]></pubDate>
-		</item>
-					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-oem-kilidi-acmak/]]></link>
 			<title>Android cihazlarda OEM kilidi açmak</title>
@@ -236,10 +218,34 @@
 			<pubDate><![CDATA[Sat, 28 Mar 2020 14:21:19 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></link>
+			<title>Windows 7 Visual Studio kurulmuyor.</title>
+			<pubDate><![CDATA[Sat, 28 Mar 2020 13:16:14 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/required-privilege-is-not-held-by-the-client-error/]]></link>
+			<title>Required Privilege Is Not Held By The Client Error</title>
+			<pubDate><![CDATA[Thu, 13 Feb 2020 08:49:38 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/windows-guncelleme-hata-kodlari/]]></link>
+			<title>Windows güncelleme hata kodları</title>
+			<pubDate><![CDATA[Thu, 13 Feb 2020 08:10:28 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/android-cihazlarda-bootable-usb-olusturma/]]></link>
 			<title>Android cihazlarda Bootable USB oluşturma</title>
 			<pubDate><![CDATA[Wed, 20 Nov 2019 10:47:03 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/temel-ve-dinamik-diskler-arasindaki-farklar/]]></link>
+			<title>Temel ve dinamik diskler arasındaki farklar.</title>
+			<pubDate><![CDATA[Wed, 15 Jan 2020 11:03:43 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/kali-linux-sifre-sifirlama/]]></guid>
@@ -266,16 +272,16 @@
 			<pubDate><![CDATA[Thu, 28 Nov 2019 12:24:05 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></link>
+			<title>Gboard durduruldu</title>
+			<pubDate><![CDATA[Thu, 19 Dec 2019 09:51:50 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/monodevelop-error-nuget-packages-must-be-restored-before-compiling-missing-the-nuget-msbuild-targets-required-for-compilation-nuget-msbuild-targets-are-created-when-nuget-packages-are-restored/]]></link>
 			<title>MonoDevelop Error: NuGet packages must be restored before compiling. Missing the NuGet MSBuild targets required for compilation. NuGet MSBuild targets are created when NuGet packages are restored.</title>
 			<pubDate><![CDATA[Thu, 07 Nov 2019 12:33:24 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/windows-7-visual-studio-kurulmuyor/]]></link>
-			<title>Windows 7 Visual Studio kurulmuyor.</title>
-			<pubDate><![CDATA[Sat, 28 Mar 2020 13:16:14 +0000]]></pubDate>
 		</item>
 					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/deb-paketi-yuklenirken-paketi-islenirken-sorun-yasandi-install/]]></guid>
@@ -290,28 +296,22 @@
 			<pubDate><![CDATA[Fri, 04 Oct 2019 07:48:00 +0000]]></pubDate>
 		</item>
 					<item>
+			<guid><![CDATA[https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/windows-10-internet-baglanti-problemi-2020/]]></link>
+			<title>Windows 10 İnternet bağlantı problemi 2020</title>
+			<pubDate><![CDATA[Fri, 03 Apr 2020 09:25:19 +0000]]></pubDate>
+		</item>
+					<item>
 			<guid><![CDATA[https://bilisimkurdu.github.io/oem-kilidi-nedir-android/]]></guid>
 			<link><![CDATA[https://bilisimkurdu.github.io/oem-kilidi-nedir-android/]]></link>
 			<title>OEM Kilidi nedir? (Android)</title>
 			<pubDate><![CDATA[Tue, 10 Sep 2019 11:36:40 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/gboard-durduruldu/]]></link>
-			<title>Gboard durduruldu</title>
-			<pubDate><![CDATA[Thu, 19 Dec 2019 09:51:50 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/ubuntu-systemd-udevd-yogun-cpu-kullanimi/]]></link>
-			<title>Ubuntu systemd-udevd yoğun CPU kullanımı</title>
-			<pubDate><![CDATA[Wed, 07 Aug 2019 10:32:11 +0000]]></pubDate>
-		</item>
-					<item>
-			<guid><![CDATA[https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/]]></guid>
-			<link><![CDATA[https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/]]></link>
-			<title>Github desktop Filename too long</title>
-			<pubDate><![CDATA[Sat, 26 Oct 2024 18:42:09 +0000]]></pubDate>
+			<guid><![CDATA[https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/]]></guid>
+			<link><![CDATA[https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/]]></link>
+			<title>Samsung NP530U4C not usb boot</title>
+			<pubDate><![CDATA[Sun, 01 Dec 2024 17:25:15 +0000]]></pubDate>
 		</item>
 				</channel>
 </rss>

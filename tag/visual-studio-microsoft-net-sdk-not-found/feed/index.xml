@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Visual Studio Microsoft.NET.Sdk Not Found - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/visual-studio-microsoft-net-sdk-not-found/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sun, 01 Dec 2024 17:21:20 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Visual Studio Microsoft.NET.Sdk Not Found - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Visual Studio Microsoft.NET.Sdk Not Found</title>
+		<link>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/</link>
+					<comments>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2024 17:16:48 +0000</pubDate>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.net Visual Studio Microsoft.NET.Sdk Not Found]]></category>
+		<category><![CDATA[Microsoft.NET.Sdk Not Found]]></category>
+		<category><![CDATA[Visual Studio Microsoft.NET.Sdk Not Found]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=984</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Visual Studio projesini açarken Microsoft.NET.Sdk Not Found hatasının çözümü ile ilgili olacak. Bu hata Visual Studio yükleme,onarım ve güncelleme sonrası çıkmakta olup .net core projeleri açıldığında Microsoft.NET.Sdk Not Found hatası vermektedir. Hatanın çözümü; C:\Program Files (x86) dizini takip edilerek dotnet klasörü silinir. Tekrardan proje açılarak problem giderilmiş olur. İyi Akşamlar&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/">Visual Studio Microsoft.NET.Sdk Not Found</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Visual Studio projesini açarken Microsoft.NET.Sdk Not Found hatasının çözümü ile ilgili olacak.</p>
+
+
+
+<span id="more-984"></span>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLNT7wBxfnI0dcLVRpHkNvSg2dfI5HPKj9DXNuD0c8Z48rQ3y-lQOBWa4Jmo6LiEnTJJ4RCFEbtspDpg4R-geNC1A6VMFV4eYW4dMnf1TwDHJA2NqT4Z7OQTUmARDpcoyWj2zBDgssa3T/s400/02.png" alt=""/></figure>
+
+
+
+<p>Bu hata Visual Studio yükleme,onarım ve güncelleme sonrası çıkmakta olup .net core projeleri açıldığında Microsoft.NET.Sdk Not Found hatası vermektedir.</p>
+
+
+
+<p>Hatanın çözümü;</p>
+
+
+
+<p>C:\Program Files (x86) dizini takip edilerek dotnet klasörü silinir. Tekrardan proje açılarak problem giderilmiş olur.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://r.resimlink.com/F5uiT.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://r.resimlink.com/GybTIL.png" alt=""/></figure>
+
+
+
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/">Visual Studio Microsoft.NET.Sdk Not Found</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

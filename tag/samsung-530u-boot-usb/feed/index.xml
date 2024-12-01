@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Samsung 530U boot usb - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/samsung-530u-boot-usb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Sun, 01 Dec 2024 17:25:15 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Samsung 530U boot usb - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Samsung NP530U4C not usb boot</title>
+		<link>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/</link>
+					<comments>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2024 16:55:13 +0000</pubDate>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[NP530U3C/NP530U4C BIOS NOT BOOTING]]></category>
+		<category><![CDATA[NP530U4C USB Boot Sorunu]]></category>
+		<category><![CDATA[samsumsun laptop not boot]]></category>
+		<category><![CDATA[Samsung 530U boot usb]]></category>
+		<category><![CDATA[Samsung 530U not boot usb]]></category>
+		<category><![CDATA[samsung boot menü sorunu]]></category>
+		<category><![CDATA[Samsung np530u3c (5 series) not booting and can't access the BIOS]]></category>
+		<category><![CDATA[Samsung Np530u3c BIOS sorunu]]></category>
+		<category><![CDATA[Samsung NP530U4C not usb boot]]></category>
+		<category><![CDATA[Samsung NP530U4C usb boot]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=979</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Samsung marka NP530U4C model laptoplarda boot ayarlarında USB sürücünün görünmemesi veya USB sürücü üzerinden boot edememesi konusunda olacak. Yaşanan USB boot problemi BIOS&#8217;tan kaynaklanmakta olup BIOS güncellemesi ile problem çözülmüş olacaktır. Samsung BIOS güncelleme aracı için tıklayınız. https://archive.org/details/SamsungBIOSUpdate İyi Akşamlar.</p>
+<p>The post <a href="https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/">Samsung NP530U4C not usb boot</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Samsung marka NP530U4C model laptoplarda boot ayarlarında USB sürücünün görünmemesi veya USB sürücü üzerinden boot edememesi konusunda olacak.</p>
+
+
+
+<span id="more-979"></span>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1280" height="720" data-id="980" src="https://bilisimkurdu.github.io/wp-content/uploads/2024/12/Samsung_np530u3c_NotUSBBoot.jpg" alt="" class="wp-image-980"/></figure>
+</figure>
+
+
+
+<p>Yaşanan USB boot problemi BIOS&#8217;tan kaynaklanmakta olup BIOS güncellemesi ile problem çözülmüş olacaktır.</p>
+
+
+
+<p>Samsung BIOS güncelleme aracı için <a href="http://bc.vc/UShMts1" target="_blank" rel="noopener" title="">tıklayınız</a>.</p>
+
+
+
+<p><a href="https://archive.org/details/SamsungBIOSUpdate" target="_blank" rel="noopener" title="">https://archive.org/details/SamsungBIOSUpdate</a></p>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/">Samsung NP530U4C not usb boot</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

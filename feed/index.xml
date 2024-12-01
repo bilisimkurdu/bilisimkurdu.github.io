@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sat, 26 Oct 2024 18:42:09 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Dec 2024 17:25:15 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,125 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Visual Studio Microsoft.NET.Sdk Not Found</title>
+		<link>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/</link>
+					<comments>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2024 17:16:48 +0000</pubDate>
+				<category><![CDATA[C#]]></category>
+		<category><![CDATA[Programlama]]></category>
+		<category><![CDATA[.net Visual Studio Microsoft.NET.Sdk Not Found]]></category>
+		<category><![CDATA[Microsoft.NET.Sdk Not Found]]></category>
+		<category><![CDATA[Visual Studio Microsoft.NET.Sdk Not Found]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=984</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Visual Studio projesini açarken Microsoft.NET.Sdk Not Found hatasının çözümü ile ilgili olacak. Bu hata Visual Studio yükleme,onarım ve güncelleme sonrası çıkmakta olup .net core projeleri açıldığında Microsoft.NET.Sdk Not Found hatası vermektedir. Hatanın çözümü; C:\Program Files (x86) dizini takip edilerek dotnet klasörü silinir. Tekrardan proje açılarak problem giderilmiş olur. İyi Akşamlar&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/">Visual Studio Microsoft.NET.Sdk Not Found</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Visual Studio projesini açarken Microsoft.NET.Sdk Not Found hatasının çözümü ile ilgili olacak.</p>
+
+
+
+<span id="more-984"></span>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLNT7wBxfnI0dcLVRpHkNvSg2dfI5HPKj9DXNuD0c8Z48rQ3y-lQOBWa4Jmo6LiEnTJJ4RCFEbtspDpg4R-geNC1A6VMFV4eYW4dMnf1TwDHJA2NqT4Z7OQTUmARDpcoyWj2zBDgssa3T/s400/02.png" alt=""/></figure>
+
+
+
+<p>Bu hata Visual Studio yükleme,onarım ve güncelleme sonrası çıkmakta olup .net core projeleri açıldığında Microsoft.NET.Sdk Not Found hatası vermektedir.</p>
+
+
+
+<p>Hatanın çözümü;</p>
+
+
+
+<p>C:\Program Files (x86) dizini takip edilerek dotnet klasörü silinir. Tekrardan proje açılarak problem giderilmiş olur.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://r.resimlink.com/F5uiT.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://r.resimlink.com/GybTIL.png" alt=""/></figure>
+
+
+
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/">Visual Studio Microsoft.NET.Sdk Not Found</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung NP530U4C not usb boot</title>
+		<link>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/</link>
+					<comments>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2024 16:55:13 +0000</pubDate>
+				<category><![CDATA[Donanım]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[NP530U3C/NP530U4C BIOS NOT BOOTING]]></category>
+		<category><![CDATA[NP530U4C USB Boot Sorunu]]></category>
+		<category><![CDATA[samsumsun laptop not boot]]></category>
+		<category><![CDATA[Samsung 530U boot usb]]></category>
+		<category><![CDATA[Samsung 530U not boot usb]]></category>
+		<category><![CDATA[samsung boot menü sorunu]]></category>
+		<category><![CDATA[Samsung np530u3c (5 series) not booting and can't access the BIOS]]></category>
+		<category><![CDATA[Samsung Np530u3c BIOS sorunu]]></category>
+		<category><![CDATA[Samsung NP530U4C not usb boot]]></category>
+		<category><![CDATA[Samsung NP530U4C usb boot]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=979</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Bu yazımızda Samsung marka NP530U4C model laptoplarda boot ayarlarında USB sürücünün görünmemesi veya USB sürücü üzerinden boot edememesi konusunda olacak. Yaşanan USB boot problemi BIOS&#8217;tan kaynaklanmakta olup BIOS güncellemesi ile problem çözülmüş olacaktır. Samsung BIOS güncelleme aracı için tıklayınız. https://archive.org/details/SamsungBIOSUpdate İyi Akşamlar.</p>
+<p>The post <a href="https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/">Samsung NP530U4C not usb boot</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Bu yazımızda Samsung marka NP530U4C model laptoplarda boot ayarlarında USB sürücünün görünmemesi veya USB sürücü üzerinden boot edememesi konusunda olacak.</p>
+
+
+
+<span id="more-979"></span>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1280" height="720" data-id="980" src="https://bilisimkurdu.github.io/wp-content/uploads/2024/12/Samsung_np530u3c_NotUSBBoot.jpg" alt="" class="wp-image-980"/></figure>
+</figure>
+
+
+
+<p>Yaşanan USB boot problemi BIOS&#8217;tan kaynaklanmakta olup BIOS güncellemesi ile problem çözülmüş olacaktır.</p>
+
+
+
+<p>Samsung BIOS güncelleme aracı için <a href="http://bc.vc/UShMts1" target="_blank" rel="noopener" title="">tıklayınız</a>.</p>
+
+
+
+<p><a href="https://archive.org/details/SamsungBIOSUpdate" target="_blank" rel="noopener" title="">https://archive.org/details/SamsungBIOSUpdate</a></p>
+
+
+
+<p>İyi Akşamlar.</p><p>The post <a href="https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/">Samsung NP530U4C not usb boot</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/samsung-np530u4c-not-usb-boot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Github desktop Filename too long</title>
 		<link>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/</link>
 					<comments>https://bilisimkurdu.github.io/github-desktop-filename-too-long-hatasi/#respond</comments>
@@ -460,7 +579,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Is Broken - Black Screen Issue!!!" width="1180" height="664" src="https://www.youtube.com/embed/0x8pVFdmsp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Is Broken - Black Screen Issue!!!" width="1180" height="664" src="https://www.youtube.com/embed/0x8pVFdmsp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -820,243 +939,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 <figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>VMware OS X Monterey Screen Lag</title>
-		<link>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/</link>
-					<comments>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 19 Jan 2022 08:51:54 +0000</pubDate>
-				<category><![CDATA[MacOS]]></category>
-		<category><![CDATA[Sanallaştırma]]></category>
-		<category><![CDATA[vmware mac os lag]]></category>
-		<category><![CDATA[vmware mac os slow performance]]></category>
-		<category><![CDATA[vmware mac os yavaş]]></category>
-		<category><![CDATA[vmware mac os yavaş çalışıyor]]></category>
-		<category><![CDATA[vmware macos screen lag]]></category>
-		<category><![CDATA[VMware suddenly very slow opening applications]]></category>
-		<category><![CDATA[VMWare Tools make my VMWare Workstation is so slow]]></category>
-		<category><![CDATA[VMWare Tools make my VMWare Workstation Mac OS is so slow]]></category>
-		<category><![CDATA[VMware Workstation Pro is super laggy]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=924</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz; Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz. Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir. Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz. Sorunu detaylıca inceleyelim. Problem :VMware Workstation sanal MacOSX Monterey&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz;<br></p>
-
-
-
-<p>Yeni yılınızı hayırlı olmasını dileyip her şeyin gönlünüzce olmasını temenni ederiz.</p>
-
-
-
-<p>Vmware Workstation üzerinden Mac OSX Monterey kurulduktan sonra sanal makineye Vmware Tool yüklenmesi sonucu ekran gecikmesi yaşanabilmektedir.</p>
-
-
-
-<p>Bu yazımızda VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması sorununa değineceğiz.</p>
-
-
-
-<p>Sorunu detaylıca inceleyelim.</p>
-
-
-
-<span id="more-924"></span>
-
-
-
-<p>Problem :VMware Workstation sanal MacOSX Monterey VMWare Tools kurulum sonrası yavaş çalışması</p>
-
-
-
-<p>Problem sebebi: VMvare Tools tools yüklenmesinden sonra DisplayResolutionEnabled bool değeri True olarak ayarlanması sonucu tam ekranda görüntü gecikmesi yaşanmaktadır.</p>
-
-
-
-<p>Çözüm: &#8220;VMware WorkStation -&gt; İlgili Sanal makine -&gt; Edit virtual machine settings -&gt; Display&#8221; aşamalarını takip ederek;</p>
-
-
-
-<p><strong>Specify monitor settings</strong> işaretlenir.</p>
-
-
-
-<ul class="wp-block-list"><li>Numbers on monitor : 1</li><li>Maximum resolution of any one monitor: 1280&#215;1024</li></ul>
-
-
-
-<p>olarak ayarlanır.</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/geojp11.png" alt=""/></figure>
-
-
-
-<p>Daha rahat anlaşılması için video içeriğimiz;</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="VMWare Tools make my VMWare Workstation is so slow." width="1180" height="664" src="https://www.youtube.com/embed/-orImLtKjJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/">VMware OS X Monterey Screen Lag</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/vmware-os-x-monterey-screen-lag/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>CPU ile mining nasıl yapılır?</title>
-		<link>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/</link>
-					<comments>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Wed, 21 Apr 2021 10:00:24 +0000</pubDate>
-				<category><![CDATA[Bitcoin\Altcoin]]></category>
-		<category><![CDATA[bitcoin cpu mining]]></category>
-		<category><![CDATA[bitcoin mining]]></category>
-		<category><![CDATA[build a cpu mining rig]]></category>
-		<category><![CDATA[cpu for mining bitcoin]]></category>
-		<category><![CDATA[cpu for mining crypto]]></category>
-		<category><![CDATA[cpu for mining ethereum]]></category>
-		<category><![CDATA[cpu for mining monero]]></category>
-		<category><![CDATA[cpu for mining rig]]></category>
-		<category><![CDATA[cpu mining]]></category>
-		<category><![CDATA[cpu mining benchmark]]></category>
-		<category><![CDATA[cpu mining best coin]]></category>
-		<category><![CDATA[cpu mining binance]]></category>
-		<category><![CDATA[cpu mining coins 2021]]></category>
-		<category><![CDATA[cpu mining doge]]></category>
-		<category><![CDATA[cpu mining dogecoin]]></category>
-		<category><![CDATA[cpu mining nasıl yapılır]]></category>
-		<category><![CDATA[cpu mining ne kadar kazandırır]]></category>
-		<category><![CDATA[cpu mining nedir]]></category>
-		<category><![CDATA[cpu mining siteleri]]></category>
-		<category><![CDATA[etherium cpu mining]]></category>
-		<category><![CDATA[etherium mining]]></category>
-		<category><![CDATA[işlemci ile mining yapma]]></category>
-		<category><![CDATA[işlemci mining]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=900</guid>
-
-					<description><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz, Bu yazımızda CPU ile nasıl mining yapılabileceği hususunda olacak. Hâliyle mining bitcoin ve alt coinlerin değerin artışı ile yeniden hızlandı ve ekran kartı fiyatları bir hayli yükseldi. Ekran kartı yetersiz sistemlerin imdadına CPU ile mining tooları yetişiyor. Şimdi başlayalım. Kullanabileceğimiz iki yöntem var. 1)unMinable yazılımını indirerek. unMinable yazılımını indirdikten sonra resimdeki aşamaları&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/">CPU ile mining nasıl yapılır?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Muhterem Ziyaretçilerimiz,</p>
-
-
-
-<p>Bu yazımızda CPU ile nasıl mining yapılabileceği hususunda olacak.</p>
-
-
-
-<p>Hâliyle mining bitcoin ve alt coinlerin değerin artışı ile yeniden hızlandı ve ekran kartı fiyatları bir hayli yükseldi. </p>
-
-
-
-<span id="more-900"></span>
-
-
-
-<p>Ekran kartı yetersiz sistemlerin imdadına CPU ile mining tooları yetişiyor.</p>
-
-
-
-<p>Şimdi başlayalım.</p>
-
-
-
-<p>Kullanabileceğimiz iki yöntem var.</p>
-
-
-
-<p>1)<a href="http://bc.vc/uT0Nsxc" target="_blank" rel="noreferrer noopener">unMinable </a>yazılımını indirerek.</p>
-
-
-
-<p>unMinable yazılımını indirdikten sonra resimdeki aşamaları takip ediyoruz.</p>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/zSozMWWD_1.1.PNG" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/niRL6iIi_1.2.PNG" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/aNZ8J2Ab_1.3.PNG" alt=""/></figure>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/mdGesDNp_1.4.PNG" alt=""/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/d9BYUIkG_1.5.PNG" alt=""/></figure>
-
-
-
-<p>2) https://unmineable.com/coins adresindeki coin mining kodlarını almak.</p>
-
-
-
-<p><a href="https://unmineable.com/coins">https://unmineable.com/coins</a> adresine girdikten sonra arama kutusuna istediğiniz coini bulup tıkladıktan sonra RandomX  seçeneğini seçiniz ve belirtilen adımları uygulayınız.</p>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" src="https://resimyukle.imageupload.workers.dev/aoZvyYA7_2.1.PNG" alt=""/></figure>
-
-
-
-<p>Not :<em>Şahsım olarak herhangi bir madencilik faaliyeti <strong>yürütmemekte </strong>olup</em> internetten bulmuş olduğum BTC cüzdanı üzerinden örnekleri işleyerek meraklılar için kaynak niteliği taşıması için bu yazıyı yazdım. Oluşacak donanımsal\yazılımsal problemlerden sorumlu değilim.</p>
-
-
-
-<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
-
-
-
-<p>İyi günler.</p><p>The post <a href="https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/">CPU ile mining nasıl yapılır?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
