@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stremio crashes at 4K resolution - Bilişim Kurdu</title>
+	<atom:link href="https://bilisimkurdu.github.io/tag/stremio-crashes-at-4k-resolution/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimkurdu.github.io</link>
+	<description>Bilişim Hakkında Her Şey</description>
+	<lastBuildDate>Mon, 09 Dec 2024 16:35:20 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
+	<title>Stremio crashes at 4K resolution - Bilişim Kurdu</title>
+	<link>https://bilisimkurdu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Stremio crashes at 4K resolution</title>
+		<link>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/</link>
+					<comments>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 16:34:32 +0000</pubDate>
+				<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[stremio 4k]]></category>
+		<category><![CDATA[stremio 4k black screen]]></category>
+		<category><![CDATA[stremio 4k crash]]></category>
+		<category><![CDATA[stremio 4k kapanıyor]]></category>
+		<category><![CDATA[stremio 4k lag]]></category>
+		<category><![CDATA[stremio 4k not working]]></category>
+		<category><![CDATA[Stremio crashes at 4K resolution]]></category>
+		<category><![CDATA[Stremio film açılmıyor]]></category>
+		<category><![CDATA[stremio kapanıyor]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=996</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçimiz, Bu yazımızda Stremio uygulamasının 4k içeriklerde crash (uygulamayı atma) durumunun çözümü hususunda olacak. Uygulamanın atma problemi iki yöntemden biri veya her iki yöntemin uygulanması gerektirebilir. 1.Yöntem; Uygulama kısayolu veya exe dosyasının üzerine sağ tık -&#62;Özellikler-&#62;Uyumluluk-&#62;Yüksek DPI ayarları-&#62;Yüksek DPI ölçeklendirme davranışını geçersiz kılın. Ölçeklendirme şu şekilde gerçekleştirilir; değeri işaretlenerek -&#62;Sistem (Geliştirilmiş) seçilir ve&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçimiz,</p>
+
+
+
+<p>Bu yazımızda Stremio uygulamasının 4k içeriklerde crash (uygulamayı atma) durumunun çözümü hususunda olacak.</p>
+
+
+
+<p>Uygulamanın atma problemi iki yöntemden biri veya her iki yöntemin uygulanması gerektirebilir.</p>
+
+
+
+<span id="more-996"></span>
+
+
+
+<p>1.Yöntem;</p>
+
+
+
+<p>Uygulama kısayolu veya exe dosyasının üzerine sağ tık -&gt;Özellikler-&gt;Uyumluluk-&gt;Yüksek DPI ayarları-&gt;Yüksek DPI ölçeklendirme davranışını geçersiz kılın.  Ölçeklendirme şu şekilde gerçekleştirilir; değeri işaretlenerek -&gt;Sistem (Geliştirilmiş) seçilir ve Uygula butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/8h3eic7.gif" alt=""/></figure>
+
+
+
+<p>2.Yöntem;</p>
+
+
+
+<p>Uygulama açılarak ->Ayarlar->Oynatıcı->Gelişmiş ->Donanımla hızlandırılmış kod çözme seçeneği aktifleştirilerek uygulama yeniden başlatılır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/osicn1u.gif" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

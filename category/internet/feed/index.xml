@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/category/internet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Wed, 21 Apr 2021 11:15:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Dec 2024 16:35:20 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Stremio crashes at 4K resolution</title>
+		<link>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/</link>
+					<comments>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 16:34:32 +0000</pubDate>
+				<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[stremio 4k]]></category>
+		<category><![CDATA[stremio 4k black screen]]></category>
+		<category><![CDATA[stremio 4k crash]]></category>
+		<category><![CDATA[stremio 4k kapanıyor]]></category>
+		<category><![CDATA[stremio 4k lag]]></category>
+		<category><![CDATA[stremio 4k not working]]></category>
+		<category><![CDATA[Stremio crashes at 4K resolution]]></category>
+		<category><![CDATA[Stremio film açılmıyor]]></category>
+		<category><![CDATA[stremio kapanıyor]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=996</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçimiz, Bu yazımızda Stremio uygulamasının 4k içeriklerde crash (uygulamayı atma) durumunun çözümü hususunda olacak. Uygulamanın atma problemi iki yöntemden biri veya her iki yöntemin uygulanması gerektirebilir. 1.Yöntem; Uygulama kısayolu veya exe dosyasının üzerine sağ tık -&#62;Özellikler-&#62;Uyumluluk-&#62;Yüksek DPI ayarları-&#62;Yüksek DPI ölçeklendirme davranışını geçersiz kılın. Ölçeklendirme şu şekilde gerçekleştirilir; değeri işaretlenerek -&#62;Sistem (Geliştirilmiş) seçilir ve&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçimiz,</p>
+
+
+
+<p>Bu yazımızda Stremio uygulamasının 4k içeriklerde crash (uygulamayı atma) durumunun çözümü hususunda olacak.</p>
+
+
+
+<p>Uygulamanın atma problemi iki yöntemden biri veya her iki yöntemin uygulanması gerektirebilir.</p>
+
+
+
+<span id="more-996"></span>
+
+
+
+<p>1.Yöntem;</p>
+
+
+
+<p>Uygulama kısayolu veya exe dosyasının üzerine sağ tık -&gt;Özellikler-&gt;Uyumluluk-&gt;Yüksek DPI ayarları-&gt;Yüksek DPI ölçeklendirme davranışını geçersiz kılın.  Ölçeklendirme şu şekilde gerçekleştirilir; değeri işaretlenerek -&gt;Sistem (Geliştirilmiş) seçilir ve Uygula butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/8h3eic7.gif" alt=""/></figure>
+
+
+
+<p>2.Yöntem;</p>
+
+
+
+<p>Uygulama açılarak ->Ayarlar->Oynatıcı->Gelişmiş ->Donanımla hızlandırılmış kod çözme seçeneği aktifleştirilerek uygulama yeniden başlatılır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/osicn1u.gif" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>CPU ile mining nasıl yapılır?</title>
 		<link>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/</link>
 					<comments>https://bilisimkurdu.github.io/cpu-ile-mining-nasil-yapilir/#respond</comments>
@@ -723,64 +795,6 @@ Adblock eklentileri şu şekilde çalışır;<br />
 <p>Bir VPN hizmeti üyeliği almadan önce günlük tutma ilkelerine, sunucuların konumlarına ve başkalarının yorumlarına bakın.</p><p>The post <a href="https://bilisimkurdu.github.io/vpn-guvenli-mi/">VPN GÜVENLİ Mİ?</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/vpn-guvenli-mi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</title>
-		<link>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/</link>
-					<comments>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 01 Nov 2016 14:14:02 +0000</pubDate>
-				<category><![CDATA[İnternet]]></category>
-		<category><![CDATA[300 000 kişi]]></category>
-		<category><![CDATA[300 000 kişiye bedava internet]]></category>
-		<category><![CDATA[300 000 kişiye bedava internet geliyor]]></category>
-		<category><![CDATA[300 000 kişiye ücretsiz internet]]></category>
-		<category><![CDATA[300 000 kişiye ücretsiz internet geliyor]]></category>
-		<category><![CDATA[aile]]></category>
-		<category><![CDATA[aile ve sosyal poltikalar bakanlığı]]></category>
-		<category><![CDATA[bakanlığı]]></category>
-		<category><![CDATA[bedava]]></category>
-		<category><![CDATA[bedava internet]]></category>
-		<category><![CDATA[bilişim]]></category>
-		<category><![CDATA[bilişim kurdu]]></category>
-		<category><![CDATA[bilişim kurdu youtube kanalı]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[bloglama]]></category>
-		<category><![CDATA[bloglandırma]]></category>
-		<category><![CDATA[denizcilik]]></category>
-		<category><![CDATA[geliyor]]></category>
-		<category><![CDATA[hoşgeldiniz]]></category>
-		<category><![CDATA[internet]]></category>
-		<category><![CDATA[kanal]]></category>
-		<category><![CDATA[kurt]]></category>
-		<category><![CDATA[maliye]]></category>
-		<category><![CDATA[maliye bakanlığı]]></category>
-		<category><![CDATA[poltika]]></category>
-		<category><![CDATA[sosyal]]></category>
-		<category><![CDATA[ücretsiz]]></category>
-		<category><![CDATA[ücretsiz internet]]></category>
-		<category><![CDATA[ulaşım]]></category>
-		<category><![CDATA[ulaşım ve denizcilik bakanlığı]]></category>
-		<category><![CDATA[vakfı]]></category>
-		<category><![CDATA[ve]]></category>
-		<category><![CDATA[yardımlaşma]]></category>
-		<category><![CDATA[youtube]]></category>
-		<category><![CDATA[youtube kanalı]]></category>
-		<guid isPermaLink="false">http://bilisimkurdu.cf/?p=42</guid>
-
-					<description><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor. İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Aralık ayın sonunda 300.000 Türkiye Cumhuriyeti vatandaşın evine ücretsiz internet giriyor.<br />
-İlk olarak 1 yıl önce duyurulan &#8220;ücretsiz internet&#8221; uygulaması, Aralık ayının sonunda başlıyor. Aile ve Sosyal Politikalar Bakanlığı, Kalkınma Bakanlığı, Maliye Bakalnlığı, Ulaştırma Denizcilik ve Haberleşme Bakanlığı ve Bilgi Teknolojileri ve İletişim Kurumu&#8217;nun ortak çalışmaları sonucunda hayata geçirilecek olan uygulama için 40 milyon TL&#8217;lik bir kaynak ayrıldığı bildiriliyor.<br />
-<span id="more-42"></span><br />
-Ancak uygulamadan herkesin yararlanması söz konusu değil, bedava internet erişimi, sadece düşük gelirli ailelere sunulacak. Sosyal Yardımlaşma ve Dayanışma Vakıfları tarafından belirlenecek olan 300.000 vatandaş, bedava internet erişimine sahip olacak.</p>
-<p>Sunulacak internetin kotası henüz açıklanmamış olup bağlantı aile koruma şifresiyle korunması beklenmekte.</p><p>The post <a href="https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/">300.000 KİŞİYE ÜCRETSİZ İNTERNET GELİYOR</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/300-000-kisiye-bedava-internet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

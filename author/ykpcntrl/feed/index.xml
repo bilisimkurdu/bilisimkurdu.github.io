@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimkurdu.github.io/author/ykpcntrl/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Sun, 01 Dec 2024 17:25:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Dec 2024 16:35:20 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Stremio crashes at 4K resolution</title>
+		<link>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/</link>
+					<comments>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 16:34:32 +0000</pubDate>
+				<category><![CDATA[İnternet]]></category>
+		<category><![CDATA[stremio 4k]]></category>
+		<category><![CDATA[stremio 4k black screen]]></category>
+		<category><![CDATA[stremio 4k crash]]></category>
+		<category><![CDATA[stremio 4k kapanıyor]]></category>
+		<category><![CDATA[stremio 4k lag]]></category>
+		<category><![CDATA[stremio 4k not working]]></category>
+		<category><![CDATA[Stremio crashes at 4K resolution]]></category>
+		<category><![CDATA[Stremio film açılmıyor]]></category>
+		<category><![CDATA[stremio kapanıyor]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=996</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçimiz, Bu yazımızda Stremio uygulamasının 4k içeriklerde crash (uygulamayı atma) durumunun çözümü hususunda olacak. Uygulamanın atma problemi iki yöntemden biri veya her iki yöntemin uygulanması gerektirebilir. 1.Yöntem; Uygulama kısayolu veya exe dosyasının üzerine sağ tık -&#62;Özellikler-&#62;Uyumluluk-&#62;Yüksek DPI ayarları-&#62;Yüksek DPI ölçeklendirme davranışını geçersiz kılın. Ölçeklendirme şu şekilde gerçekleştirilir; değeri işaretlenerek -&#62;Sistem (Geliştirilmiş) seçilir ve&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçimiz,</p>
+
+
+
+<p>Bu yazımızda Stremio uygulamasının 4k içeriklerde crash (uygulamayı atma) durumunun çözümü hususunda olacak.</p>
+
+
+
+<p>Uygulamanın atma problemi iki yöntemden biri veya her iki yöntemin uygulanması gerektirebilir.</p>
+
+
+
+<span id="more-996"></span>
+
+
+
+<p>1.Yöntem;</p>
+
+
+
+<p>Uygulama kısayolu veya exe dosyasının üzerine sağ tık -&gt;Özellikler-&gt;Uyumluluk-&gt;Yüksek DPI ayarları-&gt;Yüksek DPI ölçeklendirme davranışını geçersiz kılın.  Ölçeklendirme şu şekilde gerçekleştirilir; değeri işaretlenerek -&gt;Sistem (Geliştirilmiş) seçilir ve Uygula butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/8h3eic7.gif" alt=""/></figure>
+
+
+
+<p>2.Yöntem;</p>
+
+
+
+<p>Uygulama açılarak ->Ayarlar->Oynatıcı->Gelişmiş ->Donanımla hızlandırılmış kod çözme seçeneği aktifleştirilerek uygulama yeniden başlatılır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/osicn1u.gif" alt=""/></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Visual Studio Microsoft.NET.Sdk Not Found</title>
 		<link>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/</link>
 					<comments>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/#respond</comments>
@@ -806,139 +878,6 @@ clean</code></pre>
 <p>Windows ile Mac OS arasında geçiş yapmak için klavyeden Option ve R veya Alt ve R tuşuna basıyoruz.</p><p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>backgroundTaskHost.exe &#8211; Sistem Hatası</title>
-		<link>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/</link>
-					<comments>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Thu, 31 Mar 2022 08:42:17 +0000</pubDate>
-				<category><![CDATA[PC]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[backgroundTaskHost.exe]]></category>
-		<category><![CDATA[Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.]]></category>
-		<category><![CDATA[The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=934</guid>
-
-					<description><![CDATA[<p>Merhabalar, Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhabalar,</p>
-
-
-
-<p>Bu yazımızda yoğun işlem sonrası bilgisayarın afallayıp backgroundTaskHost.exe &#8220;Sistem bu uygulamada yığın tabanlı bir arabelleğin taştığını algıladı. Bu taşma kötü niyetli bir kullanıcının bu uygulamanın denetimini ele geçirmesine olanak verebilir.&#8221; &#8220;The system has detected that a stack-based buffer is overflowing in this application. This overflow could allow a malicious user to take control of this application.&#8221; hatası ile karşılaşılabilmektedir. </p>
-
-
-
-<span id="more-934"></span>
-
-
-
-<p>Hatanın çözümü için;</p>
-
-
-
-<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
-
-
-
-<p>-&gt;cmd yazınız ve karşınıza çıkan ifadeyi sağ tık Yönetici olarak çalıştır seçeneğini tıklayınız.</p>
-
-
-
-<p>-&gt;Aşağıdaki komutları sırasıyla giriniz.</p>
-
-
-
-<pre class="wp-block-code"><code>SFC /scannow
-DISM /Online /Cleanup-Image /RestoreHealth
-</code></pre>
-
-
-
-<p>İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
-
-
-
-<p>-&gt;Eğer aynı hata devam ederse;</p>
-
-
-
-<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
-
-
-
-<p>-&gt;Windows Update yazarak güncellemeleri denetleyip güncellemeleri yapınız.</p>
-
-
-
-<p>-&gt;İşlem bittikten sonra bilgisarınızı yeniden başlatınız.</p>
-
-
-
-<p>Yine çözülmezse sistem</p>
-
-
-
-<p>-&gt;Başlat tuşu veya Sol alttaki windows simgesine tıklayınız.</p>
-
-
-
-<p>-&gt;Denetim Masası yazınız. </p>
-
-
-
-<p>-&gt;Kurtarma -&gt; Sistem geri yükleme aşamalarını takip ediniz.</p>
-
-
-
-<p>-&gt;Karşınıza geri çıkan sihirbazı takip ederek hatadan önceki güne dönüş sağlanır.</p>
-
-
-
-<p></p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-15.png?width=1500" alt="" class="wp-image-102541"/></figure>
-
-
-
-<p>After that, locate and click on the ‘Recovery’ tile from the grid of options to continue.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-14.png?width=1500" alt="" class="wp-image-102539"/></figure>
-
-
-
-<p></p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-16.png?width=1500" alt="" class="wp-image-102542"/></figure>
-
-
-
-<p></p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-17.png?width=1500" alt="" class="wp-image-102544"/></figure>
-
-
-
-<p></p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://cdn.allthings.how/wp-content/uploads/2022/01/allthings.how-how-to-fix-backgroundtaskhost-exe-error-in-windows-11-image-18.png?width=1500" alt="" class="wp-image-102545"/></figure><p>The post <a href="https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/">backgroundTaskHost.exe – Sistem Hatası</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/backgroundtaskhost-exe-sistem-hatasi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
