@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -61,7 +61,7 @@
 
 					<description><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik 🙂 ve ubuntu sistemime kurmaya başladım. Öncelikle sudo apt-get install curl ile curl paketini yüklüyoruz. curl https://packages.microsoft.com/keys/microsoft.asc &#124; sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz. sudo apt-get update sudo apt-get install mssql-server mssql-tools -y   komutuyla MSSQL&#8217;i yüklüyoruz. sudo /opt/mssql/bin/sqlservr-setup&#8230;</p>
 <p>The post <a href="https://bilisimkurdu.github.io/server-sisteme-kurulum-ubuntu/">SQL SERVER LİNUX SİSTEME KURULUM (UBUNTU)</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
+										<content:encoded><![CDATA[<p>Sql server linux için de hazır nasıl olsa bizde bu nimetten faydanalım dedik <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ve ubuntu sistemime kurmaya başladım.</p>
 <p>Öncelikle</p>
 <p>sudo apt-get install curl ile curl paketini yüklüyoruz.</p>
 <p>curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add &#8211;   ile MSSQL depolarını ekliyoruz.</p>

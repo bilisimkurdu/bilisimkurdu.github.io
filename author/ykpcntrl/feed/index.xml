@@ -12,13 +12,13 @@
 	<atom:link href="https://bilisimkurdu.github.io/author/ykpcntrl/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimkurdu.github.io</link>
 	<description>Bilişim Hakkında Her Şey</description>
-	<lastBuildDate>Mon, 09 Dec 2024 16:35:20 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Aug 2025 18:02:22 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
 	<url>https://bilisimkurdu.github.io/wp-content/uploads/2020/04/Logo-1-150x150.png</url>
@@ -28,6 +28,119 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Reeder ve Onyx Ebook Reader Google Play Sertifika error fix [%100]</title>
+		<link>https://bilisimkurdu.github.io/reederonyx-ebook-reader-google-play-sertifika-hatasi/</link>
+					<comments>https://bilisimkurdu.github.io/reederonyx-ebook-reader-google-play-sertifika-hatasi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 17:59:47 +0000</pubDate>
+				<category><![CDATA[Mobil]]></category>
+		<category><![CDATA[google play certification error]]></category>
+		<category><![CDATA[google play protect certification error]]></category>
+		<category><![CDATA[onyx google play certification error]]></category>
+		<category><![CDATA[onyx google play error]]></category>
+		<category><![CDATA[onyx google play protect certification error]]></category>
+		<category><![CDATA[reeder google platy protect sertifika hatası]]></category>
+		<category><![CDATA[reeder google play hatası]]></category>
+		<category><![CDATA[reeder google play sertifika hatası]]></category>
+		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=1001</guid>
+
+					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Hastalıık,iş yoğunluğu gibi sebeplerden ötürü blogu güncelleyemedim. Anlayışınız için teşekkür ederim 🙂 Bu yazımızda Reeder ve Onyx e-kitap Okuyucularda yaşanan Google Play Sertifika hatası hususnda olacak. E-kitap okuyucularda e-ink teknolojisi ile döküman okurken gözü yormamasıdır o sebeple Google Play önemsenmemiş olablir. Şimdi geçelim nasıl çözeceğimize Uygulamalar (Apps)&#8217;a gelip sağ üstte bulunan üç&#8230;</p>
+<p>The post <a href="https://bilisimkurdu.github.io/reederonyx-ebook-reader-google-play-sertifika-hatasi/">Reeder ve Onyx Ebook Reader Google Play Sertifika error fix [%100]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
+
+
+
+<p>Hastalıık,iş yoğunluğu gibi sebeplerden ötürü blogu güncelleyemedim. Anlayışınız için teşekkür ederim <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Bu yazımızda Reeder ve Onyx e-kitap Okuyucularda yaşanan Google Play Sertifika hatası hususnda olacak.</p>
+
+
+
+<span id="more-1001"></span>
+
+
+
+<p>E-kitap okuyucularda e-ink teknolojisi ile döküman okurken gözü yormamasıdır o sebeple Google Play önemsenmemiş olablir.</p>
+
+
+
+<p>Şimdi geçelim nasıl çözeceğimize</p>
+
+
+
+<p>Uygulamalar (Apps)&#8217;a gelip sağ üstte bulunan üç çizgi -&gt;Uygulamaları yönet (App Managment) -&gt;GSF ID (Enable Google Suite) aşamaları takip ederiz.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/sccsnkf.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/8dlcscj.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/9wi1y76.png" alt=""/></figure>
+
+
+
+<p>GSF ID yazan yere tıklandığında Google hesap (gmail) oturum sayfası gelecektir. Oturum açıldıktan sonra karşımıza gelen sayfada GSF ID kutucuğa otomatik olarak yazacak olup, reCAPTCHA&#8217;yı çözdükten sonra &#8220;Kayıt&#8221; butonuna tıklanır.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/5avr2be.png" alt=""/></figure>
+
+
+
+<p>Kayıt işlemi tamamlandıktan sonra Uygulamaları yönet sayfası tekrardan açılacak olup &#8220;Google Ayarları&#8221; na gelip karşımıza çıkan pencereden &#8220;Oturum Aç butotuna tıklayıp Google hesabını ekliyoruz.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/9wi1y76.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/sovre6j.png" alt=""/></figure>
+
+
+
+<p>İşlemler bittikten sonra &#8220;Uygulamalar&#8221; menüsüne geldikten sonra Google Play uygulamasını açıyoruz.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://i.hizliresim.com/qrxc5x1.png" alt=""/></figure>
+
+
+
+<p>Problem çözülmüş olur.</p>
+
+
+
+<p>Anlaşılmayan birşeyler olabilir diyerekten videomuzu bırakalım.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Onyx,Reader E-book reader Google Play Protect Certification error fix [%100 fix]" width="1180" height="664" src="https://www.youtube.com/embed/2nRhIZdpTJ0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Eğer bu yazıyla ilişkin anlatamadığım\anlaşılamayan konular varsa yazının altına yorum yapabilirsiniz.</p>
+
+
+
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/reederonyx-ebook-reader-google-play-sertifika-hatasi/">Reeder ve Onyx Ebook Reader Google Play Sertifika error fix [%100]</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://bilisimkurdu.github.io/reederonyx-ebook-reader-google-play-sertifika-hatasi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Stremio crashes at 4K resolution</title>
 		<link>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/</link>
 					<comments>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/#respond</comments>
@@ -92,7 +205,7 @@
 
 
 
-<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/">Stremio crashes at 4K resolution</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/stremio-crashes-at-4k-resolution/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -151,7 +264,7 @@
 
 
 
-<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/">Visual Studio Microsoft.NET.Sdk Not Found</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/">Visual Studio Microsoft.NET.Sdk Not Found</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/visual-studio-microsoft-net-sdk-not-found/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -379,7 +492,7 @@
 
 
 
-<p>Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Bazı hatanın çözümü basit olmakla birlikte araştırması fazlaca uğraşı vermek gerekebilir <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -421,7 +534,7 @@
 
 
 
-<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>İyi Akşamlar <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/">Security Update for SQL Server 2022 KB5042211 update 0x8024000b fix</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/security-update-for-sql-server-2022-kb5042211-update-0x8024000b-fix/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -587,7 +700,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="OLCP Sonoma 14.4 update sonrası Wifi problem Wifi problem is not after OLCP Sonoma 14.4 update" width="1180" height="664" src="https://www.youtube.com/embed/Ev2Lf0dxA2U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="OLCP Sonoma 14.4 update sonrası Wifi problem Wifi problem is not after OLCP Sonoma 14.4 update" width="1180" height="664" src="https://www.youtube.com/embed/Ev2Lf0dxA2U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -622,7 +735,7 @@
 
 
 
-<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En başta gecikmeli de olsa yeni yılıda Allah&#8217;tan dilediklerinizin kabul olmasını ve yeni yılın güzellikleri yaşamanızı dilerim <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -730,154 +843,9 @@
 
 
 
-<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
+<p>Selametle kalınız <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p>The post <a href="https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/">OpenCore Legacy Patcher Csrutil Disable</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://bilisimkurdu.github.io/opencore-legacy-patcher-csrutil-disable/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Mac bilgisayarlarında ikinci diske windows kurmak</title>
-		<link>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/</link>
-					<comments>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/#respond</comments>
-		
-		<dc:creator><![CDATA[Yakup CONTARLI]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 18:41:00 +0000</pubDate>
-				<category><![CDATA[MacOS]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[Boot Camp]]></category>
-		<category><![CDATA[bootcamp]]></category>
-		<category><![CDATA[HOW TO USE BOOT CAMP ON AN EXTERNAL DRIVE TO RUN WINDOWS ON A MAC]]></category>
-		<category><![CDATA[imac ikinci diske windows kurmak]]></category>
-		<category><![CDATA[install windows on mac os second disk]]></category>
-		<category><![CDATA[Installing Boot Camp and Windows on the 2nd Internal Drive?]]></category>
-		<category><![CDATA[Installing Windows on Mac with 2nd SSD and Bootcamp]]></category>
-		<category><![CDATA[installing windows on second disk with bootcamp]]></category>
-		<category><![CDATA[mac ikinci diske windows kurmak]]></category>
-		<category><![CDATA[mac os]]></category>
-		<category><![CDATA[mac os ikinci diske windows kurmak]]></category>
-		<category><![CDATA[macbook ikinci diske windows kurmak]]></category>
-		<category><![CDATA[Two Bootcamp installations: first one on Internal HDD and second one on external Thunderbolt 2 SSD]]></category>
-		<category><![CDATA[Using BootCamp and insalling it on second drive of system.]]></category>
-		<guid isPermaLink="false">https://bilisimkurdu.github.io/?p=940</guid>
-
-					<description><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz, Biraz meşguliyet,bilgisayar değişimi hem de siteye erişimi kaybettiğim için (github mail erişimi) siteye yazı yazmak nasip olmamıştı. Anlayışınıza sığınırım artık 🙂 Bu yazımızda Mac sistemlerine (iMac,Macbook Air,Macbook Pro,Mac Mini,Mac Studio) sistemlerinde takılan ikinci diske windows kurulumunu anlatmaya çalışacağım. Not :Bu işlem için PCI-E ve Sata girişli Mac sistemi bulunması gerekmektedir. Disk bölümü&#8230;</p>
-<p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Merhaba Kıymetli Ziyaretçilerimiz,</p>
-
-
-
-<p>Biraz meşguliyet,bilgisayar değişimi hem de siteye erişimi kaybettiğim için (github mail erişimi) siteye yazı yazmak nasip olmamıştı.</p>
-
-
-
-<p>Anlayışınıza sığınırım artık <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<span id="more-940"></span>
-
-
-
-<p>Bu yazımızda Mac sistemlerine (iMac,Macbook Air,Macbook Pro,Mac Mini,Mac Studio) sistemlerinde takılan ikinci diske windows kurulumunu anlatmaya çalışacağım.</p>
-
-
-
-<p>Not :Bu işlem için PCI-E ve Sata girişli Mac sistemi bulunması gerekmektedir.</p>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<p>Disk bölümü seçeneğine geldiğimizde Windows’a kısıtlı alan verip Boot Camp ile Windows isosunu yazdırıp Apple Windows Destek yazılımını yüklediğimimizde “Disk İzlencesi” ni açalım.</p>
-
-
-
-<p>Diskimizde bölüm olan “BOOTCAMP” bölümünü silip ana diski birleştirelim.</p>
-
-
-
-<figure class="wp-block-image is-resized"><img decoding="async" src="https://i.hizliresim.com/2kafgy0.png" alt="" style="width:840px;height:auto"/></figure>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/eyti510.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/pn87ukq.png" alt=""/></figure>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/eccfn12.png" alt=""/></figure>
-
-
-
-<p>İkinci defa Boot Camp’i açalım ve disk bölüm aşamasına geldiğimizde “Etkinlik Monitörü” üzerinden bootcamp’i sonlandıralım.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/is81zqd.png" alt=""/></figure>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4002837437256869" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4002837437256869" data-ad-slot="8890530034"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<p>Ayarlar-&gt; Genel -&gt; Başlangıç Diski aşamalarını takip ederek Windows’u seçerek “Yeniden Başlat” butonuna tıklıyoruz.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://i.hizliresim.com/5x7nx6m.png" alt=""/></figure>
-
-
-
-<p>Windows kurulum aşamasına geldiğimizde disk seçim aşamasına gelip;</p>
-
-
-
-<p>Klavyeden Shift ve F10 tuşlarına basıyoruz. Karşımıza çıkan cmd penceresine aşağıdaki komutları yazıyoruz.</p>
-
-
-
-<pre class="wp-block-code"><code>diskpart
-list disk
-select disk 1 (Anasistem olan Mac OS kurulu olmayan diski seçiyoruz.)
-clean</code></pre>
-
-
-
-<p>Akabinde “Yenile” ye tıklayarak Windows kurulacak disk seçilir.</p>
-
-
-
-<p>Windows kurulduktan sonra Boot Camp asistan yüklenir.</p>
-
-
-
-<p>Windows ile Mac OS arasında geçiş yapmak için klavyeden Option ve R veya Alt ve R tuşuna basıyoruz.</p><p>The post <a href="https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/">Mac bilgisayarlarında ikinci diske windows kurmak</a> first appeared on <a href="https://bilisimkurdu.github.io">Bilişim Kurdu</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://bilisimkurdu.github.io/mac-bilgisayarlarinda-ikinci-diske-windows-kurmak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
