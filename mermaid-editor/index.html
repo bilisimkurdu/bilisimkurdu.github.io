@@ -206,6 +206,51 @@
       background-color: #dc2626;
     }
 
+    .btn-eink {
+      background-color: #18181b;
+      color: #f4f4f5;
+      border: 1px solid #71717a;
+    }
+
+    .btn-eink:hover {
+      background-color: #27272a;
+      border-color: #e4e4e7;
+      color: #ffffff;
+    }
+
+    .theme-selector {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .theme-btn {
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      color: var(--text-muted);
+      padding: 0.35rem 0.65rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .theme-btn:hover {
+      color: var(--text-main);
+      background-color: var(--bg-surface-hover);
+    }
+
+    .theme-btn.active {
+      background-color: var(--accent);
+      color: #ffffff;
+      border-color: var(--accent);
+      font-weight: 600;
+    }
+
     /* Ana İçerik ve Editör Yerleşimi */
     .main-wrapper {
       max-width: 1600px;
@@ -613,13 +658,20 @@
     <!-- Şablon Seçici & Araç Çubuğu -->
     <section class="toolbar-card" aria-label="Şablon ve Dışa Aktarma Araçları">
       <div class="template-selector">
-        <span class="toolbar-label">Örnek Şablonlar:</span>
+        <span class="toolbar-label">Şablonlar:</span>
         <button type="button" class="chip-btn active" data-template="kavram">Kavram Haritası</button>
-        <button type="button" class="chip-btn" data-template="akis">Akış Şeması (Flowchart)</button>
-        <button type="button" class="chip-btn" data-template="zihin">Zihin Haritası (Mindmap)</button>
-        <button type="button" class="chip-btn" data-template="sirali">Sıralı Diyagram (Sequence)</button>
-        <button type="button" class="chip-btn" data-template="sinif">Sınıf Şeması (Class)</button>
-        <button type="button" class="chip-btn" data-template="durum">Durum Şeması (State)</button>
+        <button type="button" class="chip-btn" data-template="akis">Akış Şeması</button>
+        <button type="button" class="chip-btn" data-template="zihin">Zihin Haritası</button>
+        <button type="button" class="chip-btn" data-template="sirali">Sıralı Şema</button>
+        <button type="button" class="chip-btn" data-template="sinif">Sınıf Şeması</button>
+        <button type="button" class="chip-btn" data-template="durum">Durum Şeması</button>
+      </div>
+
+      <div class="theme-selector" aria-label="Diyagram Arka Plan ve Renk Teması">
+        <span class="toolbar-label">Arka Plan &amp; Stil:</span>
+        <button type="button" class="theme-btn active" data-theme="dark" title="Koyu Arka Plan ve Koyu Renkler">🌙 Koyu</button>
+        <button type="button" class="theme-btn" data-theme="white" title="Beyaz Arka Plan ve Renkli Çizim">☀️ Beyaz (Renkli)</button>
+        <button type="button" class="theme-btn" data-theme="eink" title="E-Ink Ekran ve Baskıya Uygun Siyah-Beyaz">📖 E-Ink (S/B)</button>
       </div>
 
       <div class="action-group">
@@ -627,13 +679,16 @@
           📋 Kopyala
         </button>
         <button type="button" id="btn-download-svg" class="btn btn-primary" title="Vektörel SVG Olarak İndir">
-          💾 SVG İndir
+          💾 SVG
         </button>
         <button type="button" id="btn-download-png" class="btn btn-success" title="Resim (PNG) Olarak İndir">
-          🖼️ PNG İndir
+          🖼️ PNG
         </button>
-        <button type="button" id="btn-download-pdf" class="btn btn-pdf" title="Diyagramı PDF Olarak İndir">
-          📄 PDF İndir
+        <button type="button" id="btn-download-pdf" class="btn btn-pdf" title="Renkli PDF Dokümanı İndir">
+          📄 PDF (Renkli)
+        </button>
+        <button type="button" id="btn-download-pdf-eink" class="btn btn-eink" title="E-Ink Ekran ve Baskıya Özel Siyah-Beyaz Yüksek Kontrastlı PDF İndir">
+          📖 PDF (E-Ink S/B)
         </button>
         <button type="button" id="btn-clear" class="btn btn-outline" title="Editörü Temizle">
           🗑️ Temizle
@@ -890,20 +945,33 @@
         charCounterEl.textContent = `Karakter: ${len}`;
       }
 
+      // Aktif Tema Durumu: 'dark' (Koyu), 'white' (Beyaz Renkli), 'eink' (E-Ink Siyah-Beyaz)
+      let currentTheme = 'dark';
+
+      // Önizleme Arka Planını Güncelleme
+      function updatePreviewThemeUI() {
+        const previewContainer = document.getElementById('preview-container');
+        if (currentTheme === 'dark') {
+          previewContainer.style.backgroundColor = '#0d1322';
+        } else {
+          previewContainer.style.backgroundColor = '#ffffff';
+        }
+      }
+
       // Mermaid Başlatma
       let isMermaidReady = false;
       function initMermaid() {
         if (typeof mermaid !== 'undefined') {
+          const mTheme = currentTheme === 'dark' ? 'dark' : (currentTheme === 'white' ? 'default' : 'neutral');
           mermaid.initialize({
             startOnLoad: false,
-            theme: 'dark',
+            theme: mTheme,
             securityLevel: 'loose',
             fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
           });
           isMermaidReady = true;
           renderDiagram();
         } else {
-          // Defer script yüklenene kadar bekle
           setTimeout(initMermaid, 50);
         }
       }
@@ -926,7 +994,6 @@
         renderId++;
         const currentId = `mermaid-node-${renderId}`;
 
-        // Yeni render düğümünü temiz şekilde hazırla
         diagramOutputEl.innerHTML = '';
         const preNode = document.createElement('pre');
         preNode.className = 'mermaid';
@@ -937,11 +1004,16 @@
         statusTextEl.textContent = 'Durum: Render ediliyor...';
 
         try {
-          // Talimat gereği doğrudan mermaid.run() fonksiyonu tetiklenir
           await mermaid.run({
             nodes: [preNode]
           });
-          
+
+          // Eğer E-Ink veya Beyaz tema aktifse, önizleme SVG'sine canlı görsel stilleri uygula
+          const svgEl = diagramOutputEl.querySelector('svg');
+          if (svgEl) {
+            applyThemeStylesToSvg(svgEl, currentTheme);
+          }
+
           errorBoxEl.style.display = 'none';
           statusTextEl.textContent = 'Durum: Güncel & Çizildi';
         } catch (err) {
@@ -952,16 +1024,29 @@
         }
       }
 
-      // Debounce: Kullanıcı yazarken akıcı ve performanslı güncelleme
+      // Debounce
       let debounceTimer = null;
       function debouncedRender() {
         clearTimeout(debounceTimer);
         debounceTimer = setTimeout(renderDiagram, 250);
       }
 
-      // Event Dinleyicisi: Textarea input olayı ile anlık canlı önizleme
       inputEl.addEventListener('input', () => {
         debouncedRender();
+      });
+
+      // Tema Seçici Butonları
+      const themeButtons = document.querySelectorAll('.theme-btn');
+      themeButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          themeButtons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+
+          currentTheme = btn.getAttribute('data-theme') || 'dark';
+          updatePreviewThemeUI();
+          initMermaid();
+          showToast(`Stil: ${btn.textContent.trim()} aktif`);
+        });
       });
 
       // Şablon Butonları Etkileşimi
@@ -1004,7 +1089,7 @@
         }
       });
 
-      // Güvenli Dosya İndirme Tetikleyicisi (URL erken iptalini önler)
+      // Güvenli Dosya İndirme Tetikleyicisi
       function triggerDownload(blobOrDataUrl, filename) {
         const isBlob = blobOrDataUrl instanceof Blob;
         const url = isBlob ? URL.createObjectURL(blobOrDataUrl) : blobOrDataUrl;
@@ -1016,7 +1101,6 @@
         document.body.appendChild(downloadLink);
         downloadLink.click();
 
-        // Tarayıcının dosyayı indirmesine fırsat tanımak için revoke işlemi geciktirilir
         setTimeout(() => {
           if (document.body.contains(downloadLink)) {
             document.body.removeChild(downloadLink);
@@ -1027,11 +1111,38 @@
         }, 4000);
       }
 
-      // Mermaid SVG Elementini Dışa Aktarıma Hazırlama
-      function getPreparedSvg(svgEl) {
+      // SVG Üzerine E-Ink veya Beyaz Tema CSS Kurallarını Enjekte Eden Fonksiyon
+      function applyThemeStylesToSvg(svgElement, theme) {
+        const oldStyle = svgElement.querySelector('style.injected-export-theme');
+        if (oldStyle) oldStyle.remove();
+
+        if (theme === 'eink') {
+          const style = document.createElementNS('http://www.w3.org/2000/svg', 'style');
+          style.className = 'injected-export-theme';
+          style.textContent = `
+            text, tspan, span, .nodeLabel, .label { fill: #000000 !important; color: #000000 !important; font-weight: 700 !important; }
+            path, line, polyline, .edgePath path, .flowchart-link { stroke: #000000 !important; stroke-width: 2px !important; }
+            rect:not(.bg-rect), circle, polygon, .node rect, .node circle, .node polygon { fill: #ffffff !important; stroke: #000000 !important; stroke-width: 2px !important; }
+            .marker, marker path, #flowchart-pointEnd, #statediagram-barbEnd { fill: #000000 !important; stroke: #000000 !important; }
+            .cluster rect { fill: #fafafa !important; stroke: #000000 !important; stroke-dasharray: 4,4 !important; }
+          `;
+          svgElement.appendChild(style);
+        } else if (theme === 'white') {
+          const style = document.createElementNS('http://www.w3.org/2000/svg', 'style');
+          style.className = 'injected-export-theme';
+          style.textContent = `
+            text, tspan, span, .nodeLabel, .label { fill: #0f172a !important; color: #0f172a !important; font-weight: 600 !important; }
+            .edgePath path, .flowchart-link { stroke: #334155 !important; }
+            marker path { fill: #334155 !important; stroke: #334155 !important; }
+          `;
+          svgElement.appendChild(style);
+        }
+      }
+
+      // Mermaid SVG Elementini Belirtilen Temaya Göre Dışa Aktarıma Hazırlama
+      function getPreparedSvg(svgEl, theme = currentTheme) {
         const clone = svgEl.cloneNode(true);
 
-        // Genişlik ve yükseklik tespiti
         let width = 0;
         let height = 0;
 
@@ -1053,34 +1164,38 @@
         width = Math.max(Math.round(width) || 800, 300);
         height = Math.max(Math.round(height) || 600, 200);
 
-        // SVG özelliklerini kesinleştir
         clone.setAttribute('width', width);
         clone.setAttribute('height', height);
         clone.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
         clone.setAttribute('xmlns:xlink', 'http://www.w3.org/1999/xlink');
 
-        // Arka planı koyu tema rengiyle doldur ki PNG/PDF çıktılarında transparan kayıplar olmasın
+        const bgColor = (theme === 'dark') ? '#0d1322' : '#ffffff';
+
+        // Arka plan dikdörtgeni ekle
         const bgRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+        bgRect.className.baseVal = 'bg-rect';
         bgRect.setAttribute('x', '0');
         bgRect.setAttribute('y', '0');
         bgRect.setAttribute('width', '100%');
         bgRect.setAttribute('height', '100%');
-        bgRect.setAttribute('fill', '#0d1322');
+        bgRect.setAttribute('fill', bgColor);
         clone.insertBefore(bgRect, clone.firstChild);
+
+        // Tema stillerini klona enjekte et
+        applyThemeStylesToSvg(clone, theme);
 
         const serializer = new XMLSerializer();
         const svgString = serializer.serializeToString(clone);
 
-        return { svgString, width, height };
+        return { svgString, width, height, bgColor, theme };
       }
 
-      // SVG'yi Canvas'a Render Eden Yardımcı Promise (Local file:/// ve Cross-Origin Uyumlu)
-      function svgToCanvas(svgEl, scale = 2) {
+      // SVG'yi Canvas'a Render Eden Fonksiyon (E-Ink piksel filtrelemesi dahil)
+      function svgToCanvas(svgEl, scale = 2, theme = currentTheme) {
         return new Promise((resolve, reject) => {
           try {
-            const { svgString, width, height } = getPreparedSvg(svgEl);
+            const { svgString, width, height, bgColor } = getPreparedSvg(svgEl, theme);
 
-            // UTF-8 uyumlu Base64 Data URI (file:/// protokolünde tainted canvas ve blob erişim engellerini aşar)
             const base64Data = btoa(unescape(encodeURIComponent(svgString)));
             const dataUri = 'data:image/svg+xml;base64,' + base64Data;
 
@@ -1099,9 +1214,23 @@
                   return;
                 }
 
-                ctx.fillStyle = '#0d1322';
+                ctx.fillStyle = bgColor;
                 ctx.fillRect(0, 0, canvas.width, canvas.height);
                 ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+                // E-Ink modunda gri tonlama ve keskin siyah-beyaz eşiklemesi
+                if (theme === 'eink') {
+                  const imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+                  const d = imgData.data;
+                  for (let i = 0; i < d.length; i += 4) {
+                    const gray = 0.299 * d[i] + 0.587 * d[i+1] + 0.114 * d[i+2];
+                    const val = gray > 185 ? 255 : (gray < 90 ? 0 : Math.round(gray * 0.8));
+                    d[i] = val;
+                    d[i+1] = val;
+                    d[i+2] = val;
+                  }
+                  ctx.putImageData(imgData, 0, 0);
+                }
 
                 resolve({ canvas, width, height });
               } catch (drawErr) {
@@ -1129,10 +1258,10 @@
         }
 
         try {
-          const { svgString } = getPreparedSvg(svgEl);
+          const { svgString } = getPreparedSvg(svgEl, currentTheme);
           const blob = new Blob([svgString], { type: 'image/svg+xml;charset=utf-8' });
-          triggerDownload(blob, 'bilisimkurdu-mermaid-diyagram.svg');
-          showToast('SVG diyagramı indirildi! 💾');
+          triggerDownload(blob, `bilisimkurdu-mermaid-${currentTheme}.svg`);
+          showToast(`SVG (${currentTheme}) indirildi! 💾`);
         } catch (err) {
           console.error('SVG indirme hatası:', err);
           showToast('SVG indirilemedi: ' + err.message);
@@ -1147,24 +1276,19 @@
           return;
         }
 
-        showToast('PNG hazırlanıyor... 🖼️');
+        showToast(`PNG (${currentTheme}) hazırlanıyor... 🖼️`);
         try {
-          const { canvas } = await svgToCanvas(svgEl, 2);
+          const { canvas } = await svgToCanvas(svgEl, 2, currentTheme);
           if (canvas.toBlob) {
             canvas.toBlob((blob) => {
-              if (blob) {
-                triggerDownload(blob, 'bilisimkurdu-mermaid-diyagram.png');
-                showToast('PNG diyagramı indirildi! 🖼️');
-              } else {
-                const dataUrl = canvas.toDataURL('image/png');
-                triggerDownload(dataUrl, 'bilisimkurdu-mermaid-diyagram.png');
-                showToast('PNG diyagramı indirildi! 🖼️');
-              }
+              const target = blob || canvas.toDataURL('image/png');
+              triggerDownload(target, `bilisimkurdu-mermaid-${currentTheme}.png`);
+              showToast(`PNG (${currentTheme}) indirildi! 🖼️`);
             }, 'image/png');
           } else {
             const dataUrl = canvas.toDataURL('image/png');
-            triggerDownload(dataUrl, 'bilisimkurdu-mermaid-diyagram.png');
-            showToast('PNG diyagramı indirildi! 🖼️');
+            triggerDownload(dataUrl, `bilisimkurdu-mermaid-${currentTheme}.png`);
+            showToast(`PNG (${currentTheme}) indirildi! 🖼️`);
           }
         } catch (err) {
           console.error('PNG hatası:', err);
@@ -1182,7 +1306,6 @@
           jpegBytes[i] = binaryStr.charCodeAt(i);
         }
 
-        // PDF point hesabı (72 DPI)
         const ptWidth = (widthPx * 72) / 96;
         const ptHeight = (heightPx * 72) / 96;
 
@@ -1228,7 +1351,7 @@
         ], { type: 'application/pdf' });
       }
 
-      // Buton: PDF Olarak İndir
+      // Buton: Renkli PDF İndir (Arka Plan Her Zaman Beyaz)
       document.getElementById('btn-download-pdf').addEventListener('click', async () => {
         const svgEl = diagramOutputEl.querySelector('svg');
         if (!svgEl) {
@@ -1236,16 +1359,39 @@
           return;
         }
 
-        showToast('PDF hazırlanıyor... 📄');
+        showToast('Beyaz arka planlı Renkli PDF hazırlanıyor... 📄');
         try {
-          const { canvas, width, height } = await svgToCanvas(svgEl, 2);
+          // PDF export her zaman beyaz ('white') arka plan ile renkli oluşturulur
+          const { canvas, width, height } = await svgToCanvas(svgEl, 2, 'white');
           const jpegDataUrl = canvas.toDataURL('image/jpeg', 0.95);
           const pdfBlob = buildPdfBlob(jpegDataUrl, width * 2, height * 2);
-          triggerDownload(pdfBlob, 'bilisimkurdu-mermaid-diyagram.pdf');
-          showToast('PDF dokümanı indirildi! 📄');
+          triggerDownload(pdfBlob, 'bilisimkurdu-mermaid-renkli.pdf');
+          showToast('Beyaz arka planlı Renkli PDF indirildi! 📄');
         } catch (err) {
           console.error('PDF hatası:', err);
           showToast('PDF oluşturulamadı: ' + err.message);
+        }
+      });
+
+      // Buton: E-Ink ve Baskıya Uygun Siyah-Beyaz PDF İndir (Arka Plan Her Zaman Beyaz)
+      document.getElementById('btn-download-pdf-eink').addEventListener('click', async () => {
+        const svgEl = diagramOutputEl.querySelector('svg');
+        if (!svgEl) {
+          showToast('İndirilecek geçerli bir diyagram bulunamadı.');
+          return;
+        }
+
+        showToast('Beyaz zeminli E-Ink Siyah-Beyaz PDF hazırlanıyor... 📖');
+        try {
+          // E-Ink PDF çıktısı kesin olarak saf beyaz arka plan ('eink') ve keskin siyah çizgilerle üretilir
+          const { canvas, width, height } = await svgToCanvas(svgEl, 2, 'eink');
+          const jpegDataUrl = canvas.toDataURL('image/jpeg', 0.95);
+          const pdfBlob = buildPdfBlob(jpegDataUrl, width * 2, height * 2);
+          triggerDownload(pdfBlob, 'bilisimkurdu-mermaid-eink.pdf');
+          showToast('Beyaz zeminli E-Ink S/B PDF indirildi! 📖');
+        } catch (err) {
+          console.error('E-Ink PDF hatası:', err);
+          showToast('E-Ink PDF oluşturulamadı: ' + err.message);
         }
       });
 
