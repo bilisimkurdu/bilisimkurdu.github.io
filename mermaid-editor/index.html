@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mermaid Editör - Online Kavram Haritası Oluşturma ve Akış Şeması Çizme | Bilişim Kurdu</title>
+  
+  <!-- SEO Meta Etiketleri -->
+  <meta name="description" content="Bilişim Kurdu Mermaid editör ile online kavram haritası oluşturma ve akış şeması çizme işlemlerini anında, ücretsiz ve canlı önizlemeli olarak gerçekleştirin. Modern koyu tema ve pratik diyagram araçları.">
+  <meta name="keywords" content="Mermaid editör, online kavram haritası oluşturma, akış şeması çizme, Bilişim Kurdu, zihin haritası, mermaid live editor, diyagram oluşturucu, flowchart maker">
+  <meta name="author" content="Bilişim Kurdu">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://bilisimkurdu.github.io/mermaid-editor/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Bilişim Kurdu">
+  <meta property="og:title" content="Mermaid Editör - Online Kavram Haritası Oluşturma ve Akış Şeması Çizme | Bilişim Kurdu">
+  <meta property="og:description" content="Bilişim Kurdu Mermaid editör ile online kavram haritası oluşturma ve akış şeması çizme işlemlerini anında, ücretsiz ve canlı önizlemeli olarak gerçekleştirin.">
+  <meta property="og:url" content="https://bilisimkurdu.github.io/mermaid-editor/">
+  <meta property="og:locale" content="tr_TR">
+  <meta property="og:image" content="https://bilisimkurdu.github.io/LogoSchema.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@bilisimkurdu">
+  <meta name="twitter:title" content="Mermaid Editör - Online Kavram Haritası Oluşturma ve Akış Şeması Çizme">
+  <meta name="twitter:description" content="Bilişim Kurdu Mermaid editör ile anında akış şeması ve kavram haritası tasarlayın. Ücretsiz, canlı önizlemeli diyagram editörü.">
+  <meta name="twitter:image" content="https://bilisimkurdu.github.io/LogoSchema.png">
+
+  <!-- Yapılandırılmış Veri (JSON-LD: WebApplication) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Bilişim Kurdu Mermaid Editör",
+    "alternateName": ["Mermaid Editor", "Online Kavram Haritası Oluşturucu", "Akış Şeması Çizme Aracı"],
+    "url": "https://bilisimkurdu.github.io/mermaid-editor/",
+    "applicationCategory": "DesignApplication",
+    "operatingSystem": "All",
+    "browserRequirements": "Requires JavaScript. Requires HTML5.",
+    "description": "Bilişim Kurdu Mermaid editör ile online kavram haritası oluşturma, akış şeması çizme, zihin haritası ve UML diyagramları hazırlama imkanı sunan canlı önizlemeli ücretsiz web editörü.",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "TRY"
+    },
+    "creator": {
+      "@type": "Organization",
+      "name": "Bilişim Kurdu",
+      "url": "https://bilisimkurdu.github.io/"
+    }
+  }
+  </script>
+
+  <!-- Saf Gömülü CSS: Core Web Vitals 100/100 Hedefi, Sıfır Dış CSS Bağımlılığı -->
+  <style>
+    :root {
+      --bg-base: #0b0f19;
+      --bg-surface: #111827;
+      --bg-surface-elevated: #1f2937;
+      --bg-surface-hover: #374151;
+      --border-color: #374151;
+      --text-main: #f3f4f6;
+      --text-muted: #9ca3af;
+      --accent: #6366f1;
+      --accent-hover: #4f46e5;
+      --accent-cyan: #06b6d4;
+      --accent-green: #10b981;
+      --accent-red: #ef4444;
+      --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      --font-mono: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-base);
+      color: var(--text-main);
+      font-family: var(--font-stack);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Üst Başlık (Header & Nav) */
+    header {
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 0.75rem 1.5rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(8px);
+    }
+
+    .navbar {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .brand-group {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: var(--text-main);
+    }
+
+    .brand-logo-badge {
+      background: linear-gradient(135deg, var(--accent), var(--accent-cyan));
+      color: #fff;
+      font-weight: 800;
+      font-size: 1.1rem;
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.35);
+    }
+
+    .brand-text h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+    }
+
+    .brand-text span {
+      font-size: 0.75rem;
+      color: var(--accent-cyan);
+      font-weight: 500;
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.5rem 0.9rem;
+      font-size: 0.85rem;
+      font-weight: 600;
+      border-radius: 6px;
+      text-decoration: none;
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .btn-outline {
+      background-color: transparent;
+      border-color: var(--border-color);
+      color: var(--text-main);
+    }
+
+    .btn-outline:hover {
+      background-color: var(--bg-surface-elevated);
+      border-color: var(--text-muted);
+    }
+
+    .btn-primary {
+      background-color: var(--accent);
+      color: #ffffff;
+    }
+
+    .btn-primary:hover {
+      background-color: var(--accent-hover);
+    }
+
+    .btn-success {
+      background-color: var(--accent-green);
+      color: #ffffff;
+    }
+
+    .btn-success:hover {
+      opacity: 0.9;
+    }
+
+    .btn-pdf {
+      background-color: #ef4444;
+      color: #ffffff;
+    }
+
+    .btn-pdf:hover {
+      background-color: #dc2626;
+    }
+
+    /* Ana İçerik ve Editör Yerleşimi */
+    .main-wrapper {
+      max-width: 1600px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+
+    /* Şablon ve Araç Çubuğu */
+    .toolbar-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 0.75rem 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .template-selector {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .toolbar-label {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .chip-btn {
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      padding: 0.35rem 0.7rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .chip-btn:hover, .chip-btn.active {
+      background-color: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .action-group {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    /* İkiye Bölünmüş Çalışma Alanı */
+    .split-editor {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+      min-height: 580px;
+      height: calc(72vh);
+    }
+
+    @media (max-width: 992px) {
+      .split-editor {
+        grid-template-columns: 1fr;
+        height: auto;
+      }
+    }
+
+    .panel {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .panel-header {
+      background-color: var(--bg-surface-elevated);
+      border-bottom: 1px solid var(--border-color);
+      padding: 0.6rem 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .panel-title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .panel-controls {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .mini-btn {
+      background-color: transparent;
+      border: 1px solid var(--border-color);
+      color: var(--text-muted);
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .mini-btn:hover {
+      background-color: var(--bg-surface-hover);
+      color: var(--text-main);
+    }
+
+    /* Editör Textarea */
+    .editor-body {
+      flex: 1;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #mermaid-input {
+      width: 100%;
+      height: 100%;
+      flex: 1;
+      background-color: #0c111d;
+      color: #e2e8f0;
+      border: none;
+      outline: none;
+      padding: 1rem;
+      font-family: var(--font-mono);
+      font-size: 0.95rem;
+      line-height: 1.5;
+      resize: none;
+      tab-size: 2;
+    }
+
+    #mermaid-input:focus {
+      background-color: #080d17;
+    }
+
+    .editor-footer {
+      padding: 0.4rem 1rem;
+      background-color: var(--bg-surface-elevated);
+      border-top: 1px solid var(--border-color);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    /* Önizleme Alanı */
+    .preview-body {
+      flex: 1;
+      background-color: #0d1322;
+      position: relative;
+      overflow: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+    }
+
+    #preview-wrapper {
+      transform-origin: center center;
+      transition: transform 0.15s ease-out;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #diagram-output {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #diagram-output svg {
+      max-width: 100%;
+      height: auto;
+      filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.4));
+    }
+
+    /* Hata Kutusu */
+    .error-banner {
+      display: none;
+      position: absolute;
+      bottom: 1rem;
+      left: 1rem;
+      right: 1rem;
+      background-color: rgba(239, 68, 68, 0.15);
+      border: 1px solid var(--accent-red);
+      color: #fca5a5;
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-family: var(--font-mono);
+      backdrop-filter: blur(8px);
+      z-index: 10;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+    }
+
+    /* Aside Hızlı İpuçları */
+    .quick-guide-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+    }
+
+    .guide-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 1rem;
+    }
+
+    .guide-card h4 {
+      font-size: 0.9rem;
+      color: var(--accent-cyan);
+      margin-bottom: 0.5rem;
+    }
+
+    .guide-card code {
+      background-color: #0b0f19;
+      color: #a5b4fc;
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+    }
+
+    .guide-card ul {
+      list-style-type: none;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .guide-card li {
+      margin-bottom: 0.35rem;
+    }
+
+    /* SEO İçerik Bölümü */
+    .seo-section {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 2rem;
+      margin-top: 1rem;
+    }
+
+    .seo-section h2 {
+      font-size: 1.5rem;
+      color: #fff;
+      margin-bottom: 1rem;
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 0.5rem;
+    }
+
+    .seo-section h3 {
+      font-size: 1.2rem;
+      color: var(--accent-cyan);
+      margin: 1.5rem 0 0.5rem;
+    }
+
+    .seo-section p {
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+      font-size: 0.95rem;
+    }
+
+    .seo-section ul, .seo-section ol {
+      margin-left: 1.5rem;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 1rem;
+    }
+
+    .seo-section li {
+      margin-bottom: 0.4rem;
+    }
+
+    .faq-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    @media (max-width: 768px) {
+      .faq-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .faq-item {
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 1rem;
+    }
+
+    .faq-item h4 {
+      color: #fff;
+      font-size: 0.95rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .faq-item p {
+      font-size: 0.85rem;
+      margin-bottom: 0;
+    }
+
+    /* Footer */
+    footer {
+      background-color: var(--bg-surface);
+      border-top: 1px solid var(--border-color);
+      padding: 1.5rem;
+      margin-top: auto;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    footer a {
+      color: var(--accent-cyan);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Bildirim Toast */
+    .toast-msg {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background-color: var(--accent);
+      color: #fff;
+      padding: 0.75rem 1.25rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+      display: none;
+      z-index: 1000;
+      animation: fadeIn 0.2s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Mermaid.js Resmi CDN v10+ (Core Web Vitals için Defer) -->
+  <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+</head>
+<body>
+
+  <!-- Semantik Başlık (Header) -->
+  <header>
+    <nav class="navbar" aria-label="Ana Gezinme">
+      <a href="https://bilisimkurdu.github.io/" class="brand-group" title="Bilişim Kurdu Ana Sayfası">
+        <div class="brand-logo-badge">BK</div>
+        <div class="brand-text">
+          <h1>Mermaid Editör</h1>
+          <span>Bilişim Kurdu Araçları</span>
+        </div>
+      </a>
+
+      <div class="nav-actions">
+        <a href="https://bilisimkurdu.github.io/" class="btn btn-outline" title="Bilişim Kurdu Bloguna Geri Dön">
+          &larr; Bilişim Kurdu Blog
+        </a>
+        <a href="#rehber" class="btn btn-outline" title="Kavram Haritası Rehberi">
+          Rehber &amp; SEO Bilgisi
+        </a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Ana Çalışma Alanı (Main) -->
+  <main class="main-wrapper">
+    <!-- Şablon Seçici & Araç Çubuğu -->
+    <section class="toolbar-card" aria-label="Şablon ve Dışa Aktarma Araçları">
+      <div class="template-selector">
+        <span class="toolbar-label">Örnek Şablonlar:</span>
+        <button type="button" class="chip-btn active" data-template="kavram">Kavram Haritası</button>
+        <button type="button" class="chip-btn" data-template="akis">Akış Şeması (Flowchart)</button>
+        <button type="button" class="chip-btn" data-template="zihin">Zihin Haritası (Mindmap)</button>
+        <button type="button" class="chip-btn" data-template="sirali">Sıralı Diyagram (Sequence)</button>
+        <button type="button" class="chip-btn" data-template="sinif">Sınıf Şeması (Class)</button>
+        <button type="button" class="chip-btn" data-template="durum">Durum Şeması (State)</button>
+      </div>
+
+      <div class="action-group">
+        <button type="button" id="btn-copy" class="btn btn-outline" title="Mermaid Kodunu Panoya Kopyala">
+          📋 Kopyala
+        </button>
+        <button type="button" id="btn-download-svg" class="btn btn-primary" title="Vektörel SVG Olarak İndir">
+          💾 SVG İndir
+        </button>
+        <button type="button" id="btn-download-png" class="btn btn-success" title="Resim (PNG) Olarak İndir">
+          🖼️ PNG İndir
+        </button>
+        <button type="button" id="btn-download-pdf" class="btn btn-pdf" title="Diyagramı PDF Olarak İndir">
+          📄 PDF İndir
+        </button>
+        <button type="button" id="btn-clear" class="btn btn-outline" title="Editörü Temizle">
+          🗑️ Temizle
+        </button>
+      </div>
+    </section>
+
+    <!-- İkiye Bölünmüş Canlı Editör -->
+    <section class="split-editor" aria-label="Mermaid Canlı Editörü">
+      <!-- Sol Panel: Kod Girişi -->
+      <article class="panel">
+        <div class="panel-header">
+          <div class="panel-title">
+            <span>✏️</span>
+            <h2>Mermaid Kod Editörü</h2>
+          </div>
+          <div class="panel-controls">
+            <button type="button" id="btn-reset-code" class="mini-btn" title="Varsayılan Koda Dön">Varsayılan</button>
+          </div>
+        </div>
+
+        <div class="editor-body">
+          <textarea 
+            id="mermaid-input" 
+            spellcheck="false" 
+            aria-label="Mermaid Kodu Giriş Alanı" 
+            placeholder="Mermaid diyagram kodunuzu buraya yazın..."
+          >graph TD;
+    A[Bilişim Kurdu] --> B(Mermaid Editor);
+    B --> C{Kavram Haritası};
+    C -->|Hızlı| D[Akış Şeması];
+    C -->|Kolay| E[Zihin Haritası];
+    C -->|Görsel| F[Diyagram Çizimi];</textarea>
+        </div>
+
+        <div class="editor-footer">
+          <span id="status-text">Durum: Canlı Hazır</span>
+          <span id="char-counter">Karakter: 0</span>
+        </div>
+      </article>
+
+      <!-- Sağ Panel: Canlı Önizleme -->
+      <article class="panel">
+        <div class="panel-header">
+          <div class="panel-title">
+            <span>👁️</span>
+            <h2>Canlı Önizleme (Live Preview)</h2>
+          </div>
+          <div class="panel-controls">
+            <button type="button" id="zoom-in" class="mini-btn" title="Yakınlaştır">+</button>
+            <button type="button" id="zoom-out" class="mini-btn" title="Uzaklaştır">-</button>
+            <button type="button" id="zoom-reset" class="mini-btn" title="Önizlemeyi Sıfırla">Sıfırla</button>
+          </div>
+        </div>
+
+        <div class="preview-body" id="preview-container">
+          <div id="preview-wrapper">
+            <div id="diagram-output">
+              <pre class="mermaid" id="mermaid-render-target">graph TD;
+    A[Bilişim Kurdu] --> B(Mermaid Editor);
+    B --> C{Kavram Haritası};
+    C -->|Hızlı| D[Akış Şeması];
+    C -->|Kolay| E[Zihin Haritası];
+    C -->|Görsel| F[Diyagram Çizimi];</pre>
+            </div>
+          </div>
+
+          <!-- Canlı Hata Bildirimi -->
+          <div id="error-box" class="error-banner" role="alert"></div>
+        </div>
+      </article>
+    </section>
+
+    <!-- Yan Bölüm: Hızlı Sözdizimi Rehberi (Aside) -->
+    <aside class="guide-aside" aria-label="Mermaid Hızlı Sözdizimi Rehberi">
+      <div class="quick-guide-grid">
+        <div class="guide-card">
+          <h4>🔗 Temel Bağlantılar</h4>
+          <ul>
+            <li><code>A --&gt; B</code> : Düz oklu bağlantı</li>
+            <li><code>A --- B</code> : Oksuz düz çizgi</li>
+            <li><code>A --&gt;|Metin| B</code> : Metinli oklu bağlantı</li>
+            <li><code>A -.--&gt; B</code> : Kesikli oklu bağlantı</li>
+            <li><code>A ==&gt; B</code> : Kalın oklu bağlantı</li>
+          </ul>
+        </div>
+        <div class="guide-card">
+          <h4>🔷 Şekil Tanımları</h4>
+          <ul>
+            <li><code>[Köşeli Kutu]</code> : Standart işlem kutusu</li>
+            <li><code>(Oval Kutu)</code> : Başlangıç / bitiş kutusu</li>
+            <li><code>{Karar / Eşkenar}</code> : Karar &amp; şart adımı</li>
+            <li><code>([Stadyum Kutu])</code> : Yuvarlatılmış köşe</li>
+            <li><code>((Daire))</code> : Döngü veya birleşim noktası</li>
+          </ul>
+        </div>
+        <div class="guide-card">
+          <h4>🧭 Yönlendirme (Orientation)</h4>
+          <ul>
+            <li><code>graph TD</code> : Yukarıdan aşağıya (Top-Down)</li>
+            <li><code>graph LR</code> : Soldan sağa (Left-Right)</li>
+            <li><code>graph BT</code> : Aşağıdan yukarıya (Bottom-Top)</li>
+            <li><code>graph RL</code> : Sağdan sola (Right-Left)</li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+
+    <!-- SEO & Kapsamlı Bilgilendirici Makale Bölümü (Section) -->
+    <section class="seo-section" id="rehber" aria-label="Mermaid ve Kavram Haritası Rehberi">
+      <h2>Mermaid Editör ile Online Kavram Haritası Oluşturma ve Akış Şeması Çizme</h2>
+      
+      <p>
+        <strong>Bilişim Kurdu Mermaid editör</strong>, kod yazarak anında profesyonel diyagramlar oluşturmanızı sağlayan hafif, yüksek hızlı ve modern bir web aracıdır. 
+        Geleneksel sürükle-bırak çizim programlarının aksine, <em>Mermaid.js</em> sözdizimini kullanarak saniyeler içinde <strong>online kavram haritası oluşturma</strong> ve <strong>akış şeması çizme</strong> işlemlerini gerçekleştirebilirsiniz.
+      </p>
+
+      <h3>Kavram Haritası Nedir ve Neden Kullanılır?</h3>
+      <p>
+        Kavram haritası; fikirler, terimler veya öğrenilen bilgiler arasındaki bağlantıları görselleştiren iki boyutlu bir öğrenme ve analiz aracıdır. 
+        Eğitimciler, yazılımcılar ve proje yöneticileri; karmaşık konuları parçalara bölmek ve zihinsel modeli somutlaştırmak için online kavram haritası oluşturma yöntemini sıkça tercih ederler.
+      </p>
+
+      <h3>Mermaid Editörü Kullanarak Akış Şeması Çizme Avantajları</h3>
+      <ul>
+        <li><strong>Hız ve Verimlilik:</strong> Fare ile kutu kutu çizmekle vakit kaybetmeden doğrudan klavyeden yazarak şemanızı oluşturun.</li>
+        <li><strong>Canlı Önizleme (Live Preview):</strong> Sol editörde yazdığınız her karakter sağ panelde anlık olarak render edilir.</li>
+        <li><strong>Versiyon Kontrolü Dostu:</strong> Kod tabanlı olduğu için şemalarınızı Git, GitHub ve Markdown belgelerinizde kolayca saklayabilirsiniz.</li>
+        <li><strong>Vektörel &amp; Doküman Çıktısı (SVG, PNG &amp; PDF):</strong> Çözünürlük kaybı olmadan yüksek kalitede sunumlarınıza, raporlarınıza veya doğrudan PDF dokümanı olarak arşivinize aktarın.</li>
+      </ul>
+
+      <h3>Sıkça Sorulan Sorular (SSS)</h3>
+      <div class="faq-grid">
+        <div class="faq-item">
+          <h4>Mermaid Editör tamamen ücretsiz mi?</h4>
+          <p>Evet, Bilişim Kurdu tarafından sunulan Mermaid editör tamamen ücretsizdir ve herhangi bir üyelik gerektirmeden tarayıcınızda doğrudan çalışır.</p>
+        </div>
+        <div class="faq-item">
+          <h4>Çizdiğim kavram haritasını nasıl indirebilirim?</h4>
+          <p>Üst araç çubuğunda bulunan "SVG İndir" butonuyla vektörel formatta, "PNG İndir" ile yüksek çözünürlüklü görsel, "PDF İndir" ile doğrudan PDF dokümanı formatında cihazınıza kaydedebilirsiniz.</p>
+        </div>
+        <div class="faq-item">
+          <h4>Hangi diyagram türlerini destekler?</h4>
+          <p>Akış şemaları (flowchart), kavram haritaları, zihin haritaları (mindmap), sıralı diyagramlar (sequence diagram), sınıf diyagramları ve gantt çizelgeleri dahil tüm Mermaid tiplerini destekler.</p>
+        </div>
+        <div class="faq-item">
+          <h4>Verilerim sunucuda saklanıyor mu?</h4>
+          <p>Hayır, tüm çizim ve render süreçleri tamamen sizin tarayıcınızda (istemci taraflı) gerçekleşir. Gizliliğiniz %100 korunur.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Semantik Altbilgi (Footer) -->
+  <footer>
+    <p>
+      &copy; 2026 <a href="https://bilisimkurdu.github.io/">Bilişim Kurdu</a> &mdash; Bilişim Hakkında Her Şey. 
+      Tüm hakları saklıdır.
+    </p>
+  </footer>
+
+  <!-- Bildirim Toast Kutusu -->
+  <div id="toast" class="toast-msg"></div>
+
+  <!-- Canlı Editör ve Mermaid.run() Yönetim Scripti -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // DOM Elemanları
+      const inputEl = document.getElementById('mermaid-input');
+      const diagramOutputEl = document.getElementById('diagram-output');
+      const errorBoxEl = document.getElementById('error-box');
+      const statusTextEl = document.getElementById('status-text');
+      const charCounterEl = document.getElementById('char-counter');
+      const previewWrapperEl = document.getElementById('preview-wrapper');
+      const toastEl = document.getElementById('toast');
+
+      // Zoom Durumu
+      let currentZoom = 1;
+
+      // Şablon Kütüphanesi
+      const templates = {
+        kavram: `graph TD;
+    A[Bilişim Kurdu] --> B(Mermaid Editor);
+    B --> C{Kavram Haritası};
+    C -->|Hızlı| D[Akış Şeması];
+    C -->|Kolay| E[Zihin Haritası];
+    C -->|Görsel| F[Diyagram Çizimi];`,
+        akis: `flowchart TD
+    Start([Başla]) --> Input[/Veri Girişi/]
+    Input --> Process[Veriyi İşle]
+    Process --> Decision{Koşul Sağlandı mı?}
+    Decision -->|Evet| Success[Başarılı Sonuç]
+    Decision -->|Hayır| Retry[Tekrar Dene]
+    Retry --> Process
+    Success --> End([Bitir])`,
+        zihin: `mindmap
+  root((Bilişim Kurdu))
+    Kavram Haritaları
+      Görsel Öğrenme
+      Hızlı Not Alma
+    Diyagramlar
+      Akış Şeması
+      Sıralı Şema
+    Teknolojiler
+      Mermaid JS
+      HTML5 & CSS3`,
+        sirali: `sequenceDiagram
+    autonumber
+    actor Kullanıcı
+    participant BK as Bilişim Kurdu Editör
+    participant MM as Mermaid Engine
+    Kullanıcı->>BK: Kod girişi yapar
+    BK->>MM: mermaid.run() tetiklenir
+    MM-->>BK: SVG diyagramı oluşturulur
+    BK-->>Kullanıcı: Canlı önizleme gösterilir`,
+        sinif: `classDiagram
+    class Diyagram {
+      +String baslik
+      +render()
+      +disaAktar()
+    }
+    class AkisSemasi {
+      +List dugumler
+      +baglantiEkle()
+    }
+    class KavramHaritasi {
+      +List kavramlar
+      +iliskilendir()
+    }
+    Diyagram <|-- AkisSemasi
+    Diyagram <|-- KavramHaritasi`,
+        durum: `stateDiagram-v2
+    [*] --> Beklemede
+    Beklemede --> KodYaziliyor : input olayı
+    KodYaziliyor --> RenderEdiliyor : debounce
+    RenderEdiliyor --> Gosteriliyor : mermaid.run()
+    RenderEdiliyor --> Hata : sozluk hatasi
+    Hata --> KodYaziliyor : duzeltildi
+    Gosteriliyor --> [*]`
+      };
+
+      // Toast Bildirimi
+      function showToast(message) {
+        toastEl.textContent = message;
+        toastEl.style.display = 'block';
+        setTimeout(() => {
+          toastEl.style.display = 'none';
+        }, 2200);
+      }
+
+      // Karakter Sayacı
+      function updateCharCount() {
+        const len = inputEl.value.length;
+        charCounterEl.textContent = `Karakter: ${len}`;
+      }
+
+      // Mermaid Başlatma
+      let isMermaidReady = false;
+      function initMermaid() {
+        if (typeof mermaid !== 'undefined') {
+          mermaid.initialize({
+            startOnLoad: false,
+            theme: 'dark',
+            securityLevel: 'loose',
+            fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+          });
+          isMermaidReady = true;
+          renderDiagram();
+        } else {
+          // Defer script yüklenene kadar bekle
+          setTimeout(initMermaid, 50);
+        }
+      }
+
+      // Canlı Render Fonksiyonu: mermaid.run() kullanımı
+      let renderId = 0;
+      async function renderDiagram() {
+        if (!isMermaidReady) return;
+
+        const code = inputEl.value.trim();
+        updateCharCount();
+
+        if (!code) {
+          diagramOutputEl.innerHTML = '<div style="color: var(--text-muted); padding: 2rem; text-align: center;">Diyagram çizmek için lütfen sol tarafa Mermaid kodu girin.</div>';
+          errorBoxEl.style.display = 'none';
+          statusTextEl.textContent = 'Durum: Boş';
+          return;
+        }
+
+        renderId++;
+        const currentId = `mermaid-node-${renderId}`;
+
+        // Yeni render düğümünü temiz şekilde hazırla
+        diagramOutputEl.innerHTML = '';
+        const preNode = document.createElement('pre');
+        preNode.className = 'mermaid';
+        preNode.id = currentId;
+        preNode.textContent = code;
+        diagramOutputEl.appendChild(preNode);
+
+        statusTextEl.textContent = 'Durum: Render ediliyor...';
+
+        try {
+          // Talimat gereği doğrudan mermaid.run() fonksiyonu tetiklenir
+          await mermaid.run({
+            nodes: [preNode]
+          });
+          
+          errorBoxEl.style.display = 'none';
+          statusTextEl.textContent = 'Durum: Güncel & Çizildi';
+        } catch (err) {
+          console.warn('Mermaid derleme hatası:', err);
+          errorBoxEl.textContent = `Sözdizimi Uyarısı: ${err.message || 'Kodunuzda geçersiz bir Mermaid sözdizimi var.'}`;
+          errorBoxEl.style.display = 'block';
+          statusTextEl.textContent = 'Durum: Sözdizimi Hatası';
+        }
+      }
+
+      // Debounce: Kullanıcı yazarken akıcı ve performanslı güncelleme
+      let debounceTimer = null;
+      function debouncedRender() {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(renderDiagram, 250);
+      }
+
+      // Event Dinleyicisi: Textarea input olayı ile anlık canlı önizleme
+      inputEl.addEventListener('input', () => {
+        debouncedRender();
+      });
+
+      // Şablon Butonları Etkileşimi
+      const templateButtons = document.querySelectorAll('.chip-btn');
+      templateButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          templateButtons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+
+          const tName = btn.getAttribute('data-template');
+          if (templates[tName]) {
+            inputEl.value = templates[tName];
+            renderDiagram();
+            showToast(`${btn.textContent} şablonu yüklendi`);
+          }
+        });
+      });
+
+      // Buton: Varsayılana Dön
+      document.getElementById('btn-reset-code').addEventListener('click', () => {
+        inputEl.value = templates.kavram;
+        renderDiagram();
+        showToast('Varsayılan kod yüklendi');
+      });
+
+      // Buton: Temizle
+      document.getElementById('btn-clear').addEventListener('click', () => {
+        inputEl.value = '';
+        renderDiagram();
+        showToast('Editör temizlendi');
+      });
+
+      // Buton: Panoya Kopyala
+      document.getElementById('btn-copy').addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(inputEl.value);
+          showToast('Kod panoya kopyalandı! 📋');
+        } catch (e) {
+          showToast('Kopyalama başarısız oldu.');
+        }
+      });
+
+      // Güvenli Dosya İndirme Tetikleyicisi (URL erken iptalini önler)
+      function triggerDownload(blobOrDataUrl, filename) {
+        const isBlob = blobOrDataUrl instanceof Blob;
+        const url = isBlob ? URL.createObjectURL(blobOrDataUrl) : blobOrDataUrl;
+
+        const downloadLink = document.createElement('a');
+        downloadLink.href = url;
+        downloadLink.download = filename;
+        downloadLink.style.display = 'none';
+        document.body.appendChild(downloadLink);
+        downloadLink.click();
+
+        // Tarayıcının dosyayı indirmesine fırsat tanımak için revoke işlemi geciktirilir
+        setTimeout(() => {
+          if (document.body.contains(downloadLink)) {
+            document.body.removeChild(downloadLink);
+          }
+          if (isBlob) {
+            URL.revokeObjectURL(url);
+          }
+        }, 4000);
+      }
+
+      // Mermaid SVG Elementini Dışa Aktarıma Hazırlama
+      function getPreparedSvg(svgEl) {
+        const clone = svgEl.cloneNode(true);
+
+        // Genişlik ve yükseklik tespiti
+        let width = 0;
+        let height = 0;
+
+        const viewBox = svgEl.getAttribute('viewBox');
+        if (viewBox) {
+          const parts = viewBox.trim().split(/[\s,]+/).map(parseFloat);
+          if (parts.length === 4 && parts[2] > 0 && parts[3] > 0) {
+            width = parts[2];
+            height = parts[3];
+          }
+        }
+
+        if (!width || !height) {
+          const bbox = svgEl.getBoundingClientRect();
+          width = bbox.width;
+          height = bbox.height;
+        }
+
+        width = Math.max(Math.round(width) || 800, 300);
+        height = Math.max(Math.round(height) || 600, 200);
+
+        // SVG özelliklerini kesinleştir
+        clone.setAttribute('width', width);
+        clone.setAttribute('height', height);
+        clone.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+        clone.setAttribute('xmlns:xlink', 'http://www.w3.org/1999/xlink');
+
+        // Arka planı koyu tema rengiyle doldur ki PNG/PDF çıktılarında transparan kayıplar olmasın
+        const bgRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+        bgRect.setAttribute('x', '0');
+        bgRect.setAttribute('y', '0');
+        bgRect.setAttribute('width', '100%');
+        bgRect.setAttribute('height', '100%');
+        bgRect.setAttribute('fill', '#0d1322');
+        clone.insertBefore(bgRect, clone.firstChild);
+
+        const serializer = new XMLSerializer();
+        const svgString = serializer.serializeToString(clone);
+
+        return { svgString, width, height };
+      }
+
+      // SVG'yi Canvas'a Render Eden Yardımcı Promise (Local file:/// ve Cross-Origin Uyumlu)
+      function svgToCanvas(svgEl, scale = 2) {
+        return new Promise((resolve, reject) => {
+          try {
+            const { svgString, width, height } = getPreparedSvg(svgEl);
+
+            // UTF-8 uyumlu Base64 Data URI (file:/// protokolünde tainted canvas ve blob erişim engellerini aşar)
+            const base64Data = btoa(unescape(encodeURIComponent(svgString)));
+            const dataUri = 'data:image/svg+xml;base64,' + base64Data;
+
+            const img = new Image();
+            img.crossOrigin = 'anonymous';
+
+            img.onload = () => {
+              try {
+                const canvas = document.createElement('canvas');
+                canvas.width = Math.round(width * scale);
+                canvas.height = Math.round(height * scale);
+
+                const ctx = canvas.getContext('2d');
+                if (!ctx) {
+                  reject(new Error('Canvas 2D context oluşturulamadı.'));
+                  return;
+                }
+
+                ctx.fillStyle = '#0d1322';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+                ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+                resolve({ canvas, width, height });
+              } catch (drawErr) {
+                reject(drawErr);
+              }
+            };
+
+            img.onerror = () => {
+              reject(new Error('Diyagram görsele dönüştürülürken tarayıcı derleme hatası aldı.'));
+            };
+
+            img.src = dataUri;
+          } catch (err) {
+            reject(err);
+          }
+        });
+      }
+
+      // Buton: SVG Olarak İndir
+      document.getElementById('btn-download-svg').addEventListener('click', () => {
+        const svgEl = diagramOutputEl.querySelector('svg');
+        if (!svgEl) {
+          showToast('İndirilecek geçerli bir diyagram bulunamadı.');
+          return;
+        }
+
+        try {
+          const { svgString } = getPreparedSvg(svgEl);
+          const blob = new Blob([svgString], { type: 'image/svg+xml;charset=utf-8' });
+          triggerDownload(blob, 'bilisimkurdu-mermaid-diyagram.svg');
+          showToast('SVG diyagramı indirildi! 💾');
+        } catch (err) {
+          console.error('SVG indirme hatası:', err);
+          showToast('SVG indirilemedi: ' + err.message);
+        }
+      });
+
+      // Buton: PNG Olarak İndir
+      document.getElementById('btn-download-png').addEventListener('click', async () => {
+        const svgEl = diagramOutputEl.querySelector('svg');
+        if (!svgEl) {
+          showToast('İndirilecek geçerli bir diyagram bulunamadı.');
+          return;
+        }
+
+        showToast('PNG hazırlanıyor... 🖼️');
+        try {
+          const { canvas } = await svgToCanvas(svgEl, 2);
+          if (canvas.toBlob) {
+            canvas.toBlob((blob) => {
+              if (blob) {
+                triggerDownload(blob, 'bilisimkurdu-mermaid-diyagram.png');
+                showToast('PNG diyagramı indirildi! 🖼️');
+              } else {
+                const dataUrl = canvas.toDataURL('image/png');
+                triggerDownload(dataUrl, 'bilisimkurdu-mermaid-diyagram.png');
+                showToast('PNG diyagramı indirildi! 🖼️');
+              }
+            }, 'image/png');
+          } else {
+            const dataUrl = canvas.toDataURL('image/png');
+            triggerDownload(dataUrl, 'bilisimkurdu-mermaid-diyagram.png');
+            showToast('PNG diyagramı indirildi! 🖼️');
+          }
+        } catch (err) {
+          console.error('PNG hatası:', err);
+          showToast('PNG oluşturulamadı: ' + err.message);
+        }
+      });
+
+      // Minimal Saf JavaScript PDF Üretici Motor (0 Bağımlılık, Standart PDF 1.4)
+      function buildPdfBlob(jpegDataUrl, widthPx, heightPx) {
+        const base64Str = jpegDataUrl.split(',')[1];
+        const binaryStr = atob(base64Str);
+        const len = binaryStr.length;
+        const jpegBytes = new Uint8Array(len);
+        for (let i = 0; i < len; i++) {
+          jpegBytes[i] = binaryStr.charCodeAt(i);
+        }
+
+        // PDF point hesabı (72 DPI)
+        const ptWidth = (widthPx * 72) / 96;
+        const ptHeight = (heightPx * 72) / 96;
+
+        const enc = new TextEncoder();
+        const headerStr = '%PDF-1.4\n';
+        const obj1Str = '1 0 obj\n<< /Type /Catalog /Pages 2 0 R >>\nendobj\n';
+        const obj2Str = '2 0 obj\n<< /Type /Pages /Kids [3 0 R] /Count 1 >>\nendobj\n';
+        const obj3Str = `3 0 obj\n<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${ptWidth.toFixed(2)} ${ptHeight.toFixed(2)}] /Resources << /XObject << /Im0 4 0 R >> >> /Contents 5 0 R >>\nendobj\n`;
+        const obj4Head = `4 0 obj\n<< /Type /XObject /Subtype /Image /Width ${widthPx} /Height ${heightPx} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${len} >>\nstream\n`;
+        const obj4Foot = '\nendstream\nendobj\n';
+        const contentStr = `q\n${ptWidth.toFixed(2)} 0 0 ${ptHeight.toFixed(2)} 0 0 cm\n/Im0 Do\nQ\n`;
+        const obj5Str = `5 0 obj\n<< /Length ${contentStr.length} >>\nstream\n${contentStr}endstream\nendobj\n`;
+
+        const bHeader = enc.encode(headerStr);
+        const bObj1 = enc.encode(obj1Str);
+        const bObj2 = enc.encode(obj2Str);
+        const bObj3 = enc.encode(obj3Str);
+        const bObj4Head = enc.encode(obj4Head);
+        const bObj4Foot = enc.encode(obj4Foot);
+        const bObj5 = enc.encode(obj5Str);
+
+        let cur = bHeader.length;
+        const offsets = [0];
+        offsets.push(cur); cur += bObj1.length;
+        offsets.push(cur); cur += bObj2.length;
+        offsets.push(cur); cur += bObj3.length;
+        offsets.push(cur); cur += bObj4Head.length + len + bObj4Foot.length;
+        offsets.push(cur); cur += bObj5.length;
+
+        const startXref = cur;
+        let xrefStr = 'xref\n0 6\n0000000000 65535 f \n';
+        for (let i = 1; i <= 5; i++) {
+          xrefStr += String(offsets[i]).padStart(10, '0') + ' 00000 n \n';
+        }
+        const trailerStr = `trailer\n<< /Size 6 /Root 1 0 R >>\nstartxref\n${startXref}\n%%EOF\n`;
+        const bXref = enc.encode(xrefStr);
+        const bTrailer = enc.encode(trailerStr);
+
+        return new Blob([
+          bHeader, bObj1, bObj2, bObj3,
+          bObj4Head, jpegBytes, bObj4Foot,
+          bObj5, bXref, bTrailer
+        ], { type: 'application/pdf' });
+      }
+
+      // Buton: PDF Olarak İndir
+      document.getElementById('btn-download-pdf').addEventListener('click', async () => {
+        const svgEl = diagramOutputEl.querySelector('svg');
+        if (!svgEl) {
+          showToast('İndirilecek geçerli bir diyagram bulunamadı.');
+          return;
+        }
+
+        showToast('PDF hazırlanıyor... 📄');
+        try {
+          const { canvas, width, height } = await svgToCanvas(svgEl, 2);
+          const jpegDataUrl = canvas.toDataURL('image/jpeg', 0.95);
+          const pdfBlob = buildPdfBlob(jpegDataUrl, width * 2, height * 2);
+          triggerDownload(pdfBlob, 'bilisimkurdu-mermaid-diyagram.pdf');
+          showToast('PDF dokümanı indirildi! 📄');
+        } catch (err) {
+          console.error('PDF hatası:', err);
+          showToast('PDF oluşturulamadı: ' + err.message);
+        }
+      });
+
+      // Zoom Kontrolleri
+      function setZoom(val) {
+        currentZoom = Math.max(0.4, Math.min(2.5, val));
+        previewWrapperEl.style.transform = `scale(${currentZoom})`;
+      }
+
+      document.getElementById('zoom-in').addEventListener('click', () => setZoom(currentZoom + 0.15));
+      document.getElementById('zoom-out').addEventListener('click', () => setZoom(currentZoom - 0.15));
+      document.getElementById('zoom-reset').addEventListener('click', () => setZoom(1));
+
+      // Tab Tuşunu Textarea'da Doğru Yönetme (Kod yazma kolaylığı)
+      inputEl.addEventListener('keydown', (e) => {
+        if (e.key === 'Tab') {
+          e.preventDefault();
+          const start = inputEl.selectionStart;
+          const end = inputEl.selectionEnd;
+          inputEl.value = inputEl.value.substring(0, start) + '  ' + inputEl.value.substring(end);
+          inputEl.selectionStart = inputEl.selectionEnd = start + 2;
+          debouncedRender();
+        }
+      });
+
+      // İlk başlatma
+      updateCharCount();
+      initMermaid();
+    });
+  </script>
+</body>
+</html>

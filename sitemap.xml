@@ -27,4 +27,10 @@
 		<loc><![CDATA[https://bilisimkurdu.github.io/date-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-08-11T18:02:22+00:00]]></lastmod>
 	</sitemap>
+	<url>
+		<loc><![CDATA[https://bilisimkurdu.github.io/mermaid-editor/]]></loc>
+		<lastmod><![CDATA[2026-10-12T21:30:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.8]]></priority>
+	</url>
 </sitemapindex>
