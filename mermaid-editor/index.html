@@ -968,14 +968,14 @@
             theme: mTheme,
             securityLevel: 'loose',
             themeVariables: {
-              fontFamily: 'system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif',
+              fontFamily: 'Arial, "Segoe UI", sans-serif',
               fontSize: '14px'
             },
-            fontFamily: 'system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif',
+            fontFamily: 'Arial, "Segoe UI", sans-serif',
             fontSize: 14,
             flowchart: {
               useMaxWidth: false,
-              htmlLabels: false,
+              htmlLabels: true,
               curve: 'basis',
               padding: 24,
               nodeSpacing: 45,
@@ -1140,8 +1140,17 @@
         style.className = 'injected-export-theme';
 
         const baseTypography = `
+          foreignObject {
+            overflow: visible !important;
+          }
+          foreignObject div {
+            overflow: visible !important;
+            font-family: Arial, "Segoe UI", sans-serif !important;
+            font-size: 14px !important;
+            line-height: 1.4 !important;
+          }
           text, tspan, .label, .nodeLabel {
-            font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif !important;
+            font-family: Arial, "Segoe UI", sans-serif !important;
             font-size: 14px !important;
             text-rendering: geometricPrecision !important;
           }
@@ -1150,8 +1159,11 @@
         if (theme === 'eink') {
           style.textContent = `
             ${baseTypography}
-            text, tspan, .label, .nodeLabel { fill: #000000 !important; font-weight: 700 !important; }
-            .node rect, .node polygon, .node circle, .node path {
+            text, tspan, .label, .nodeLabel, foreignObject div, foreignObject span, foreignObject b, foreignObject i {
+              fill: #000000 !important;
+              color: #000000 !important;
+            }
+            .node rect, .node polygon, .node circle, .node path, .node .basic, [id*="flowchart-"] rect, [id*="flowchart-"] polygon, [class*="flowchart"] rect {
               fill: #ffffff !important;
               stroke: #000000 !important;
               stroke-width: 2px !important;
@@ -1167,11 +1179,12 @@
         } else if (theme === 'white') {
           style.textContent = `
             ${baseTypography}
-            text, tspan, .label, .nodeLabel { fill: #0f172a !important; font-weight: 600 !important; }
-            .node rect, .node polygon, .node circle, .node path {
-              fill: #f1f5f9 !important;
-              stroke: #2563eb !important;
-              stroke-width: 1.5px !important;
+            /* Kullanıcının özel renk tanımlamadığı varsayılan düğümlerde beyaz/açık zemin */
+            .node:not([class*=" "]) rect,
+            .node.default:not(.main):not(.section):not(.subSec):not(.item) rect {
+              fill: #f1f5f9;
+              stroke: #2563eb;
+              stroke-width: 1.5px;
             }
             .edgePath path, .flowchart-link { stroke: #334155 !important; stroke-width: 1.5px !important; }
             .marker, marker path, #flowchart-pointEnd, #statediagram-barbEnd, .arrowheadPath {
@@ -1192,7 +1205,7 @@
       function getPreparedSvg(svgEl, theme = currentTheme) {
         const clone = svgEl.cloneNode(true);
 
-        // 1. Cümlelerin kutudan taşmasını önleyen otomatik kutu genişliği güvenlik marjini
+        // 1. Cümlelerin ve etiketlerin (b, i, br dahil) kutudan taşmasını önleyen otomatik kutu ve foreignObject genişliği güvenlik marjini
         const origNodes = Array.from(svgEl.querySelectorAll('.node'));
         const cloneNodes = Array.from(clone.querySelectorAll('.node'));
 
@@ -1200,31 +1213,67 @@
           const cloneNode = cloneNodes[i];
           if (!cloneNode) return;
 
-          const textEl = origNode.querySelector('text, .nodeLabel, foreignObject');
           const rectEl = cloneNode.querySelector('rect');
-          if (textEl && rectEl) {
-            try {
-              let tWidth = 0;
-              if (textEl.getBBox) {
-                tWidth = textEl.getBBox().width;
-              } else if (textEl.getBoundingClientRect) {
-                tWidth = textEl.getBoundingClientRect().width;
-              }
+          if (!rectEl) return;
 
-              const curW = parseFloat(rectEl.getAttribute('width')) || 0;
-              const curX = parseFloat(rectEl.getAttribute('x')) || 0;
-              // Her iki kenarda en az 18px nefes alma boşluğu
-              const minRequiredW = Math.round(tWidth + 36);
-              if (minRequiredW > curW) {
-                const diff = minRequiredW - curW;
-                rectEl.setAttribute('width', minRequiredW);
-                rectEl.setAttribute('x', curX - diff / 2);
-              }
-            } catch (e) {}
+          // A) foreignObject (HTML etiketleri: <b>, <i>, <br/> vb.)
+          const foEl = cloneNode.querySelector('foreignObject');
+          const origFoDiv = origNode.querySelector('foreignObject div');
+
+          if (foEl && origFoDiv) {
+            const divWidth = origFoDiv.scrollWidth || origFoDiv.getBoundingClientRect().width;
+            const curFoW = parseFloat(foEl.getAttribute('width')) || 0;
+            const curRectW = parseFloat(rectEl.getAttribute('width')) || 0;
+            const curRectX = parseFloat(rectEl.getAttribute('x')) || 0;
+
+            const extra = 24;
+            const newFoW = Math.max(curFoW, Math.round(divWidth)) + extra;
+            foEl.setAttribute('width', newFoW);
+            foEl.style.overflow = 'visible';
+
+            const newRectW = curRectW + extra;
+            rectEl.setAttribute('width', newRectW);
+            rectEl.setAttribute('x', curRectX - (extra / 2));
+          } else {
+            // B) Standart SVG <text> elemanları
+            const textEl = origNode.querySelector('text, .nodeLabel');
+            if (textEl) {
+              try {
+                let tWidth = 0;
+                if (textEl.getBBox) {
+                  tWidth = textEl.getBBox().width;
+                } else if (textEl.getBoundingClientRect) {
+                  tWidth = textEl.getBoundingClientRect().width;
+                }
+                const curW = parseFloat(rectEl.getAttribute('width')) || 0;
+                const curX = parseFloat(rectEl.getAttribute('x')) || 0;
+                const minRequiredW = Math.round(tWidth + 36);
+                if (minRequiredW > curW) {
+                  const diff = minRequiredW - curW;
+                  rectEl.setAttribute('width', minRequiredW);
+                  rectEl.setAttribute('x', curX - diff / 2);
+                }
+              } catch (e) {}
+            }
           }
         });
 
-        // 2. Tema stillerini klona enjekte et
+        // 2. E-Ink modunda tüm kutuları saf beyaz zemin ve keskin siyah kenarlığa çevir
+        if (theme === 'eink') {
+          clone.querySelectorAll('.node rect, .node polygon, .node circle, .node path').forEach(el => {
+            el.setAttribute('fill', '#ffffff');
+            el.setAttribute('stroke', '#000000');
+            el.setAttribute('stroke-width', '2');
+            el.style.setProperty('fill', '#ffffff', 'important');
+            el.style.setProperty('stroke', '#000000', 'important');
+          });
+          clone.querySelectorAll('.node text, .node foreignObject div, .node foreignObject span, .node foreignObject b, .node foreignObject i').forEach(el => {
+            el.style.setProperty('color', '#000000', 'important');
+            el.style.setProperty('fill', '#000000', 'important');
+          });
+        }
+
+        // 3. Tema stillerini klona enjekte et
         applyThemeStylesToSvg(clone, theme);
 
         // 3. Gerçek koordinat sınırlarını (viewBox ve BBox birleşimi) hesapla
