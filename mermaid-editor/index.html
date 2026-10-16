@@ -967,7 +967,23 @@
             startOnLoad: false,
             theme: mTheme,
             securityLevel: 'loose',
-            fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+            fontFamily: 'Arial, Helvetica, sans-serif',
+            fontSize: 14,
+            flowchart: {
+              useMaxWidth: false,
+              htmlLabels: true,
+              curve: 'basis',
+              padding: 24,
+              nodeSpacing: 50,
+              rankSpacing: 50
+            },
+            sequence: {
+              useMaxWidth: false,
+              boxMargin: 12
+            },
+            journey: {
+              useMaxWidth: false
+            }
           });
           isMermaidReady = true;
           renderDiagram();
@@ -1116,68 +1132,119 @@
         const oldStyle = svgElement.querySelector('style.injected-export-theme');
         if (oldStyle) oldStyle.remove();
 
+        const style = document.createElementNS('http://www.w3.org/2000/svg', 'style');
+        style.className = 'injected-export-theme';
+
+        // Temel evrensel metin ve kutu sığdırma kuralları (Metinlerin kutudan taşmasını önler)
+        const baseTypography = `
+          * { box-sizing: border-box !important; }
+          text, tspan, .label, .nodeLabel, foreignObject, foreignObject div, p, span {
+            font-family: Arial, Helvetica, sans-serif !important;
+            line-height: 1.35 !important;
+            text-rendering: geometricPrecision !important;
+          }
+          foreignObject {
+            overflow: visible !important;
+          }
+          foreignObject div {
+            overflow: visible !important;
+            word-break: normal !important;
+            overflow-wrap: break-word !important;
+            text-align: center !important;
+          }
+        `;
+
         if (theme === 'eink') {
-          const style = document.createElementNS('http://www.w3.org/2000/svg', 'style');
-          style.className = 'injected-export-theme';
           style.textContent = `
+            ${baseTypography}
             text, tspan, span, .nodeLabel, .label { fill: #000000 !important; color: #000000 !important; font-weight: 700 !important; }
             path, line, polyline, .edgePath path, .flowchart-link { stroke: #000000 !important; stroke-width: 2px !important; }
             rect:not(.bg-rect), circle, polygon, .node rect, .node circle, .node polygon { fill: #ffffff !important; stroke: #000000 !important; stroke-width: 2px !important; }
             .marker, marker path, #flowchart-pointEnd, #statediagram-barbEnd { fill: #000000 !important; stroke: #000000 !important; }
             .cluster rect { fill: #fafafa !important; stroke: #000000 !important; stroke-dasharray: 4,4 !important; }
           `;
-          svgElement.appendChild(style);
         } else if (theme === 'white') {
-          const style = document.createElementNS('http://www.w3.org/2000/svg', 'style');
-          style.className = 'injected-export-theme';
           style.textContent = `
+            ${baseTypography}
             text, tspan, span, .nodeLabel, .label { fill: #0f172a !important; color: #0f172a !important; font-weight: 600 !important; }
-            .edgePath path, .flowchart-link { stroke: #334155 !important; }
+            .edgePath path, .flowchart-link { stroke: #334155 !important; stroke-width: 1.5px !important; }
             marker path { fill: #334155 !important; stroke: #334155 !important; }
           `;
-          svgElement.appendChild(style);
+        } else {
+          style.textContent = baseTypography;
         }
+
+        svgElement.appendChild(style);
       }
 
       // Mermaid SVG Elementini Belirtilen Temaya Göre Dışa Aktarıma Hazırlama
       function getPreparedSvg(svgEl, theme = currentTheme) {
         const clone = svgEl.cloneNode(true);
 
+        let minX = 0;
+        let minY = 0;
         let width = 0;
         let height = 0;
 
-        const viewBox = svgEl.getAttribute('viewBox');
-        if (viewBox) {
-          const parts = viewBox.trim().split(/[\s,]+/).map(parseFloat);
-          if (parts.length === 4 && parts[2] > 0 && parts[3] > 0) {
-            width = parts[2];
-            height = parts[3];
+        // 1. Gerçek geometri sınırlarını al
+        try {
+          const bbox = svgEl.getBBox();
+          if (bbox && bbox.width > 0 && bbox.height > 0) {
+            minX = bbox.x;
+            minY = bbox.y;
+            width = bbox.width;
+            height = bbox.height;
+          }
+        } catch (e) {
+          // getBBox alınamazsa viewBox'a bak
+        }
+
+        // 2. viewBox üzerinden kontrol
+        if (!width || !height) {
+          const viewBox = svgEl.getAttribute('viewBox');
+          if (viewBox) {
+            const parts = viewBox.trim().split(/[\s,]+/).map(parseFloat);
+            if (parts.length === 4 && parts[2] > 0 && parts[3] > 0) {
+              minX = parts[0];
+              minY = parts[1];
+              width = parts[2];
+              height = parts[3];
+            }
           }
         }
 
+        // 3. Fallback: getBoundingClientRect
         if (!width || !height) {
-          const bbox = svgEl.getBoundingClientRect();
-          width = bbox.width;
-          height = bbox.height;
+          const r = svgEl.getBoundingClientRect();
+          width = r.width;
+          height = r.height;
         }
 
         width = Math.max(Math.round(width) || 800, 300);
         height = Math.max(Math.round(height) || 600, 200);
 
-        clone.setAttribute('width', width);
-        clone.setAttribute('height', height);
+        // Cümlelerin ve kenar oklarının kesilmemesi için ferah kenar boşluğu (padding)
+        const padding = 50;
+        const finalMinX = Math.round(minX - padding);
+        const finalMinY = Math.round(minY - padding);
+        const finalWidth = Math.round(width + padding * 2);
+        const finalHeight = Math.round(height + padding * 2);
+
+        clone.setAttribute('viewBox', `${finalMinX} ${finalMinY} ${finalWidth} ${finalHeight}`);
+        clone.setAttribute('width', finalWidth);
+        clone.setAttribute('height', finalHeight);
         clone.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
         clone.setAttribute('xmlns:xlink', 'http://www.w3.org/1999/xlink');
 
         const bgColor = (theme === 'dark') ? '#0d1322' : '#ffffff';
 
-        // Arka plan dikdörtgeni ekle
+        // Arka plan dikdörtgeni de tam bu genişletilmiş viewBox alanını kaplar
         const bgRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
         bgRect.className.baseVal = 'bg-rect';
-        bgRect.setAttribute('x', '0');
-        bgRect.setAttribute('y', '0');
-        bgRect.setAttribute('width', '100%');
-        bgRect.setAttribute('height', '100%');
+        bgRect.setAttribute('x', finalMinX);
+        bgRect.setAttribute('y', finalMinY);
+        bgRect.setAttribute('width', finalWidth);
+        bgRect.setAttribute('height', finalHeight);
         bgRect.setAttribute('fill', bgColor);
         clone.insertBefore(bgRect, clone.firstChild);
 
@@ -1187,7 +1254,7 @@
         const serializer = new XMLSerializer();
         const svgString = serializer.serializeToString(clone);
 
-        return { svgString, width, height, bgColor, theme };
+        return { svgString, width: finalWidth, height: finalHeight, bgColor, theme };
       }
 
       // SVG'yi Canvas'a Render Eden Fonksiyon (E-Ink piksel filtrelemesi dahil)
@@ -1296,7 +1363,7 @@
         }
       });
 
-      // Minimal Saf JavaScript PDF Üretici Motor (0 Bağımlılık, Standart PDF 1.4)
+      // Standart A4 & Akıllı Ölçeklemeli Saf JavaScript PDF Motoru (Cümle Taşmasını Kesin Önler)
       function buildPdfBlob(jpegDataUrl, widthPx, heightPx) {
         const base64Str = jpegDataUrl.split(',')[1];
         const binaryStr = atob(base64Str);
@@ -1306,17 +1373,46 @@
           jpegBytes[i] = binaryStr.charCodeAt(i);
         }
 
-        const ptWidth = (widthPx * 72) / 96;
-        const ptHeight = (heightPx * 72) / 96;
+        // Doğal PDF point ölçüsü (72 DPI)
+        const naturalPtW = (widthPx * 72) / 96;
+        const naturalPtH = (heightPx * 72) / 96;
+
+        // Sayfa yönü (Yatay / Dikey A4)
+        const isLandscape = naturalPtW >= naturalPtH;
+        let pageW = isLandscape ? 841.89 : 595.28;
+        let pageH = isLandscape ? 595.28 : 841.89;
+
+        // Sayfa kenarlarında 36 pt (~1.27 cm) güvenlik marjini
+        const margin = 36;
+        let availW = pageW - (margin * 2);
+        let availH = pageH - (margin * 2);
+
+        // Eğer diyagram A4'e göre çok genişse, okunabilirliği korumak için sayfayı orantılı genişlet
+        const scaleToA4 = Math.min(availW / naturalPtW, availH / naturalPtH);
+        if (scaleToA4 < 0.40) {
+          pageW = naturalPtW + (margin * 2);
+          pageH = naturalPtH + (margin * 2);
+          availW = naturalPtW;
+          availH = naturalPtH;
+        }
+
+        // En-boy oranı bozulmadan sayfaya tam sığdırma ölçeği
+        const drawScale = Math.min(availW / naturalPtW, availH / naturalPtH);
+        const drawW = naturalPtW * drawScale;
+        const drawH = naturalPtH * drawScale;
+
+        // Sayfa içinde tam ortalama (PDF koordinat sisteminde 0,0 sol alt köşedir)
+        const posX = (pageW - drawW) / 2;
+        const posY = (pageH - drawH) / 2;
 
         const enc = new TextEncoder();
         const headerStr = '%PDF-1.4\n';
         const obj1Str = '1 0 obj\n<< /Type /Catalog /Pages 2 0 R >>\nendobj\n';
         const obj2Str = '2 0 obj\n<< /Type /Pages /Kids [3 0 R] /Count 1 >>\nendobj\n';
-        const obj3Str = `3 0 obj\n<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${ptWidth.toFixed(2)} ${ptHeight.toFixed(2)}] /Resources << /XObject << /Im0 4 0 R >> >> /Contents 5 0 R >>\nendobj\n`;
+        const obj3Str = `3 0 obj\n<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${pageW.toFixed(2)} ${pageH.toFixed(2)}] /Resources << /XObject << /Im0 4 0 R >> >> /Contents 5 0 R >>\nendobj\n`;
         const obj4Head = `4 0 obj\n<< /Type /XObject /Subtype /Image /Width ${widthPx} /Height ${heightPx} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${len} >>\nstream\n`;
         const obj4Foot = '\nendstream\nendobj\n';
-        const contentStr = `q\n${ptWidth.toFixed(2)} 0 0 ${ptHeight.toFixed(2)} 0 0 cm\n/Im0 Do\nQ\n`;
+        const contentStr = `q\n${drawW.toFixed(2)} 0 0 ${drawH.toFixed(2)} ${posX.toFixed(2)} ${posY.toFixed(2)} cm\n/Im0 Do\nQ\n`;
         const obj5Str = `5 0 obj\n<< /Length ${contentStr.length} >>\nstream\n${contentStr}endstream\nendobj\n`;
 
         const bHeader = enc.encode(headerStr);
@@ -1361,10 +1457,9 @@
 
         showToast('Beyaz arka planlı Renkli PDF hazırlanıyor... 📄');
         try {
-          // PDF export her zaman beyaz ('white') arka plan ile renkli oluşturulur
-          const { canvas, width, height } = await svgToCanvas(svgEl, 2, 'white');
+          const { canvas } = await svgToCanvas(svgEl, 2, 'white');
           const jpegDataUrl = canvas.toDataURL('image/jpeg', 0.95);
-          const pdfBlob = buildPdfBlob(jpegDataUrl, width * 2, height * 2);
+          const pdfBlob = buildPdfBlob(jpegDataUrl, canvas.width, canvas.height);
           triggerDownload(pdfBlob, 'bilisimkurdu-mermaid-renkli.pdf');
           showToast('Beyaz arka planlı Renkli PDF indirildi! 📄');
         } catch (err) {
@@ -1383,10 +1478,9 @@
 
         showToast('Beyaz zeminli E-Ink Siyah-Beyaz PDF hazırlanıyor... 📖');
         try {
-          // E-Ink PDF çıktısı kesin olarak saf beyaz arka plan ('eink') ve keskin siyah çizgilerle üretilir
-          const { canvas, width, height } = await svgToCanvas(svgEl, 2, 'eink');
+          const { canvas } = await svgToCanvas(svgEl, 2, 'eink');
           const jpegDataUrl = canvas.toDataURL('image/jpeg', 0.95);
-          const pdfBlob = buildPdfBlob(jpegDataUrl, width * 2, height * 2);
+          const pdfBlob = buildPdfBlob(jpegDataUrl, canvas.width, canvas.height);
           triggerDownload(pdfBlob, 'bilisimkurdu-mermaid-eink.pdf');
           showToast('Beyaz zeminli E-Ink S/B PDF indirildi! 📖');
         } catch (err) {
